@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<olive>
+    <version>0.2.0</version>
+    <project>
+        <url>/media/joelwindows7/OS/Users/joelr/Documents/starring codes/After Church/Project Files/Main/AfterChurch-MasterEditOlive-Linux.ove</url>
+        <folder name="">
+            <folder name="AfterChurchMaster">
+                <folder name="10may2020">
+                    <sequence name="10may2020">
+                        <video>
+                            <width>1920</width>
+                            <height>1080</height>
+                            <timebase>1/60</timebase>
+                        </video>
+                        <audio>
+                            <rate>48000</rate>
+                            <layout>3</layout>
+                        </audio>
+                        <node id="org.olivevideoeditor.Olive.track">
+                            <input id="name_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="length_in" keyframing="0">
+                                <standard>
+                                    <value>1/1</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="media_in_in" keyframing="0">
+                                <standard>
+                                    <value>0/0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="speed_in" keyframing="0">
+                                <standard>
+                                    <value>1/1</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="block_in" keyframing="0">
+                                <standard>
+                                    <value>0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                                <subparameters/>
+                            </input>
+                            <input id="muted_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <output id="node_out" ptr="94554229286864"/>
+                        </node>
+                        <node id="org.olivevideoeditor.Olive.track">
+                            <input id="name_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="length_in" keyframing="0">
+                                <standard>
+                                    <value>1/1</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="media_in_in" keyframing="0">
+                                <standard>
+                                    <value>0/0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="speed_in" keyframing="0">
+                                <standard>
+                                    <value>1/1</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="block_in" keyframing="0">
+                                <standard>
+                                    <value>0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                                <subparameters/>
+                            </input>
+                            <input id="muted_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <output id="node_out" ptr="94554230512576"/>
+                        </node>
+                        <viewer id="org.olivevideoeditor.Olive.vieweroutput">
+                            <input id="tex_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections>
+                                    <connection>94554229286864</connection>
+                                </connections>
+                            </input>
+                            <input id="samples_in" keyframing="0">
+                                <standard>
+                                    <value></value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections>
+                                    <connection>94554230512576</connection>
+                                </connections>
+                            </input>
+                            <input id="length_in" keyframing="0">
+                                <standard>
+                                    <value>0/0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                            </input>
+                            <input id="track_in_0" keyframing="0">
+                                <standard>
+                                    <value>0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                                <subparameters>
+                                    <input id="track_in_00" keyframing="0">
+                                        <standard>
+                                            <value>0</value>
+                                        </standard>
+                                        <keyframes>
+                                            <track/>
+                                        </keyframes>
+                                        <connections>
+                                            <connection>94554229286864</connection>
+                                        </connections>
+                                    </input>
+                                </subparameters>
+                            </input>
+                            <input id="track_in_1" keyframing="0">
+                                <standard>
+                                    <value>0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                                <subparameters>
+                                    <input id="track_in_10" keyframing="0">
+                                        <standard>
+                                            <value>0</value>
+                                        </standard>
+                                        <keyframes>
+                                            <track/>
+                                        </keyframes>
+                                        <connections>
+                                            <connection>94554230512576</connection>
+                                        </connections>
+                                    </input>
+                                </subparameters>
+                            </input>
+                            <input id="track_in_2" keyframing="0">
+                                <standard>
+                                    <value>0</value>
+                                </standard>
+                                <keyframes>
+                                    <track/>
+                                </keyframes>
+                                <connections/>
+                                <subparameters/>
+                            </input>
+                            <output id="node_out" ptr="94554229079968"/>
+                        </viewer>
+                    </sequence>
+                </folder>
+            </folder>
+            <folder name="Assets">
+                <footage name="AfterChurchLogo.png" filename="/media/joelwindows7/OS/Users/joelr/Documents/starring codes/After Church/RAW files/Inkscape/AfterChurchLogo.png">
+                    <stream ptr="139869368121072" index="3276903">
+                        <colorspace></colorspace>
+                    </stream>
+                </footage>
+            </folder>
+        </folder>
+        <colormanagement>
+            <config></config>
+            <default></default>
+        </colormanagement>
+    </project>
+</olive>
