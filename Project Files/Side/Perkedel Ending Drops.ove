@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <version>190219</version>
+    <url>C:/Users/joelr/Documents/starring codes/After Church/Project Files/Side/Perkedel Ending Drops.ove</url>
+    <folders/>
+    <media>
+        <footage id="1" folder="0" name="Perkedel Intro End Hollow.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Hollow.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="2" folder="0" name="Perkedel Intro End Just Text.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="3" folder="0" name="Perkedel Intro End Logo.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Logo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="4" folder="0" name="Perkedel Intro End Slide off.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Slide off.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="5" folder="0" name="Perkedel Intro End Symbol.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Symbol.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="6" folder="0" name="Perkedel Intro End Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="7" folder="0" name="Perkedel Intro End Just Text Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+    </media>
+    <sequences>
+        <sequence id="1" folder="0" name="Main" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="0" out="205" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="437.755">
+                            <key value="100" frame="205" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="20000" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="11837" frame="66" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="scaley" value="100">
+                            <key value="100" frame="205" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="205" out="228" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="Perkedel Intro End Symbol.png" clipin="-15" in="213" out="300" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <opening length="15" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="Perkedel Intro End Symbol.png" clipin="0" in="300" out="319" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="760">
+                            <key value="760" frame="7" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="960" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="540" frame="7" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="Perkedel Intro End Slide off.png" clipin="0" in="319" out="346" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="346" out="600" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="3" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="7" enabled="1" name="Perkedel Intro End Just Text Transparent.png" clipin="0" in="326" out="346" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960">
+                            <key value="960" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="672" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="540" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100">
+                            <key value="100" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+    </sequences>
+</project>

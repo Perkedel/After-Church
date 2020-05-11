@@ -8,6 +8,7 @@
         <folder name="LocalAssets" id="3" parent="2"/>
         <folder name="Assets" id="4" parent="0"/>
         <folder name="Gambar" id="5" parent="4"/>
+        <folder name="Perkedel Ending" id="6" parent="4"/>
     </folders>
     <media>
         <footage id="1" folder="3" name="Never Letting Go.wav" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/Vexento/Never Letting Go.wav" duration="270239093" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
@@ -44,19 +45,77 @@
         <footage id="9" folder="3" name="Sadd-No-Internet-right-now.png" url="../../RAW files/Skrensut/Sadd-No-Internet-right-now.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="450" height="731" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="10" folder="5" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="10" folder="3" name="Please-Go-To-Our-Satisfied-Playlist.mkv" url="../../Rendered/Please-Go-To-Our-Satisfied-Playlist.mkv" duration="71573000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="60.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="11" folder="3" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" url="../../RAW files/VideoFiles/Crossout Gameplay MS DVR/CrossoutToday10may2020/Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" duration="32511979" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="29.9700299700" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="12" folder="3" name="Crossout 0.11.20.136446 2020-04-13 14-42-48.mp4" url="../../RAW files/VideoFiles/Crossout Gameplay MS DVR/CrossoutToday10may2020/Crossout 0.11.20.136446 2020-04-13 14-42-48.mp4" duration="31189313" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="29.9700299700" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="13" folder="3" name="TheGreenOrb-MusicaInformation.mkv" url="../../Rendered/TheGreenOrb-MusicaInformation.mkv" duration="268927000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="60.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="14" folder="5" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="11" folder="5" name="AfterChurchLogo.png" url="../../RAW files/Inkscape/AfterChurchLogo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="15" folder="5" name="AfterChurchLogo.png" url="../../RAW files/Inkscape/AfterChurchLogo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="2048" height="2048" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="12" folder="5" name="Perkedel Logo Typeborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="16" folder="5" name="Perkedel Logo Typeborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="3710" height="400" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="13" folder="5" name="Perkedel_Watermark.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel_Watermark.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="17" folder="5" name="Perkedel_Watermark.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel_Watermark.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="14" folder="4" name="DING.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/SOUND EFFECTS PACK/DING.mp3" duration="2136000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="18" folder="4" name="DING.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/SOUND EFFECTS PACK/DING.mp3" duration="2136000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="19" folder="4" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="20" folder="4" name="BRUH.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #4/BRUH.mp3" duration="1200000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="21" folder="4" name="Perkedel Ending.apng" url="../../Rendered/Perkedel Ending.apng" duration="10016667" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="59.9880023995" infinite="0"/>
+        </footage>
+        <footage id="22" folder="6" name="Perkedel Intro End Hollow.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Hollow.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="23" folder="6" name="Perkedel Intro End Just Text Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="24" folder="6" name="Perkedel Intro End Just Text.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="25" folder="6" name="Perkedel Intro End Logo.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Logo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="26" folder="6" name="Perkedel Intro End Slide off.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Slide off.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="27" folder="6" name="Perkedel Intro End Symbol.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Symbol.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="28" folder="6" name="Perkedel Intro End Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="29" folder="4" name="by-sa.png" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/Creative Commons/by-sa.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="403" height="141" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="30" folder="4" name="[Sound Effect] Knuckles - Oh No!.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Fausto Tomas Gonzales/[Sound Effect] Knuckles - Oh No!.mp3" duration="1123265" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="44100"/>
+        </footage>
+        <footage id="31" folder="4" name="Splashing_Around.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/YouTube Audio Library/Splashing_Around.mp3" duration="154749375" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="44100"/>
+        </footage>
+        <footage id="32" folder="4" name="YAY.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #2/YAY.mp3" duration="4776000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="48000"/>
         </footage>
     </media>
@@ -400,7 +459,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="7" enabled="1" name="Perkedel Logo Typeborder.png" clipin="0" in="59" out="600" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="7" enabled="1" name="Perkedel Logo Typeborder.png" clipin="0" in="59" out="600" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
                 <linked/>
                 <opening length="62" name="/Cross Dissolve" enabled="1"/>
                 <effect name="Distort/Transform" enabled="1">
@@ -708,7 +767,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="12" enabled="1" name="DING.mp3" clipin="9" in="11141" out="11177" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="12" enabled="1" name="DING.mp3" clipin="9" in="11141" out="11177" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -721,7 +780,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="13" enabled="1" name="DING.mp3" clipin="9" in="11184" out="11220" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="13" enabled="1" name="DING.mp3" clipin="9" in="11184" out="11220" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -910,7 +969,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="18" enabled="1" name="DING.mp3" clipin="9" in="11330" out="11366" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="18" enabled="1" name="DING.mp3" clipin="9" in="11330" out="11366" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -923,7 +982,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="19" enabled="1" name="DING.mp3" clipin="9" in="12409" out="12445" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="19" enabled="1" name="DING.mp3" clipin="9" in="12409" out="12445" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -936,7 +995,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="20" enabled="1" name="DING.mp3" clipin="9" in="12516" out="12552" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="20" enabled="1" name="DING.mp3" clipin="9" in="12516" out="12552" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1090,7 +1149,7 @@
                 </effect>
                 <effect name="Render/Rich Text" enabled="1">
                     <row>
-                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:600; color:#550000;&quot;&gt;2X Scronch!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:600; color:#ff0000;&quot;&gt;2X Scronch!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
                     </row>
                     <row>
                         <field id="padding" value="0"/>
@@ -1441,7 +1500,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="33" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="993" in="21453" out="31386" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+            <clip id="33" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="993" in="28471" out="29390" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
                 <linked>
                     <link id="34"/>
                 </linked>
@@ -1472,7 +1531,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="34" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="993" in="21453" out="31386" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="1">
+            <clip id="34" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="993" in="28471" out="29390" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="1">
                 <linked>
                     <link id="33"/>
                 </linked>
@@ -1487,9 +1546,2162 @@
                     </row>
                 </effect>
             </clip>
+            <clip id="35" enabled="1" name="Please-Go-To-Our-Satisfied-Playlist.mkv" clipin="0" in="17346" out="21640" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="1">
+                <linked>
+                    <link id="36"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="36" enabled="1" name="Please-Go-To-Our-Satisfied-Playlist.mkv" clipin="0" in="17346" out="21640" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="0">
+                <linked>
+                    <link id="35"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="37" enabled="1" name="advertisement_time.png" clipin="0" in="17161" out="17346" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="38" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="1912" in="21640" out="22367" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="1">
+                <linked>
+                    <link id="39"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="39" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="1912" in="21640" out="22367" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked>
+                    <link id="38"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="40" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="2639" in="33845" out="35194" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked>
+                    <link id="41"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="41" enabled="1" name="Crossout-TimeLapse-Rendered.mp4" clipin="2639" in="33845" out="35194" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="1">
+                <linked>
+                    <link id="40"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="42" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="0" in="22367" out="23498" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+                <linked>
+                    <link id="43"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="43" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="0" in="22367" out="23498" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked>
+                    <link id="42"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="44" enabled="1" name="Judul" clipin="0" in="24039" out="24178" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;wait. Did I realize something?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="45" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1131" in="23498" out="23752" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+                <linked>
+                    <link id="46"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="46" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1131" in="23498" out="23752" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked>
+                    <link id="45"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="47" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1385" in="23752" out="24178" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked>
+                    <link id="48"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="48" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1385" in="23752" out="24178" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+                <linked>
+                    <link id="47"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="49" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1811" in="24432" out="24571" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked>
+                    <link id="50"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="50" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1811" in="24432" out="24571" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+                <linked>
+                    <link id="49"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="51" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1131" in="24178" out="24432" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+                <linked>
+                    <link id="52"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="52" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 11-55-39.mp4" clipin="1131" in="24178" out="24432" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked>
+                    <link id="51"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="975">
+                            <key value="960" frame="1131" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="975" frame="1180" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="975" frame="1237" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="1071">
+                            <key value="540" frame="1131" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="976" frame="1180" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="1071" frame="1237" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="264"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="53" enabled="1" name="Judul" clipin="62" in="24494" out="24571" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:36pt; color:#ffffff;&quot;&gt;bruh...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="223"/>
+                        <field id="posy" value="59"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="54" enabled="1" name="Judul" clipin="0" in="24178" out="24232" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;🔴 Instant Replay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="55" enabled="1" name="Judul" clipin="0" in="24232" out="24286" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;⚪ Instant Replay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="56" enabled="1" name="Judul" clipin="0" in="24286" out="24340" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;🔴 Instant Replay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="57" enabled="1" name="Judul" clipin="0" in="24340" out="24394" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;⚪ Instant Replay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="58" enabled="1" name="Judul" clipin="0" in="24394" out="24432" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;🔴 Instant Replay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="59" enabled="1" name="Judul" clipin="0" in="24432" out="24571" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:36pt; color:#ffffff;&quot;&gt;Oh...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="60"/>
+                        <field id="posy" value="57"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="60" enabled="1" name="BRUH.mp3" clipin="29" in="24494" out="24537" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="61" enabled="1" name="Judul" clipin="0" in="24432" out="24571" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; color:#ffffff;&quot;&gt;RAW = &lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-bruh-moment#4&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="62" enabled="1" name="Judul" clipin="0" in="10330" out="10932" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-TimeLapse-Encoded#1&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="63" enabled="1" name="Judul" clipin="0" in="11304" out="12593" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-Double-Kill-2#7&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="64" enabled="1" name="Judul" clipin="0" in="10932" out="11304" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-double-kill#c&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="65" enabled="1" name="Judul" clipin="0" in="22367" out="23752" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; color:#ffffff;&quot;&gt;RAW = &lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-bruh-moment#4&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="66" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="0" in="24571" out="28471" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="67"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="67" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="0" in="24571" out="28471" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="66"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="68" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 14-42-48.mp4" clipin="0" in="29390" out="31261" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+                <linked>
+                    <link id="69"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="69" enabled="1" name="Crossout 0.11.20.136446 2020-04-13 14-42-48.mp4" clipin="0" in="29390" out="31261" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+                <linked>
+                    <link id="68"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="70" enabled="1" name="Judul" clipin="0" in="29390" out="31261" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:38pt; font-weight:696; color:#55ffff;&quot;&gt;lbry://@JOELwindows7#a/Crossout-Random-Crazy-Spin#0&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="71" enabled="1" name="Judul" clipin="0" in="31046" out="31261" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;YAY I WON PLAYER VS ENEMY BATTLE!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffffff;&quot;&gt;OWARLIALRALARLAP!!!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:18pt; font-weight:696; color:#ffffff;&quot;&gt;And, pls, I'm sorry &lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:18pt; font-weight:696; color:#55aaff;&quot;&gt;tretii_princep&lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:18pt; font-weight:696; color:#ffffff;&quot;&gt;, I was meant to shoot the enemy. Oh well, he scronched you. Coincidence, I hope.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:18pt; font-weight:696; color:#ffffff;&quot;&gt;but yeah we win. yeah!!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="196"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="72" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="5181" in="31261" out="32228" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="73"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="73" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="5181" in="31261" out="32228" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="72"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="74" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="6572" in="32228" out="32442" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="75"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="75" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="6572" in="32228" out="32442" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="74"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="76" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="7349" in="32442" out="33181" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="77"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="77" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="7349" in="32442" out="33181" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="76"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="78" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="8829" in="33181" out="33374" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="79"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="79" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="8829" in="33181" out="33374" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="78"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="80" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="9206" in="33374" out="33731" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="81"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="81" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="9206" in="33374" out="33731" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="80"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="82" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="9849" in="33731" out="33845" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+                <linked>
+                    <link id="83"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="83" enabled="1" name="CoolAndGood-Linux-flite.mp4" clipin="9849" in="33731" out="33845" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked>
+                    <link id="82"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="84" enabled="1" name="TheGreenOrb-MusicaInformation.mkv" clipin="0" in="35194" out="51329" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+                <linked>
+                    <link id="85"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="85" enabled="1" name="TheGreenOrb-MusicaInformation.mkv" clipin="0" in="35194" out="51329" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+                <linked>
+                    <link id="84"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="87" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="-2" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="4">
+                <linked>
+                    <link id="88"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="88" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="4">
+                <linked>
+                    <link id="87"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="89" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="51725" out="52199" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="25" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="90" enabled="1" name="Judul" clipin="0" in="51476" out="52199" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <opening length="36" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;© 2020&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Some rights reserved&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="175"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="91" enabled="1" name="by-sa.png" clipin="0" in="51476" out="52199" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="29" stream="0">
+                <linked/>
+                <opening length="36" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="942"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="46"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="92" enabled="1" name="[Sound Effect] Knuckles - Oh No!.mp3" clipin="0" in="8688" out="8755" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="30" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="0.794328"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="93" enabled="1" name="Splashing_Around.mp3" clipin="0" in="9176" out="10330" track="2" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="31" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="94" enabled="1" name="Judul" clipin="0" in="9176" out="10330" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#55ffff;&quot;&gt;Splashing Around&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#55ff00;&quot;&gt;The Green Orbs&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:24pt; color:#ffaa00;&quot;&gt;YouTube Audio Library&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:24pt; color:#55ff00;&quot;&gt;Free To Use in videos&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0">
+                            <key value="0" frame="804" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="916" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="-299">
+                            <key value="-117" frame="804" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-299" frame="916" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="valign" value="64"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="95" enabled="1" name="YAY.mp3" clipin="0" in="12584" out="12652" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="32" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="96" enabled="1" name="Judul" clipin="18" in="24304" out="24432" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:600; font-style:italic; color:#55ff7f;&quot;&gt;Now, I have stopped shooting and watch.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="64"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
         </sequence>
         <sequence id="3" folder="4" name="BootBase" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
-            <clip id="0" enabled="1" name="AfterChurchLogo.png" clipin="0" in="0" out="600" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+            <clip id="0" enabled="1" name="AfterChurchLogo.png" clipin="0" in="0" out="600" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1519,6 +3731,232 @@
                     </row>
                     <row>
                         <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+        <sequence id="4" folder="6" name="Main Perkedel Ending" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="0" out="205" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="184.439">
+                            <key value="100" frame="205" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="20000" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="11837" frame="66" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="scaley" value="100">
+                            <key value="100" frame="205" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="205" out="228" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="Perkedel Intro End Symbol.png" clipin="-15" in="213" out="300" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
+                <linked/>
+                <opening length="15" name="/Cross Dissolve" enabled="1"/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="Perkedel Intro End Symbol.png" clipin="0" in="300" out="319" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="760">
+                            <key value="760" frame="7" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="960" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="540" frame="7" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="Perkedel Intro End Slide off.png" clipin="0" in="319" out="346" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="26" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="346" out="600" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="25" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="6" enabled="1" name="Perkedel Intro End Just Text Transparent.png" clipin="0" in="326" out="346" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="23" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960">
+                            <key value="960" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="672" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="540" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100">
+                            <key value="100" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
                     </row>
                     <row>
                         <field id="blendmode" value=""/>
