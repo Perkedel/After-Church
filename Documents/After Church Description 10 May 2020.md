@@ -262,6 +262,7 @@ Lincc:
 - Flite Text to Speech Engine website: http://www.festvox.org/flite/ 
 - Zalgo text Gen: https://www.zalgogenerator.com/
 - Reddit Thread: https://www.reddit.com/r/surrealmemes/comments/70ylyr/surreal_meme_voices/
+- Know your meme Meme Man: https://knowyourmeme.com/memes/meme-man
 
 the `#!/bin/sh` at any `.sh` files is the important flag at start to mark that this is shell script and please do these bellow. idk...
 
@@ -333,3 +334,6 @@ Yes. people will reply that.
 - https://id.yamaha.com/id/products/musical_instruments/keyboards/arranger_workstations/genos/index.html buy me GENOS!
 - https://usa.yamaha.com/products/musical_instruments/keyboards/arranger_workstations/genos/index.html
 - https://www.subscribestar.com/perkedel-technologies Donation for Genos **HOST WARNING**
+
+# YouTube link
+https://youtu.be/ErcGDSIKTOc
