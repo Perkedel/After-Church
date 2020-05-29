@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <version>190219</version>
-    <url>C:/Users/joelr/Documents/starring codes/After Church/Project Files/Main/AfterChurch-MasterEditOlive-Windows.ove</url>
+    <url>C:\Users\joelr\Documents\starring codes\After Church\Project Files\Main\AfterChurch-MasterEditOlive-Windows.ove</url>
     <folders>
         <folder name="AfterChurchMaster" id="1" parent="0"/>
         <folder name="10May2020" id="2" parent="1"/>
         <folder name="LocalAssets" id="3" parent="2"/>
-        <folder name="Assets" id="4" parent="0"/>
-        <folder name="Gambar" id="5" parent="4"/>
-        <folder name="Perkedel Ending" id="6" parent="4"/>
+        <folder name="NextEpisoded" id="4" parent="1"/>
+        <folder name="AsetLokal" id="5" parent="4"/>
+        <folder name="Assets" id="6" parent="0"/>
+        <folder name="Gambar" id="7" parent="6"/>
+        <folder name="Perkedel Ending" id="8" parent="6"/>
     </folders>
     <media>
         <footage id="1" folder="3" name="Never Letting Go.wav" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/Vexento/Never Letting Go.wav" duration="270239093" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
@@ -61,67 +63,96 @@
             <video id="0" width="1920" height="1080" framerate="60.0000000000" infinite="0"/>
             <audio id="1" channels="2" layout="3" frequency="48000"/>
         </footage>
-        <footage id="14" folder="5" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="14" folder="5" name="Infortunate-Minecraft (3).mp4" url="../../RAW files/VideoFiles/Minecraft Gameplay MS DVR/Immodial Infortunate/Infortunate-Minecraft (3).mp4" duration="37546646" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="29.9700299700" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="15" folder="5" name="TheFatRat - Electrified-787439371.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/TheFatRat/TheFatRat - Electrified-787439371.mp3" duration="190484898" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="44100"/>
+        </footage>
+        <footage id="16" folder="5" name="Oh-No-Misfortune-EikSerkat.png" url="../../RAW files/Skrensut/Olive Pick Frame/Oh-No-Misfortune-EikSerkat.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="15" folder="5" name="AfterChurchLogo.png" url="../../RAW files/Inkscape/AfterChurchLogo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="17" folder="5" name="AfterChurchBootNext_Bottom.png" url="../../RAW files/Inkscape/AfterChurchBootNext_Bottom.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="18" folder="5" name="AfterChurchBootNext_Top.png" url="../../RAW files/Inkscape/AfterChurchBootNext_Top.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="19" folder="5" name="GlowStoneSpinning0001-0120.mkv" url="../../RAW files/Blender/Rendering/GlowStoneSpinning0001-0120.mkv" duration="2000000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="512" height="512" framerate="60.0000000000" infinite="0"/>
+        </footage>
+        <footage id="20" folder="5" name="ObsidianSpinning0001-0120.mkv" url="../../RAW files/Blender/Rendering/ObsidianSpinning0001-0120.mkv" duration="2000000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="512" height="512" framerate="60.0000000000" infinite="0"/>
+        </footage>
+        <footage id="21" folder="5" name="spoiler-Misfortune-kressed-by-car-eikSerkat.png" url="../../RAW files/Skrensut/spoiler-Misfortune-kressed-by-car-eikSerkat.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="22" folder="5" name="Swift-Way-To-Make-Videos.mkv" url="../../Rendered/Swift-Way-To-Make-Videos.mkv" duration="302933000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="60.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="23" folder="7" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="24" folder="7" name="AfterChurchLogo.png" url="../../RAW files/Inkscape/AfterChurchLogo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="2048" height="2048" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="16" folder="5" name="Perkedel Logo Typeborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="25" folder="7" name="Perkedel Logo Typeborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="3710" height="400" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="17" folder="5" name="Perkedel_Watermark.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel_Watermark.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="26" folder="7" name="Perkedel_Watermark.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel_Watermark.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="18" folder="4" name="DING.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/SOUND EFFECTS PACK/DING.mp3" duration="2136000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <audio id="0" channels="2" layout="3" frequency="48000"/>
-        </footage>
-        <footage id="19" folder="4" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="27" folder="8" name="Perkedel Intro End Hollow.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Hollow.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="20" folder="4" name="BRUH.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #4/BRUH.mp3" duration="1200000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="28" folder="8" name="Perkedel Intro End Just Text Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="29" folder="8" name="Perkedel Intro End Just Text.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="30" folder="8" name="Perkedel Intro End Logo.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Logo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="31" folder="8" name="Perkedel Intro End Slide off.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Slide off.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="32" folder="8" name="Perkedel Intro End Symbol.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Symbol.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="33" folder="8" name="Perkedel Intro End Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="34" folder="6" name="DING.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/SOUND EFFECTS PACK/DING.mp3" duration="2136000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="48000"/>
         </footage>
-        <footage id="21" folder="4" name="Perkedel Ending.apng" url="../../Rendered/Perkedel Ending.apng" duration="10016667" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="35" folder="6" name="advertisement_time.png" url="../../RAW files/Inkscape/advertisement_time.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="36" folder="6" name="BRUH.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #4/BRUH.mp3" duration="1200000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="37" folder="6" name="Perkedel Ending.apng" url="../../Rendered/Perkedel Ending.apng" duration="10016667" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="59.9880023995" infinite="0"/>
         </footage>
-        <footage id="22" folder="6" name="Perkedel Intro End Hollow.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Hollow.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="23" folder="6" name="Perkedel Intro End Just Text Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="24" folder="6" name="Perkedel Intro End Just Text.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Just Text.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="25" folder="6" name="Perkedel Intro End Logo.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Logo.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="26" folder="6" name="Perkedel Intro End Slide off.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Slide off.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="27" folder="6" name="Perkedel Intro End Symbol.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Symbol.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="28" folder="6" name="Perkedel Intro End Transparent.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Intro Ending render/Perkedel Intro End Transparent.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
-        </footage>
-        <footage id="29" folder="4" name="by-sa.png" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/Creative Commons/by-sa.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="38" folder="6" name="by-sa.png" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/Creative Commons/by-sa.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="403" height="141" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="30" folder="4" name="[Sound Effect] Knuckles - Oh No!.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Fausto Tomas Gonzales/[Sound Effect] Knuckles - Oh No!.mp3" duration="1123265" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="39" folder="6" name="[Sound Effect] Knuckles - Oh No!.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Fausto Tomas Gonzales/[Sound Effect] Knuckles - Oh No!.mp3" duration="1123265" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="44100"/>
         </footage>
-        <footage id="31" folder="4" name="Splashing_Around.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/YouTube Audio Library/Splashing_Around.mp3" duration="154749375" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="40" folder="6" name="Splashing_Around.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/MP3/YouTube Audio Library/Splashing_Around.mp3" duration="154749375" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="44100"/>
         </footage>
-        <footage id="32" folder="4" name="YAY.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #2/YAY.mp3" duration="4776000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="41" folder="6" name="YAY.mp3" url="D:/PRIVATE FOLDER/FILE JOEL ROBERT/WAV/Mchapelle/Sound Effects Pack - #2/YAY.mp3" duration="4776000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="48000"/>
         </footage>
     </media>
     <sequences>
         <sequence id="1" folder="3" name="Intro10May2020" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
-            <clip id="0" enabled="1" name="BootBase" clipin="0" in="0" out="600" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="3">
+            <clip id="0" enabled="1" name="BootBase" clipin="0" in="0" out="600" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="7">
                 <linked>
                     <link id="1"/>
                 </linked>
@@ -152,7 +183,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="1" enabled="1" name="BootBase" clipin="0" in="0" out="600" track="0" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="3">
+            <clip id="1" enabled="1" name="BootBase" clipin="0" in="0" out="600" track="0" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="7">
                 <linked>
                     <link id="0"/>
                 </linked>
@@ -459,7 +490,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="7" enabled="1" name="Perkedel Logo Typeborder.png" clipin="0" in="59" out="600" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
+            <clip id="7" enabled="1" name="Perkedel Logo Typeborder.png" clipin="0" in="59" out="600" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="25" stream="0">
                 <linked/>
                 <opening length="62" name="/Cross Dissolve" enabled="1"/>
                 <effect name="Distort/Transform" enabled="1">
@@ -490,7 +521,7 @@
                 </effect>
             </clip>
         </sequence>
-        <sequence id="2" folder="2" name="10May2020" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+        <sequence id="2" folder="2" name="10May2020" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
             <clip id="0" enabled="1" name="Intro10May2020" clipin="0" in="522" out="1176" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="1">
                 <linked>
                     <link id="1"/>
@@ -767,7 +798,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="12" enabled="1" name="DING.mp3" clipin="9" in="11141" out="11177" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+            <clip id="12" enabled="1" name="DING.mp3" clipin="9" in="11141" out="11177" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="34" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -780,7 +811,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="13" enabled="1" name="DING.mp3" clipin="9" in="11184" out="11220" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+            <clip id="13" enabled="1" name="DING.mp3" clipin="9" in="11184" out="11220" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="34" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -969,7 +1000,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="18" enabled="1" name="DING.mp3" clipin="9" in="11330" out="11366" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+            <clip id="18" enabled="1" name="DING.mp3" clipin="9" in="11330" out="11366" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="34" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -982,7 +1013,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="19" enabled="1" name="DING.mp3" clipin="9" in="12409" out="12445" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+            <clip id="19" enabled="1" name="DING.mp3" clipin="9" in="12409" out="12445" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="34" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -995,7 +1026,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="20" enabled="1" name="DING.mp3" clipin="9" in="12516" out="12552" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+            <clip id="20" enabled="1" name="DING.mp3" clipin="9" in="12516" out="12552" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="34" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1592,7 +1623,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="37" enabled="1" name="advertisement_time.png" clipin="0" in="17161" out="17346" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+            <clip id="37" enabled="1" name="advertisement_time.png" clipin="0" in="17161" out="17346" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="35" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2471,7 +2502,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="60" enabled="1" name="BRUH.mp3" clipin="29" in="24494" out="24537" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+            <clip id="60" enabled="1" name="BRUH.mp3" clipin="29" in="24494" out="24537" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="36" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3353,9 +3384,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="87" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="-2" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="4">
+            <clip id="86" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="-2" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="6">
                 <linked>
-                    <link id="88"/>
+                    <link id="87"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3384,9 +3415,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="88" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="4">
+            <clip id="87" enabled="1" name="Main Perkedel Ending" clipin="0" in="51125" out="51725" track="1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="6">
                 <linked>
-                    <link id="87"/>
+                    <link id="86"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3399,7 +3430,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="89" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="51725" out="52199" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="25" stream="0">
+            <clip id="88" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="51725" out="52199" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="30" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3428,7 +3459,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="90" enabled="1" name="Judul" clipin="0" in="51476" out="52199" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="89" enabled="1" name="Judul" clipin="0" in="51476" out="52199" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <opening length="36" name="/Cross Dissolve" enabled="1"/>
                 <effect name="Distort/Transform" enabled="1">
@@ -3494,7 +3525,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="91" enabled="1" name="by-sa.png" clipin="0" in="51476" out="52199" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="29" stream="0">
+            <clip id="90" enabled="1" name="by-sa.png" clipin="0" in="51476" out="52199" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="38" stream="0">
                 <linked/>
                 <opening length="36" name="/Cross Dissolve" enabled="1"/>
                 <effect name="Distort/Transform" enabled="1">
@@ -3524,7 +3555,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="92" enabled="1" name="[Sound Effect] Knuckles - Oh No!.mp3" clipin="0" in="8688" out="8755" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="30" stream="0">
+            <clip id="91" enabled="1" name="[Sound Effect] Knuckles - Oh No!.mp3" clipin="0" in="8688" out="8755" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="39" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3537,7 +3568,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="93" enabled="1" name="Splashing_Around.mp3" clipin="0" in="9176" out="10330" track="2" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="31" stream="0">
+            <clip id="92" enabled="1" name="Splashing_Around.mp3" clipin="0" in="9176" out="10330" track="2" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="40" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3550,7 +3581,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="94" enabled="1" name="Judul" clipin="0" in="9176" out="10330" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="93" enabled="1" name="Judul" clipin="0" in="9176" out="10330" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3621,7 +3652,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="95" enabled="1" name="YAY.mp3" clipin="0" in="12584" out="12652" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="32" stream="0">
+            <clip id="94" enabled="1" name="YAY.mp3" clipin="0" in="12584" out="12652" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="41" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3634,7 +3665,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="96" enabled="1" name="Judul" clipin="18" in="24304" out="24432" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="95" enabled="1" name="Judul" clipin="18" in="24304" out="24432" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3700,8 +3731,8 @@
                 </effect>
             </clip>
         </sequence>
-        <sequence id="3" folder="4" name="BootBase" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
-            <clip id="0" enabled="1" name="AfterChurchLogo.png" clipin="0" in="0" out="600" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="0">
+        <sequence id="3" folder="5" name="NextExtendedOrnamentBottom" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="AfterChurchBootNext_Bottom.png" clipin="0" in="0" out="1200" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="17" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3709,13 +3740,1044 @@
                         <field id="posy" value="540"/>
                     </row>
                     <row>
-                        <field id="scalex" value="50">
-                            <key value="50" frame="600" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="50" frame="60" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="0" out="120" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="120" out="240" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="240" out="360" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="360" out="480" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="480" out="600" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="6" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="600" out="720" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="7" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="720" out="840" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="8" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="840" out="960" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="9" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="960" out="1080" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="10" enabled="1" name="ObsidianSpinning0001-0120.mkv" clipin="0" in="1080" out="1200" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1368"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="0"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="2"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="11" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="0" out="120" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="12" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="120" out="240" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="13" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="240" out="360" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="14" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="360" out="480" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="15" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="480" out="600" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="16" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="600" out="720" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="17" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="720" out="840" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="18" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="840" out="960" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="19" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="960" out="1080" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="20" enabled="1" name="GlowStoneSpinning0001-0120.mkv" clipin="0" in="1080" out="1200" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1263"/>
+                        <field id="posy" value="1008"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="15"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Keying/Chroma Key" enabled="1">
+                    <row>
+                        <field id="mode" value="0"/>
+                    </row>
+                    <row>
+                        <field id="key_color" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="tola" value="5"/>
+                    </row>
+                    <row>
+                        <field id="tolb" value="25"/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+        <sequence id="4" folder="4" name="NextEpisoded" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="NextBootScrened" clipin="961" in="0" out="2098" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="5">
+                <linked>
+                    <link id="1"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="NextBootScrened" clipin="961" in="0" out="2098" track="0" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="5">
+                <linked>
+                    <link id="0"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="Swift-Way-To-Make-Videos.mkv" clipin="0" in="2098" out="20273" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="1">
+                <linked>
+                    <link id="3"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="Swift-Way-To-Make-Videos.mkv" clipin="0" in="2098" out="20273" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="0">
+                <linked>
+                    <link id="2"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+        <sequence id="5" folder="4" name="NextBootScrened" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Infortunate-Minecraft (3).mp4" clipin="0" in="0" out="1898" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="TheFatRat - Electrified-787439371.mp3" clipin="1822" in="0" out="3059" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="0">
+                <linked/>
+                <closing length="152" name="/Linear Fade" enabled="1"/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="Oh-No-Misfortune-EikSerkat.png" clipin="0" in="1898" out="1963" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960">
+                            <key value="960" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="1852.49">
+                            <key value="540" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="1873" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="493.846">
+                            <key value="100" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="500" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                         <field id="scaley" value="100">
-                            <key value="100" frame="600" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="100" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                     </row>
@@ -3737,9 +4799,431 @@
                     </row>
                 </effect>
             </clip>
+            <clip id="3" enabled="1" name="BootBase" clipin="0" in="1963" out="2437" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="7">
+                <linked>
+                    <link id="4"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="BootBase" clipin="0" in="1963" out="2437" track="0" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="7">
+                <linked>
+                    <link id="3"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="NextExtendedOrnamentBottom" clipin="0" in="1963" out="2437" track="-3" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="3">
+                <linked>
+                    <link id="6"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960">
+                            <key value="960" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="960" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="1623" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="540" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="6" enabled="1" name="NextExtendedOrnamentBottom" clipin="0" in="1963" out="2437" track="2" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="3">
+                <linked>
+                    <link id="5"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="7" enabled="1" name="AfterChurchBootNext_Top.png" clipin="0" in="1963" out="2437" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="18" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960">
+                            <key value="960" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="960" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="540">
+                            <key value="540" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-534" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="8" enabled="1" name="Judul" clipin="0" in="2437" out="2907" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;I love TheFatRat song!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="9" enabled="1" name="Judul" clipin="0" in="2666" out="2907" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#00ffff;&quot;&gt;Not only they're great,&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#00ffff;&quot;&gt;they're copyright free!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#00ffff;&quot;&gt;(Please atribute! very important!)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="146"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="10" enabled="1" name="spoiler-Misfortune-kressed-by-car-eikSerkat.png" clipin="0" in="1922" out="1923" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="21" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="11" enabled="1" name="Judul" clipin="0" in="2907" out="2917" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Killmonday Games.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Why did you do this?!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;You scronched a little girl using a timely (1993) relevant car that has no collision prevention system at that time, brought her middle road and then strike her in time, but injected event redirection which later to be pulled back off at the end of the game as Morgue was scronched by Benjamin the fox.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;What the peck is this sorcery, Killmonday? don't you see how heart broken am I, looking this poor little girl Eik Serkat then went to the Death Realm, and these 16 Sparkles player found were used to install Eternal Happiness to Ramirez the mother and that's end?!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Dang, brother! that's savage! story 0 out 100, gameplay 95 out of 100.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Fine. I'm gonna inject resurrection in 25 September 2019, bring entire Openfield citizens to Dasandim because Pandemic is about to start in late December 2019 and 2020 will be terrible. Yeah Year XX20 Virus Season, you know. and I made Grevor did resurrect Misfortune &amp;amp; renamed her to Miss Fortune to make it lucky.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Also added during the age of her in death realm, I made her grow to be Pro Gamer, I mean proficient Minecrafter as you can see in the bootscreen previously. You see that Sparkler before the Glowstone, Yes, Hotbar No. 8 ! Notice that HP bar with Infinity symbol. It means she's in Undead Mode Survival. Just her soul, she's died in HP bar Hardcore but in here the Spirit Soul brought to such Realm instead of become Spectator.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Ok. Basically I'll fork your universe and usually won't ask you permission as my Perkedel Cinematic universe contains a lot of fanfictions here. We extended the story from the official and make better ends, fix something bad, improve more on something. Then publish such game for Linux and share them to some sort of network like LBRY, itch, or whatever.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;But here I do ask permission if I want to publish my game to proprietary or expensive platform like AppStore, Google Play, etc. etc.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;How much your license cost? $3000, $4K, $10K, or what? Thanks.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0MDS_wPoRt8&amp;amp;t=153s&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; text-decoration: underline; color:#55ffff;&quot;&gt;https://www.youtube.com/watch?v=0MDS_wPoRt8&amp;amp;t=153s&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://minecraft.gamepedia.com/Ender_Chest#Usage&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; text-decoration: underline; color:#55ffff;&quot;&gt;https://minecraft.gamepedia.com/Ender_Chest#Usage&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Also after now live in Dasandim, I think, she has a better hiding spot which is placed inside Ender Chest. And you should know, if you are playing Minecraft right now, especially with multiplayer either LAN or Server, the content of Ender Chest is yours. and if another player accessed that same Ender Chest, it contains that player's inventory.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;i.e., Only Misfortune can access her hiding spot, in the Ender Chest. Yeah!!!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;It's just an idea though. Living inside Ender Chest is not always a good idea since it can glitch one day.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;If she has to, then she has to place 2 Ender Chest. one in Grevor's house, one again in a secret bunker somewhere in Dasandim. That way, the Ender Chest acts like bridge. she enters one Ender Chest, select location to open at, which to the secret bunker, and open in that secret bunker and close it again. Now she's safe, noone but her can access her hiding spot unless the location has been compromised.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;In case of Ender Chest gets broken, She has to also build Nether Portal passage that by default is turned off. So she can turn it on, go to nether, portal off, and find another nether portal, portal on, and go back to Grevor's house, portal off.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="12" enabled="1" name="Judul" clipin="0" in="2437" out="2907" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:28pt; color:#55ffff;&quot;&gt;https://www.youtube.com/watch?v=p-LOXXGGeAc&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="135"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
         </sequence>
-        <sequence id="4" folder="6" name="Main Perkedel Ending" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
-            <clip id="0" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="0" out="205" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="0">
+        <sequence id="6" folder="8" name="Main Perkedel Ending" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="0" out="205" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3775,7 +5259,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="1" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="205" out="228" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="22" stream="0">
+            <clip id="1" enabled="1" name="Perkedel Intro End Hollow.png" clipin="0" in="205" out="228" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3804,7 +5288,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="2" enabled="1" name="Perkedel Intro End Symbol.png" clipin="-15" in="213" out="300" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
+            <clip id="2" enabled="1" name="Perkedel Intro End Symbol.png" clipin="-15" in="213" out="300" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="32" stream="0">
                 <linked/>
                 <opening length="15" name="/Cross Dissolve" enabled="1"/>
                 <effect name="Distort/Transform" enabled="1">
@@ -3834,7 +5318,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="3" enabled="1" name="Perkedel Intro End Symbol.png" clipin="0" in="300" out="319" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="27" stream="0">
+            <clip id="3" enabled="1" name="Perkedel Intro End Symbol.png" clipin="0" in="300" out="319" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="32" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3868,7 +5352,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="4" enabled="1" name="Perkedel Intro End Slide off.png" clipin="0" in="319" out="346" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="26" stream="0">
+            <clip id="4" enabled="1" name="Perkedel Intro End Slide off.png" clipin="0" in="319" out="346" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="31" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3897,7 +5381,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="5" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="346" out="600" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="25" stream="0">
+            <clip id="5" enabled="1" name="Perkedel Intro End Logo.png" clipin="0" in="346" out="600" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="30" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3926,7 +5410,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="6" enabled="1" name="Perkedel Intro End Just Text Transparent.png" clipin="0" in="326" out="346" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="23" stream="0">
+            <clip id="6" enabled="1" name="Perkedel Intro End Just Text Transparent.png" clipin="0" in="326" out="346" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="28" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3957,6 +5441,44 @@
                             <key value="100" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+        <sequence id="7" folder="6" name="BootBase" width="1920" height="1080" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="AfterChurchLogo.png" clipin="0" in="0" out="600" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="24" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="50">
+                            <key value="50" frame="600" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="50" frame="60" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="scaley" value="100">
+                            <key value="100" frame="600" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
                     </row>
                     <row>
                         <field id="blendmode" value=""/>

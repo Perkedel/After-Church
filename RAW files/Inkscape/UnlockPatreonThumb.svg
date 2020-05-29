@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\Rendered\Thumb\UnlockPatreonThumb.png"
+   sodipodi:docname="UnlockPatreonThumb.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   height="1080"
+   width="1920">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient850"
+       inkscape:collect="always">
+      <stop
+         id="stop846"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         style="stop-color:#007f71;stop-opacity:1"
+         offset="0.5"
+         id="stop854" />
+      <stop
+         id="stop848"
+         offset="1"
+         style="stop-color:#00ff00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1080"
+       x2="1920"
+       y1="0"
+       x1="0"
+       id="linearGradient852"
+       xlink:href="#linearGradient850"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="477.19801"
+     inkscape:cx="1071.7945"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid842"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lapis 1">
+    <rect
+       ry="3.3901499e-05"
+       y="0"
+       x="0"
+       height="1080"
+       width="1920"
+       id="rect844"
+       style="fill:url(#linearGradient852);stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;fill-opacity:1" />
+    <text
+       id="text858"
+       y="984.24091"
+       x="1885.5972"
+       style="font-style:italic;font-weight:bold;font-size:45.8252px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:1.22746"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.22746"
+         y="984.24091"
+         x="1885.5972"
+         id="tspan856"
+         sodipodi:role="line">I am unlocking all Patreon posts (except Not Suitable for Wumpus)</tspan><tspan
+         style="stroke-width:1.22746"
+         id="tspan860"
+         y="1041.5225"
+         x="1885.5972"
+         sodipodi:role="line">yay!</tspan></text>
+    <g
+       id="g6071">
+      <rect
+         style="fill:#007f71;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882"
+         id="rect6065"
+         width="20"
+         height="15"
+         x="1850"
+         y="-55"
+         ry="3.3901499e-05" />
+      <path
+         style="fill:#004271;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 1851,-55 v -10 c 0,0 0,-10 9,-10 9,0 9,10 9,10 v 10 h -2 v -10 c 0,0 0,-8 -7,-8 -7,0 -7,8 -7,8 v 10 z"
+         id="path6067" />
+    </g>
+    <g
+       id="g6083">
+      <rect
+         ry="3.3901499e-05"
+         y="-55"
+         x="1875"
+         height="15"
+         width="20"
+         id="rect6073"
+         style="fill:#007f71;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882" />
+      <path
+         id="path6075"
+         d="m 1892,-55 v -10 c 0,0 0,-10 9,-10 9,0 9,10 9,10 v 10 h -2 v -10 c 0,0 0,-8 -7,-8 -7,0 -7,8 -7,8 v 10 z"
+         style="fill:#004271;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(23.428561,0,0,23.428561,-42888.552,1877.1424)"
+       id="g6089">
+      <rect
+         style="fill:#007f71;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882"
+         id="rect6085"
+         width="20"
+         height="15"
+         x="1875"
+         y="-55"
+         ry="3.3901499e-05" />
+      <path
+         style="fill:#004271;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1892,-55 v -10 c 0,0 0,-10 9,-10 9,0 9,10 9,10 v 10 h -2 v -10 c 0,0 0,-8 -7,-8 -7,0 -7,8 -7,8 v 10 z"
+         id="path6087" />
+    </g>
+    <text
+       id="text6093"
+       y="881.82904"
+       x="1281.8138"
+       style="font-weight:bold;font-size:350.192px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:1.82392;fill:#00ff00;fill-opacity:1;"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.82392;fill:#00ff00;fill-opacity:1;"
+         y="881.82904"
+         x="1281.8138"
+         id="tspan6091"
+         sodipodi:role="line">$</tspan></text>
+    <g
+       transform="translate(-16,393.5)"
+       id="g1536-6-4"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="translate(-128,64)"
+         id="g1492-8-7">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           transform="translate(0,106.5)"
+           id="path1451-5-8" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           transform="translate(0,106.5)"
+           id="rect1461-3-4" />
+      </g>
+      <flowRoot
+         transform="translate(-108.256,129.20475)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="flowRoot1482-6-4"
+         xml:space="preserve"><flowRegion
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowRegion1484-4-7"><rect
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+             y="272"
+             x="384"
+             height="128"
+             width="1024"
+             id="rect1486-8-8" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowPara1488-6-3">Perkedel </flowPara></flowRoot>
+    </g>
+    <text
+       id="text6769"
+       y="1060"
+       x="480"
+       style="font-weight:bold;font-size:64px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7700;fill-opacity:1;stroke:#000071;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><tspan
+         y="1060"
+         x="480"
+         id="tspan6767"
+         sodipodi:role="line">https://patreon.com/JOELwindows7</tspan></text>
+  </g>
+</svg>
