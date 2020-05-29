@@ -427,9 +427,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="7" enabled="1" name="FidgetHexagonIcosahedron.mp4" clipin="0" in="602" out="853" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="1">
+            <clip id="6" enabled="1" name="FidgetHexagonIcosahedron.mp4" clipin="0" in="602" out="853" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="1">
                 <linked>
-                    <link id="8"/>
+                    <link id="7"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -442,9 +442,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="8" enabled="1" name="FidgetHexagonIcosahedron.mp4" clipin="0" in="602" out="853" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="0">
+            <clip id="7" enabled="1" name="FidgetHexagonIcosahedron.mp4" clipin="0" in="602" out="853" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="0">
                 <linked>
-                    <link id="7"/>
+                    <link id="6"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -473,7 +473,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="9" enabled="1" name="Life of Riley.mp3" clipin="563" in="853" out="9242" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
+            <clip id="8" enabled="1" name="Life of Riley.mp3" clipin="563" in="853" out="9242" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -486,7 +486,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="10" enabled="1" name="Judul" clipin="0" in="853" out="956" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="9" enabled="1" name="Judul" clipin="0" in="853" out="956" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -551,7 +551,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="11" enabled="1" name="Judul" clipin="0" in="956" out="1279" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="10" enabled="1" name="Judul" clipin="0" in="956" out="1279" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -616,7 +616,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="12" enabled="1" name="Judul" clipin="0" in="995" out="1279" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="11" enabled="1" name="Judul" clipin="0" in="995" out="1279" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -681,9 +681,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="13" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="1279" out="1368" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="12" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="1279" out="1368" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="14"/>
+                    <link id="13"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -696,9 +696,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="14" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="1279" out="1368" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="13" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="1279" out="1368" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="13"/>
+                    <link id="12"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -727,7 +727,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="15" enabled="1" name="Judul" clipin="0" in="1279" out="1454" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="14" enabled="1" name="Judul" clipin="0" in="1279" out="1454" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -792,7 +792,84 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="16" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="0" in="1454" out="1534" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
+            <clip id="15" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="0" in="1454" out="1534" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
+                <linked>
+                    <link id="16"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="16" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="0" in="1454" out="1534" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+                <linked>
+                    <link id="15"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="17" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="408" in="1637" out="1756" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+                <linked>
+                    <link id="18"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="18" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="408" in="1637" out="1756" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
                 <linked>
                     <link id="17"/>
                 </linked>
@@ -807,9 +884,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="17" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="0" in="1454" out="1534" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+            <clip id="19" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="150" in="1534" out="1637" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
                 <linked>
-                    <link id="16"/>
+                    <link id="20"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -838,41 +915,10 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="18" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="408" in="1637" out="1756" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+            <clip id="20" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="150" in="1534" out="1637" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
                 <linked>
                     <link id="19"/>
                 </linked>
-                <effect name="Distort/Transform" enabled="1">
-                    <row>
-                        <field id="posx" value="960"/>
-                        <field id="posy" value="540"/>
-                    </row>
-                    <row>
-                        <field id="scalex" value="100"/>
-                        <field id="scaley" value="100"/>
-                    </row>
-                    <row>
-                        <field id="uniformscale" value="1"/>
-                    </row>
-                    <row>
-                        <field id="rotation" value="0"/>
-                    </row>
-                    <row>
-                        <field id="anchorx" value="0"/>
-                        <field id="anchory" value="0"/>
-                    </row>
-                    <row>
-                        <field id="opacity" value="100"/>
-                    </row>
-                    <row>
-                        <field id="blendmode" value=""/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="19" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="408" in="1637" out="1756" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
-                <linked>
-                    <link id="18"/>
-                </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
                         <field id="volume" value="1"/>
@@ -884,53 +930,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="22" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="150" in="1534" out="1637" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
-                <linked>
-                    <link id="23"/>
-                </linked>
-                <effect name="Distort/Transform" enabled="1">
-                    <row>
-                        <field id="posx" value="960"/>
-                        <field id="posy" value="540"/>
-                    </row>
-                    <row>
-                        <field id="scalex" value="100"/>
-                        <field id="scaley" value="100"/>
-                    </row>
-                    <row>
-                        <field id="uniformscale" value="1"/>
-                    </row>
-                    <row>
-                        <field id="rotation" value="0"/>
-                    </row>
-                    <row>
-                        <field id="anchorx" value="0"/>
-                        <field id="anchory" value="0"/>
-                    </row>
-                    <row>
-                        <field id="opacity" value="100"/>
-                    </row>
-                    <row>
-                        <field id="blendmode" value=""/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="23" enabled="1" name="SwiftWayMakeYouTubeVid5.mkv" clipin="150" in="1534" out="1637" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="1">
-                <linked>
-                    <link id="22"/>
-                </linked>
-                <effect name="/Volume" enabled="1">
-                    <row>
-                        <field id="volume" value="1"/>
-                    </row>
-                </effect>
-                <effect name="/Pan" enabled="1">
-                    <row>
-                        <field id="pan" value="0"/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="26" enabled="1" name="Judul" clipin="0" in="1454" out="1756" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="21" enabled="1" name="Judul" clipin="0" in="1454" out="1756" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -995,9 +995,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="27" enabled="1" name="SwiftWayMakeYouTubeVid6.mkv" clipin="0" in="1368" out="1454" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="1">
+            <clip id="22" enabled="1" name="SwiftWayMakeYouTubeVid6.mkv" clipin="0" in="1368" out="1454" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="1">
                 <linked>
-                    <link id="28"/>
+                    <link id="23"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1010,7 +1010,84 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="28" enabled="1" name="SwiftWayMakeYouTubeVid6.mkv" clipin="0" in="1368" out="1454" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
+            <clip id="23" enabled="1" name="SwiftWayMakeYouTubeVid6.mkv" clipin="0" in="1368" out="1454" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
+                <linked>
+                    <link id="22"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="24" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="0" in="1756" out="2215" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="1">
+                <linked>
+                    <link id="25"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="25" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="0" in="1756" out="2215" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="0">
+                <linked>
+                    <link id="24"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="26" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="1464" in="2215" out="2539" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="0">
                 <linked>
                     <link id="27"/>
                 </linked>
@@ -1041,9 +1118,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="29" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="0" in="1756" out="2215" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="1">
+            <clip id="27" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="1464" in="2215" out="2539" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="1">
                 <linked>
-                    <link id="30"/>
+                    <link id="26"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1056,84 +1133,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="30" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="0" in="1756" out="2215" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="0">
-                <linked>
-                    <link id="29"/>
-                </linked>
-                <effect name="Distort/Transform" enabled="1">
-                    <row>
-                        <field id="posx" value="960"/>
-                        <field id="posy" value="540"/>
-                    </row>
-                    <row>
-                        <field id="scalex" value="100"/>
-                        <field id="scaley" value="100"/>
-                    </row>
-                    <row>
-                        <field id="uniformscale" value="1"/>
-                    </row>
-                    <row>
-                        <field id="rotation" value="0"/>
-                    </row>
-                    <row>
-                        <field id="anchorx" value="0"/>
-                        <field id="anchory" value="0"/>
-                    </row>
-                    <row>
-                        <field id="opacity" value="100"/>
-                    </row>
-                    <row>
-                        <field id="blendmode" value=""/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="33" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="1464" in="2215" out="2539" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="0">
-                <linked>
-                    <link id="34"/>
-                </linked>
-                <effect name="Distort/Transform" enabled="1">
-                    <row>
-                        <field id="posx" value="960"/>
-                        <field id="posy" value="540"/>
-                    </row>
-                    <row>
-                        <field id="scalex" value="100"/>
-                        <field id="scaley" value="100"/>
-                    </row>
-                    <row>
-                        <field id="uniformscale" value="1"/>
-                    </row>
-                    <row>
-                        <field id="rotation" value="0"/>
-                    </row>
-                    <row>
-                        <field id="anchorx" value="0"/>
-                        <field id="anchory" value="0"/>
-                    </row>
-                    <row>
-                        <field id="opacity" value="100"/>
-                    </row>
-                    <row>
-                        <field id="blendmode" value=""/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="34" enabled="1" name="SwiftWayMakeYouTubeVid7.mkv" clipin="1464" in="2215" out="2539" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="8" stream="1">
-                <linked>
-                    <link id="33"/>
-                </linked>
-                <effect name="/Volume" enabled="1">
-                    <row>
-                        <field id="volume" value="1"/>
-                    </row>
-                </effect>
-                <effect name="/Pan" enabled="1">
-                    <row>
-                        <field id="pan" value="0"/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="35" enabled="1" name="Judul" clipin="0" in="1756" out="1889" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="28" enabled="1" name="Judul" clipin="0" in="1756" out="1889" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1198,7 +1198,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="36" enabled="1" name="Judul" clipin="0" in="1889" out="1992" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="29" enabled="1" name="Judul" clipin="0" in="1889" out="1992" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1263,7 +1263,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="37" enabled="1" name="Judul" clipin="0" in="1992" out="2099" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="30" enabled="1" name="Judul" clipin="0" in="1992" out="2099" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1328,9 +1328,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="38" enabled="1" name="SwiftWayMakeYouTubeVid8.mkv" clipin="0" in="2539" out="2955" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="9" stream="1">
+            <clip id="31" enabled="1" name="SwiftWayMakeYouTubeVid8.mkv" clipin="0" in="2539" out="2955" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="9" stream="1">
                 <linked>
-                    <link id="39"/>
+                    <link id="32"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1343,9 +1343,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="39" enabled="1" name="SwiftWayMakeYouTubeVid8.mkv" clipin="0" in="2539" out="2955" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="9" stream="0">
+            <clip id="32" enabled="1" name="SwiftWayMakeYouTubeVid8.mkv" clipin="0" in="2539" out="2955" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="9" stream="0">
                 <linked>
-                    <link id="38"/>
+                    <link id="31"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1374,7 +1374,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="40" enabled="1" name="Judul" clipin="0" in="2539" out="2955" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="33" enabled="1" name="Judul" clipin="0" in="2539" out="2955" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1439,9 +1439,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="41" enabled="1" name="SwiftWayMakeYouTubeVid9.mkv" clipin="0" in="2955" out="3280" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="1">
+            <clip id="34" enabled="1" name="SwiftWayMakeYouTubeVid9.mkv" clipin="0" in="2955" out="3280" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="1">
                 <linked>
-                    <link id="42"/>
+                    <link id="35"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1454,9 +1454,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="42" enabled="1" name="SwiftWayMakeYouTubeVid9.mkv" clipin="0" in="2955" out="3280" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="0">
+            <clip id="35" enabled="1" name="SwiftWayMakeYouTubeVid9.mkv" clipin="0" in="2955" out="3280" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="0">
                 <linked>
-                    <link id="41"/>
+                    <link id="34"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1485,7 +1485,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="43" enabled="1" name="Judul" clipin="0" in="2955" out="3280" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="36" enabled="1" name="Judul" clipin="0" in="2955" out="3280" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1550,9 +1550,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="44" enabled="1" name="SwiftWayMakeYouTubeVid10.mkv" clipin="0" in="3280" out="3930" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
+            <clip id="37" enabled="1" name="SwiftWayMakeYouTubeVid10.mkv" clipin="0" in="3280" out="3930" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="1">
                 <linked>
-                    <link id="45"/>
+                    <link id="38"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1565,9 +1565,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="45" enabled="1" name="SwiftWayMakeYouTubeVid10.mkv" clipin="0" in="3280" out="3930" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+            <clip id="38" enabled="1" name="SwiftWayMakeYouTubeVid10.mkv" clipin="0" in="3280" out="3930" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
                 <linked>
-                    <link id="44"/>
+                    <link id="37"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1596,7 +1596,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="46" enabled="1" name="Judul" clipin="0" in="3280" out="3605" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="39" enabled="1" name="Judul" clipin="0" in="3280" out="3605" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1661,7 +1661,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="47" enabled="1" name="Judul" clipin="0" in="3605" out="3930" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="40" enabled="1" name="Judul" clipin="0" in="3605" out="3930" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1726,7 +1726,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="48" enabled="1" name="Judul" clipin="47" in="3977" out="4242" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="41" enabled="1" name="Judul" clipin="47" in="3977" out="4242" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1791,9 +1791,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="49" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="4242" out="5068" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="42" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="4242" out="5068" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="50"/>
+                    <link id="43"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -1806,9 +1806,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="50" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="4242" out="5068" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="43" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="0" in="4242" out="5068" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="49"/>
+                    <link id="42"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1837,7 +1837,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="51" enabled="1" name="Judul" clipin="0" in="4353" out="4628" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="44" enabled="1" name="Judul" clipin="0" in="4353" out="4628" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1902,7 +1902,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="52" enabled="1" name="Judul" clipin="0" in="4628" out="4726" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="45" enabled="1" name="Judul" clipin="0" in="4628" out="4726" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1967,7 +1967,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="53" enabled="1" name="Judul" clipin="0" in="4726" out="4928" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="46" enabled="1" name="Judul" clipin="0" in="4726" out="4928" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2032,7 +2032,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="54" enabled="1" name="Judul" clipin="0" in="4928" out="6009" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="47" enabled="1" name="Judul" clipin="0" in="4928" out="6009" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2097,9 +2097,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="55" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="122" in="5068" out="5368" track="-1" r="128" g="128" b="192" autoscale="0" speed="6.7700000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="48" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="122" in="5068" out="5368" track="-1" r="128" g="128" b="192" autoscale="0" speed="6.7700000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="56"/>
+                    <link id="49"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2128,9 +2128,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="56" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="122" in="5068" out="5368" track="0" r="128" g="128" b="192" autoscale="0" speed="6.7700000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="49" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="122" in="5068" out="5368" track="0" r="128" g="128" b="192" autoscale="0" speed="6.7700000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="55"/>
+                    <link id="48"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2143,9 +2143,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="57" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2858" in="5368" out="5709" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="50" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2858" in="5368" out="5709" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="58"/>
+                    <link id="51"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2174,9 +2174,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="58" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2858" in="5368" out="5709" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="51" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2858" in="5368" out="5709" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="57"/>
+                    <link id="50"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2189,7 +2189,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="59" enabled="1" name="Judul" clipin="0" in="5368" out="6009" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="52" enabled="1" name="Judul" clipin="0" in="5368" out="6009" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2254,9 +2254,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="60" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="633" in="5709" out="6009" track="-1" r="128" g="128" b="192" autoscale="0" speed="5.0566666667" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="53" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="633" in="5709" out="6009" track="-1" r="128" g="128" b="192" autoscale="0" speed="5.0566666667" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="61"/>
+                    <link id="54"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2285,9 +2285,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="61" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="633" in="5709" out="6009" track="0" r="128" g="128" b="192" autoscale="0" speed="5.0566666667" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="54" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="633" in="5709" out="6009" track="0" r="128" g="128" b="192" autoscale="0" speed="5.0566666667" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="60"/>
+                    <link id="53"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2300,9 +2300,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="62" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1681" in="6009" out="6189" track="-1" r="128" g="128" b="192" autoscale="0" speed="2.8055555556" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="55" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1681" in="6009" out="6189" track="-1" r="128" g="128" b="192" autoscale="0" speed="2.8055555556" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="63"/>
+                    <link id="56"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2331,9 +2331,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="63" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1681" in="6009" out="6189" track="0" r="128" g="128" b="192" autoscale="0" speed="2.8055555556" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="56" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1681" in="6009" out="6189" track="0" r="128" g="128" b="192" autoscale="0" speed="2.8055555556" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="62"/>
+                    <link id="55"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2346,7 +2346,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="64" enabled="1" name="Judul" clipin="0" in="6189" out="6774" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="57" enabled="1" name="Judul" clipin="0" in="6189" out="6774" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2411,7 +2411,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="65" enabled="1" name="Judul" clipin="-162" in="6506" out="6774" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="58" enabled="1" name="Judul" clipin="-162" in="6506" out="6774" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2476,7 +2476,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="66" enabled="1" name="Judul" clipin="0" in="6804" out="7209" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="59" enabled="1" name="Judul" clipin="0" in="6804" out="7209" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2541,7 +2541,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="67" enabled="1" name="Judul" clipin="-62" in="6994" out="7209" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="60" enabled="1" name="Judul" clipin="-62" in="6994" out="7209" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2606,7 +2606,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="68" enabled="1" name="Judul" clipin="0" in="7209" out="7451" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="61" enabled="1" name="Judul" clipin="0" in="7209" out="7451" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2636,7 +2636,7 @@
                 </effect>
                 <effect name="Render/Rich Text" enabled="1">
                     <row>
-                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Let's create sequence!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Right click this area (Project), and click Sequence.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;This is where do we get editing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Let's create sequence!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Right click this area (Project), and click Sequence.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;This is where do we get editing.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:24pt; color:#ffffff;&quot;&gt;Also if you drag drop to timeline without sequence, the sequence will be created automaticly with default setting! beware! default setting is unpleasant! make sure to check again its specification and change necessary setting!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
                     </row>
                     <row>
                         <field id="padding" value="0"/>
@@ -2671,9 +2671,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="69" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="5221" in="6189" out="7451" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="62" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="5221" in="6189" out="7451" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="70"/>
+                    <link id="63"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2702,9 +2702,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="70" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="5221" in="6189" out="7451" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="63" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="5221" in="6189" out="7451" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="69"/>
+                    <link id="62"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2717,9 +2717,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="71" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3582" in="7451" out="7751" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.8100000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="64" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3582" in="7451" out="7751" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.8100000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="72"/>
+                    <link id="65"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2748,9 +2748,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="72" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3582" in="7451" out="7751" track="0" r="128" g="128" b="192" autoscale="0" speed="1.8100000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="65" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3582" in="7451" out="7751" track="0" r="128" g="128" b="192" autoscale="0" speed="1.8100000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="71"/>
+                    <link id="64"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2763,9 +2763,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="73" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2836" in="7751" out="7931" track="-1" r="128" g="128" b="192" autoscale="0" speed="2.4777777778" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="66" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2836" in="7751" out="7931" track="-1" r="128" g="128" b="192" autoscale="0" speed="2.4777777778" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="74"/>
+                    <link id="67"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2794,9 +2794,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="74" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2836" in="7751" out="7931" track="0" r="128" g="128" b="192" autoscale="0" speed="2.4777777778" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="67" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="2836" in="7751" out="7931" track="0" r="128" g="128" b="192" autoscale="0" speed="2.4777777778" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="73"/>
+                    <link id="66"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2809,7 +2809,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="75" enabled="1" name="Judul" clipin="0" in="7451" out="7751" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="68" enabled="1" name="Judul" clipin="0" in="7451" out="7751" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2874,9 +2874,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="76" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1937" in="7931" out="8051" track="-1" r="128" g="128" b="192" autoscale="0" speed="3.8583333333" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="69" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1937" in="7931" out="8051" track="-1" r="128" g="128" b="192" autoscale="0" speed="3.8583333333" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="77"/>
+                    <link id="70"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2905,9 +2905,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="77" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1937" in="7931" out="8051" track="0" r="128" g="128" b="192" autoscale="0" speed="3.8583333333" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="70" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1937" in="7931" out="8051" track="0" r="128" g="128" b="192" autoscale="0" speed="3.8583333333" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="76"/>
+                    <link id="69"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2920,9 +2920,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="78" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="7935" in="8051" out="8282" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="71" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="7935" in="8051" out="8282" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="79"/>
+                    <link id="72"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2951,9 +2951,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="79" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="7935" in="8051" out="8282" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="72" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="7935" in="8051" out="8282" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="78"/>
+                    <link id="71"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2966,7 +2966,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="80" enabled="1" name="Judul" clipin="0" in="7751" out="8051" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="73" enabled="1" name="Judul" clipin="0" in="7751" out="8051" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3031,9 +3031,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="81" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="8166" in="8282" out="8487" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="74" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="8166" in="8282" out="8487" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="82"/>
+                    <link id="75"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3062,9 +3062,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="82" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="8166" in="8282" out="8487" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="75" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="8166" in="8282" out="8487" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="81"/>
+                    <link id="74"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3077,7 +3077,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="83" enabled="1" name="Judul" clipin="0" in="8282" out="8487" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="76" enabled="1" name="Judul" clipin="0" in="8282" out="8487" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3142,9 +3142,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="84" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1622" in="8487" out="8667" track="-1" r="128" g="128" b="192" autoscale="0" speed="5.1611111111" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="77" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1622" in="8487" out="8667" track="-1" r="128" g="128" b="192" autoscale="0" speed="5.1611111111" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="85"/>
+                    <link id="78"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3173,9 +3173,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="85" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1622" in="8487" out="8667" track="0" r="128" g="128" b="192" autoscale="0" speed="5.1611111111" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="78" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1622" in="8487" out="8667" track="0" r="128" g="128" b="192" autoscale="0" speed="5.1611111111" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="84"/>
+                    <link id="77"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3188,9 +3188,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="86" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="9300" in="8667" out="8942" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="79" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="9300" in="8667" out="8942" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="87"/>
+                    <link id="80"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3219,9 +3219,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="87" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="9300" in="8667" out="8942" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="80" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="9300" in="8667" out="8942" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="86"/>
+                    <link id="79"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3234,7 +3234,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="88" enabled="1" name="Judul" clipin="0" in="8667" out="8942" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="81" enabled="1" name="Judul" clipin="0" in="8667" out="8942" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3299,9 +3299,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="89" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="504" in="8942" out="9242" track="-1" r="128" g="128" b="192" autoscale="0" speed="19.0033333333" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="82" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="504" in="8942" out="9242" track="-1" r="128" g="128" b="192" autoscale="0" speed="19.0033333333" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="90"/>
+                    <link id="83"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3330,9 +3330,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="90" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="504" in="8942" out="9242" track="0" r="128" g="128" b="192" autoscale="0" speed="19.0033333333" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="83" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="504" in="8942" out="9242" track="0" r="128" g="128" b="192" autoscale="0" speed="19.0033333333" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="89"/>
+                    <link id="82"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3345,7 +3345,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="91" enabled="1" name="Judul" clipin="0" in="8942" out="9242" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="84" enabled="1" name="Judul" clipin="0" in="8942" out="9242" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3385,7 +3385,7 @@
                         <field id="posy" value="0"/>
                     </row>
                     <row>
-                        <field id="valign" value="132"/>
+                        <field id="valign" value="64"/>
                     </row>
                     <row>
                         <field id="autoscroll" value="0"/>
@@ -3410,9 +3410,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="92" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="15276" in="9242" out="10518" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="85" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="15276" in="9242" out="10518" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="93"/>
+                    <link id="86"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3425,9 +3425,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="93" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="15276" in="9242" out="10518" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="86" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="15276" in="9242" out="10518" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="92"/>
+                    <link id="85"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3456,7 +3456,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="94" enabled="1" name="Life of Riley.mp3" clipin="8952" in="10518" out="13975" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
+            <clip id="87" enabled="1" name="Life of Riley.mp3" clipin="8952" in="10518" out="13975" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3469,9 +3469,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="95" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16552" in="10518" out="10831" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="88" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16552" in="10518" out="10831" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="96"/>
+                    <link id="89"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3484,9 +3484,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="96" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16552" in="10518" out="10831" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="89" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16552" in="10518" out="10831" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="95"/>
+                    <link id="88"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3515,7 +3515,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="97" enabled="1" name="Judul" clipin="0" in="9242" out="9611" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="90" enabled="1" name="Judul" clipin="0" in="9242" out="9611" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3555,7 +3555,7 @@
                         <field id="posy" value="0"/>
                     </row>
                     <row>
-                        <field id="valign" value="132"/>
+                        <field id="valign" value="64"/>
                     </row>
                     <row>
                         <field id="autoscroll" value="0"/>
@@ -3580,7 +3580,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="98" enabled="1" name="Judul" clipin="0" in="10518" out="10831" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="91" enabled="1" name="Judul" clipin="0" in="10518" out="10831" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3645,9 +3645,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="99" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16865" in="10831" out="11666" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="92" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16865" in="10831" out="11666" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="100"/>
+                    <link id="93"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3676,9 +3676,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="100" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16865" in="10831" out="11666" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="93" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="16865" in="10831" out="11666" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="99"/>
+                    <link id="92"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3691,9 +3691,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="101" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1651" in="11666" out="11846" track="-1" r="128" g="128" b="192" autoscale="0" speed="10.7222222222" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="94" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1651" in="11666" out="11846" track="-1" r="128" g="128" b="192" autoscale="0" speed="10.7222222222" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="102"/>
+                    <link id="95"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3722,9 +3722,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="102" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1651" in="11666" out="11846" track="0" r="128" g="128" b="192" autoscale="0" speed="10.7222222222" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="95" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="1651" in="11666" out="11846" track="0" r="128" g="128" b="192" autoscale="0" speed="10.7222222222" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="101"/>
+                    <link id="94"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3737,7 +3737,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="103" enabled="1" name="Judul" clipin="0" in="10831" out="11666" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="96" enabled="1" name="Judul" clipin="0" in="10831" out="11666" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3802,7 +3802,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="104" enabled="1" name="Judul" clipin="0" in="10638" out="10831" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="97" enabled="1" name="Judul" clipin="0" in="10638" out="10831" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3867,9 +3867,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="105" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3986" in="11846" out="12446" track="-1" r="128" g="128" b="192" autoscale="0" speed="4.9250000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+            <clip id="98" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3986" in="11846" out="12446" track="-1" r="128" g="128" b="192" autoscale="0" speed="4.9250000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
                 <linked>
-                    <link id="106"/>
+                    <link id="99"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3898,9 +3898,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="106" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3986" in="11846" out="12446" track="0" r="128" g="128" b="192" autoscale="0" speed="4.9250000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
+            <clip id="99" enabled="1" name="SwiftWayMakeYouTubeVida1.mkv" clipin="3986" in="11846" out="12446" track="0" r="128" g="128" b="192" autoscale="0" speed="4.9250000000" maintainpitch="0" reverse="0" type="0" media="12" stream="1">
                 <linked>
-                    <link id="105"/>
+                    <link id="98"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -3913,7 +3913,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="107" enabled="1" name="Judul" clipin="0" in="11666" out="11846" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="100" enabled="1" name="Judul" clipin="0" in="11666" out="11846" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -3978,7 +3978,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="108" enabled="1" name="Judul" clipin="0" in="11846" out="12067" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="101" enabled="1" name="Judul" clipin="0" in="11846" out="12100" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4043,7 +4043,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="110" enabled="1" name="Judul" clipin="0" in="12446" out="12769" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="102" enabled="1" name="Judul" clipin="0" in="12446" out="12769" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4108,7 +4108,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="111" enabled="1" name="Judul" clipin="0" in="3930" out="4242" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="103" enabled="1" name="Judul" clipin="0" in="3930" out="4242" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4173,7 +4173,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="112" enabled="1" name="Judul" clipin="0" in="12485" out="12769" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="104" enabled="1" name="Judul" clipin="0" in="12485" out="12769" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4238,9 +4238,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="113" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="0" in="12769" out="12909" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="105" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="0" in="12769" out="12909" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="114"/>
+                    <link id="106"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4253,9 +4253,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="114" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="0" in="12769" out="12909" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="106" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="0" in="12769" out="12909" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="113"/>
+                    <link id="105"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4284,7 +4284,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="115" enabled="1" name="Judul" clipin="0" in="12769" out="13069" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="107" enabled="1" name="Judul" clipin="0" in="12769" out="13069" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4349,7 +4349,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="118" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="1279" out="3930" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+            <clip id="108" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="1279" out="3930" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4378,7 +4378,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="119" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="4242" out="12446" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+            <clip id="109" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="4242" out="12446" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4407,7 +4407,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="120" enabled="1" name="Judul" clipin="0" in="12769" out="12863" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="110" enabled="1" name="Judul" clipin="0" in="12769" out="12863" track="-3" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4472,9 +4472,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="121" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="140" in="12909" out="13311" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="111" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="140" in="12909" out="13311" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="122"/>
+                    <link id="112"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4503,9 +4503,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="122" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="140" in="12909" out="13311" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="112" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="140" in="12909" out="13311" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="121"/>
+                    <link id="111"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4518,9 +4518,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="123" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="542" in="13311" out="13419" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="113" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="542" in="13311" out="13419" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="124"/>
+                    <link id="114"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4549,9 +4549,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="124" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="542" in="13311" out="13419" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="114" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="542" in="13311" out="13419" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="123"/>
+                    <link id="113"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4564,9 +4564,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="125" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="48" in="13419" out="13539" track="-1" r="128" g="128" b="192" autoscale="0" speed="13.5583333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="115" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="48" in="13419" out="13539" track="-1" r="128" g="128" b="192" autoscale="0" speed="13.5583333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="126"/>
+                    <link id="116"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4595,9 +4595,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="126" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="48" in="13419" out="13539" track="0" r="128" g="128" b="192" autoscale="0" speed="13.5583333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="116" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="48" in="13419" out="13539" track="0" r="128" g="128" b="192" autoscale="0" speed="13.5583333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="125"/>
+                    <link id="115"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4610,9 +4610,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="127" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2277" in="13539" out="13780" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="117" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2277" in="13539" out="13780" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="128"/>
+                    <link id="118"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4641,9 +4641,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="128" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2277" in="13539" out="13780" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="118" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2277" in="13539" out="13780" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="127"/>
+                    <link id="117"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4656,7 +4656,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="129" enabled="1" name="Judul" clipin="0" in="13311" out="13539" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="119" enabled="1" name="Judul" clipin="0" in="13311" out="13539" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4721,7 +4721,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="130" enabled="1" name="Judul" clipin="0" in="13539" out="13780" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="120" enabled="1" name="Judul" clipin="0" in="13539" out="13780" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4786,9 +4786,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="131" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="217" in="13780" out="13840" track="-1" r="128" g="128" b="192" autoscale="0" speed="11.5833333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="121" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="217" in="13780" out="13840" track="-1" r="128" g="128" b="192" autoscale="0" speed="11.5833333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="132"/>
+                    <link id="122"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4817,9 +4817,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="132" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="217" in="13780" out="13840" track="0" r="128" g="128" b="192" autoscale="0" speed="11.5833333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="122" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="217" in="13780" out="13840" track="0" r="128" g="128" b="192" autoscale="0" speed="11.5833333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="131"/>
+                    <link id="121"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4832,9 +4832,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="133" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="3213" in="13840" out="14544" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="123" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="3213" in="13840" out="14544" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="134"/>
+                    <link id="124"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4863,9 +4863,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="134" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="3213" in="13840" out="14544" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="124" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="3213" in="13840" out="14544" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="133"/>
+                    <link id="123"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4878,7 +4878,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="135" enabled="1" name="Judul" clipin="0" in="13840" out="14454" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="125" enabled="1" name="Judul" clipin="0" in="13840" out="14454" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4943,7 +4943,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="136" enabled="1" name="Life of Riley.mp3" clipin="12409" in="14454" out="16166" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
+            <clip id="126" enabled="1" name="Life of Riley.mp3" clipin="12409" in="14454" out="16166" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="16" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -4956,7 +4956,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="137" enabled="1" name="Judul" clipin="0" in="14454" out="14544" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="127" enabled="1" name="Judul" clipin="0" in="14454" out="14544" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5021,9 +5021,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="138" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="957" in="14544" out="14724" track="-1" r="128" g="128" b="192" autoscale="0" speed="4.0944444444" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="128" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="957" in="14544" out="14724" track="-1" r="128" g="128" b="192" autoscale="0" speed="4.0944444444" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="139"/>
+                    <link id="129"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5052,9 +5052,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="139" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="957" in="14544" out="14724" track="0" r="128" g="128" b="192" autoscale="0" speed="4.0944444444" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="129" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="957" in="14544" out="14724" track="0" r="128" g="128" b="192" autoscale="0" speed="4.0944444444" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="138"/>
+                    <link id="128"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5067,9 +5067,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="140" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4654" in="14724" out="14926" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="130" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4654" in="14724" out="14926" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="141"/>
+                    <link id="131"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5098,9 +5098,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="141" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4654" in="14724" out="14926" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="131" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4654" in="14724" out="14926" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="140"/>
+                    <link id="130"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5113,7 +5113,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="142" enabled="1" name="Judul" clipin="0" in="14544" out="14724" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="132" enabled="1" name="Judul" clipin="0" in="14544" out="14724" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5178,7 +5178,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="143" enabled="1" name="Judul" clipin="0" in="14724" out="14926" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="133" enabled="1" name="Judul" clipin="0" in="14724" out="14926" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5243,9 +5243,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="144" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4856" in="14926" out="15327" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="134" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4856" in="14926" out="15327" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="145"/>
+                    <link id="135"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5274,9 +5274,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="145" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4856" in="14926" out="15327" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="135" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="4856" in="14926" out="15327" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="144"/>
+                    <link id="134"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5289,7 +5289,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="146" enabled="1" name="Judul" clipin="0" in="14926" out="15202" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="136" enabled="1" name="Judul" clipin="0" in="14926" out="15202" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5354,7 +5354,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="147" enabled="1" name="Judul" clipin="0" in="15202" out="15327" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="137" enabled="1" name="Judul" clipin="0" in="15202" out="15327" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5419,9 +5419,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="148" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="397" in="15327" out="15507" track="-1" r="128" g="128" b="192" autoscale="0" speed="13.2333333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="138" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="397" in="15327" out="15507" track="-1" r="128" g="128" b="192" autoscale="0" speed="13.2333333333" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="149"/>
+                    <link id="139"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5450,9 +5450,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="149" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="397" in="15327" out="15507" track="0" r="128" g="128" b="192" autoscale="0" speed="13.2333333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="139" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="397" in="15327" out="15507" track="0" r="128" g="128" b="192" autoscale="0" speed="13.2333333333" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="148"/>
+                    <link id="138"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5465,9 +5465,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="150" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="7639" in="15507" out="15630" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="140" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="7639" in="15507" out="15630" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="151"/>
+                    <link id="141"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5496,9 +5496,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="151" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="7639" in="15507" out="15630" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="141" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="7639" in="15507" out="15630" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="150"/>
+                    <link id="140"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5511,7 +5511,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="152" enabled="1" name="Judul" clipin="0" in="15327" out="15507" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="142" enabled="1" name="Judul" clipin="0" in="15327" out="15507" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5576,7 +5576,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="153" enabled="1" name="Judul" clipin="0" in="15507" out="15630" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="143" enabled="1" name="Judul" clipin="0" in="15507" out="15630" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5641,9 +5641,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="154" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2117" in="15630" out="15750" track="-1" r="128" g="128" b="192" autoscale="0" speed="3.6666666667" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
+            <clip id="144" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2117" in="15630" out="15750" track="-1" r="128" g="128" b="192" autoscale="0" speed="3.6666666667" maintainpitch="0" reverse="0" type="0" media="13" stream="0">
                 <linked>
-                    <link id="155"/>
+                    <link id="145"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5672,9 +5672,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="155" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2117" in="15630" out="15750" track="0" r="128" g="128" b="192" autoscale="0" speed="3.6666666667" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
+            <clip id="145" enabled="1" name="SwiftWayMakeYouTubeVida2.mkv" clipin="2117" in="15630" out="15750" track="0" r="128" g="128" b="192" autoscale="0" speed="3.6666666667" maintainpitch="0" reverse="0" type="0" media="13" stream="1">
                 <linked>
-                    <link id="154"/>
+                    <link id="144"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5687,7 +5687,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="156" enabled="1" name="Judul" clipin="0" in="15630" out="15750" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="146" enabled="1" name="Judul" clipin="0" in="15630" out="15750" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5752,7 +5752,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="158" enabled="1" name="SwiftWayMakeYouTubeVida3.mkv" clipin="0" in="15750" out="16050" track="-1" r="128" g="128" b="192" autoscale="0" speed="67.0400000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
+            <clip id="147" enabled="1" name="SwiftWayMakeYouTubeVida3.mkv" clipin="0" in="15750" out="16050" track="-1" r="128" g="128" b="192" autoscale="0" speed="67.0400000000" maintainpitch="0" reverse="0" type="0" media="14" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5781,7 +5781,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="159" enabled="1" name="Judul" clipin="0" in="15750" out="16050" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="148" enabled="1" name="Judul" clipin="0" in="15750" out="16050" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5846,7 +5846,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="160" enabled="1" name="Judul" clipin="0" in="16050" out="16298" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="149" enabled="1" name="Judul" clipin="0" in="16050" out="16298" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5911,9 +5911,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="161" enabled="1" name="ForTutorialSwiftWayToMakeVid.mp4" clipin="0" in="16298" out="17342" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="1">
+            <clip id="150" enabled="1" name="ForTutorialSwiftWayToMakeVid.mp4" clipin="0" in="16298" out="17342" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="1">
                 <linked>
-                    <link id="162"/>
+                    <link id="151"/>
                 </linked>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -5926,9 +5926,9 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="162" enabled="1" name="ForTutorialSwiftWayToMakeVid.mp4" clipin="0" in="16298" out="17342" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
+            <clip id="151" enabled="1" name="ForTutorialSwiftWayToMakeVid.mp4" clipin="0" in="16298" out="17342" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="20" stream="0">
                 <linked>
-                    <link id="161"/>
+                    <link id="150"/>
                 </linked>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5957,7 +5957,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="163" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="12769" out="15750" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+            <clip id="152" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="12769" out="15750" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5979,14 +5979,14 @@
                         <field id="anchory" value="0"/>
                     </row>
                     <row>
-                        <field id="opacity" value="100"/>
+                        <field id="opacity" value="8"/>
                     </row>
                     <row>
                         <field id="blendmode" value=""/>
                     </row>
                 </effect>
             </clip>
-            <clip id="164" enabled="1" name="Judul" clipin="0" in="16166" out="16298" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="153" enabled="1" name="Judul" clipin="0" in="16166" out="16298" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6051,7 +6051,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="165" enabled="1" name="Judul" clipin="0" in="17342" out="17484" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="154" enabled="1" name="Judul" clipin="0" in="17342" out="17484" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6116,7 +6116,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="166" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="16298" out="17342" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
+            <clip id="155" enabled="1" name="Perkedel_Watermark.png" clipin="0" in="16298" out="17342" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="19" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6145,7 +6145,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="167" enabled="1" name="Judul" clipin="0" in="17484" out="17626" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="156" enabled="1" name="Judul" clipin="0" in="17484" out="17626" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6210,7 +6210,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="168" enabled="1" name="Judul" clipin="0" in="17626" out="17768" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="157" enabled="1" name="Judul" clipin="0" in="17626" out="17768" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6275,7 +6275,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="169" enabled="1" name="Judul" clipin="0" in="17768" out="17910" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="158" enabled="1" name="Judul" clipin="0" in="17768" out="17910" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6340,7 +6340,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="171" enabled="1" name="Judul" clipin="0" in="17910" out="18042" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="159" enabled="1" name="Judul" clipin="0" in="17910" out="18042" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6405,7 +6405,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="173" enabled="1" name="Judul" clipin="0" in="18042" out="18174" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="160" enabled="1" name="Judul" clipin="0" in="18174" out="18306" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6470,7 +6470,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="174" enabled="1" name="Perkedel_Ended.png" clipin="0" in="17342" out="18174" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="21" stream="0">
+            <clip id="161" enabled="1" name="Perkedel_Ended.png" clipin="0" in="17342" out="18306" track="-7" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="21" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6479,6 +6479,360 @@
                     </row>
                     <row>
                         <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="162" enabled="1" name="Judul" clipin="0" in="12100" out="12354" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ff0000;&quot;&gt;Bug beware!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;you may found your render audio track goes high pitched and sped up a bit sometimes with this version of Olive.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;if that happened, restart Olive, open this project again, and export again.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="358"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="163" enabled="1" name="Judul" clipin="0" in="17984" out="18042" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:12pt; color:#ffffff;&quot;&gt;Uh, I forgot what one more thing I wanted to say.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="-216"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="64"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="164" enabled="1" name="Judul" clipin="0" in="18042" out="18174" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Watch those files at:&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;Edit: &lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#55ff7f;&quot;&gt;lbry://@JOELwindows7#a/ForTutorialSwiftWayToMakeVid#9&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;RAW: &lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#55ff7f;&quot;&gt;lbry://@JOELwindows7#a/For_tutorial-RAW-fidget_hexagon#1&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="165" enabled="1" name="Judul" clipin="0" in="602" out="853" track="-6" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:30pt; font-weight:696; color:#00aa7f;&quot;&gt;lbry://@JOELwindows7#a/For_tutorial-RAW-fidget_hexagon#1&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="166" enabled="1" name="Judul" clipin="0" in="16298" out="16549" track="-6" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:18pt; font-weight:696; color:#00aa7f;&quot;&gt;lbry://@JOELwindows7#a/ForTutorialSwiftWayToMakeVid#9&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="167" enabled="1" name="Perkedel Short Typeborder.png" clipin="0" in="39" out="301" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="17" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="993"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="16"/>
                         <field id="scaley" value="100"/>
                     </row>
                     <row>
