@@ -144,6 +144,15 @@ Images:
 - https://github.com/Perkedel/HexagonEngine/tree/master/Blender/ExportBlender CC4.0-BY-SA (Game code is GNU GPL v3)
 - http://fav.me/ddpxm4h CC4.0-BY-SA
 - https://open.lbry.com/@JOELwindows7:a/ChristmasTreeButTheLeavesAreFurs:1?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://www.deviantart.com/joelwindows7/art/Ball-shaped-Fire-Extinguisher-829617429 CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/I-Want-To-Start-Momentum-of-Blender-2_81-Sculpting:b?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA 
+- lbry://@JOELwindows7#a/I-Want-To-Start-Momentum-of-Blender-2_81-Sculpting#b CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Blender/ExportBlender/I-Wanted-To-Start-Sculpting-Blender-2_81.png
+- https://open.lbry.com/@JOELwindows7:a/Antibody_Kinda:b?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Blender/ExportBlender/Antibody_Render.png CC4.0-BY-SA
+- lbry://@JOELwindows7#a/Antibody_Kinda#b CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/AAAAAAAAAAAAAA:1?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/EEEEEEEEEE:5?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
 
 
 # Spoiler Alert!
@@ -165,6 +174,12 @@ Miscelaneous Spoiler ft. Perkedel Cinematic Universe:
 - https://littlemisfortune.fandom.com/wiki/Mr._Voice (This guy steals children on Pandora)
 - Aha! I know. the end of Morgo's game were now in 2009, right? right?? ***➡?!?!?!?!*** idk. which figures the bad end where this mother decided to `/kill` (just like that and Enter) or whatever measure it takes if you forgot to sparkle 16 objects. **👉?** And.. otherwise if you did 16 sparkles, `/kill` weren't happened. idk.
 - Supernova GIMP light flare effect
+- Misfortune's pounding heartbeat Steth Mic message: AAAAAAAAAA that's me!!! OH MY GOSH!!!! JAG ÄR BERÖMD!!! AAAAAAAAAAAAAA!!!!
+- use Yaru login sound 
+- do it like Twitch Streamlabs donation ding 
+- I know, the drawing is horrible. I was not supposed to draw 2D! I am supposed to draw 3D! yess.
+- Error! NO Swedish language experience. Falling back to Google Translate.
+- LWIAY
 
 
 # Ok no spoiler this time.
