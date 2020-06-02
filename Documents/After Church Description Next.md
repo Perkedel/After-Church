@@ -97,10 +97,10 @@ Number 15, :
 - https://youtu.be/lnGORTfnIb8 (Use TheFatRat - Electrified to replace proprietary Astronomia!)
 
 AAAA
-# Memes in everything world
+# Memes and stuffs in everything world that are licensed Creative Commons (CC0 Public Domain, BY, & BY-SA only)
 https://commons.wikimedia.org/wiki/Category:Internet_memes
 
-Images:
+Images (& some videos):
 - https://commons.wikimedia.org/wiki/Category:Internet_memes#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.jpg Public Domain
 - https://commons.wikimedia.org/wiki/Category:Internet_memes#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.png Public Domain
 - https://commons.wikimedia.org/wiki/Category:Internet_memes#/media/File:Advice_pie.svg CC3.0-BY-SA
@@ -153,7 +153,32 @@ Images:
 - lbry://@JOELwindows7#a/Antibody_Kinda#b CC4.0-BY-SA
 - https://open.lbry.com/@JOELwindows7:a/AAAAAAAAAAAAAA:1?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
 - https://open.lbry.com/@JOELwindows7:a/EEEEEEEEEE:5?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
-
+- https://open.lbry.com/@JOELwindows7:a/PutYourFingerUnderneathTheLogitechGMouseSensor:3?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA (**LAG**)
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/YOuTubeStruckCOmmunityMyPlaylistWhichOneIsBad.svg CC4.0-BY-SA 
+- https://open.lbry.com/@JOELwindows7:a/WhyDoIHaveToBeNotMySelfToPitchForBusiness_Grammarly:b?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/ThePaywallIsReal:9?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA 
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/PleaseBuyMeYamahaGenos.svg CC4.0-BY-SA (Includes all version of Thumbnails in each layer!! up one step to see render PNG next to it)
+- https://open.lbry.com/@JOELwindows7:a/WhyExistCouncilInLBRY:b?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/HatsuneMikuSilentNightThumb.svg CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/WhatIfAHatInTimeEntersCrossoutThumbnail.svg CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/Komparasion-LBRY-vs-YouTube:6?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://www.deviantart.com/joelwindows7/art/My-Laptop-is-extremely-laggy-let-s-cardiophile-806144320 http://fav.me/ddbygxs CC4.0-BY-SA
+- https://www.deviantart.com/joelwindows7/art/Post-effect-Gravity-30-June-2019-803922031 http://fav.me/ddamu7j CC4.0-BY-SA 
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/FranBow-doesnt-peel-Pumpkinapple.svg CC4.0-BY-SA 
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/GIMP/FranBow-doesnt-peel-Pumpkinapple-fryied.xcf CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/pLEASEibEGyOUdOWNLOADlINK_Headerable.svg CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/pLEASEibEGyOUdOWNLOADlINK_Headerable_Beg.png CC4.0-BY-SA
+- https://youtu.be/3viekW3AnRA CC3.0-BY
+- https://youtu.be/PBhNFa6idFw CC3.0-BY
+- https://open.lbry.com/@JOELwindows7:7/ismeeltimepiece:c?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/GurukuTersayang_COmbineAllVideos:2?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA 
+- https://open.lbry.com/@JOELwindows7:a/HowToRecentlyDLtheFatRatSongs:9?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://open.lbry.com/@JOELwindows7:a/Dislikeable-Content:6?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Inkscape/PostingImage/FireExtinguisherBallLabel.svg CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Blender/ExportBlender/PumpkinAppleRender.png CC4.0-BY-SA 
+- https://github.com/Perkedel/HexagonEngine/tree/master/Blender CC4.0-BY-SA
+- https://github.com/Perkedel/HexagonEngine/blob/master/Blender/ExportBlender/MemeFailIgnoranceIsNotBliss.png CC4.0-BY-SA 
+- https://github.com/Perkedel/HexagonEngine/blob/master/Blender/ExportBlender/MemeFailImpact.png CC4.0-BY-SA
 
 # Spoiler Alert!
 Following product is ineligible for Anti-spoiler prevention due to violation of certain rule and will be shown here:
@@ -181,10 +206,35 @@ Miscelaneous Spoiler ft. Perkedel Cinematic Universe:
 - Error! NO Swedish language experience. Falling back to Google Translate.
 - LWIAY
 
+# Error Acknowledge
+Sorry for errors! it's tiring to rerender these all over again. might fix soon, but if that was on a format I wasn't supposed to do at, I skipped that over.
+- forgot the button and strings on Misfortune's robe 
+- Thumbnail of Silent night. the source could've been the MIDI download. but since it is picture compilation, I decided to link the Github of that thumbnail svg instead. so, here's MIDI download https://open.lbry.com/@JOELwindows7:a/Hatsune-Miku-Silent-Night-MIDI-XGlite:f?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb and the recording when played on a sophisticated MIDI player https://open.lbry.com/@JOELwindows7:a/Hatsune-Miku-Silent-Night-MIDI-XGlite-AUDIO-PSR-S975:b?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb
+- The Misfortune's pounding heartbeat scream "I AM FAMOUS!!!" in Swedish. I use Google Translate. This is wrong translate probably. I'd like if her heartbeat screams such word that includes exagerations (not with swear yet), but Google Translate couldn't help with that. for those who are originally Swedish, you can help me if you wish. thancc for your help.
+- -Grammar error! unintentional error! should've "did not receive **any** comment"-
+- missing malmary bump! ok I forgot that, sorry. I don't want to draw 2D. I'll fix that in Blender 3D make.
+- characteristic might seems wrong here. idk if it is.
+- is Papa Hernandez alive or not before Grevor came? idk. As far as I know, I believe in best ending, I would like to extend that Hernandez back, repent, and stuff like that. because, you have all the required happiness.
+- Olive bug high pitch render. Oh I know! you restart olive, open project again, play it little bit. then render. that should work the problem around.
+
+# Before the 4th wall is broken
+- Misfortune felt familiar scene during the intro
+- Misfortune impressed with that Minecraft Hotbar arrangement after the AfterChurch logo appears
+- Misfortune is then inspired to become Video LBRYian after seeing Swift way to make videos 
+- Papa Hernandez surprised at the earrape part. and then "Oh, my gosh, Joel! don't do that! My ear is old!"
+- Mama Callista popped with that Yamaha DGX-305 as the family had exact unit in 2005 for their children, but theirs are Yamaha DGX-505 which is more looked like an electric piano, but same interface.
+- Rimborn Gayarsaran told everyone in the room that he's about to break the 4th wall and give access to its hole to the family including Grevor's after the confession has been finished.
+- Misfortune and her family Yikes forever to YouTube for scronching any comments that contains `Communist Bandits` in Chinese as that gives a sense that YouTube is a... Yikes Forever. Man! I can't say explicitly. I could be sued and downtook, in YouTUbe. and more centralized websites.
+
 
 # Ok no spoiler this time.
-- A hat in time. http://hatintime.com/
-- Ary & The Secret of Seasons. https://ary-game.com/
+- A hat in time. http://hatintime.com/ **Done, left the soundtracks**
+- Ary & The Secret of Seasons. https://ary-game.com/ **Priority buy**
+- https://littlemisfortune.com 
+- Undertale
+- Pulsen
+- Pulse 
+- Celeste **Done but it's wrong! Do not use Epic Game Store version!!! buy itch io version!!!**
 
 # Strand link
 https://minecraft.gamepedia.com/Ender_Chest#Usage

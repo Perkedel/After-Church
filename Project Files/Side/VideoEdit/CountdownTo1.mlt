@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="id_ID" version="6.16.0" root="C:\Program Files\kdenlive" title="Anonymous Submission">
+  <profile description="1920x1080 60.00fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="60" frame_rate_den="1" colorspace="601"/>
+  <producer id="producer0" in="0" out="299">
+    <property name="length">300</property>
+    <property name="eof">pause</property>
+    <property name="resource">&lt;producer&gt;</property>
+    <property name="aspect_ratio">1</property>
+    <property name="direction">down</property>
+    <property name="style">seconds+1</property>
+    <property name="sound">silent</property>
+    <property name="background">clock</property>
+    <property name="drop">0</property>
+    <property name="mlt_service">count</property>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="0" out="299">
+    <track producer="producer0"/>
+  </tractor>
+</mlt>
