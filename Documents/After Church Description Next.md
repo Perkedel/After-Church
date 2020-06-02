@@ -13,6 +13,17 @@ Edited: https://open.lbry.com/@JOELwindows7:a/ForTutorialSwiftWayToMakeVid:9?r=A
 
 Raw: https://open.lbry.com/@JOELwindows7:a/For_tutorial-RAW-fidget_hexagon:1?r=A17C6o74QvCNS1FeEqW6ny8MsCdgCfHb 
 
+Life of Riley by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3976-life-of-riley
+License: http://creativecommons.org/licenses/by/4.0/
+
+DownLOVE The COntents!
+
+Investigations by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3924-investigations
+License: http://creativecommons.org/licenses/by/4.0/
+
+Investigaet
 
 
 # Pinball Spring Variations
@@ -244,3 +255,5 @@ Stay at home, **be creative**.
 
 # u 
 double, triple, quadruple, pentruple, sixtuple, septuble, aaaaaaaaa, octrupble, nonuple, dektruple, uuuuu
+
+`Yikes Forever` is Swedish version of `Sleketep!`! Makmur
