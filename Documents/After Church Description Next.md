@@ -253,7 +253,17 @@ https://minecraft.gamepedia.com/Ender_Chest#Usage
 # Great Luck, God Bless You.
 Stay at home, **be creative**.
 
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
+
 # u 
 double, triple, quadruple, pentruple, sixtuple, septuble, aaaaaaaaa, octrupble, nonuple, dektruple, uuuuu
 
 `Yikes Forever` is Swedish version of `Sleketep!`! Makmur
+
+# Darktoner
+BLM
+
+Sarah Rubber  
+Shamrock Ikir
