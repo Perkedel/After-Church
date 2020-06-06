@@ -227,6 +227,7 @@ Sorry for errors! it's tiring to rerender these all over again. might fix soon, 
 - characteristic might seems wrong here. idk if it is.
 - is Papa Hernandez alive or not before Grevor came? idk. As far as I know, I believe in best ending, I would like to extend that Hernandez back, repent, and stuff like that. because, you have all the required happiness.
 - Olive bug high pitch render. Oh I know! you restart olive, open project again, play it little bit. then render. that should work the problem around.
+- Forgot `We Love Darktoner` easter egg in the video! but the dark mode in majority of the video should marks it.
 
 # Before the 4th wall is broken
 - Misfortune felt familiar scene during the intro
