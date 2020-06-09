@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Hahahaha-Nokiadhino-Soxxer_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="9.8742857143" zoom="689.0625000000" rate="96000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Excal"/>
+		<tag name="TITLE" value="Ronaldhino Soccer Accurate MIDI (Nokia XpressMusic)"/>
+		<tag name="COMMENTS" value="made by Excal https://youtu.be/8pj1p42H2Kg , I have Nokia Xpress Music phone"/>
+		<tag name="Uhhh" value="sorry bad sound, this New Realtek sound card on this laptop has only 1 HEADPHONE JACK, can be made into MIC, but bad sound quality"/>
+	</tags>
+	<wavetrack name="Trek Audio" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1092267">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808798.au" len="153474" min="-1.0" max="0.999969" rms="0.249384"/>
+				</waveblock>
+				<waveblock start="153474">
+					<simpleblockfile filename="e080815c.au" len="153475" min="-1.0" max="0.999969" rms="0.280715"/>
+				</waveblock>
+				<waveblock start="306949">
+					<simpleblockfile filename="e08084dd.au" len="262144" min="-1.0" max="0.999969" rms="0.274449"/>
+				</waveblock>
+				<waveblock start="569093">
+					<simpleblockfile filename="e0808176.au" len="262144" min="-0.994293" max="0.999969" rms="0.257485"/>
+				</waveblock>
+				<waveblock start="831237">
+					<simpleblockfile filename="e080899d.au" len="261030" min="-1.0" max="0.996582" rms="0.281819"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Trek Audio" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="96000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1092267">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808087.au" len="153474" min="-1.0" max="0.999969" rms="0.265573"/>
+				</waveblock>
+				<waveblock start="153474">
+					<simpleblockfile filename="e0808e3c.au" len="153475" min="-0.999451" max="0.993469" rms="0.269227"/>
+				</waveblock>
+				<waveblock start="306949">
+					<simpleblockfile filename="e080803d.au" len="262144" min="-0.963562" max="0.999023" rms="0.266631"/>
+				</waveblock>
+				<waveblock start="569093">
+					<simpleblockfile filename="e08085d4.au" len="262144" min="-1.0" max="0.999969" rms="0.259263"/>
+				</waveblock>
+				<waveblock start="831237">
+					<simpleblockfile filename="e0808f89.au" len="261030" min="-0.999176" max="0.994049" rms="0.258848"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
