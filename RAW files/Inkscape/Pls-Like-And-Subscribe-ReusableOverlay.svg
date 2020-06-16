@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\Pls-Like-And-Subscribe-ReusableOverlay_SocMed.png"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Pls-Like-And-Subscribe-ReusableOverlay.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient91318"
+       inkscape:collect="always">
+      <stop
+         id="stop91314"
+         offset="0"
+         style="stop-color:#00fa00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.25"
+         id="stop91326" />
+      <stop
+         style="stop-color:#fffa7f;stop-opacity:1"
+         offset="0.5"
+         id="stop91322" />
+      <stop
+         id="stop91324"
+         offset="0.75"
+         style="stop-color:#00fafb;stop-opacity:1" />
+      <stop
+         id="stop91316"
+         offset="1"
+         style="stop-color:#00faff;stop-opacity:1" />
+    </linearGradient>
+    <symbol
+       id="symbol1062">
+      <text
+         xml:space="preserve"
+         style="font-size:64px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end"
+         x="1900"
+         y="770"
+         id="text846"><tspan
+           sodipodi:role="line"
+           id="tspan844"
+           x="1900"
+           y="770">Don't forget to</tspan><tspan
+           sodipodi:role="line"
+           x="1900"
+           y="850"
+           id="tspan848">Comment, Rate, &amp; Subscribe!</tspan></text>
+    </symbol>
+    <symbol
+       style="stroke-linejoin:miter;stroke-miterlimit:10"
+       id="CircleBalloon">
+      <title
+         id="title952">Circle Balloon</title>
+      <ellipse
+         id="ellipse954"
+         style="stroke:none"
+         ry="70"
+         rx="125"
+         cy="125"
+         cx="205" />
+      <path
+         id="path956"
+         style="stroke:none"
+         d="m 110,166 c 11,21 -10,30 -22,43 32,-3 59,-7 70,-26" />
+      <ellipse
+         id="ellipse958"
+         style="fill:#eeeeee;stroke-width:3.5"
+         ry="70"
+         rx="125"
+         cy="120"
+         cx="200" />
+      <path
+         id="path960"
+         style="fill:#eeeeee;stroke-width:3.5"
+         d="m 106,162 c 11,21 -10,30 -22,43 32,-3 59,-7 70,-26" />
+      <ellipse
+         id="ellipse962"
+         style="fill:white;stroke:none"
+         ry="63"
+         rx="117"
+         cy="117"
+         cx="197" />
+      <path
+         id="path964"
+         style="fill:white;stroke:none"
+         d="m 103,149 c 14,25 9,34 -6,47 30,-3 50,-10 58,-31" />
+    </symbol>
+    <symbol
+       id="emoji-1f44d">
+      <title
+         id="title27888">1f44d</title>
+      <path
+         fill="#ffdd67"
+         d="m31.765 27.09c0 0-4.354.869-.753-6.613 2.608-5.418 2.348-11.709 0-15.05-3.757-5.344-11.07-3.592-10.31-.523 2.607 10.546-3.284 13.688-6.328 20.345-3.086 6.746-2.748 16.321-1.329 24.847.887 5.328 3.138 11.899 11.449 11.899h11.486l-4.215-34.906"
+         id="path27890" />
+      <path
+         fill="#eba352"
+         d="m25.75 60.52c-8.31 0-10.131-6.569-11.02-11.897-1.419-8.524-1.646-15.328 1.082-22.22 2.969-7.497 6.097-7.717 6.097-22.542 0-.742.392-1.231.793-1.558-1.407.468-2.186 1.289-2.186 2.492 0 11.09-3.101 13.805-6.145 20.461-3.085 6.746-2.747 16.321-1.328 24.847.887 5.328 3.138 11.899 11.449 11.899h11.486v-1.483h-10.23"
+         id="path27892" />
+      <path
+         fill="#ffdd67"
+         d="m45.998 35.816h-14.233c-4.965 0-4.965-8.722 0-8.722h14.233c4.965 0 4.965 8.722 0 8.722"
+         id="path27894" />
+      <path
+         fill="#eba352"
+         d="m47.1 34.37h-14.232c-3.351 0-4.432-3.965-3.26-6.548-2.654 2.08-1.944 7.998 2.148 7.998h14.232c1.614 0 2.694-.927 3.259-2.173-.565.446-1.275.723-2.147.723"
+         id="path27896" />
+      <path
+         fill="#ffdd67"
+         d="m47.532 44.573h-17.08c-5.957 0-5.957-8.722 0-8.722h17.08c5.956.001 5.956 8.722-.001 8.722"
+         id="path27898" />
+      <path
+         fill="#eba352"
+         d="m48.857 43.13h-17.08c-4.02 0-5.317-3.967-3.91-6.548-3.187 2.08-2.334 7.996 2.576 7.996h17.08c1.938 0 3.234-.927 3.911-2.171-.678.444-1.532.723-2.578.723"
+         id="path27900" />
+      <path
+         fill="#ffdd67"
+         d="m45.931 53.3h-14.437c-5.04 0-5.04-8.723 0-8.723h14.437c5.04 0 5.04 8.723 0 8.723"
+         id="path27902" />
+      <path
+         fill="#eba352"
+         d="m47.05 51.848h-14.436c-3.398 0-4.492-3.968-3.307-6.551-2.692 2.082-1.972 7.999 2.18 7.999h14.438c1.636 0 2.731-.929 3.306-2.174-.575.445-1.295.726-2.181.726"
+         id="path27904" />
+      <path
+         fill="#ffdd67"
+         d="m44.38 62h-9.329c-5.385 0-5.385-8.721 0-8.721h9.329c5.388 0 5.388 8.721 0 8.721"
+         id="path27906" />
+      <path
+         fill="#eba352"
+         d="m45.58 60.55h-9.333c-3.631 0-4.804-3.968-3.532-6.551-2.881 2.082-2.109 7.998 2.33 7.998h9.329c1.75 0 2.923-.928 3.535-2.172-.613.443-1.381.725-2.329.725"
+         id="path27908" />
+    </symbol>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="835"
+       x2="1290"
+       y1="740"
+       x1="1170"
+       id="linearGradient91320"
+       xlink:href="#linearGradient91318"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1410.809"
+     inkscape:cy="665.76925"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:label="PlsLike&amp;Subscribe"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       xlink:href="#CircleBalloon"
+       style="fill:#000000;stroke:#000000"
+       id="use1153"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.6244168,0,0,0.6244168,1112.477,709.49689)" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1385,1117.5 v -10 c 0,0 0,-5 5,-5 5,0 5,5 5,5 v 10 h 10 c 0,0 1,0 1,1 0,1 0,18 0,18 0,0 0,1 -1,1 h -20 c 0,0 0,-1 -1,-1 -1,0 -14,0 -14,0 v -19 z"
+       id="path1177" />
+    <use
+       transform="matrix(1.3332893,0,0,1.3332893,1407.3382,757.3334)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use91097"
+       xlink:href="#emoji-1f44d" />
+    <g
+       transform="translate(120)"
+       id="g91203">
+      <rect
+         style="fill:#93ac9d;stroke:#000000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;stroke-opacity:1"
+         id="rect91129"
+         width="240"
+         height="70"
+         x="1220"
+         y="860"
+         ry="10" />
+      <g
+         id="g91188">
+        <text
+           id="text91133"
+           y="910.53827"
+           x="1365.1925"
+           style="font-size:51.1444px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcffff;fill-opacity:1;stroke-width:0.799131"
+           xml:space="preserve"><tspan
+             style="fill:#fcffff;fill-opacity:1;stroke-width:0.799131"
+             y="910.53827"
+             x="1365.1925"
+             id="tspan91131"
+             sodipodi:role="line">Tip</tspan></text>
+        <g
+           style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.55597293,0,0,0.40758218,558.48635,498.62617)"
+           id="g91169">
+          <g
+             style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="g91153">
+            <rect
+               ry="0"
+               y="945"
+               x="1250"
+               height="25"
+               width="95"
+               id="rect91135"
+               style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.25177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+            <rect
+               y="970"
+               x="1260"
+               height="70"
+               width="75"
+               id="rect91139"
+               style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.25177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+          </g>
+          <g
+             style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="g91159">
+            <g
+               style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="g91147">
+              <path
+                 style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 1295,945 h -25 c 0,0 -20,0 -20,-20 0,-20 20,-20 20,-20 0,0 30,15 30,40"
+                 id="path91141" />
+              <path
+                 id="path91143"
+                 d="m 1300.5,945 h 25 c 0,0 20,0 20,-20 0,-20 -20,-20 -20,-20 0,0 -30,15 -30,40"
+                 style="fill:none;stroke:#ffffff;stroke-width:5.25177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <rect
+               y="945"
+               x="1295"
+               height="95"
+               width="5"
+               id="rect91149"
+               style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.25177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g91230">
+      <rect
+         ry="10"
+         y="860"
+         x="1630"
+         height="70"
+         width="240"
+         id="rect91137"
+         style="fill:#93ac9d;stroke:#000000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;stroke-opacity:1" />
+      <g
+         id="g91208"
+         transform="translate(140)">
+        <text
+           xml:space="preserve"
+           style="font-size:51.1444px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcffff;fill-opacity:1;stroke-width:0.799131"
+           x="1645.9166"
+           y="910.53827"
+           id="text91173"><tspan
+             sodipodi:role="line"
+             id="tspan91171"
+             x="1645.9166"
+             y="910.53827"
+             style="fill:#fcffff;fill-opacity:1;stroke-width:0.799131">Follow</tspan></text>
+        <path
+           id="path91175"
+           d="m 1535,887.34873 c 0,-14.72877 -10.6765,-14.72877 -10.6765,-14.72877 0,0 -10.6764,0 -10.6764,14.72877 0,14.72875 21.3529,29.45756 21.3529,29.45756 0,0 21.3529,-14.72881 21.3529,-29.45756 0,-14.72877 -10.6764,-14.72877 -10.6764,-14.72877 0,0 -10.6765,0 -10.6765,14.72877 z"
+           style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g91258">
+      <rect
+         style="fill:#808080;stroke:#000000;stroke-width:1.1893;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;stroke-opacity:1"
+         id="rect91217"
+         width="339.31149"
+         height="69.812271"
+         x="1530.5946"
+         y="765.09387"
+         ry="9.9731817" />
+      <g
+         id="g91249">
+        <g
+           id="g91238">
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1"
+             id="rect91232"
+             width="70"
+             height="45"
+             x="1550"
+             y="777.5"
+             ry="9.9731798" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1"
+             id="path91234"
+             sodipodi:sides="3"
+             sodipodi:cx="1585"
+             sodipodi:cy="800"
+             sodipodi:r1="15"
+             sodipodi:r2="7.5"
+             sodipodi:arg1="0"
+             sodipodi:arg2="1.0471976"
+             inkscape:flatsided="true"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 1600,800 -22.5,12.99038 v -25.98076 z"
+             inkscape:transform-center-x="-3.75" />
+        </g>
+        <text
+           id="text91242"
+           y="817.29803"
+           x="1740.4681"
+           style="font-size:45.4614px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.710335"
+           xml:space="preserve"><tspan
+             style="fill:#ffffff;stroke-width:0.710335"
+             y="817.29803"
+             x="1740.4681"
+             id="tspan91240"
+             sodipodi:role="line">Subscribe</tspan></text>
+      </g>
+    </g>
+    <text
+       id="text91282"
+       y="649.32397"
+       x="1880"
+       style="font-size:64px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:64px;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+         y="649.32397"
+         x="1880"
+         id="tspan91280"
+         sodipodi:role="line">Don't forget to</tspan><tspan
+         style="font-size:64px;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+         id="tspan91284"
+         y="729.32397"
+         x="1880"
+         sodipodi:role="line">Comment, Rate, &amp; Subscribe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.0711px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.485486;stroke-opacity:1"
+       x="1880.071"
+       y="963.51385"
+       id="text91290"><tspan
+         sodipodi:role="line"
+         x="1880.071"
+         y="963.51385"
+         id="tspan91288"
+         style="font-size:31.0711px;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.485486;stroke-opacity:1">Please Tip &amp; Follow me on LBRY</tspan><tspan
+         id="tspan91294"
+         sodipodi:role="line"
+         x="1880.071"
+         y="1002.3527"
+         style="font-size:31.0711px;fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.485486;stroke-opacity:1">https://open.lbry.com/@JOELwindows7</tspan></text>
+    <text
+       id="text91298"
+       y="1300"
+       x="1500"
+       style="font-size:96px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end"
+       xml:space="preserve"><tspan
+         y="1300"
+         x="1500"
+         id="tspan91296"
+         sodipodi:role="line">https://github.com/Xaviju/inkscape-open-symbols</tspan><tspan
+         id="tspan91328"
+         y="1420"
+         x="1500"
+         sodipodi:role="line">Inkscape also has few built in symbol set!</tspan></text>
+    <text
+       id="text91302"
+       y="1500"
+       x="245.58826"
+       style="font-size:96px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end"
+       xml:space="preserve"><tspan
+         y="1500"
+         x="245.58826"
+         id="tspan91300"
+         sodipodi:role="line">by JOELwindows7</tspan><tspan
+         id="tspan91304"
+         y="1620"
+         x="245.58826"
+         sodipodi:role="line">Perkedel Technologies</tspan><tspan
+         id="tspan91306"
+         y="1740"
+         x="245.58826"
+         sodipodi:role="line">CC4.0-BY-SA</tspan></text>
+    <text
+       id="text91310"
+       y="775"
+       x="1230.3922"
+       style="font-weight:bold;font-size:32px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:url(#linearGradient91320);fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient91320);fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+         y="775"
+         x="1230.3922"
+         id="tspan91308"
+         sodipodi:role="line">cool and</tspan><tspan
+         id="tspan91312"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold Italic';text-align:center;text-anchor:middle;fill:url(#linearGradient91320);fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+         y="815"
+         x="1230.3922"
+         sodipodi:role="line">good</tspan></text>
+  </g>
+  <g
+     style="display:inline;opacity:0.999"
+     sodipodi:insensitive="true"
+     inkscape:label="Follow us on social media"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <text
+       id="text91333"
+       y="780"
+       x="1880"
+       style="font-weight:bold;font-size:32px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="780"
+         x="1880"
+         id="tspan91331"
+         sodipodi:role="line">Follow us on social medias!</tspan><tspan
+         id="tspan91335"
+         y="820"
+         x="1880"
+         sodipodi:role="line">@JOELwindows7 @joelwindows7 </tspan><tspan
+         id="tspan91337"
+         y="860"
+         x="1880"
+         sodipodi:role="line">may place social media links in the description</tspan></text>
+  </g>
+</svg>
