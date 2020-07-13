@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\PreludeThumbnail.png"
+   sodipodi:docname="PreludeThumbnail.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 507.99999 285.75001"
+   height="1080"
+   width="1920">
+  <defs
+     id="defs2">
+    <rect
+       id="rect1582"
+       height="47.625"
+       width="174.625"
+       y="227.54167"
+       x="312.20834" />
+    <linearGradient
+       id="linearGradient892"
+       inkscape:collect="always">
+      <stop
+         id="stop888"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="0.0625"
+         id="stop902" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.125"
+         id="stop900" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.25"
+         id="stop898" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.5"
+         id="stop896" />
+      <stop
+         id="stop890"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1.125,1.125,0,-446.48438,285.75)"
+       r="254"
+       fy="396.875"
+       fx="4.2632564e-13"
+       cy="396.875"
+       cx="4.2632564e-13"
+       id="radialGradient894"
+       xlink:href="#linearGradient892"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="px"
+     inkscape:cy="561.75214"
+     inkscape:cx="1014.0512"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid842"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Maine">
+    <rect
+       y="0"
+       x="0"
+       height="285.75"
+       width="508"
+       id="rect886"
+       style="fill:url(#radialGradient894);fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;stroke-opacity:0" />
+    <text
+       id="text906"
+       y="274.15781"
+       x="4.818284"
+       style="font-weight:bold;font-size:80.5298px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:2.51655"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.51655"
+         y="274.15781"
+         x="4.818284"
+         id="tspan904"
+         sodipodi:role="line">Prelude</tspan></text>
+    <g
+       transform="matrix(0.09765573,0,0,0.09765573,4.3333666,162.20404)"
+       id="g1536-6-4"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="translate(-128,64)"
+         id="g1492-8-7">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           transform="translate(0,106.5)"
+           id="path1451-5-8" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           transform="translate(0,106.5)"
+           id="rect1461-3-4" />
+      </g>
+      <flowRoot
+         transform="translate(-108.256,129.20475)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="flowRoot1482-6-4"
+         xml:space="preserve"><flowRegion
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowRegion1484-4-7"><rect
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+             y="272"
+             x="384"
+             height="128"
+             width="1024"
+             id="rect1486-8-8" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowPara1488-6-3">Perkedel </flowPara></flowRoot>
+    </g>
+    <text
+       style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1582);"
+       id="text1580"
+       xml:space="preserve"><tspan
+         x="312.20898"
+         y="233.46234"><tspan
+           style="font-size:6.35px;fill:#ffffff;fill-opacity:1">A mysterious MIDI from Geocities MIDI archive
+</tspan></tspan><tspan
+         x="312.20898"
+         y="241.39984"><tspan
+           style="font-size:6.35px;fill:#ffffff;fill-opacity:1">https://archive.org/details/</tspan></tspan><tspan
+         x="312.20898"
+         y="249.33734"><tspan
+           style="font-size:6.35px;fill:#ffffff;fill-opacity:1">TheGeocitiesMidiCollectionVersion1.2
+</tspan></tspan><tspan
+         x="312.20898"
+         y="257.27484"><tspan
+           style="font-size:6.35px;fill:#ffffff;fill-opacity:1">
+</tspan></tspan><tspan
+         x="312.20898"
+         y="265.21234"><tspan
+           style="font-size:6.35px;fill:#ffffff;fill-opacity:1">MIDI of `1-01-Prelude-Xg.mid` in folder `1`</tspan></tspan></text>
+    <rect
+       y="269.875"
+       x="312.20834"
+       height="13.229167"
+       width="153.45834"
+       id="rect1586"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;stroke-opacity:0" />
+    <text
+       id="text1590"
+       y="280.45834"
+       x="314.85419"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="280.45834"
+         x="314.85419"
+         id="tspan1588"
+         sodipodi:role="line" /></text>
+  </g>
+  <g
+     inkscape:label="WhichRender"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:label="Yamaha S-YXG2006LE Falcosoft"
+       id="layer3"
+       inkscape:groupmode="layer">
+      <text
+         id="text1596"
+         y="280.45834"
+         x="314.85419"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264583"
+           y="280.45834"
+           x="314.85419"
+           id="tspan1594"
+           sodipodi:role="line">Falcosoft + Yamaha S-YXG2006LE</tspan></text>
+    </g>
+  </g>
+</svg>
