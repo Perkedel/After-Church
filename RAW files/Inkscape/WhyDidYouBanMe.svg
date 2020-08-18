@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\WhyDidYouBanMe.png"
+   sodipodi:docname="WhyDidYouBanMe.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 2048 2048.0001"
+   height="2048"
+   width="2048">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g916"
+     inkscape:document-units="px"
+     inkscape:cy="733.77117"
+     inkscape:cx="825.57563"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid842"
+       type="xygrid" />
+    <inkscape:grid
+       empspacing="128"
+       empopacity="0.25098039"
+       empcolor="#ff3f00"
+       opacity="0.1254902"
+       color="#ff3f00"
+       id="grid844"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lapis 1">
+    <circle
+       r="896"
+       cy="1024"
+       cx="1024"
+       id="path846"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g896">
+      <g
+         id="g873">
+        <path
+           id="path867"
+           d="m 688,-128 -32,64 144,48"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           r="48"
+           cy="-13.5"
+           cx="818.5"
+           id="path869"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+      </g>
+      <g
+         id="g885">
+        <g
+           id="g878">
+          <rect
+             style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882"
+             id="rect859"
+             width="256"
+             height="384"
+             x="512"
+             y="-512" />
+          <rect
+             style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882"
+             id="rect861"
+             width="288"
+             height="32"
+             x="496"
+             y="-128"
+             ry="16" />
+          <rect
+             ry="16"
+             y="-544"
+             x="496"
+             height="32"
+             width="288"
+             id="rect863"
+             style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882" />
+        </g>
+        <rect
+           ry="0"
+           y="-352"
+           x="768"
+           height="64"
+           width="640"
+           id="rect865"
+           style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882" />
+      </g>
+    </g>
+    <g
+       transform="translate(384,1344)"
+       id="g916">
+      <path
+         id="path935"
+         d="m -79.799477,288.4988 c 0,0 426.285707,-757.14286 1503.999977,-832"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.68460113" />
+      <path
+         transform="matrix(1.0014421,0,0,0.19883796,-0.64604191,51.27437)"
+         d="M 1408,-1.0952188e-6 1250.1214,222.61955 1311.3844,488.57438 1063.3477,602.42924 983.42563,863.3844 711.69213,837.96725 512,1024 289.38045,866.12137 23.42562,927.3844 -90.42924,679.34771 -351.3844,599.42563 -325.96725,327.69213 -512.00001,128 -354.12137,-94.619546 -415.3844,-360.57438 -167.34771,-474.42924 -87.425633,-735.3844 184.30787,-709.96725 384,-896.00001 l 222.61955,157.87864 265.95483,-61.26303 113.85486,248.03669 260.95516,79.92208 -25.4171,271.7335 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="0.19523122"
+         sodipodi:arg1="-0.066568164"
+         sodipodi:r2="817.65448"
+         sodipodi:r1="962.13098"
+         sodipodi:cy="64"
+         sodipodi:cx="448"
+         sodipodi:sides="12"
+         id="path929"
+         style="fill:#ffff00;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1"
+         sodipodi:type="star" />
+      <g
+         transform="matrix(2.0441658,0,0,2.0441658,-865.91933,266.00123)"
+         id="g927">
+        <g
+           id="g902">
+          <path
+             id="path898"
+             d="m 688,-128 -32,64 144,48"
+             style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="48"
+             cy="-13.5"
+             cx="818.5"
+             id="circle900"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+        </g>
+        <g
+           id="g914">
+          <g
+             id="g910">
+            <rect
+               style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882"
+               id="rect904"
+               width="256"
+               height="384"
+               x="512"
+               y="-512" />
+            <rect
+               style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882"
+               id="rect906"
+               width="288"
+               height="32"
+               x="496"
+               y="-128"
+               ry="16" />
+            <rect
+               ry="16"
+               y="-544"
+               x="496"
+               height="32"
+               width="288"
+               id="rect908"
+               style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882" />
+          </g>
+          <rect
+             ry="0"
+             y="-352"
+             x="768"
+             height="64"
+             width="640"
+             id="rect912"
+             style="fill:#d38d5f;fill-opacity:1;stroke:#ff0000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882" />
+        </g>
+      </g>
+      <text
+         transform="matrix(0.77869367,0,0,0.95794111,144.18743,-158.64515)"
+         id="text933"
+         style="font-weight:bold;font-size:602.37px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#ffff00;stroke-width:18.8241;stroke-opacity:1"
+         xml:space="preserve"><textPath
+           id="textPath937"
+           startOffset="50%"
+           xlink:href="#path935"><tspan
+             id="tspan931"
+             style="stroke-width:18.8241">BAN!!!</tspan></textPath></text>
+    </g>
+  </g>
+</svg>

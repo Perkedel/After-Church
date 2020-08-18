@@ -8,6 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\Senbonzakura-Thumbnaili-PSR-S775.svg.png"
    sodipodi:docname="Senbonzakura-Thumbnaili.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -17,6 +20,54 @@
    width="1920">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient878"
+       inkscape:collect="always">
+      <stop
+         id="stop868"
+         offset="0"
+         style="stop-color:#ffff6c;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffd8ff;stop-opacity:1"
+         offset="0.25"
+         id="stop870" />
+      <stop
+         style="stop-color:#ffff7f;stop-opacity:1"
+         offset="0.5"
+         id="stop872" />
+      <stop
+         id="stop874"
+         offset="0.75"
+         style="stop-color:#ffdbff;stop-opacity:1" />
+      <stop
+         id="stop876"
+         offset="1"
+         style="stop-color:#fff63b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient865">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop861" />
+      <stop
+         id="stop873"
+         offset="0.25"
+         style="stop-color:#ffc5ff;stop-opacity:1" />
+      <stop
+         id="stop869"
+         offset="0.5"
+         style="stop-color:#00ffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffa3ff;stop-opacity:1"
+         offset="0.75"
+         id="stop871" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop863" />
+    </linearGradient>
     <linearGradient
        id="linearGradient850"
        inkscape:collect="always">
@@ -38,6 +89,39 @@
        id="linearGradient852"
        xlink:href="#linearGradient850"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient878"
+       id="radialGradient867"
+       cx="988.6944"
+       cy="545.99921"
+       fx="988.6944"
+       fy="545.99921"
+       r="786.87573"
+       gradientTransform="matrix(1.016679,2.2938407e-8,-2.2945719e-8,1.016679,-40.229783,-12.941132)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="radialGradient881"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99126199,6.3570184e-4,-6.3570184e-4,0.99126198,8.731451,-655.39594)"
+       cx="960"
+       cy="539.49982"
+       fx="960"
+       fy="539.49982"
+       r="786.87573" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.10394802,0,339.60372)"
+       r="182.78354"
+       fy="379.00003"
+       fx="960"
+       cy="379.00003"
+       cx="960"
+       id="radialGradient890"
+       xlink:href="#linearGradient865"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -50,15 +134,20 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="528.57143"
-     inkscape:cx="857.14286"
-     inkscape:zoom="0.35"
+     inkscape:cy="403.92657"
+     inkscape:cx="879.89008"
+     inkscape:zoom="0.49497474"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        id="grid842"
        type="xygrid" />
@@ -93,15 +182,159 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Lapis 1">
+     inkscape:label="Main">
     <rect
        y="0"
        x="0"
        height="1080"
        width="1920"
        id="rect844"
-       style="fill:url(#linearGradient852);stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882;fill-opacity:1" />
+       style="fill:url(#linearGradient852);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:9.44882" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:286.146px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#radialGradient867);fill-opacity:1;stroke:#0000ff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="960.87854"
+       y="624.2981"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="960.87854"
+         y="624.2981"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'BOSTHON BRUSH';-inkscape-font-specification:'BOSTHON BRUSH Bold';fill:url(#radialGradient867);fill-opacity:1;stroke:#0000ff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SENBONZAKURA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+       x="-360"
+       y="1320"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="-360"
+         y="1320"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">https://www.fontspace.com/a-atmospheric-font-f46808</tspan><tspan
+         sodipodi:role="line"
+         x="-360"
+         y="1440.738"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="tspan875">https://www.fontspace.com/bosthon-brush-font-f32286</tspan><tspan
+         id="tspan908"
+         sodipodi:role="line"
+         x="-360"
+         y="1561.476"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">https://www.youtube.com/watch?v=Mqps4anhz0Q</tspan></text>
+    <text
+       id="text879"
+       y="-62.931309"
+       x="955.49457"
+       style="font-weight:bold;font-size:146.462px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#radialGradient881);fill-opacity:1;stroke-width:1.52564"
+       xml:space="preserve"><tspan
+         style="fill:url(#radialGradient881);fill-opacity:1;stroke-width:1.52564"
+         y="-62.931309"
+         x="955.49457"
+         id="tspan877"
+         sodipodi:role="line">SENBONZAKURA</tspan></text>
+    <text
+       id="text882"
+       y="397.22357"
+       x="958.40143"
+       style="font-weight:bold;font-size:46.7692px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0038ff;fill-opacity:1;stroke:#00ffff;stroke-width:0.487179;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#0038ff;fill-opacity:1;stroke:#00ffff;stroke-width:0.487179;stroke-opacity:1"
+         y="397.22357"
+         x="958.40143"
+         id="tspan880"
+         sodipodi:role="line">Kurousa-p</tspan></text>
+    <text
+       id="text898"
+       y="673.35925"
+       x="960.89032"
+       style="font-weight:bold;font-size:35.8959px;line-height:1.25;font-family:'BOSTHON Swash';-inkscape-font-specification:'BOSTHON Swash Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;stroke:#00ffff;stroke-width:0.373916;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#4d4d4d;stroke:#00ffff;stroke-width:0.373916;stroke-opacity:1"
+         y="673.35925"
+         x="960.89032"
+         id="tspan896"
+         sodipodi:role="line">1000 cherry trees</tspan></text>
+    <text
+       id="text902"
+       y="778.40625"
+       x="960"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00aaff;fill-opacity:1;stroke:#00ffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="778.40625"
+         x="960"
+         id="tspan900"
+         sodipodi:role="line">ft. hatsune miku</tspan></text>
+    <text
+       id="text906"
+       y="839.38867"
+       x="959.84711"
+       style="font-weight:bold;font-size:43.6658px;line-height:1.25;font-family:'a Atmospheric';-inkscape-font-specification:'a Atmospheric Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ece18b;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ece18b;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="839.38867"
+         x="959.84711"
+         id="tspan904"
+         sodipodi:role="line">Yamaha XG MIDI edition</tspan></text>
+    <g
+       transform="matrix(0.625,0,0,0.625,733.73234,725.9375)"
+       id="g1536-6-4"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="translate(-128,64)"
+         id="g1492-8-7">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           transform="translate(0,106.5)"
+           id="path1451-5-8" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           transform="translate(0,106.5)"
+           id="rect1461-3-4" />
+      </g>
+      <flowRoot
+         transform="translate(-108.256,129.20475)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="flowRoot1482-6-4"
+         xml:space="preserve"><flowRegion
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowRegion1484-4-7"><rect
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+             y="272"
+             x="384"
+             height="128"
+             width="1024"
+             id="rect1486-8-8" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowPara1488-6-3">Perkedel </flowPara></flowRoot>
+    </g>
+  </g>
+  <g
+     inkscape:label="Render Cover of"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:label="Yamaha PSR-S775"
+       id="layer3"
+       inkscape:groupmode="layer">
+      <text
+         id="text914"
+         y="946.52802"
+         x="960"
+         style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         xml:space="preserve"><tspan
+           y="946.52802"
+           x="960"
+           id="tspan912"
+           sodipodi:role="line">Yamaha PSR-S775</tspan></text>
+    </g>
   </g>
 </svg>
