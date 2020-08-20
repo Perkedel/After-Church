@@ -1,0 +1,19 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://src/scripts/stage_template.gd" type="Script" id=1]
+[ext_resource path="res://src/scripts/player_template.gd" type="Script" id=2]
+[ext_resource path="res://src/scenes/Player_Template.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/scenes/Lights.tscn" type="PackedScene" id=4]
+[ext_resource path="res://src/scenes/Scene.tscn" type="PackedScene" id=5]
+
+[node name="Home_Spatial" type="Spatial"]
+script = ExtResource( 1 )
+player_gravity_on = true
+
+[node name="Scene" type="Spatial" parent="." instance=ExtResource( 5 )]
+
+[node name="Player" type="KinematicBody" parent="." instance=ExtResource( 3 )]
+transform = Transform( 0.685921, 0, 0.727676, 0, 1, 0, -0.727676, 0, 0.685921, 7.35889, 4.95831, 6.92579 )
+script = ExtResource( 2 )
+
+[node name="Lights2" type="Spatial" parent="." instance=ExtResource( 4 )]

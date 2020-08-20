@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="Lights" type="Spatial"]
+
+[node name="OmniLight" type="OmniLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.07625, 5.90386, -1.00545 )
+shadow_enabled = true
+omni_range = 30.0

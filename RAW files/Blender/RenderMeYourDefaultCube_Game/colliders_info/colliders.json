@@ -1,0 +1,6 @@
+{
+ "DefaultCube": "convex",
+ "Light": "convex",
+ "Camera": "convex",
+ "Siklomatik": "mesh"
+}
