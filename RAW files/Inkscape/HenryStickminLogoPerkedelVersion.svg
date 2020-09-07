@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\HenryStickminLogoPerkedelVersion-Banner.png"
+   sodipodi:docname="HenryStickminLogoPerkedelVersion.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 2048 2048"
+   height="2048"
+   width="2048">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="1056.1036"
+     inkscape:cx="1049.4093"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid842"
+       type="xygrid" />
+    <inkscape:grid
+       empspacing="128"
+       empopacity="0.25098039"
+       empcolor="#ff3f00"
+       opacity="0.1254902"
+       color="#ff3f00"
+       id="grid844"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Henry Stickmin Head">
+    <g
+       transform="matrix(0.97285559,0,0,0.97285559,25.190012,94.262758)"
+       id="g928">
+      <g
+         id="g870">
+        <circle
+           r="896"
+           cy="1024"
+           cx="1024"
+           id="path846"
+           style="fill:#ffffff;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+        <g
+           id="g862">
+          <g
+             id="g856">
+            <path
+               id="path848"
+               d="m 896,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+               style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 1280,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+               id="path850" />
+          </g>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 640,1408 c 0,0 96,256 384,256"
+             id="path852" />
+        </g>
+      </g>
+      <g
+         id="g916">
+        <path
+           id="path910"
+           d="m 672,64 c 0,0 160,-128 256,-128"
+           style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path912"
+           d="m 1549.3929,64 c 0,0 -128,-128 -256,-128"
+           style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Henry Stickmin Banner"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g988">
+      <text
+         xml:space="preserve"
+         style="font-size:215.707px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:1.12347"
+         x="397.44919"
+         y="1087.418"
+         id="text908"><tspan
+           sodipodi:role="line"
+           id="tspan906"
+           x="397.44919"
+           y="1087.418"
+           style="stroke-width:1.12347">Henry Stickmin</tspan></text>
+      <g
+         transform="matrix(0.1208724,0,0,0.1208724,132.22666,911.83041)"
+         id="g928-2"
+         style="display:inline">
+        <g
+           id="g870-7">
+          <circle
+             r="896"
+             cy="1024"
+             cx="1024"
+             id="path846-9"
+             style="fill:#ffffff;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1" />
+          <g
+             id="g862-4">
+            <g
+               id="g856-8">
+              <path
+                 id="path848-8"
+                 d="m 896,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 1280,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 id="path850-6" />
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 640,1408 c 0,0 96,256 384,256"
+               id="path852-2" />
+          </g>
+        </g>
+        <g
+           id="g916-8">
+          <path
+             id="path910-0"
+             d="m 672,64 c 0,0 160,-128 256,-128"
+             style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             id="path912-2"
+             d="m 1549.3929,64 c 0,0 -128,-128 -256,-128"
+             style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="translate(0,-379.07541)"
+       id="g1016">
+      <text
+         id="text992"
+         y="1087.418"
+         x="397.44919"
+         style="font-size:215.707px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:1.12347;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:#ffffff;stroke-width:1.12347;stroke-opacity:1"
+           y="1087.418"
+           x="397.44919"
+           id="tspan990"
+           sodipodi:role="line">Henry Stickmin</tspan></text>
+      <g
+         style="display:inline"
+         id="g1014"
+         transform="matrix(0.1208724,0,0,0.1208724,132.22666,911.83041)">
+        <g
+           id="g1006">
+          <circle
+             style="fill:#ffffff;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1"
+             id="circle994"
+             cx="1024"
+             cy="1024"
+             r="896" />
+          <g
+             id="g1004">
+            <g
+               id="g1000">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 896,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 id="path996" />
+              <path
+                 id="path998"
+                 d="m 1280,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               id="path1002"
+               d="m 640,1408 c 0,0 96,256 384,256"
+               style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+        <g
+           id="g1012">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 672,64 c 0,0 160,-128 256,-128"
+             id="path1008" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1549.3929,64 c 0,0 -128,-128 -256,-128"
+             id="path1010" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(0,392.43376)"
+       id="g1044">
+      <text
+         id="text1020"
+         y="1087.418"
+         x="397.44919"
+         style="font-size:215.707px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:1.12347"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:1.12347"
+           y="1087.418"
+           x="397.44919"
+           id="tspan1018"
+           sodipodi:role="line">Henry Stickmin</tspan></text>
+      <g
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         id="g1042"
+         transform="matrix(0.1208724,0,0,0.1208724,132.22666,911.83041)">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g1034">
+          <circle
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.44882;stroke-opacity:1"
+             id="circle1022"
+             cx="1024"
+             cy="1024"
+             r="896" />
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             id="g1032">
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               id="g1028">
+              <path
+                 style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 896,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 id="path1024" />
+              <path
+                 id="path1026"
+                 d="m 1280,384 c 0,0 128,0 128,384 0,384 -128,384 -128,384"
+                 style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <path
+               id="path1030"
+               d="m 640,1408 c 0,0 96,256 384,256"
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           id="g1040">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 672,64 c 0,0 160,-128 256,-128"
+             id="path1036" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1549.3929,64 c 0,0 -128,-128 -256,-128"
+             id="path1038" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
