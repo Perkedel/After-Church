@@ -1,0 +1,16 @@
+[HKEY_CLASSES_ROOT\.cab]
+@="cabfile"
+
+[HKEY_CLASSES_ROOT\cabfile]
+"EditFlags"=hex: 00,00,01,00
+@="CAB File"
+
+[HKEY_CLASSES_ROOT\cabfile\DefaultIcon]
+@="\ResidentFlash\wceloaded\wceload.exe,-101"
+
+[HKEY_CLASSES_ROOT\cabfile\Shell]
+
+[HKEY_CLASSES_ROOT\cabfile\Shell\Open]
+
+[HKEY_CLASSES_ROOT\cabfile\Shell\Open\Command]
+@="\ResidentFlash\wceloaded\wceload.exe "%1""
