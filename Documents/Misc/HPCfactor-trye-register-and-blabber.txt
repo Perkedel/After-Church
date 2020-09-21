@@ -1,0 +1,54 @@
+I have recently found this ancient GPS during house tidy up. This is Knav KN-502WH, the GPS that does... Navigation, that's it.
+
+[IMG=https://odysee.com/$/download/Front-Knav-GPS-clean/47535e3a0f821d4ee4d023ceaae49599bac4091e]
+
+This GPS was acquired as a bonus when my mom got her own personal company car. The car had came with GPS attatched to its mount, mounted on front glass.
+
+
+
+Of course, this is not as powerful as of modern GPS you had on your smartphone everyday that I won't mention its brand. and heck, such device for the sole purpose of navigation is no longer relevant because of that easiness and powerfulness on the smartphone these days.
+
+[IMG=https://odysee.com/$/download/Knav-gps-show-program-manager/9179e69cd2f9f736e7068d68371bbe9775f22bd3]
+
+I had fiddled around its menus and found out that the navigation app had [CODE].exe[/CODE] extension. Which means it could be some sort of Windows. And as it turns out, sometimes this GPS shows error window with tiny little [CODE]OK[/CODE] button next to close button on top left title bar. Which marks that this GPS runs Windows CE. But what version? Why this post here? how do you know this is version 6.0? Well, I have the intel for it later but some intel that I will reference might be illegal, but pls don't ban me!
+
+Since this is Windows CE, I would like to try to find some random softwares for it. From that experience, it indeed run actual Windows CE apps I found. Some EXE I tried works and some other do not work. but that is for all. Since the GPS had nothing best that I could do with, I abandoned it.
+
+One day I opened up YouTube. and I found this video
+
+[SPOILER]https://youtu.be/_2XTDzsdBYQ[/SPOILER]
+
+The video above talks about how to expand Windows CE functionality on the GPS. I thought I lost the GPS for good, but glad I found it again so I reopened the video again.
+
+It has the kit download in the description. I immediately injected the files that YouTuber provided and run the special application.
+
+[IMG=https://odysee.com/@JOELwindows7:a/Front-of-Knav-GPS:f?r=7xrzYYcpckqrvu9DkGACzJtKDQpsSaKv]
+
+et Voila! it work! the taskbar did appeared. In addition to this, the YouTuber also showed how to terminate the supposed software on the GPS so that it only shows the desktop. Simply open task manager, and kill process [CODE]shell.exe[/CODE] and [CODE]main.exe[/CODE]. the Task manager has already provided with the kit as well. it is in folder [CODE]Mobile Task Manager\Mobile Task Manager\BIN\Release\MobileTaskManager.exe[/CODE]. Now you can safely close the explorer and now you'll see the desktop.
+
+some devices do show the Windows CE version bellow the wallpaper image. Mine show Windows CE 6.0, which means that's the version.
+
+What next?
+
+[IMG=https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Skrensut/wceload-missing.png]
+an emulator (not Knav GPS) of Windows CE 6.0
+
+I found out that this particular firmware in this GPS lacks CAB file instalation ability. I tried searching all the way up.
+I found this guide how to fix CAB install. https://www.hpcfactor.com/support/cesd/s/0131.asp here's the article I used.
+and finally I found the correct [CODE]wceload.exe[/CODE] after traveling through reddit.
+
+a reddit user u/kiwatiger posted a comment to some other redditor asking help to find the firmware image file for the netbook that redditor had. https://www.reddit.com/r/OldHandhelds/comments/id9wx0/reinstalling_windows_ce_for_datawind_ubisurfer/g28f7gp?utm_source=share&utm_medium=web2x&context=3 here's what did this guy responded.
+
+allegedly, the archive org link inside that reply is also upload of kiwatiger under kiwapebretech. Basically that archive contains image files for netbook model wm8650 and similar. the zip file can be extracted to a fresh SD card and be used to flash new firmware of the netbook with it.
+
+Anyway, I searched thoroughly the zip file content which is [CODE]WinCE6-wm8650.zip-Netbook.zip[/CODE] live from the view content (because my Knav GPS had WinCE 6.0). Surprisingly the file structure inside the flash zip file isn't anything packed or encrypted, they're all foldered! Which allows me to explore even the system folder ([CODE]WINDOWS[/CODE]) and that leads to finding the treasure [CODE]wceload.exe[/CODE] I've been looking for weeks. Let me be honest, before I found it, I've encountered alot of allegedly scam site regarding to [CODE]wceload.exe[/CODE] people baiting over by building website using wix. anyway,
+
+after I found that wceload, I clicked the file name and downloaded it. copied the file over to my Knav GPS, created the REG file and followed the instruction above https://www.hpcfactor.com/support/cesd/s/0131.asp . and guess what
+
+[B]IT WORKS[/B]
+[IMG=https://odysee.com/$/download/Setup-failed-knav-gps/1bd20e2ab998edf30900a99607f56273810915a7]
+Knav GPS failed to install a cab file due to incompatibility, but the CAB file now is recognized and do work with compatible CAB files.
+
+Of course, wceload has to be placed in persistent storage which in this case the internal memory, not on Windows Folder which is ROM. this GPS reset the Windows folder per reboot and cold boot. so I have to assign it differently but it did work afterall even after reboot. Well, that mean the Registry do not reset per cold boot and reboot in this GPS. amazing!
+
+
