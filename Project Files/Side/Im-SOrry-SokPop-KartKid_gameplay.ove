@@ -49,7 +49,7 @@
         <footage id="13" folder="0" name="DoneFillSo5Buck.png" url="../../RAW files/Skrensut/Olive Pick Frame/DoneFillSo5Buck.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="14" folder="0" name="Explosion croma key green screen, with explosion sound effect!-Q7KmAe8_jZE.mp4" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/Timothy Miller/Explosion croma key green screen, with explosion sound effect!-Q7KmAe8_jZE.mp4" duration="5062000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="14" folder="0" name="Explosion croma key green screen, with explosion sound effect!-Q7KmAe8_jZE.mp4" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/Timothy Miller/Explosion croma key green screen, with explosion sound effect!-Q7KmAe8_jZE.mp4" duration="5062000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="854" height="480" framerate="25.0000000000" infinite="0"/>
             <audio id="1" channels="2" layout="3" frequency="44100"/>
         </footage>
@@ -1884,7 +1884,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="40" enabled="1" name="And I played the game kart kids for 15 min.mkv" clipin="0" in="2991" out="58082" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+            <clip id="39" enabled="1" name="And I played the game kart kids for 15 min.mkv" clipin="0" in="2991" out="36122" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1913,7 +1913,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="41" enabled="1" name="Judul" clipin="0" in="2339" out="2492" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="40" enabled="1" name="Judul" clipin="0" in="2339" out="2492" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -1978,7 +1978,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="42" enabled="1" name="Judul" clipin="0" in="3219" out="3325" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="41" enabled="1" name="Judul" clipin="0" in="3219" out="3325" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2043,7 +2043,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="43" enabled="1" name="Judul" clipin="0" in="3503" out="3667" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="42" enabled="1" name="Judul" clipin="0" in="3503" out="3667" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2108,7 +2108,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="44" enabled="1" name="Judul" clipin="0" in="3753" out="3936" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="43" enabled="1" name="Judul" clipin="0" in="3753" out="3936" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2173,7 +2173,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="45" enabled="1" name="Judul" clipin="0" in="4072" out="4248" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="44" enabled="1" name="Judul" clipin="0" in="4072" out="4248" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2238,7 +2238,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="46" enabled="1" name="Judul" clipin="0" in="4990" out="5101" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="45" enabled="1" name="Judul" clipin="0" in="4990" out="5101" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2303,7 +2303,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="47" enabled="1" name="Judul" clipin="0" in="5865" out="5987" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="46" enabled="1" name="Judul" clipin="0" in="5865" out="5987" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2368,7 +2368,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="48" enabled="1" name="Judul" clipin="0" in="8122" out="8322" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="47" enabled="1" name="Judul" clipin="0" in="8122" out="8322" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2433,7 +2433,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="49" enabled="1" name="Judul" clipin="0" in="7372" out="7522" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="48" enabled="1" name="Judul" clipin="0" in="7372" out="7522" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2498,7 +2498,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="50" enabled="1" name="Judul" clipin="0" in="7869" out="8014" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="49" enabled="1" name="Judul" clipin="0" in="7869" out="8014" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2563,7 +2563,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="51" enabled="1" name="Judul" clipin="0" in="9009" out="9215" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="50" enabled="1" name="Judul" clipin="0" in="9009" out="9215" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -2628,7 +2628,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="52" enabled="1" name="And I Played The Game Kart Kids For 15 Min-convert.mp4" clipin="0" in="2991" out="58083" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="1">
+            <clip id="51" enabled="1" name="And I Played The Game Kart Kids For 15 Min-convert.mp4" clipin="0" in="2991" out="36122" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="1">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
@@ -2638,6 +2638,2258 @@
                 <effect name="/Pan" enabled="1">
                     <row>
                         <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="52" enabled="1" name="Judul" clipin="0" in="12708" out="12914" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#aaff7f;&quot;&gt;yep. you must run in the center in tunnel. don't run on side!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="53" enabled="1" name="Judul" clipin="0" in="10896" out="11102" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#aaff7f;&quot;&gt;tunnel haard&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="54" enabled="1" name="Judul" clipin="0" in="14322" out="14528" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#aaff7f;&quot;&gt;Hmstdve, the AI went wrong. idk. yeah, basically what funny this game is.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="55" enabled="1" name="Judul" clipin="0" in="14757" out="15218" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;yay! I won 1st position!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;cool and good&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="56" enabled="1" name="Judul" clipin="0" in="17120" out="17581" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;So, the other kids are finishing right now...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="57" enabled="1" name="Judul" clipin="0" in="17772" out="18233" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;We have to wait for all of the kids finished.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="58" enabled="1" name="Judul" clipin="0" in="18585" out="19046" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;ok, I think I should do something instead..&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="59" enabled="1" name="Judul" clipin="0" in="19195" out="19359" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;Yeah, do something!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="60" enabled="1" name="Judul" clipin="0" in="19919" out="20083" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;Let's adjust options to shown here!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="61" enabled="1" name="Judul" clipin="0" in="20308" out="20472" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;I should now try many cars!!! yeah.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="62" enabled="1" name="Judul" clipin="0" in="21088" out="21252" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;Here we go!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="63" enabled="1" name="Judul" clipin="0" in="21455" out="21619" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;Here's more wreak havok!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="64" enabled="1" name="Judul" clipin="0" in="21664" out="21828" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;Ouch no! flip back!!!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="65" enabled="1" name="Judul" clipin="0" in="22465" out="22629" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;wow! everything becomes insane!!! amazing!!!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="66" enabled="1" name="Judul" clipin="0" in="23492" out="23852" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2937ff;&quot;&gt;ugh! everybody is struggling for that narrow tunnel queue!! what a bottleneck.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="67" enabled="1" name="Judul" clipin="0" in="24012" out="24372" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;Oh no! Out of control! taking back control..&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="68" enabled="1" name="Judul" clipin="0" in="25895" out="26255" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;oh wait it's a... wall.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="69" enabled="1" name="Judul" clipin="0" in="26531" out="26891" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;whoa, some kids gone wrong way.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="70" enabled="1" name="Judul" clipin="0" in="27071" out="27431" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;I don't expect to win this time, due to this chaos. I think..&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="71" enabled="1" name="Judul" clipin="0" in="28242" out="28602" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;Ah damn! don't crash side!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="72" enabled="1" name="Judul" clipin="0" in="29224" out="29584" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;Yay, won 21th. wait, Twenty Fir&lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff393c;&quot;&gt;th&lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;??? lol!!?? Twenty One&lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff69ff;&quot;&gt;th&lt;/span&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;???&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="73" enabled="1" name="Judul" clipin="0" in="29855" out="30215" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;Ok I think you should read the last number in that integer. String out it and read the last (and 1 before last) and figure st nd rd th, I think... and uh.. eleventh twelveth thirteenth, should stay, idk..&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="74" enabled="1" name="Judul" clipin="0" in="30762" out="31122" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;hah, this is gonna take long waiting for rest of the kids to finish.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="75" enabled="1" name="Judul" clipin="0" in="31356" out="31716" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0004;&quot;&gt;well, let's just... do something...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="76" enabled="1" name="Judul" clipin="0" in="32346" out="32706" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#f5ff29;&quot;&gt;Just do myself a lap yeah!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="77" enabled="1" name="Judul" clipin="0" in="34603" out="34963" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#f5ff29;&quot;&gt;Basically it.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="80" enabled="1" name="And I played the game kart kids for 15 min.mkv" clipin="34219" in="36122" out="56994" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="81" enabled="1" name="And I Played The Game Kart Kids For 15 Min-convert.mp4" clipin="34219" in="36122" out="56995" track="0" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="15" stream="1">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="82" enabled="1" name="Judul" clipin="0" in="36122" out="36482" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#f5ff29;&quot;&gt;Okay, why is it hang?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="83" enabled="1" name="Judul" clipin="0" in="37128" out="37203" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#f5ff29;&quot;&gt;Huh?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="84" enabled="1" name="Judul" clipin="0" in="37203" out="37278" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0000;&quot;&gt;ARGH!!! CRASH!!!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="85" enabled="1" name="Judul" clipin="0" in="37755" out="37830" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#ff0000;&quot;&gt;wELL, LET'S RELAUNCH.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="86" enabled="1" name="Judul" clipin="0" in="38667" out="38889" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2e3441;&quot;&gt;alright, let's try more configurations.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="87" enabled="1" name="Judul" clipin="0" in="39352" out="39574" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2e3441;&quot;&gt;Okay. Now let's duel!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="88" enabled="1" name="Judul" clipin="0" in="41280" out="41502" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:648; color:#2e3441;&quot;&gt;Haha, yess.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="39"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="89" enabled="1" name="MarkEnd add comment screenshot" clipin="0" in="56994" out="57294" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;That's all for today.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; color:#ffffff;&quot;&gt;And big shoutout to these people helping me making videos:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
                     </row>
                 </effect>
             </clip>
