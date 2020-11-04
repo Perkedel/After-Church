@@ -1,0 +1,1060 @@
+{
+	"Version": "0.1.0",
+	"MirrorPlane": "XY",
+	"FullCenterOfMass": true,
+	"Units": [
+		{
+			"MainJoint": "Pelvis_jnt",
+			"MainJointPath": [],
+			"JointLocalData": {
+				"Position": {
+					"x": 0.000012,
+					"y": 77.458107,
+					"z": 1.743634
+				},
+				"Rotation": {
+					"x": -0.000000,
+					"y": -0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"BoxPosition": {
+				"x": -0.000001,
+				"y": 11.875359,
+				"z": -0.000001
+			},
+			"BoxScale": {
+				"x": 8.906516,
+				"y": 23.750710,
+				"z": 8.906516
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"OtherUnitMain": "Spine1_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": 0.000002,
+					"y": -0.000002,
+					"z": 10.000000
+				}
+			},
+			"Mass": 10.000000,
+			"Width": 5.000000,
+			"AdditionalChildrenJoints": [
+				"L_UpperLeg_jnt",
+				"R_UpperLeg_jnt"
+			],
+			"AdditionalChildrenJointsPath": [
+				{
+					"Name": "L_UpperLeg_jnt",
+					"Path": [
+						"Pelvis_jnt"
+					]
+				},
+				{
+					"Name": "R_UpperLeg_jnt",
+					"Path": [
+						"Pelvis_jnt"
+					]
+				}
+			],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "Spine1_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000003,
+					"y": 23.750710,
+					"z": -0.000002
+				},
+				"Rotation": {
+					"x": -0.139817,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Pelvis_jnt",
+				"NamePath": [],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": -0.000001,
+				"y": 17.341433,
+				"z": -0.000017
+			},
+			"BoxScale": {
+				"x": 13.006075,
+				"y": 34.682865,
+				"z": 13.006075
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"OtherUnitMain": "Head_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": -0.000001,
+					"y": -1.393623,
+					"z": 9.902414
+				}
+			},
+			"Mass": 7.000000,
+			"Width": 3.000000,
+			"AdditionalChildrenJoints": [
+				"L_Arm_jnt",
+				"R_Arm_jnt"
+			],
+			"AdditionalChildrenJointsPath": [
+				{
+					"Name": "L_Arm_jnt",
+					"Path": [
+						"Pelvis_jnt",
+						"Spine1_jnt"
+					]
+				},
+				{
+					"Name": "R_Arm_jnt",
+					"Path": [
+						"Pelvis_jnt",
+						"Spine1_jnt"
+					]
+				}
+			],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "Head_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000007,
+					"y": 34.682861,
+					"z": -0.000029
+				},
+				"Rotation": {
+					"x": 0.139819,
+					"y": -0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Spine1_jnt",
+				"NamePath": [
+					"Pelvis_jnt"
+				],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": 0.000003,
+				"y": 30.616394,
+				"z": -0.000005
+			},
+			"BoxScale": {
+				"x": 22.962301,
+				"y": 61.232803,
+				"z": 22.962301
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"LocalPosition": {
+					"x": 0.000006,
+					"y": 61.232803,
+					"z": -0.000009
+				}
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": -0.000001,
+					"y": 0.000015,
+					"z": 10.000000
+				}
+			},
+			"Mass": 10.000000,
+			"Width": 2.000000,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_Arm_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": -17.937815,
+					"y": 25.248093,
+					"z": 0.340702
+				},
+				"Rotation": {
+					"x": -2.875003,
+					"y": -0.139818,
+					"z": 1.570795
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Spine1_jnt",
+				"NamePath": [
+					"Pelvis_jnt"
+				],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": -0.000015,
+				"y": -12.129012,
+				"z": -0.000007
+			},
+			"BoxScale": {
+				"x": 9.096760,
+				"y": 24.258026,
+				"z": 9.096760
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"OtherUnitMain": "R_ForeArm_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"R_Arm_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"OtherUnitAdditional": "R_ForeArm_jnt",
+				"OtherUnitAdditionalPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"R_Arm_jnt"
+				]
+			},
+			"Mass": 3.000000,
+			"Width": 0.718716,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_ForeArm_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt",
+				"R_Arm_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000023,
+					"y": -24.258024,
+					"z": -0.000019
+				},
+				"Rotation": {
+					"x": -2.875257,
+					"y": -3.141592,
+					"z": 3.141592
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "R_Arm_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"Spine1_jnt"
+				],
+				"Type": "Hinge"
+			},
+			"BoxPosition": {
+				"x": 0.000008,
+				"y": -11.835022,
+				"z": 0.000024
+			},
+			"BoxScale": {
+				"x": 8.876265,
+				"y": 23.670038,
+				"z": 8.876265
+			},
+			"DirectionControllerLength": 100.000000,
+			"DirectionControllerIsRight": true,
+			"MainDirection": {
+				"OtherUnitMain": "R_Hand_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"R_Arm_jnt",
+					"R_ForeArm_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": -10.000000,
+					"y": -0.000004,
+					"z": -0.000048
+				}
+			},
+			"Mass": 2.000000,
+			"Width": 0.812794,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_Hand_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt",
+				"R_Arm_jnt",
+				"R_ForeArm_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": 0.000008,
+					"y": -23.670033,
+					"z": 0.000044
+				},
+				"Rotation": {
+					"x": 0.220699,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "R_ForeArm_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"R_Arm_jnt"
+				],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": 0.000000,
+				"y": -6.858408,
+				"z": 0.000012
+			},
+			"BoxScale": {
+				"x": 5.143804,
+				"y": 13.716810,
+				"z": 5.143804
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"LocalPosition": {
+					"x": 0.000010,
+					"y": -13.716811,
+					"z": 0.000020
+				}
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": 0.000004,
+					"y": -6.842865,
+					"z": -7.292137
+				}
+			},
+			"Mass": 1.000000,
+			"Width": 2.405310,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_UpperLeg_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": -12.604200,
+					"y": -1.047508,
+					"z": -0.697431
+				},
+				"Rotation": {
+					"x": -0.055867,
+					"y": -3.141554,
+					"z": 0.001938
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Pelvis_jnt",
+				"NamePath": [],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": 0.009848,
+				"y": -19.867779,
+				"z": -0.283533
+			},
+			"BoxScale": {
+				"x": 14.902353,
+				"y": 39.739609,
+				"z": 14.902353
+			},
+			"DirectionControllerEnabled": false,
+			"MainDirection": {
+				"OtherUnitMain": "R_Leg_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"R_UpperLeg_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"OtherUnitAdditional": "R_Leg_jnt",
+				"OtherUnitAdditionalPath": [
+					"Pelvis_jnt",
+					"R_UpperLeg_jnt"
+				]
+			},
+			"Mass": 4.000000,
+			"Width": 0.600000,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_Leg_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"R_UpperLeg_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": 0.019696,
+					"y": -39.735561,
+					"z": -0.567067
+				},
+				"Rotation": {
+					"x": 3.122011,
+					"y": 3.141555,
+					"z": 3.140913
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "R_UpperLeg_jnt",
+				"NamePath": [
+					"Pelvis_jnt"
+				],
+				"Type": "Hinge"
+			},
+			"BoxPosition": {
+				"x": 0.000018,
+				"y": -14.490541,
+				"z": -0.000002
+			},
+			"BoxScale": {
+				"x": 10.867907,
+				"y": 28.981085,
+				"z": 10.867907
+			},
+			"DirectionControllerLength": 100.000000,
+			"DirectionControllerIsRight": false,
+			"MainDirection": {
+				"LocalPosition": {
+					"x": 0.000035,
+					"y": -28.981085,
+					"z": -0.000004
+				}
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": -9.993984,
+					"y": -0.000015,
+					"z": -0.346733
+				}
+			},
+			"Mass": 2.000000,
+			"Width": 0.600000,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "R_Foot_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"R_UpperLeg_jnt",
+				"R_Leg_jnt"
+			],
+			"JointLocalData": {
+				"Position": {
+					"x": 0.000035,
+					"y": -28.981087,
+					"z": -0.000005
+				},
+				"Rotation": {
+					"x": -3.141592,
+					"y": -3.141593,
+					"z": 3.141593
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "R_Leg_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"R_UpperLeg_jnt"
+				],
+				"Type": "Null"
+			},
+			"BoxPosition": {
+				"x": 0.000001,
+				"y": -1.500000,
+				"z": -0.000000
+			},
+			"BoxScale": {
+				"x": 12.952723,
+				"y": 6.874269,
+				"z": 11.831864
+			},
+			"DirectionControllerEnabled": false,
+			"PhysicsEnabled": false
+		},
+		{
+			"MainJoint": "L_Arm_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": 0.000088,
+				"y": 0.000381,
+				"z": 0.000018
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": 17.937742,
+					"y": 25.247696,
+					"z": 0.340628
+				},
+				"Rotation": {
+					"x": -2.875003,
+					"y": 3.001781,
+					"z": 1.570794
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Spine1_jnt",
+				"NamePath": [
+					"Pelvis_jnt"
+				],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": -0.000004,
+				"y": 12.129014,
+				"z": 0.000007
+			},
+			"BoxOrientation": {
+				"x": -3.141593,
+				"y": 0.000007,
+				"z": 0.000001
+			},
+			"BoxScale": {
+				"x": 9.096760,
+				"y": 24.258026,
+				"z": 9.096760
+			},
+			"DirectionControllerEnabled": false,
+			"RigidBodyOffset": {
+				"x": 0.000000,
+				"y": 0.000000,
+				"z": 0.000000
+			},
+			"MainDirection": {
+				"OtherUnitMain": "L_ForeArm_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"L_Arm_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"OtherUnitAdditional": "L_ForeArm_jnt",
+				"OtherUnitAdditionalPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"L_Arm_jnt"
+				]
+			},
+			"Mass": 3.000000,
+			"Width": 0.718716,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "L_ForeArm_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt",
+				"L_Arm_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": 0.000023,
+				"y": 0.000412,
+				"z": 0.000010
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": 0.000008,
+					"y": 24.258087,
+					"z": 0.000003
+				},
+				"Rotation": {
+					"x": 0.266333,
+					"y": -0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "L_Arm_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"Spine1_jnt"
+				],
+				"Type": "Hinge"
+			},
+			"BoxPosition": {
+				"x": -0.000001,
+				"y": 11.835022,
+				"z": 0.000007
+			},
+			"BoxOrientation": {
+				"x": 0.000003,
+				"y": 3.141587,
+				"z": 3.141592
+			},
+			"BoxScale": {
+				"x": 8.876265,
+				"y": 23.670038,
+				"z": 8.876265
+			},
+			"DirectionControllerLength": 100.000000,
+			"DirectionControllerIsRight": false,
+			"RigidBodyOffset": {
+				"x": 0.000000,
+				"y": 0.000000,
+				"z": 0.000000
+			},
+			"MainDirection": {
+				"OtherUnitMain": "L_Hand_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"L_Arm_jnt",
+					"L_ForeArm_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": 10.000000,
+					"y": -0.000005,
+					"z": -0.000010
+				}
+			},
+			"Mass": 2.000000,
+			"Width": 0.812794,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "L_Hand_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"Spine1_jnt",
+				"L_Arm_jnt",
+				"L_ForeArm_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": 0.000027,
+				"y": 0.000389,
+				"z": 0.000017
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000046,
+					"y": 23.670033,
+					"z": 0.000004
+				},
+				"Rotation": {
+					"x": 0.220700,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "L_ForeArm_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"Spine1_jnt",
+					"L_Arm_jnt"
+				],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": 0.000015,
+				"y": 6.858412,
+				"z": -0.000007
+			},
+			"BoxOrientation": {
+				"x": 0.000002,
+				"y": 3.141587,
+				"z": 3.141590
+			},
+			"BoxScale": {
+				"x": 5.143804,
+				"y": 13.716810,
+				"z": 5.143804
+			},
+			"DirectionControllerEnabled": false,
+			"RigidBodyOffset": {
+				"x": 0.000000,
+				"y": 0.000000,
+				"z": 0.000000
+			},
+			"MainDirection": {
+				"LocalPosition": {
+					"x": 0.000023,
+					"y": 13.716815,
+					"z": -0.000004
+				}
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": 0.000051,
+					"y": 6.842854,
+					"z": 7.292146
+				}
+			},
+			"Mass": 1.000000,
+			"Width": 2.405310,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "L_UpperLeg_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": -0.000036,
+				"y": 0.000046,
+				"z": -0.000006
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": 12.604237,
+					"y": -1.047554,
+					"z": -0.697429
+				},
+				"Rotation": {
+					"x": -0.055883,
+					"y": 0.000076,
+					"z": 3.139652
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Pelvis_jnt",
+				"NamePath": [],
+				"Type": "Ball"
+			},
+			"BoxPosition": {
+				"x": -0.009860,
+				"y": 19.867781,
+				"z": 0.283843
+			},
+			"BoxOrientation": {
+				"x": -3.141577,
+				"y": -0.000038,
+				"z": 0.000000
+			},
+			"BoxScale": {
+				"x": 14.902353,
+				"y": 39.739609,
+				"z": 14.902353
+			},
+			"DirectionControllerEnabled": false,
+			"RigidBodyOffset": {
+				"x": 0.000000,
+				"y": 0.000000,
+				"z": 0.000000
+			},
+			"MainDirection": {
+				"OtherUnitMain": "L_Leg_jnt",
+				"OtherUnitMainPath": [
+					"Pelvis_jnt",
+					"L_UpperLeg_jnt"
+				]
+			},
+			"AdditionalDirection": {
+				"OtherUnitAdditional": "L_Leg_jnt",
+				"OtherUnitAdditionalPath": [
+					"Pelvis_jnt",
+					"L_UpperLeg_jnt"
+				]
+			},
+			"Mass": 4.000000,
+			"Width": 0.600000,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "L_Leg_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"L_UpperLeg_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": 0.000019,
+				"y": -0.000019,
+				"z": 0.000650
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": -0.019666,
+					"y": 39.735527,
+					"z": 0.567026
+				},
+				"Rotation": {
+					"x": 3.122046,
+					"y": 3.141555,
+					"z": 3.140914
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "L_UpperLeg_jnt",
+				"NamePath": [
+					"Pelvis_jnt"
+				],
+				"Type": "Hinge"
+			},
+			"BoxPosition": {
+				"x": -0.000001,
+				"y": 14.490538,
+				"z": -0.000279
+			},
+			"BoxOrientation": {
+				"x": -0.000019,
+				"y": -3.141555,
+				"z": 3.141592
+			},
+			"BoxScale": {
+				"x": 10.867907,
+				"y": 28.981085,
+				"z": 10.867907
+			},
+			"DirectionControllerLength": 100.000000,
+			"DirectionControllerIsRight": true,
+			"RigidBodyOffset": {
+				"x": 0.000000,
+				"y": 0.000000,
+				"z": 0.000000
+			},
+			"MainDirection": {
+				"LocalPosition": {
+					"x": -0.000002,
+					"y": 28.981077,
+					"z": -0.000558
+				}
+			},
+			"AdditionalDirection": {
+				"LocalPosition": {
+					"x": 9.993971,
+					"y": 0.000010,
+					"z": 0.347110
+				}
+			},
+			"Mass": 2.000000,
+			"Width": 0.600000,
+			"AdditionalChildrenJoints": [],
+			"AdditionalChildrenJointsPath": [],
+			"AdditionalNodeControllers": []
+		},
+		{
+			"MainJoint": "L_Foot_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt",
+				"L_UpperLeg_jnt",
+				"L_Leg_jnt"
+			],
+			"BaseGlobalOffset": {
+				"x": 0.000020,
+				"y": 0.000051,
+				"z": 0.000094
+			},
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000003,
+					"y": 28.981112,
+					"z": 0.000001
+				},
+				"Rotation": {
+					"x": 0.000000,
+					"y": 0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "L_Leg_jnt",
+				"NamePath": [
+					"Pelvis_jnt",
+					"L_UpperLeg_jnt"
+				],
+				"Type": "Null"
+			},
+			"BoxPosition": {
+				"x": 0.000001,
+				"y": 1.500000,
+				"z": -0.000029
+			},
+			"BoxOrientation": {
+				"x": -0.000019,
+				"y": -3.141555,
+				"z": 3.141591
+			},
+			"BoxScale": {
+				"x": 12.952723,
+				"y": 6.874269,
+				"z": 11.831864
+			},
+			"DirectionControllerEnabled": false,
+			"PhysicsEnabled": false
+		},
+		{
+			"MainJoint": "Spine1_Twist_jnt",
+			"MainJointPath": [
+				"Pelvis_jnt"
+			],
+			"TwistFor": "Spine1_jnt",
+			"TwistForPath": [
+				"Pelvis_jnt"
+			],
+			"TwistStrength": 0.750000,
+			"JointLocalData": {
+				"Position": {
+					"x": -0.000000,
+					"y": 14.488716,
+					"z": 0.000000
+				},
+				"Rotation": {
+					"x": 0.000000,
+					"y": -0.000000,
+					"z": 0.000000
+				},
+				"Scale": {
+					"x": 1.000000,
+					"y": 1.000000,
+					"z": 1.000000
+				}
+			},
+			"Parent": {
+				"Name": "Pelvis_jnt",
+				"NamePath": [],
+				"Type": "Null"
+			},
+			"BoxPosition": {
+				"x": 0.000000,
+				"y": 1.500000,
+				"z": -0.000000
+			},
+			"BoxScale": {
+				"x": 1.125000,
+				"y": 3.000000,
+				"z": 1.125000
+			},
+			"DirectionControllerEnabled": false,
+			"PhysicsEnabled": false
+		}
+	],
+	"CMs": [],
+	"CompositeCMs": []
+}

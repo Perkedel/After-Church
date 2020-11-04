@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- saved from url=(0024)https://godotengine.org/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Website under maintenance - Godot Engine</title>
+<script data-dapp-detection="">
+(function() {
+  let alreadyInsertedMetaTag = false
+
+  function __insertDappDetected() {
+    if (!alreadyInsertedMetaTag) {
+      const meta = document.createElement('meta')
+      meta.name = 'dapp-detected'
+      document.head.appendChild(meta)
+      alreadyInsertedMetaTag = true
+    }
+  }
+
+  if (window.hasOwnProperty('web3')) {
+    // Note a closure can't be used for this var because some sites like
+    // www.wnyc.org do a second script execution via eval for some reason.
+    window.__disableDappDetectionInsertion = true
+    // Likely oldWeb3 is undefined and it has a property only because
+    // we defined it. Some sites like wnyc.org are evaling all scripts
+    // that exist again, so this is protection against multiple calls.
+    if (window.web3 === undefined) {
+      return
+    }
+    __insertDappDetected()
+  } else {
+    var oldWeb3 = window.web3
+    Object.defineProperty(window, 'web3', {
+      configurable: true,
+      set: function (val) {
+        if (!window.__disableDappDetectionInsertion)
+          __insertDappDetected()
+        oldWeb3 = val
+      },
+      get: function () {
+        if (!window.__disableDappDetectionInsertion)
+          __insertDappDetected()
+        return oldWeb3
+      }
+    })
+  }
+})()</script></head>
+<body>
+	<h1>Website under maintenance</h1>
+	<p>The website is being currently down for maintenance as it's being upgraded. In the meantime, use these links:</p>
+	<h2>Downloads</h2>
+	<a href="https://downloads.tuxfamily.org/godotengine/">All downloads on TuxFamily</a>
+	<h2>Community</h2>
+	<ul>
+		<li><a href="https://godotengine.org/qa">Questions &amp; answers</a></li>
+		<li><a href="https://discord.gg/4JBkykG">Discord</a></li>
+		<li><a href="https://webchat.freenode.net/?channels=#godotengine">IRC</a></li>
+		<li><a href="https://matrix.to/#/#godotengine:matrix.org">Matrix</a></li>
+		<li><a href="https://www.facebook.com/groups/godotengine/">Facebook</a></li>
+		<li><a href="https://reddit.com/r/godot/">Reddit</a></li>
+		<li><a href="https://github.com/godotengine/godot">GitHub</a></li>
+		<li><a href="https://twitter.com/godotengine">Twitter</a></li>
+		<li><a href="https://godotforums.org/">Forum</a></li>
+		<li><a href="https://steamcommunity.com/app/404790">Steam Community</a></li>
+		<li><a href="https://www.youtube.com/c/GodotEngineOfficial">YouTube</a></li>
+	</ul>
+<!--?php echo 'Current PHP version: ' . phpversion(); ?-->
+
+</body></html>

@@ -1,0 +1,51 @@
+We need the software version of Yamaha Genos, The S-YXG2021 the modern MIDI VSTi and we will pay whatever the price Yamaha set. why?
+
+Yamaha Corporation in Wikipedia article
+
+Yamaha Corporation is a company about Music. They made various music instruments. found in 1887 as reed organ & piano manufacturer. Today, they have many products such as Musical Instrument, Entertainment, event, and many more.
+
+One of the famous Yamaha product is the MIDI system. Say, the Yamaha Keyboards. Yamaha also used to make VST instruments such as S-YXG series you can search now if you wish to know.
+
+Notably, Yamaha had made (according to this article here):
+
+S-YGM. GM only Yamaha VSTi
+S-YXG20. GM & XG VSTi
+S-YXG100, video demonstration. Highest end at that time for Win9x only
+S-YXG50, review. There is NT version too for Windows NT like 2000, XP, and so forth.
+S-YXG2006LE . Last Yamaha VSTi known. This is certainly the only update of Yamaha S-YXG VSTi as of today.
+There are also other VSTi specifically designed for specific purpose such as S-YXG/DM which is shipped with Final Fantasy games.
+And that's it. that's the last VSTi (S-YXG2006LE) we could have. No more new VSTi, and that's it. Yamaha now only focuses on Hardware MIDI player due to certain unpopularity issues.
+
+Now, let's talk about Hardware MIDI player. Specifically on most premium Yamaha Keyboard which is Genos (formerly Tyros series from 1, 2, 3, 4, and 5. 6 is Genos).
+
+Here's product page for Indonesia, and US. We're not going to talk about specification sheet now. But we will tell you, according to its spec sheet, it has 1,652 Voices + 58 Drum/SFX Kits. Which is way more than typical General MIDI standard has, and even more than S-YXG2006LE has. Note we haven't counted yet how many voices that 2006LE has, as it is unecessary considering how obvious Yamaha had improved over this time.
+
+So why this petition?
+
+Good question. If we take a look at stores around the world like Amazon (USA), Tokopedia (Indonesia), etc., You'll have your jaw drops from this point, because
+
+Yamaha Genos the Hardware MIDI player costs $6000 !!!! yes, a litterall $5999 ! Six Grands. Not with the bundle, just the unit itself. And it's priced as much around that if you looked at your local music store.
+
+You can almost figure out why by looking how many voices it had, yet how each voices are meticulously made to its quality standard, video demonstration here, all of them, no compromise. Yes, if you cannot hear the demonstration video, let me tell you, it sounds just like when actual instrument was played in front of you, but you can't see it.
+
+Please ignore Yamaha SX series as those voices numbers are not as complete as Genos, spec sheet of Yamaha SX900 here.
+
+So then, what's the relation with Yamaha made VSTi & Yamaha made Genos?
+
+Great question.
+
+As you can see, If we wanted to enjoy the highest possible quality MIDI, a.k.a. Audiophille but it's MIDI, having to buy Yamaha Genos is extremely absurd. And falling into the lower end like SX series won't give as authentic experience as Genos was. e.g. if you wanted buy MIDI from Yamaha Musicsoft, you should see on each MIDI catalog page, there will be version selection. G1 being the highest end and most expensive, and GM being the lowest end and cheapest. Pardon for as of making this petition, the website was under maintenance which should be back to normal soon. anyway,
+
+You can select your Yamaha Keyboard you had, and the website will recommend the best version for your keyboard. Okay, say you don't want to be recommended and stil buy the most expensive version, G1. Now, if you load that MIDI into let's say Yamaha PSR-SX900, some voices will be missing and the music is broken. But if you load it on Genos, it will as same as in the preview. So if you want the Music play not broken, follow its recommendation. for SX900, I believe it would be,, the XT3 version that it recommends. you get the point. I hope.
+
+Not counting the space yet, As not all houses have large space. Where to put Yamaha Genos? do I have to put this here? or there? oh no, I don't have anymore place.
+
+So that's the reason. Why not make Yamaha Genos a VSTi (VST instrument) too? I mean, why not make it a virtual? a software? that should be much cheaper and do not use actual real life space but a computer?
+
+For context, Roland had remake their famous SoundCanvas now as a VSTi. Therefore everything should be possible right? And that's shame, if Yamaha didn't had any competitive play in this regard anymore. How could we enjoy the high quality MIDI with ASMR, if we have to bank our money for so long time until we get old just to get Yamaha Genos? that's absurd! that's not enjoying life at all.
+
+So yeah, basically it. We wish Yamaha hear this. We need
+
+Yamaha S-YXG2021 anytime, but soon. Because We like Yamaha instrument.
+
+Thank you for your attention.
