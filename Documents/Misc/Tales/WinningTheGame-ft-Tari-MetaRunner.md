@@ -372,9 +372,9 @@ Doni: Naa, see? you're getting used to it. great job. Alright, what should we do
 
 # The Accident
 
-Roti Serie: Don, gimana nih? coba tanya lagi?
+Roti Serie: (chat) Don, gimana nih? coba tanya lagi?
 
-Doni: Okeh, sebentar. (call friends that were stuck in traffic jam)... Eh, Busak, sekarang gimana?
+Doni: (reply) Okeh, sebentar. (call friends that were stuck in traffic jam)... Eh, Busak, sekarang gimana?
 
 Busak Masserson: Uh.... gue lagi 5 meter dibelakang kecelakaan. baru maju 2 meter.
 
@@ -712,8 +712,381 @@ Bon: huh..
 
 Joni: ya, gak bohong. ini untukmu. Gratis, tanpa biaya.
 
-Bon
+Bon: ...
 
+Joni: Iya. Ambillah!
+
+Bon: (pick up the box and examine)... (look front to Joni again)??
+
+Joni: Sumpah!
+
+Bon: emang... iya..?
+
+Joni: Sungguh! Anda tahu, bahwa sebenarnya.. kami adalah
+
+Bon: ...
+
+Joni: Kurir resmi OpenCX!
+
+Bon: (internal mind blown)!!
+
+Joni: Oh yah, kalau mau ada apa, silahkan contact kami. (give business card to Bon's phone)
+
+Bon's iPhone: (notification ring)!!!
+
+Bon: (pickup phone)!, (read newly received Business card)..
+
+```
+OpenCX | Van Elektronische
+
+Joni Sudarso
+Public Relation Coordinator
+
+Van Elektronische
+```
+
+Bon: wow..
+
+Joni: Okay? ya, begitu.
+
+Bon: (internal cry --no-teardrop) ... ... ... ... makasih. (get back to Rolls Royce Phantom), (U-turn)... ..., (Go back home)!
+
+Ogere: ... wow, luar biasa!
+
+Joni: Hokeh, sudah. gimana nih?
+
+Ogere: Kita akan tetap cek tujuan.
+
+Joni: Ide yang bagus, ayo jalan!
+
+Ogere: siap! (still go to target shop in the turn way)!
+
+## at the computer shop
+Ogere: Oke, sudah sampai!
+
+Joni: (open window) Pak! gimana barangnya?
+
+Urturemu Tarudu: Udah, udah disini
+
+Joni: Oke, sip. ngomong2, bapak mau stok lebih lagi gk? takutnya habis sih, sama
+
+Ogere: Joni, kasih 1 unit ke yang nabrak, situasi sekarang damai.
+
+Urturemu: Oh syukurlah. boleh deh, mumpung ntar hari nasional.
+
+Joni: Oke! (proceed to unload cargo)..
+
+Urturemu: jadi nambah berapa nih?
+
+Joni: gak nambah sih, sekalian minta maaf, udah telat.
+
+Urturemu: Oh, gapapa (still pay extra Rp 2 million)
+
+Joni: gak usah, pak. di keep aja.
+
+Urturemu: Udah, nih. (press pay extra tip Rp 2 Million)! tuh, biar.. buat lo sekalian kalau mau pulang kampung, ada, ya
+
+Joni: Oh.. makasih. lumayan sih, buat beli oleh2 yeah!
+
+## go back
+
+Roti: Busak! Puji Tuhan!! macetnya hilang! sini!!! balik!
+
+Busak: YA YA YA! GUWA TAHU
+
+Trup: AYO CEPAT! NANTI CEPAT
+
+Busak: (entered the car) Oke! Mobil, Jalan!!!
+
+Monz Suite car: Maaf, ada mobil didepan, tidak mungkin Loncat Jauh.
+
+Busak: anj888! (manually drive then).. (pass other cars hastily)
+
+Trup: wo wo, hati2, santuy! nanti kecelakaan, sabar boy!
+
+Busak: Ya, gw tahu, tapi kita sudah telat.
+
+Monz: Perhatian, hindari ugal-ugalan.
+
+Busak: ba888 lu (mute the warning)
+
+## News line
+Busak: (call Doni) Bos, macetnya hilang! kita sedang jalan!
+
+Doni: Whoa! whoa?!
+
+Roti: Busak, jangan lari lebih dari 60 Km/jam!
+
+Busak: Baik, akan kuusahakan. (look map) ayo...
+
+Doni: Tari!
+
+Tari: yes?
+
+Doni: My friend is finally free again!
+
+Tari: Oh, thank God! then we should go to the show, shall we?
+
+Doni: sure, let's go!
+
+# Begin to Capture The Flag
+Tari & Doni run towards the show, but
+
+Doni: (stop Tari midway, by grab left hand) hold it!
+
+Tari: what's going on?
+
+Doni: wait until they fully arrive. I am ashamed without families.
+
+Tari: (ponder towards Excercisin boys)..
+
+Excercisin boys: (warming up Capture the Flag with AI team)
+
+Tari: Alright, check where were they now.
+
+## Arrived
+Busak: Oke guys! kita sampai, segera ke acaranya! Mobil, cari parkir!
+
+Monz car: oke! mencari parkir. (Vallet parking)..
+
+everyone hastily getting in
+
+Daryup Amaan: Whoah, Minecraft?
+
+Roti: Ya!
+
+Daryup: Oke, lewat sini (lend hand to VIP door)
+
+Roti: guys, ayo!
+
+everyone through VIP door
+
+Trup: Bos!
+
+Doni: Oke, pake VRnya sekarang!
+
+Trup: sip! (every wear VR headset but partially until getting in the booth to fully wear)
+
+Doni: (take also his VR headset) hokeh.. Tari, kau punya VR?
+
+Tari: um, I don't have it now
+
+Doni: It's okay, (give backup VR headset to Tari) use this. let's go!
+
+# Capture the flag
+Cosefir Putunaga: 5, 4,
+
+Glisal Endaga: Sir, Nefaren has arrived.
+
+Cosefir: Oh, okay! let's just straight to the game.
+
+Excercisin: OAH!!! NOO!!!!
+
+Redu Hamesh: ARGH! An888, an888. yaudah gpp. kalian langsung aja. gw akan selalu pantau kalian.
+
+Gula Betes: oke sip. ah, bang888!
+
+Doni: Okeh, semuanya. langsung join aja. Tari, the address is in the booth. log into that address
+
+Tari: Okay! (wear VR headset), (enter booth),
+
+Doni: Alright. ini dia. (wear VR headset)
+
+Tari: (scan QR code of special Minecraft server address)! (Walk into the game)!!
+
+## Gemez CTF Minecraft Server
+### Nefaren
+- Doni Nefaren (Leader)
+- Busak Masserson
+- Trup Maodu
+- Roti Serie
+- Tari (Meta Runner)
+
+### Excercisin
+- Redu Hamesh (Meta Runner) (Leader)
+- Gula Betes
+- Glou Koma
+- Taub Punt
+- Kand Mero
+
+## same amount of player required
+Glisal: (go to Excercisin side) uh,, permisi tuan. Tim sebelah sekarang udah ber-lima. Tuan harap join juga.
+
+Redu: hah? berlima? siapa tuh yang baru gabung?
+
+Glisal: Saya lihat itu cewek berambut biru dengan tangan besi di kiri.
+
+Redu: Tangan besi..? seorang Meta Runner?
+
+Glisal: Kayanya sih iya, coba bapak cek.
+
+Redu: okeh.. (check Nefaren side)... (witnessed that Blue haired girl)?! OH! Tari?? Oh, mau nantang saya?? okeh. (immediately enter booth and also join the game)! Boleh.
+
+Gula: Loh, kok lu join? Lu harusnya kan pantau kita.
+
+Redu: Kita kedatangan penantang baru di tetangga sebelah.
+
+Glou Koma: Siapa tuh?
+
+Redu: Tari.
+
+Gula: AH sialan, cewek bule itu lagi! guys, bangun! Tari di tim lawan!
+
+Taub Punt: HAH! Tari di tim lawan!?
+
+Redu: Main normal guys. Jangan sampai Tari dapat.
+
+Taub: oke sip! semangat guys!
+
+## gameplay
+Tari entered to this server world!
+
+Tari: whoah! wow.
+
+Doni: AH, great, you're in. So, here's my family. Gengs, gw perkenalkan ini saudara baru kita! namanya Tari.
+
+Tari: hi, everyone. My name is Tari. I am from Silica City, Australia.
+
+Nefaren team: Hi, Tari!
+
+Doni: So, let me introduce you to my family. guys!
+
+Busak: Busak. nice to meet you
+
+Tari: Tari, nice to meet you too!
+
+Trup: Trup Maodu.
+
+Tari: Tari, nice to meet you!
+
+Roti Seri: Roti. .. eh, ngomongnya gimana? tolongin dong!
+
+Doni: "Nice to meet you"
+
+Roti: oke.. uh.. Nais tu mit yu.. eegh..
+
+Tari: gapapa, senang bertemu Anda.
+
+Roti: whoah!!!!...
+
+Busak, Roti, Trup: Bule ngomong Bahasa Indonesia! widiiiiiiih!!!
+
+Tari: (giggle) ☺ ehem!!!
+
+Doni: Oke guys. jadi,.. begini.
+
+### Explain
+Doni: Setiap ronde, bendera akan diletakan disekitar map ini. Kita tinggal rebut itu bendera, dan balik kesini lagi. Pemain dapat mengambil powerup yang tersebar disekitar map untuk menghambat lawan tim. itu saja. Ambil bendera, jangan mati, balik ke markas.
+
+Busak: Ya, begitu sih gamenya.
+
+Roti: Oke, jadi, bagaimana kita lindungi Tari biar dia yang pegang bendera, dan Busak, gw, Doni, benteng?
+
+Trup: Boleh itu!
+
+Tari: Oh, so.. me?
+
+Doni: Yes, we'll protect you. you have to take the flag. and always stay with us.
+
+Tari: alright.
+
+Doni: Good. activate the special ability!
+
+Tari: got it (enable enhancement)!
+
+Doni: okay, the game is about to start!
+
+Cosefir: 5, 4, 3, 2, 1. Oke teman2 ini dia, Minecraft Capture the Flag!
+
+# Round 1
+Doni: oke gengs, lingkari Tari & ambil powerup sebanyak mungkin. lindungi dia selama dia mengambil bendera & kembali.
+
+Nefaren team: siap!!!
+
+Doni: Tari?
+
+Tari: wow, I cannot move now
+
+Doni: Yeah, we must line up, it will be free when it start.
+
+Cosefir: Bersedia!... Siap? (start bang)!!
+
+Doni: Oke here we go!
+
+Player control Tari & can aim to shoot according to whoever in the way of shooting.
+
+```
+    shoot direction here
+
+Doni    Trup
+    Tari
+Busak   Roti
+
+    Camera
+
+```
+- XTQN Minecraft
+- Tari's head aim chooses who will shoot. e.g. if Tari heads right, Trup & Roti will shoot
+
+Doni: Ayo Tari maju! sambil bawa kita ke powerup!
+
+Tari: Alright, (run towards flag while picking up powerups when possible)...
+
+Doni: (got powerup) asik, dapat powerup! (Machine gun from mod)
+
+Busak: Shotgun!!!
+
+Tari: There it is!
+
+Trup: Ya, langsung kesana!
+
+Kand Mero: itu mereka! Jangan sampai mereka dapat!
+
+Roti: Hammer!
+
+Doni: Tidak semudah itu ferguso!!!
+
+Tari: Flag!
+
+Roti: Oke, lewat sini! (dig underground with shovel) ayo masuk! (Doni & Busak in), Tari! (Tari is in), Trup! (Trup and Roti in) (Close the hole with obsidian)
+
+## Underground
+walk fass underground secret passage
+
+Doni spoted Taub and shot his face
+
+Roti capped the side turn with obsidian
+
+Busak fired fatal Glou koma, You died!
+
+Glou: ARGH! an888! gengs! mereka ada di jalan tikus itu tadi!
+
+Redu: buntuti mereka!
+
+## Arrive out
+Doni: (head up to check situation).... Okay clear!
+
+Tari: Oh no! we're in the back of the HQ!
+    
+suddenly explosion! **DUAR!!!!**
+
+Doni: Tari! Igloo!!! (Touch the HQ surface)
+
+Tari: Okay! (run quickly)
+
+Roti was headshot by Gula
+
+Trup was electrocuted by Redu
+
+Doni: No! (revenge towards Excercisin)!
+
+Tari touch the HQ with flag! ROUND FINISH!!! Nefaren win! Nefaren 1 - 0 Excercisin. 3 to win
+
+Busak: Yeaaaha!! Mantab, Tari!!!
+
+# Round 2
+
+# a
 pls continue
 
 Play Minecraft capture flag over here
