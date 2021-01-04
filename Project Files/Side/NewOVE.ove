@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<olive>
+    <version>201122</version>
+    <url>C:\Users\joelr\Documents\starring codes\After Church\Project Files\Side\NewOVE.ove</url>
+    <project>
+        <cachepath></cachepath>
+        <root name="" ptr="1952092122992">
+            <sequence name="TestNew" ptr="1952268793104">
+                <video>
+                    <width>1920</width>
+                    <height>1080</height>
+                    <timebase>1/60</timebase>
+                    <pixelaspect>1/1</pixelaspect>
+                    <interlacing>0</interlacing>
+                    <divider>3</divider>
+                    <format>2</format>
+                </video>
+                <audio>
+                    <rate>48000</rate>
+                    <layout>3</layout>
+                    <format>4</format>
+                </audio>
+                <points>
+                    <workarea enabled="0" in="0/0" out="0/0"/>
+                    <markers/>
+                </points>
+                <node id="org.olivevideoeditor.Olive.track">
+                    <ptr>1952233899328</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="block_in" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters>
+                                <input id="block_in0" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952269049264</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                            </subparameters>
+                        </custom>
+                    </input>
+                    <input id="muted_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952267294752"/>
+                    <custom>
+                        <height>3</height>
+                    </custom>
+                </node>
+                <node id="org.olivevideoeditor.Olive.track">
+                    <ptr>1952233899648</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="block_in" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters>
+                                <input id="block_in0" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952271808176</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                                <input id="block_in1" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952271808560</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                            </subparameters>
+                        </custom>
+                    </input>
+                    <input id="muted_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952267298784"/>
+                    <custom>
+                        <height>3</height>
+                    </custom>
+                </node>
+                <node id="org.olivevideoeditor.Olive.clip">
+                    <ptr>1952224536784</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label>Judul</label>
+                    <input id="length_in" keyframing="0">
+                        <standard>
+                            <value>34/5</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="media_in_in" keyframing="0">
+                        <standard>
+                            <value>0/0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="enabled_in" keyframing="0">
+                        <standard>
+                            <value>true</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="speed_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="buffer_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections>
+                            <connection>1952269049136</connection>
+                        </connections>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952269049264"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.textgenerator">
+                    <ptr>1952265969984</ptr>
+                    <pos>
+                        <x>-1</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="text_in" keyframing="1">
+                        <standard>
+                            <value>Heckkoid</value>
+                        </standard>
+                        <keyframes>
+                            <track>
+                                <key time="0/0" type="0" inhandlex="-1" inhandley="0" outhandlex="1" outhandley="0">Heckkoid</key>
+                                <key time="181/60" type="0" inhandlex="-1" inhandley="0" outhandlex="1" outhandley="0">Heckkoid&lt;br&gt;Argh</key>
+                            </track>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="color_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                            <value>1</value>
+                            <value>1</value>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                            <track/>
+                            <track/>
+                            <track/>
+                        </keyframes>
+                        <csinput></csinput>
+                        <csdisplay></csdisplay>
+                        <csview></csview>
+                        <cslook></cslook>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="valign_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="font_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="font_size_in" keyframing="0">
+                        <standard>
+                            <value>72</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952269049136"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.clip">
+                    <ptr>1952270562272</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label>Nada</label>
+                    <input id="length_in" keyframing="0">
+                        <standard>
+                            <value>27/5</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="media_in_in" keyframing="0">
+                        <standard>
+                            <value>0/0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="enabled_in" keyframing="0">
+                        <standard>
+                            <value>true</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="speed_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="buffer_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952271808560"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.gap">
+                    <ptr>1952266553680</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="length_in" keyframing="0">
+                        <standard>
+                            <value>3/20</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="media_in_in" keyframing="0">
+                        <standard>
+                            <value>0/0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="enabled_in" keyframing="0">
+                        <standard>
+                            <value>true</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="speed_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952271808176"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.clip">
+                    <ptr>1952270560864</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label>Nada</label>
+                    <input id="length_in" keyframing="0">
+                        <standard>
+                            <value>6/1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="media_in_in" keyframing="0">
+                        <standard>
+                            <value>0/0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="enabled_in" keyframing="0">
+                        <standard>
+                            <value>true</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="speed_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="buffer_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952271801136"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.track">
+                    <ptr>1952266551760</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="block_in" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters>
+                                <input id="block_in0" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952269044224</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                                <input id="block_in1" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952271801136</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                            </subparameters>
+                        </custom>
+                    </input>
+                    <input id="muted_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952271801392"/>
+                    <custom>
+                        <height>3</height>
+                    </custom>
+                </node>
+                <node id="org.olivevideoeditor.Olive.math">
+                    <ptr>1952267886544</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="method_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="param_a_in" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections>
+                            <connection>1952271801392</connection>
+                        </connections>
+                        <custom/>
+                    </input>
+                    <input id="param_b_in" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections>
+                            <connection>1952267298784</connection>
+                        </connections>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952271811824"/>
+                    <custom/>
+                </node>
+                <node id="org.olivevideoeditor.Olive.gap">
+                    <ptr>1952266552880</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="length_in" keyframing="0">
+                        <standard>
+                            <value>3/20</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="media_in_in" keyframing="0">
+                        <standard>
+                            <value>0/0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="enabled_in" keyframing="0">
+                        <standard>
+                            <value>true</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <input id="speed_in" keyframing="0">
+                        <standard>
+                            <value>1</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom/>
+                    </input>
+                    <output id="node_out" ptr="1952269044224"/>
+                    <custom/>
+                </node>
+                <viewer id="org.olivevideoeditor.Olive.vieweroutput">
+                    <ptr>1952269065520</ptr>
+                    <pos>
+                        <x>0</x>
+                        <y>0</y>
+                    </pos>
+                    <label></label>
+                    <input id="tex_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections>
+                            <connection>1952267294752</connection>
+                        </connections>
+                        <custom/>
+                    </input>
+                    <input id="samples_in" keyframing="0">
+                        <standard>
+                            <value></value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections>
+                            <connection>1952271811824</connection>
+                        </connections>
+                        <custom/>
+                    </input>
+                    <input id="track_in_0" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters>
+                                <input id="track_in_00" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952267294752</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                            </subparameters>
+                        </custom>
+                    </input>
+                    <input id="track_in_1" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters>
+                                <input id="track_in_10" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952267298784</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                                <input id="track_in_11" keyframing="0">
+                                    <standard>
+                                        <value>0</value>
+                                    </standard>
+                                    <keyframes>
+                                        <track/>
+                                    </keyframes>
+                                    <connections>
+                                        <connection>1952271801392</connection>
+                                    </connections>
+                                    <custom/>
+                                </input>
+                            </subparameters>
+                        </custom>
+                    </input>
+                    <input id="track_in_2" keyframing="0">
+                        <standard>
+                            <value>0</value>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                        <connections/>
+                        <custom>
+                            <subparameters/>
+                        </custom>
+                    </input>
+                    <output id="node_out" ptr="1952265418224"/>
+                    <custom/>
+                </viewer>
+            </sequence>
+        </root>
+        <colormanagement>
+            <config></config>
+            <default>sRGB OETF</default>
+        </colormanagement>
+        <layout>
+            <folders/>
+            <timeline>
+                <sequence>1952268793104</sequence>
+                <state>AAAA/wAAAAEAAAACAAAAlgAAAO0A/////wEAAAACAA==</state>
+            </timeline>
+            <state>AAAA/wAAAAD9AAAAAgAAAAIAAAeAAAAB6/wBAAAABvsAAAASAE4AbwBkAGUAUABhAG4AZQBsAQAAAAAAAAJ7AAAAYQD////8AAACggAAAnwAAADzAP////oAAAABAQAAAAL7AAAAJABGAG8AbwB0AGEAZwBlAFYAaQBlAHcAZQByAFAAYQBuAGUAbAEAAAAA/////wAAAPMA////+wAAABQAUABhAHIAYQBtAFAAYQBuAGUAbAEAAAAA/////wAAAMwA////+wAAABQAQwB1AHIAdgBlAFAAYQBuAGUAbAIAAAKAAAABaAAAAoAAAAFo+wAAABwATgBvAGQAZQBUAGEAYgBsAGUAUABhAG4AZQBsAgAAAoAAAAFoAAACgAAAAWj7AAAAJgBTAGUAcQB1AGUAbgBjAGUAVgBpAGUAdwBlAHIAUABhAG4AZQBsAQAABQUAAAJ7AAABZAD////7AAAAGABQAHIAbwBqAGUAYwB0AFAAYQBuAGUAbAIAAAKAAAABaAAAAoAAAAFoAAAAAwAAB4AAAAHs/AEAAAAF+wAAABoAUAByAG8AagBlAGMAdABQAGEAbgBlAGwAMAEAAAAAAAABZQAAAPgA////+wAAABIAVABvAG8AbABQAGEAbgBlAGwBAAABbAAAADoAAAA6AP////sAAAAcAFQAaQBtAGUAbABpAG4AZQBQAGEAbgBlAGwAMAEAAAGtAAAFkgAAALsA////+wAAACAAVABhAHMAawBNAGEAbgBhAGcAZQByAFAAYQBuAGUAbAIAAAKAAAABaAAAAoAAAAFo+wAAABgAQQB1AGQAaQBvAE0AbwBuAGkAdABvAHIBAAAHRgAAADoAAAA6AP///wAAB4AAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA</state>
+        </layout>
+    </project>
+</olive>
