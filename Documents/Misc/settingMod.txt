@@ -1,0 +1,14 @@
+{
+	"Loading-bar": {
+		"Patho": "C:/Users/joelr/Documents/starring codes/Godot Projects/Just Renders/LoadingBar/LoadingBarFunctionality-win.pck",
+		"Replaceo": false
+	},
+	"aa": {
+		"Patho": "",
+		"Replaceo": false
+	},
+	"au": {
+		"Patho": "",
+		"Replaceo": false
+	}
+}
