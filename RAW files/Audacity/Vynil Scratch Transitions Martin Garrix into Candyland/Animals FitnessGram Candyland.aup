@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Animals FitnessGram Candyland_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="7.9893161350" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Martin Garrix + Tobu + FitnessGram"/>
+		<tag name="DJ-Pon3" value="Vynil Scratch"/>
+		<tag name="TITLE" value="Animals Fitnessgram Candyland"/>
+		<tag name="COMMENTS" value="by JOELwindows7; Perkedel Technologies; CC4.0-BY-SA; meme! copyright to respective artist"/>
+		<tag name="Hasbro" value="Transformer Monopoly"/>
+	</tags>
+	<wavetrack name="Martin Garrix - Animals (Original Mix)-DuFUtL8zUAk" isSelected="0" height="63" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="384659">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087f6.au" len="384659" min="-1.0" max="0.977203" rms="0.228471"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Martin Garrix - Animals (Original Mix)-DuFUtL8zUAk" isSelected="0" height="63" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="384659">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c19.au" len="384659" min="-0.984436" max="0.934357" rms="0.23133"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Tobu - Candyland" isSelected="0" height="54" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="12.24506250" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1204847">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808843.au" len="228402" min="-1.135716" max="1.141032" rms="0.491525"/>
+				</waveblock>
+				<waveblock start="228402">
+					<simpleblockfile filename="e08088fc.au" len="262144" min="-1.145654" max="1.172665" rms="0.498626"/>
+				</waveblock>
+				<waveblock start="490546">
+					<simpleblockfile filename="e080802a.au" len="262144" min="-1.122634" max="1.129492" rms="0.438781"/>
+				</waveblock>
+				<waveblock start="752690">
+					<simpleblockfile filename="e0808ffc.au" len="262144" min="-1.150176" max="1.166903" rms="0.501"/>
+				</waveblock>
+				<waveblock start="1014834">
+					<simpleblockfile filename="e080839b.au" len="190013" min="-1.134346" max="1.134149" rms="0.490072"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Tobu - Candyland" isSelected="0" height="54" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="12.24506250" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1204847">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087b6.au" len="228402" min="-1.144874" max="1.200187" rms="0.50369"/>
+				</waveblock>
+				<waveblock start="228402">
+					<simpleblockfile filename="e0808f8b.au" len="262144" min="-1.127126" max="1.213693" rms="0.513155"/>
+				</waveblock>
+				<waveblock start="490546">
+					<simpleblockfile filename="e0808cf4.au" len="262144" min="-1.1333" max="1.138956" rms="0.458396"/>
+				</waveblock>
+				<waveblock start="752690">
+					<simpleblockfile filename="e08082b0.au" len="262144" min="-1.151885" max="1.164097" rms="0.515803"/>
+				</waveblock>
+				<waveblock start="1014834">
+					<simpleblockfile filename="e0808a5b.au" len="190013" min="-1.150237" max="1.142813" rms="0.505804"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="FitnessGram 20 Meter PACER Test (Full Length OFFICIAL Audio Version)-pP4eIcwgQbk" isSelected="1" height="54" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="8.01372917" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="203104">
+				<waveblock start="0">
+					<simpleblockfile filename="e0800a46.au" len="203104" min="-0.5065" max="0.315552" rms="0.082156"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="FitnessGram 20 Meter PACER Test (Full Length OFFICIAL Audio Version)-pP4eIcwgQbk" isSelected="1" height="54" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="8.01372917" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="203104">
+				<waveblock start="0">
+					<simpleblockfile filename="e08001e6.au" len="203104" min="-0.5065" max="0.315613" rms="0.082151"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

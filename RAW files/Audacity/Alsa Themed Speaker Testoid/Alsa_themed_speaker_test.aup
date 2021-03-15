@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Alsa_themed_speaker_test_data" version="1.3.0" audacityversion="2.3.3" sel0="8.7044791667" sel1="10.1088958333" vpos="128" h="0.0000000000" zoom="55.9797476624" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Alsa"/>
+		<tag name="TITLE" value="Multi-channel test"/>
+	</tags>
+	<wavetrack name="Front_Left" isSelected="0" height="69" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="71042">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e5f.au" len="71042" min="-0.500244" max="0.372284" rms="0.085434"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Front_Right" isSelected="0" height="73" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.48004167" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="73473">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808726.au" len="73473" min="-0.501282" max="0.36084" rms="0.075061"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Front_Center" isSelected="0" height="71" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="3.01072917" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="68545">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d59.au" len="68545" min="-0.472626" max="0.4104" rms="0.074061"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Subwoofer" isSelected="0" height="64" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.43875000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="68527">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fc6.au" len="68527" min="-0.8" max="0.8" rms="0.564807"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rear_Left" isSelected="0" height="66" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="5.86639583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="63010">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089c6.au" len="63010" min="-0.5" max="0.362305" rms="0.088759"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rear_Right" isSelected="0" height="69" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="7.17910417" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="73218">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808244.au" len="73218" min="-0.472809" max="0.413391" rms="0.094653"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Side_Left" isSelected="0" height="74" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="8.70447917" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67412">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b9d.au" len="67412" min="-0.499542" max="0.352875" rms="0.080689"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Side_Right" isSelected="0" height="73" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="10.10889583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="64961">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f22.au" len="64961" min="-0.501251" max="0.34198" rms="0.079678"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rear_Center" isSelected="0" height="81" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="11.46225000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65026">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808079.au" len="65026" min="-0.500763" max="0.443481" rms="0.108403"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Noise" isSelected="0" height="65" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="12.81695833" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67579">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087ea.au" len="67579" min="-0.126251" max="0.125214" rms="0.031761"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
