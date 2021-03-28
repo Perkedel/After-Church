@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="I just recam_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="11.8421768707" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="JOELwindows7"/>
+		<tag name="TITLE" value="I just recam"/>
+		<tag name="COMMENTS" value="idk wtf"/>
+		<tag name="ALBUM" value="Test"/>
+		<tag name="YEAR" value="2021"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="GENRE" value="Podcast"/>
+	</tags>
+	<wavetrack name="Trek Audio" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="407707">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808005.au" len="262144" min="-0.082947" max="0.068146" rms="0.006604"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f86.au" len="145563" min="-0.046814" max="0.031921" rms="0.003369"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="9.24505669" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="645147">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808317.au" len="262144" min="-0.054932" max="0.037537" rms="0.004617"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080895c.au" len="262144" min="-0.406647" max="0.236511" rms="0.031559"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808a4f.au" len="120859" min="-0.275208" max="0.201508" rms="0.013597"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Trek Audio" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="407707">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808904.au" len="262144" min="-0.082489" max="0.06781" rms="0.006572"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808d6d.au" len="145563" min="-0.046631" max="0.031769" rms="0.003352"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="9.24505669" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="645147">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cf0.au" len="262144" min="-0.054657" max="0.037262" rms="0.004591"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08087ad.au" len="262144" min="-0.404602" max="0.230896" rms="0.031401"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808a35.au" len="120859" min="-0.273773" max="0.200439" rms="0.013526"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

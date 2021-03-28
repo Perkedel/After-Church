@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="cyber-corvette_data" version="1.3.0" audacityversion="2.3.3" sel0="9.3732199546" sel1="16.3104535147" vpos="0" h="0.0000000000" zoom="82.9602782363" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="JOELwindows7 &amp; various"/>
+		<tag name="COMMENTS" value="oh"/>
+		<tag name="TITLE" value="Cyber Corvette"/>
+		<tag name="YEAR" value="2021"/>
+		<tag name="buy Minecraft Java" value="https://minecraft.net"/>
+		<tag name="ALBUM" value="wtf meme"/>
+		<tag name="TRACKNUMBER" value="123"/>
+		<tag name="GENRE" value="meme"/>
+		<tag name="Source Cyber" value="https://www.tiktok.com/music/Cyber-Sex-6876036739085895681?lang=id-ID&amp;is_copy_url=1&amp;is_from_webapp=v1"/>
+		<tag name="Source Corvette" value="https://www.tiktok.com/music/Adderall-Corvette-Corvette-6884331673173969670?lang=id-ID&amp;is_copy_url=1&amp;is_from_webapp=v1"/>
+		<tag name="Source Explodos" value="https://youtu.be/39_HhRkXDpQ"/>
+		<tag name="Source Fart reverb" value="https://youtu.be/hr7GyFM7pX4"/>
+		<tag name="Minecraft Classic Hurt Hash" value="9d485556b89bf776042080774679c37300bc744b"/>
+		<tag name="License" value="CC4.0-BY-SA"/>
+	</tags>
+	<wavetrack name="cyber 70420" isSelected="0" height="35" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="671744">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084a1.au" len="262144" min="-0.766726" max="0.775013" rms="0.147283"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808566.au" len="262144" min="-0.891153" max="0.819471" rms="0.128867"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808105.au" len="147456" min="-0.81411" max="0.852421" rms="0.129946"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="cyber 70420" isSelected="0" height="35" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="671744">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c8c.au" len="262144" min="-0.822762" max="0.813389" rms="0.1496"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808c57.au" len="262144" min="-0.886396" max="0.816221" rms="0.130732"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808482.au" len="147456" min="-0.813056" max="0.860636" rms="0.130864"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="corvette" isSelected="0" height="43" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="677888">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808364.au" len="262144" min="-0.493231" max="0.524578" rms="0.055145"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f47.au" len="262144" min="-0.573172" max="0.56489" rms="0.062822"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08085dd.au" len="153600" min="-0.867664" max="0.892363" rms="0.126756"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="corvette" isSelected="0" height="43" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="677888">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088e6.au" len="262144" min="-0.442399" max="0.494535" rms="0.056104"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808758.au" len="262144" min="-0.551502" max="0.534766" rms="0.063809"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808538.au" len="153600" min="-0.864062" max="0.868621" rms="0.127487"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="just corvette" isSelected="0" height="87" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="6.20040816" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="48633">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808124.au" len="48633" min="-0.26822" max="0.244956" rms="0.036541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="just corvette" isSelected="0" height="87" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="6.20040816" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="48633">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808733.au" len="48633" min="-0.256487" max="0.268116" rms="0.039016"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="classic_hurt" isSelected="0" height="65" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="2.02936508" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43188">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808838.au" len="43188" min="-0.80127" max="0.689331" rms="0.086347"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fart_with_extra_reverb" isSelected="1" height="52" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="9.37321995" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="305932">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a74.au" len="258188" min="-1.007428" max="1.011453" rms="0.156528"/>
+				</waveblock>
+				<waveblock start="258188">
+					<simpleblockfile filename="e0808a59.au" len="47744" min="-0.035384" max="0.028466" rms="0.007983"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fart_with_extra_reverb" isSelected="1" height="52" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="9.37321995" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="305932">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f81.au" len="258188" min="-1.011322" max="1.011959" rms="0.149688"/>
+				</waveblock>
+				<waveblock start="258188">
+					<simpleblockfile filename="e0808d9f.au" len="47744" min="-0.020362" max="0.023348" rms="0.005787"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Very Loud Explosion-39_HhRkXDpQ" isSelected="0" height="48" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="13.02081250" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="174034">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087ad.au" len="174034" min="-1.0" max="0.999969" rms="0.189608"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Very Loud Explosion-39_HhRkXDpQ" isSelected="0" height="48" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="13.02081250" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="174034">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f7f.au" len="174034" min="-1.0" max="0.999969" rms="0.159833"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
