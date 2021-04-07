@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000001 64.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Vacuum mine.svg"
+   inkscape:export-filename="/home/joelwindows7/.stepmania-5.0/NewSkins/vacuum-ship_preview/mine.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="22.546869"
+     inkscape:cy="33.660362"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <g
+       id="g4154">
+      <g
+         id="g4264">
+        <g
+           id="g4246">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151"
+             style="opacity:1;fill:#000000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2590909" />
+          <path
+             d="m 32,1020.3622 c 0.03585,-0.1456 0.227888,-0.01 0.259331,0.064 0.115418,0.2649 -0.168528,0.5024 -0.406067,0.5319 -0.472545,0.059 -0.819007,-0.399 -0.822432,-0.8345 -0.0054,-0.6883 0.657599,-1.1643 1.306278,-1.1301 0.914662,0.048 1.530655,0.9356 1.45192,1.8094 -0.103678,1.1506 -1.228643,1.9138 -2.33741,1.7859 -1.394818,-0.1608 -2.311228,-1.534 -2.130611,-2.8863 0.219907,-1.6465 1.850215,-2.721 3.453467,-2.4848 1.904701,0.2806 3.141705,2.1757 2.847493,4.0366 -0.342918,2.169 -2.509645,3.5724 -4.634247,3.2181 -2.438738,-0.4067 -4.012063,-2.8512 -3.595854,-5.2451 0.471805,-2.7136 3.19977,-4.4601 5.867978,-3.9803 2.993221,0.5382 4.91597,3.5548 4.371156,6.5021 -0.605803,3.2773 -3.915916,5.3791 -7.146843,4.7679 -3.565512,-0.6745 -5.849011,-4.2827 -5.17011,-7.8014 0.744304,-3.8577 4.65476,-6.3254 8.46523,-5.5776 4.153631,0.815 6.807907,5.0318 5.990209,9.1378 -0.886831,4.4532 -5.413805,7.2963 -9.818889,6.4076 -4.756035,-0.9595 -7.790114,-5.8003 -6.829475,-10.5079 1.032999,-5.0622 6.191099,-8.2893 11.204481,-7.2558 5.371482,1.1074 8.793594,6.5861 7.686303,11.9084 -1.182494,5.6838 -6.985073,9.3028 -12.619305,8.1209 -5.99895,-1.2584 -9.816671,-7.3879 -8.55936,-13.337 1.335054,-6.3169 7.794427,-10.3351 14.061123,-9.0016 6.637581,1.4124 10.857943,8.2045 9.447525,14.7916 -1.490461,6.9608 -8.618075,11.385 -15.528054,9.8969 -7.286644,-1.5691 -11.916215,-9.0349 -10.349833,-16.2704 1.648524,-7.6149 9.455085,-12.4514 17.018484,-10.806 7.945509,1.7285 12.990457,9.8783 11.265449,17.772 -1.809079,8.2785 -10.304654,13.5333 -18.531017,11.7281 -8.613623,-1.8903 -14.079768,-10.734 -12.193644,-19.2952 1.971987,-8.951 11.166082,-14.6298 20.064433,-12.6623 9.290502,2.0543 15.183357,11.6011 13.133769,20.8387 -2.137119,9.632 -12.038747,15.7402 -21.61765,13.6081 -9.975712,-2.2205 -16.300518,-12.4791 -14.085248,-22.4014 2.304364,-10.3213 12.922098,-16.86399 23.189708,-14.5651 10.668866,2.3888 17.43062,13.3676 15.047564,23.9825 -2.473622,11.0184 -13.815642,18.0004 -24.779744,15.5327 -11.369617,-2.559 -18.5730974,-14.2661 -16.02025,-25.5813 2.644803,-11.7227 14.718933,-19.14879 26.38698,-16.51032 12.077648,2.73112 19.727433,15.17412 17.00288,27.19682 -2.817824,12.4343 -15.631568,20.3089 -28.010708,17.4978 -12.792671,-2.905 -20.8931583,-16.0913 -17.99507,-28.8285 2.992613,-13.1528 16.553179,-21.4802 29.650286,-18.49468 13.514423,3.08064 22.069845,17.01728 18.996463,30.47578 -3.1691,13.8778 -17.483429,22.6622 -31.305122,19.5006 -14.242662,-3.258 -23.2570975,-17.9517 -20.0067335,-32.1381 3.3472236,-14.60918 18.4220085,-23.85461 32.9746735,-20.51514 14.977165,3.43688 24.454553,18.89434 21.02558,33.81484 -3.526926,15.3467 -19.368631,25.057 -34.65844,21.5381 -15.7177243,-3.6174 -25.66187438,-19.8449 -22.052722,-35.5055 3.7081543,-16.09022 20.323034,-26.26914 36.355956,-22.56933 16.464148,3.79933 26.878749,20.80303 23.087901,37.20973 -2.727231,11.8034 -12.30871,21.1619 -24.136471,23.7146"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.43"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153"
+             style="fill:none;fill-rule:evenodd;stroke:#004d00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+             id="flowRoot4155"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157"><rect
+                 style="stroke:#0000ff;stroke-opacity:1;fill:#00ec00;fill-opacity:1;"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159" /></flowRegion><flowPara
+               id="flowPara4161">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186" /></flowRegion><flowPara
+               id="flowPara4188">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242" /></flowRegion><flowPara
+               id="flowPara4244">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.694;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454546" />
+    </g>
+  </g>
+</svg>

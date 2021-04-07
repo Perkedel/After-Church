@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-3 -2 6 4" width="600" height="400">
+
+	<title>Circle Moire</title>
+	<desc></desc>
+	<style type="text/css">
+	<![CDATA[
+	]]>
+	</style>
+
+	<defs>
+		<g id="moire_circle">
+			<circle cx="0" cy="0" r="0.075" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.175" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.275" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.375" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.475" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.575" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.675" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.775" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.875" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="0.975" stroke="black" stroke-width="0.05" fill="none" />
+
+			<circle cx="0" cy="0" r="1.075" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.175" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.275" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.375" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.475" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.575" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.675" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.775" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.875" stroke="black" stroke-width="0.05" fill="none" />
+			<circle cx="0" cy="0" r="1.975" stroke="black" stroke-width="0.05" fill="none" />
+		</g>
+	</defs>
+
+	<use xlink:href="#moire_circle" transform="translate(0.5 0)">
+		<animateTransform attributeName="transform" type="translate" values="-1,0;1,0;-1,0" keyTimes="0.0;0.5;1.0" dur="16s" repeatCount="indefinite"/>
+	</use>
+	<use xlink:href="#moire_circle" transform="translate(-0.5 0)">
+		<animateTransform attributeName="transform" type="translate" values="1,0;-1,0;1,0" keyTimes="0.0;0.5;1.0" dur="16s" repeatCount="indefinite"/>
+	</use>
+</svg>

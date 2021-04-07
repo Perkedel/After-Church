@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="700" height="400" version="1.1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+
+ <script type="text/javascript">
+  <![CDATA[
+    window.onload = function() {
+     var circle = document.getElementById("myCircle");
+     circle.onclick = function() {
+       var r = parseInt(this.getAttribute("r"));
+       r -= 5;
+       circle.setAttribute("r",r);
+     }
+    }
+   ]]>
+ </script>
+
+ <circle id="myCircle" cx="300" cy="200" r="100" fill="url(#grad_red)" />
+   
+ <radialGradient id="grad_red" cx="20%" cy="20%" r="100%" fx="30%" fy="30%">
+   <stop stop-color="white" offset="0"/>
+   <stop stop-color="red" offset="25%"/>
+   <stop stop-color="rgb(192,0,0)" offset="50%"/>
+   <stop stop-color="rgb(127,0,0)" offset="70%"/>
+   <stop stop-color="rgb(64,0,0)" offset="85%"/>
+   <stop stop-color="rgb(0,0,0)" offset="100%"/>
+ </radialGradient>
+
+ <text x ="230" y="80" 
+  font-family="Times New Roman" font-size="2.5em" 
+  fill="black">  Click it! </text>
+
+ <text x ="150" y="370" 
+  font-family="Times New Roman" font-size="3.5em" 
+  fill="darkblue">  Shrinking Ball </text>
+</svg>

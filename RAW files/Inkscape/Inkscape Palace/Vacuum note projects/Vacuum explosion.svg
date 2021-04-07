@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000001 64.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Vacuum explosion.svg"
+   inkscape:export-filename="/home/joelwindows7/.stepmania-5.0/NewSkins/vacuum-ship/Explosion Bright.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="20.041687"
+     inkscape:cy="28.240464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <g
+       id="g4171">
+      <path
+         d="m 52.847525,1044.6808 -12.441889,-10.6693 3.914239,15.9158 -8.535936,-13.9919 -1.195601,16.3464 -3.794428,-15.9448 -6.188407,15.1769 1.318506,-16.337 -10.575448,12.5218 6.302375,-15.1299 -13.9272918,8.6409 10.6693238,-12.4419 -15.9158343,3.9143 13.9918853,-8.536 -16.34642478,-1.1956 15.94482278,-3.7944 -15.17691247,-6.1884 16.33697047,1.3185 -12.5217788,-10.5755 15.1299418,6.3024 -8.640926,-13.92727 12.441888,10.66937 -3.914239,-15.91588 8.535937,13.99188 1.1956,-16.34642 3.794428,15.94482 6.188407,-15.17691 -1.318506,16.33701 10.575449,-12.52182 -6.302376,15.12992 13.927292,-8.64091 -10.669324,12.44191 15.915835,-3.9143 -13.991886,8.536 16.346425,1.1956 -15.944823,3.7944 15.176913,6.1884 -16.336971,-1.3185 12.521779,10.5755 -15.129941,-6.3024 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0192497"
+         sodipodi:arg1="0.86217005"
+         sodipodi:r2="16.000832"
+         sodipodi:r1="32.001663"
+         sodipodi:cy="1020.3833"
+         sodipodi:cx="32.021118"
+         sodipodi:sides="20"
+         id="path4142"
+         style="opacity:1;fill:#52b0d4;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#00ffff;stroke-width:0.694;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29090908"
+         sodipodi:type="star" />
+      <flowRoot
+         transform="matrix(0.24576349,0,0,0.24576349,28.160022,1026.111)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#004fff;fill-opacity:1;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.29090908;"
+         id="flowRoot4144"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4146"><rect
+             style="stroke:#ff00ff;stroke-opacity:0.29090908;fill:#004fff;fill-opacity:1;"
+             y="-46"
+             x="-55"
+             height="45"
+             width="260"
+             id="rect4148" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:#ff00ff;stroke-opacity:0.29090908;fill:#004fff;fill-opacity:1;"
+           id="flowPara4150">POOF!!!</flowPara></flowRoot>    </g>
+  </g>
+</svg>

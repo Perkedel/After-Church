@@ -1,0 +1,56 @@
+--I'm sorry, Jousway! -JOELwindows7-
+local red= {1, 0, 0, 1}
+local green= {0, 1, 0, 1}
+local blue= {0, 0, 1, 1}
+local white= {1, 1, 1, 1}
+return function(button_list, stepstype, skin_parameters)
+	local ret= {}
+	local rots= {
+		Left= 90, Down= 0, Up= 180, Right= 270,
+		UpLeft= 135, UpRight=225, 
+		Center=0
+	}
+	--local warning_time= skin_parameters.receptors.warning_time
+	local tap_buttons= {
+		Left= "down", Right= "down", Down= "down", Up= "down", 
+		UpLeft= "DownLeft", UpRight= "DownLeft", -- shared for dance and pump
+		DownLeft= "DownLeft", DownRight= "DownLeft", Center= "Center"
+	}
+	for i, button in ipairs(button_list) do
+		ret[i]= Def.Sprite{
+			Texture= tap_buttons[button].." Receptor 2x1.png", InitCommand= function(self)
+				self:rotationz(rots[button] or 0):effectclock("beat"):SetStateProperties(
+					{{Frame= 0, Delay= .2}, {Frame= 1, Delay= .4}}
+					--{{Frame= 0, Delay= .2}, {Frame= 1, Delay= .4}}
+				):draworder(newfield_draw_order.receptor)
+			end,
+			WidthSetCommand= function(self, param)
+				param.column:set_layer_fade_type(self, "FieldLayerFadeType_Receptor")
+			end,
+			ColumnJudgmentCommand= function(self)
+				self.none = false
+			end,
+			BeatUpdateCommand= function(self, param)
+				--self:glow{1, 1, 1, (1 - param.beat*2) / 4}
+				--[[if warning_time > 0 and param.beat_distance < warning_time then
+					self:diffuse(lerp_color(param.beat_distance/warning_time, white, red))
+				else
+					self:diffuse(white)
+				end]]--
+				if param.pressed then
+					if self.none == true then
+						if self.onepress == true then
+							self:stoptweening():zoom(.75):linear(.11):zoom(1)
+							self.onepress = false
+						end
+					end
+				else
+					self:zoom(1)
+					self.onepress = true
+					self.none = true
+				end
+			end,
+		}
+	end
+	return ret
+end

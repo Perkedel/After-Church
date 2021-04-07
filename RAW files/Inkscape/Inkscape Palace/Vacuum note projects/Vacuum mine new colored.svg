@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="64"
+   viewBox="0 0 512.00001 64.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Vacuum mine.svg"
+   inkscape:export-filename="/home/joelwindows7/.stepmania-5.0/NewSkins/vacuum-ship/Mine 8x1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="221.07539"
+     inkscape:cy="37.093235"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <g
+       id="g4154">
+      <g
+         id="g4264">
+        <g
+           id="g4246">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151"
+             style="opacity:1;fill:#ff0000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2590909" />
+          <path
+             d="m 32,1020.3622 c 0.03585,-0.1456 0.227888,-0.01 0.259331,0.064 0.115418,0.2649 -0.168528,0.5024 -0.406067,0.5319 -0.472545,0.059 -0.819007,-0.399 -0.822432,-0.8345 -0.0054,-0.6883 0.657599,-1.1643 1.306278,-1.1301 0.914662,0.048 1.530655,0.9356 1.45192,1.8094 -0.103678,1.1506 -1.228643,1.9138 -2.33741,1.7859 -1.394818,-0.1608 -2.311228,-1.534 -2.130611,-2.8863 0.219907,-1.6465 1.850215,-2.721 3.453467,-2.4848 1.904701,0.2806 3.141705,2.1757 2.847493,4.0366 -0.342918,2.169 -2.509645,3.5724 -4.634247,3.2181 -2.438738,-0.4067 -4.012063,-2.8512 -3.595854,-5.2451 0.471805,-2.7136 3.19977,-4.4601 5.867978,-3.9803 2.993221,0.5382 4.91597,3.5548 4.371156,6.5021 -0.605803,3.2773 -3.915916,5.3791 -7.146843,4.7679 -3.565512,-0.6745 -5.849011,-4.2827 -5.17011,-7.8014 0.744304,-3.8577 4.65476,-6.3254 8.46523,-5.5776 4.153631,0.815 6.807907,5.0318 5.990209,9.1378 -0.886831,4.4532 -5.413805,7.2963 -9.818889,6.4076 -4.756035,-0.9595 -7.790114,-5.8003 -6.829475,-10.5079 1.032999,-5.0622 6.191099,-8.2893 11.204481,-7.2558 5.371482,1.1074 8.793594,6.5861 7.686303,11.9084 -1.182494,5.6838 -6.985073,9.3028 -12.619305,8.1209 -5.99895,-1.2584 -9.816671,-7.3879 -8.55936,-13.337 1.335054,-6.3169 7.794427,-10.3351 14.061123,-9.0016 6.637581,1.4124 10.857943,8.2045 9.447525,14.7916 -1.490461,6.9608 -8.618075,11.385 -15.528054,9.8969 -7.286644,-1.5691 -11.916215,-9.0349 -10.349833,-16.2704 1.648524,-7.6149 9.455085,-12.4514 17.018484,-10.806 7.945509,1.7285 12.990457,9.8783 11.265449,17.772 -1.809079,8.2785 -10.304654,13.5333 -18.531017,11.7281 -8.613623,-1.8903 -14.079768,-10.734 -12.193644,-19.2952 1.971987,-8.951 11.166082,-14.6298 20.064433,-12.6623 9.290502,2.0543 15.183357,11.6011 13.133769,20.8387 -2.137119,9.632 -12.038747,15.7402 -21.61765,13.6081 -9.975712,-2.2205 -16.300518,-12.4791 -14.085248,-22.4014 2.304364,-10.3213 12.922098,-16.86399 23.189708,-14.5651 10.668866,2.3888 17.43062,13.3676 15.047564,23.9825 -2.473622,11.0184 -13.815642,18.0004 -24.779744,15.5327 -11.369617,-2.559 -18.5730974,-14.2661 -16.02025,-25.5813 2.644803,-11.7227 14.718933,-19.14879 26.38698,-16.51032 12.077648,2.73112 19.727433,15.17412 17.00288,27.19682 -2.817824,12.4343 -15.631568,20.3089 -28.010708,17.4978 -12.792671,-2.905 -20.8931583,-16.0913 -17.99507,-28.8285 2.992613,-13.1528 16.553179,-21.4802 29.650286,-18.49468 13.514423,3.08064 22.069845,17.01728 18.996463,30.47578 -3.1691,13.8778 -17.483429,22.6622 -31.305122,19.5006 -14.242662,-3.258 -23.2570975,-17.9517 -20.0067335,-32.1381 3.3472236,-14.60918 18.4220085,-23.85461 32.9746735,-20.51514 14.977165,3.43688 24.454553,18.89434 21.02558,33.81484 -3.526926,15.3467 -19.368631,25.057 -34.65844,21.5381 -15.7177243,-3.6174 -25.66187438,-19.8449 -22.052722,-35.5055 3.7081543,-16.09022 20.323034,-26.26914 36.355956,-22.56933 16.464148,3.79933 26.878749,20.80303 23.087901,37.20973 -2.727231,11.8034 -12.30871,21.1619 -24.136471,23.7146"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.43"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159" /></flowRegion><flowPara
+               id="flowPara4161">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186" /></flowRegion><flowPara
+               id="flowPara4188">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242" /></flowRegion><flowPara
+               id="flowPara4244">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(64.0004,-0.01253482)"
+       id="g4154-6">
+      <g
+         id="g4264-4">
+        <g
+           id="g4246-4">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-0"
+             style="opacity:1;fill:#0000ff;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03548,-0.1441 0.225571,-0.01 0.256693,0.063 0.114245,0.2622 -0.166813,0.4973 -0.401936,0.5265 -0.467739,0.058 -0.810677,-0.3949 -0.814068,-0.826 -0.0054,-0.6813 0.650911,-1.1525 1.292993,-1.1186 0.905358,0.048 1.515086,0.9261 1.437152,1.791 -0.102623,1.1389 -1.216146,1.8944 -2.313636,1.7678 -1.380632,-0.1593 -2.287721,-1.5185 -2.108942,-2.857 0.217671,-1.6297 1.831398,-2.6933 3.418343,-2.4595 1.885328,0.2778 3.109751,2.1536 2.818531,3.9956 -0.339429,2.1469 -2.484119,3.536 -4.587113,3.1853 -2.413934,-0.4026 -3.971256,-2.8222 -3.55928,-5.1917 0.467006,-2.686 3.167226,-4.4148 5.808295,-3.9399 2.962778,0.5327 4.865971,3.5187 4.326698,6.436 -0.599641,3.244 -3.876088,5.3244 -7.074154,4.7194 -3.529247,-0.6677 -5.789521,-4.2391 -5.117526,-7.7221 0.736735,-3.8184 4.607418,-6.261 8.379132,-5.5209 4.111385,0.8068 6.738665,4.9807 5.929284,9.045 -0.877811,4.4078 -5.358742,7.222 -9.719023,6.3423 -4.707662,-0.9497 -7.710883,-5.7412 -6.760014,-10.401 1.022492,-5.0107 6.128131,-8.205 11.090523,-7.1819 5.316849,1.096 8.704156,6.5191 7.608127,11.7872 -1.170467,5.626 -6.914029,9.2082 -12.490957,8.0383 -5.937935,-1.2456 -9.716827,-7.3127 -8.472305,-13.2013 1.321476,-6.2527 7.715152,-10.23 13.918111,-8.9101 6.570071,1.3981 10.747509,8.1211 9.351436,14.6411 -1.475302,6.8901 -8.530422,11.2693 -15.370121,9.7964 -7.212534,-1.5533 -11.795018,-8.9431 -10.244567,-16.105 1.631757,-7.5374 9.358919,-12.3247 16.845392,-10.6961 7.864697,1.7109 12.858334,9.7779 11.150871,17.5913 -1.79068,8.1942 -10.199848,13.3956 -18.342542,11.6087 -8.526016,-1.871 -13.936566,-10.6247 -12.069625,-19.0989 1.951931,-8.86 11.052514,-14.481 19.860362,-12.5335 9.19601,2.0334 15.02893,11.4831 13.000188,20.6267 -2.115383,9.5341 -11.916303,15.5802 -21.397782,13.4697 -9.87425,-2.1979 -16.134728,-12.3522 -13.94199,-22.1735 2.280927,-10.2163 12.79067,-16.69247 22.953851,-14.4169 10.560355,2.3644 17.253337,13.2316 14.894518,23.7386 -2.448463,10.9062 -13.675125,17.8172 -24.527714,15.3746 -11.253979,-2.5329 -18.3841944,-14.121 -15.857311,-25.3211 2.617902,-11.6035 14.569229,-18.95401 26.118603,-16.34238 11.954808,2.70328 19.526789,15.01978 16.829948,26.92018 -2.789165,12.3079 -15.472583,20.1024 -27.725817,17.3199 -12.66256,-2.8755 -20.6806589,-15.9276 -17.8120465,-28.5354 2.9621755,-13.0189 16.3848205,-21.26167 29.3487195,-18.30651 13.376971,3.04931 21.845376,16.84421 18.803254,30.16591 -3.136868,13.7366 -17.305609,22.4316 -30.986725,19.3021 -14.097803,-3.2248 -23.020554,-17.7691 -19.8032487,-31.8112 3.3131797,-14.46055 18.2346417,-23.61194 32.6392957,-20.30644 14.824835,3.40193 24.20583,18.70214 20.811732,33.47084 -3.491054,15.1907 -19.171637,24.8022 -34.305936,21.3191 -15.5578624,-3.5805 -25.4008726,-19.643 -21.8284282,-35.1444 3.6704395,-15.92653 20.1163322,-26.00193 35.9861872,-22.33974 16.296695,3.76068 26.605371,20.59144 22.853079,36.83124 -3.851286,16.6683 -21.068484,27.2111 -37.679621,23.3683 -2.911028,-0.6734 -5.724341,-1.7603 -8.332706,-3.2176"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.5449"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-9"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-0">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-1"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-5"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-5" /></flowRegion><flowPara
+               id="flowPara4161-2">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-3"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-6"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-1" /></flowRegion><flowPara
+               id="flowPara4188-4">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-8"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-3"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-4" /></flowRegion><flowPara
+               id="flowPara4244-4">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-4"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(128.0004,-0.01253482)"
+       id="g4154-4">
+      <g
+         id="g4264-6">
+        <g
+           id="g4246-2">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-9"
+             style="opacity:1;fill:#980098;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03522,-0.143 0.223917,-0.01 0.254811,0.063 0.113406,0.2603 -0.16559,0.4937 -0.398989,0.5227 -0.464309,0.058 -0.804732,-0.392 -0.808098,-0.82 -0.0053,-0.6762 0.646137,-1.144 1.283511,-1.1103 0.898719,0.048 1.503976,0.9193 1.426613,1.7778 -0.10187,1.1305 -1.207228,1.8805 -2.29667,1.7548 -1.370507,-0.158 -2.270945,-1.5073 -2.093476,-2.836 0.216075,-1.6178 1.817967,-2.6736 3.393275,-2.4415 1.871503,0.2757 3.086947,2.1378 2.797863,3.9663 -0.336941,2.1311 -2.465903,3.5101 -4.553475,3.162 -2.396232,-0.3996 -3.942135,-2.8016 -3.53318,-5.1537 0.463582,-2.6663 3.144,-4.3824 5.765703,-3.911 2.941051,0.5289 4.830287,3.4929 4.294969,6.3889 -0.595244,3.2201 -3.847664,5.2853 -7.022278,4.6847 -3.503367,-0.6628 -5.747066,-4.208 -5.079998,-7.6654 0.731332,-3.7905 4.57363,-6.2152 8.317686,-5.4804 4.081236,0.8009 6.689249,4.9442 5.885803,8.9786 -0.871374,4.3755 -5.319445,7.169 -9.647751,6.2958 -4.67314,-0.9427 -7.654338,-5.6991 -6.710442,-10.3247 1.014995,-4.9739 6.083192,-8.1448 11.009194,-7.1293 5.27786,1.088 8.640327,6.4713 7.552335,11.7008 -1.161883,5.5847 -6.863327,9.1407 -12.399358,7.9794 -5.894391,-1.2365 -9.645572,-7.2592 -8.410176,-13.1045 1.311786,-6.2069 7.658575,-10.155 13.816047,-8.8448 6.521892,1.3878 10.668695,8.0616 9.28286,14.5338 -1.464483,6.8395 -8.467867,11.1866 -15.257409,9.7245 -7.159643,-1.5419 -11.708523,-8.8775 -10.169441,-15.9869 1.61979,-7.4822 9.290288,-12.2344 16.721861,-10.6177 7.807024,1.6984 12.764041,9.7062 11.0691,17.4623 -1.777549,8.1342 -10.125051,13.2974 -18.208033,11.5236 -8.463493,-1.8573 -13.834366,-10.5468 -11.981116,-18.9588 1.937616,-8.795 10.971464,-14.3749 19.714722,-12.4416 9.128574,2.0185 14.91872,11.3989 12.904855,20.4754 -2.09987,9.4642 -11.828919,15.466 -21.240868,13.371 -9.80184,-2.1818 -16.016409,-12.2616 -13.83975,-22.011 2.2642,-10.1414 12.696873,-16.57003 22.785525,-14.3112 10.482914,2.3471 17.126816,13.1346 14.785294,23.5645 -2.430508,10.8263 -13.574843,17.6867 -24.347848,15.262 -11.171451,-2.5144 -18.2493792,-14.0175 -15.741026,-25.1354 2.598705,-11.5185 14.462391,-18.8151 25.92707,-16.22262 11.867142,2.68352 19.383596,14.90962 16.706531,26.72282 -2.768711,12.2176 -15.359119,19.9549 -27.522499,17.1928 -12.569702,-2.8544 -20.5290028,-15.8108 -17.6814265,-28.3261 2.9404535,-12.9235 16.2646675,-21.10575 29.1334995,-18.17227 13.278875,3.02696 21.685181,16.72067 18.665366,29.94467 -3.113864,13.6359 -17.178703,22.2672 -30.759493,19.1606 -13.994421,-3.2012 -22.8517399,-17.6388 -19.6580278,-31.5779 3.2888835,-14.35455 18.1009238,-23.43883 32.3999458,-20.15757 14.716122,3.37698 24.028324,18.56497 20.659116,33.22547 -3.465454,15.0792 -19.031048,24.6202 -34.054364,21.1627 -15.4437743,-3.5543 -25.21460388,-19.499 -21.6683568,-34.8867 3.6435234,-15.80973 19.9688158,-25.81124 35.7222938,-22.17591 16.177188,3.7331 26.410269,20.44051 22.685493,36.56121 -3.823044,16.546 -20.913985,27.0115 -37.403309,23.1969 -8.337247,-1.9287 -15.6576196,-7.2943 -20.0380073,-14.6416"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.628233"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-1"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-2">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-3"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-3"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-8" /></flowRegion><flowPara
+               id="flowPara4161-20">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-7"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-0"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-6" /></flowRegion><flowPara
+               id="flowPara4188-3">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-2"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-5"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-3" /></flowRegion><flowPara
+               id="flowPara4244-5">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-0"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(192.0004,-0.01253482)"
+       id="g4154-0">
+      <g
+         id="g4264-7">
+        <g
+           id="g4246-5">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-6"
+             style="opacity:1;fill:#ffff00;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03471,-0.141 0.220674,-0.01 0.251121,0.062 0.111764,0.2566 -0.163192,0.4866 -0.393211,0.5151 -0.457586,0.057 -0.79308,-0.3863 -0.796397,-0.8081 -0.0052,-0.6664 0.636782,-1.1274 1.264925,-1.0942 0.885706,0.047 1.482198,0.906 1.405956,1.7521 -0.100396,1.1141 -1.189747,1.8532 -2.263413,1.7294 -1.350662,-0.1558 -2.238061,-1.4856 -2.063162,-2.795 0.212946,-1.5944 1.791642,-2.6349 3.344139,-2.4061 1.844402,0.2717 3.042246,2.1068 2.757348,3.9088 -0.332061,2.1003 -2.430195,3.4593 -4.487538,3.1162 -2.361534,-0.3938 -3.88505,-2.761 -3.482017,-5.079 0.456868,-2.6277 3.098473,-4.319 5.682211,-3.8544 2.898463,0.5212 4.760342,3.4423 4.232776,6.2963 -0.586624,3.1736 -3.791947,5.2088 -6.920591,4.6169 -3.452637,-0.6531 -5.663846,-4.147 -5.006437,-7.5544 0.720741,-3.7355 4.507401,-6.1251 8.197241,-5.401 4.022137,0.7892 6.592385,4.8725 5.800574,8.8485 -0.858757,4.3122 -5.242417,7.0653 -9.508047,6.2048 -4.60547,-0.9292 -7.543498,-5.6167 -6.61327,-10.1753 1.000296,-4.9019 5.995104,-8.0269 10.849774,-7.026 5.201434,1.0722 8.51521,6.3775 7.442973,11.5314 -1.145059,5.5038 -6.763942,9.0082 -12.219808,7.8637 -5.809038,-1.2185 -9.505899,-7.154 -8.288392,-12.9147 1.29279,-6.1169 7.547674,-10.0079 13.615983,-8.7167 6.427451,1.3677 10.514206,7.9448 9.148438,14.3233 -1.443276,6.7405 -8.345247,11.0246 -15.036473,9.5837 -7.055967,-1.5195 -11.538976,-8.749 -10.022182,-15.7554 1.596335,-7.3738 9.15576,-12.0572 16.47972,-10.4639 7.693973,1.6738 12.57921,9.5656 10.908812,17.2095 -1.751808,8.0163 -9.978434,13.1048 -17.94437,11.3567 -8.340937,-1.8304 -13.634036,-10.3941 -11.807622,-18.6844 1.909558,-8.6676 10.812591,-14.1666 19.429241,-12.2613 8.996387,1.9892 14.702688,11.2337 12.717986,20.1789 -2.069463,9.3271 -11.657629,15.242 -20.933288,13.1773 -9.659905,-2.1502 -15.784483,-12.0841 -13.639343,-21.6922 2.231413,-9.9946 12.513015,-16.33012 22.455578,-14.104 10.331115,2.3131 16.878809,12.9444 14.571195,23.2233 -2.395313,10.6695 -13.378272,17.4305 -23.995278,15.0409 -11.009682,-2.4779 -17.985118,-13.8144 -15.513087,-24.7714 2.561074,-11.3516 14.252967,-18.5426 25.551631,-15.98766 11.695299,2.64466 19.102911,14.69376 16.464611,26.33586 -2.728619,12.0406 -15.13671,19.6659 -27.123957,16.9438 -12.387686,-2.813 -20.2317318,-15.5818 -17.4253899,-27.9159 2.8978739,-12.7363 16.0291459,-20.80012 28.7116299,-17.90911 13.086589,2.98312 21.371167,16.47851 18.395081,29.51101 -3.068774,13.4384 -16.929946,21.9448 -30.314078,18.8832 C 12.089819,1042.0497 3.360759,1027.8211 6.5082244,1014.0838 9.749483,999.93717 24.347037,990.98443 38.439,994.21818 c 14.503024,3.32807 23.680381,18.29622 20.359961,32.74432 -3.415272,14.8609 -18.755468,24.2637 -33.561238,20.8563 -15.220139,-3.5029 -24.84948173,-19.2167 -21.3545864,-34.3815 3.5907632,-15.58085 19.6796554,-25.43753 35.2050144,-21.85484 15.942934,3.67904 26.027833,20.14454 22.356994,36.03174 -3.767683,16.3064 -20.611138,26.6204 -36.861687,22.8611 -16.6712338,-3.8567 -27.2151537,-21.0796 -23.3669503,-37.6948 0.6741977,-2.9109 1.7619098,-5.7241 3.2199205,-8.3321"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.7949"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-0"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-26">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-4"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-6"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-2" /></flowRegion><flowPara
+               id="flowPara4161-0">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-0"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-02"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-2" /></flowRegion><flowPara
+               id="flowPara4188-1">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-7"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-7"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-6" /></flowRegion><flowPara
+               id="flowPara4244-51">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-6"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(256.0004,-0.01253482)"
+       id="g4154-43">
+      <g
+         id="g4264-2">
+        <g
+           id="g4246-9">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-5"
+             style="opacity:1;fill:#000000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03446,-0.1399 0.219085,-0.01 0.249312,0.061 0.11096,0.2547 -0.162017,0.483 -0.390379,0.5114 -0.45429,0.056 -0.787368,-0.3836 -0.790661,-0.8023 -0.0052,-0.6617 0.632195,-1.1193 1.255815,-1.0864 0.879328,0.046 1.471525,0.8995 1.395832,1.7395 -0.09967,1.1061 -1.18118,1.8399 -2.247114,1.7169 -1.340935,-0.1546 -2.221944,-1.4748 -2.048305,-2.7748 0.211413,-1.5829 1.778741,-2.6159 3.320057,-2.3888 1.831121,0.2698 3.020339,2.0917 2.737492,3.8807 -0.32967,2.0852 -2.412695,3.4343 -4.455222,3.0937 -2.344528,-0.391 -3.857074,-2.741 -3.456943,-5.0424 0.453579,-2.6088 3.07616,-4.2878 5.641293,-3.8266 2.877591,0.5174 4.726062,3.4175 4.202295,6.251 -0.5824,3.1506 -3.764641,5.1712 -6.870755,4.5836 -3.427773,-0.6484 -5.623059,-4.1172 -4.970384,-7.5 0.715551,-3.7087 4.474942,-6.081 8.138211,-5.3622 3.993173,0.7836 6.544912,4.8375 5.758802,8.7849 -0.852572,4.2811 -5.204665,7.0144 -9.439577,6.16 -4.572306,-0.9224 -7.489176,-5.5762 -6.565647,-10.1019 0.993093,-4.8667 5.951932,-7.9691 10.771643,-6.9755 5.163977,1.0646 8.45389,6.3317 7.389375,11.4484 -1.136813,5.4642 -6.715234,8.9434 -12.131811,7.8071 -5.767206,-1.2098 -9.437446,-7.1025 -8.228706,-12.8217 1.28348,-6.0729 7.493322,-9.9359 13.517932,-8.6539 6.381165,1.3578 10.438492,7.8876 9.082559,14.2201 -1.432883,6.692 -8.285152,10.9452 -14.928193,9.5147 -7.005156,-1.5086 -11.455883,-8.686 -9.950011,-15.6419 1.58484,-7.3207 9.089828,-11.9704 16.361047,-10.3886 7.638568,1.6617 12.488625,9.4967 10.830256,17.0855 -1.739193,7.9587 -9.906578,13.0105 -17.815149,11.275 -8.280873,-1.8172 -13.535856,-10.3193 -11.722594,-18.5498 1.895807,-8.6052 10.734727,-14.0647 19.289328,-12.1731 8.931602,1.9749 14.596811,11.1529 12.626401,20.0336 -2.05456,9.26 -11.573681,15.1322 -20.782544,13.0824 -9.590342,-2.1347 -15.670816,-11.997 -13.541124,-21.536 2.215345,-9.9226 12.422907,-16.21248 22.293872,-14.0024 10.25672,2.2965 16.757262,12.8512 14.466265,23.0561 -2.378064,10.5926 -13.281933,17.305 -23.822483,14.9326 -10.9304,-2.4601 -17.8556046,-13.715 -15.401376,-24.5931 2.542632,-11.2698 14.15033,-18.40903 25.367631,-15.87249 11.611079,2.62559 18.965347,14.58789 16.346046,26.14619 -2.708969,11.954 -15.027708,19.5243 -26.928633,16.8218 -12.29848,-2.7927 -20.0860396,-15.4696 -17.2999067,-27.7148 2.8770057,-12.6447 15.9137167,-20.6504 28.5048727,-17.78021 12.992351,2.96164 21.21727,16.35981 18.262615,29.29851 -3.046675,13.3417 -16.808031,21.7867 -30.095781,18.7472 -13.692458,-3.1321 -22.358658,-17.2582 -19.233858,-30.8966 3.2179177,-14.0447 17.710352,-22.93302 31.700837,-19.72256 14.398585,3.30412 23.509855,18.16446 20.213345,32.50856 -3.390678,14.7538 -18.620406,24.089 -33.319558,20.7061 -15.110536,-3.4777 -24.67053616,-19.0783 -21.2008081,-34.1339 3.5649055,-15.46868 19.5379391,-25.25438 34.9514971,-21.6975 15.828126,3.65256 25.840403,19.9994 22.195998,35.7723 -3.740552,16.189 -20.462714,26.4287 -36.59624,22.6964 -16.5511817,-3.8289 -27.0191731,-20.9277 -23.1986812,-37.4233 1.9310374,-8.3375 7.2987741,-15.65746 14.6479152,-20.03644"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="13.878233"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-02"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-00">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-2"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-0"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-81" /></flowRegion><flowPara
+               id="flowPara4161-00">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-74"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-62"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-7" /></flowRegion><flowPara
+               id="flowPara4188-9">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-21"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-1"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-68" /></flowRegion><flowPara
+               id="flowPara4244-0">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-2"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(320.0125,-0.01253482)"
+       id="g4154-61">
+      <g
+         id="g4264-9">
+        <g
+           id="g4246-0">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-4"
+             style="opacity:1;fill:#000000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03397,-0.138 0.215969,-0.01 0.245766,0.06 0.109382,0.2511 -0.159712,0.4762 -0.384827,0.5041 -0.447829,0.056 -0.776169,-0.3781 -0.779415,-0.7908 -0.0051,-0.6523 0.623203,-1.1035 1.237954,-1.071 0.866821,0.046 1.450595,0.8867 1.375978,1.7148 -0.09826,1.0903 -1.164379,1.8137 -2.215153,1.6925 -1.321863,-0.1525 -2.190341,-1.4539 -2.019171,-2.7354 0.208405,-1.5603 1.753441,-2.5787 3.272835,-2.3548 1.805077,0.2659 2.97738,2.0619 2.698557,3.8255 -0.324982,2.0555 -2.378379,3.3855 -4.391856,3.0497 -2.311181,-0.3854 -3.802213,-2.7021 -3.407774,-4.9707 0.447128,-2.5717 3.032408,-4.2268 5.561056,-3.7722 2.836663,0.5101 4.658843,3.3689 4.142526,6.1621 -0.574117,3.1059 -3.711097,5.0977 -6.773032,4.5185 -3.37902,-0.6393 -5.543081,-4.0587 -4.89969,-7.3934 0.705374,-3.6559 4.411295,-5.9945 8.02246,-5.2859 3.936378,0.7725 6.451824,4.7687 5.676895,8.6599 -0.840446,4.2203 -5.130638,6.9146 -9.305317,6.0725 -4.507273,-0.9093 -7.382657,-5.4969 -6.472264,-9.9583 0.978969,-4.7974 5.867278,-7.8558 10.618438,-6.8763 5.090529,1.0494 8.333649,6.2416 7.284274,11.2855 -1.120644,5.3865 -6.619722,8.8162 -11.959259,7.6962 -5.685177,-1.1926 -9.303215,-7.0015 -8.111668,-12.6394 1.265226,-5.9865 7.386744,-9.7946 13.325665,-8.5308 6.290406,1.3385 10.290024,7.7754 8.953377,14.0179 -1.412503,6.5967 -8.167311,10.7895 -14.715868,9.3793 -6.90552,-1.4871 -11.292944,-8.5624 -9.80849,-15.4194 1.562299,-7.2166 8.960542,-11.8002 16.128341,-10.2408 7.529924,1.638 12.310998,9.3616 10.676217,16.8425 -1.714457,7.8454 -9.765676,12.8254 -17.561763,11.1146 -8.163093,-1.7914 -13.343334,-10.1725 -11.555862,-18.286 1.868843,-8.4828 10.582046,-13.8646 19.014974,-12 8.804567,1.9469 14.389199,10.9943 12.446814,19.7487 -2.025338,9.1283 -11.409067,14.917 -20.486951,12.8964 -9.453937,-2.1044 -15.447928,-11.8264 -13.348527,-21.2297 2.183835,-9.7815 12.246215,-15.9819 21.976783,-13.8033 10.110837,2.2638 16.518922,12.6685 14.26051,22.7282 -2.34424,10.442 -13.093022,17.0588 -23.483653,14.7202 -10.774936,-2.4252 -17.6016421,-13.52 -15.18232,-24.2433 2.506468,-11.1096 13.949068,-18.14723 25.006824,-15.64676 11.445933,2.58826 18.6956,14.38046 16.113554,25.77426 -2.670439,11.784 -14.813967,19.2467 -26.545624,16.5826 -12.123557,-2.753 -19.8003532,-15.2496 -17.0538478,-27.3207 2.8360858,-12.4647 15.6873738,-20.35661 28.0994448,-17.52724 12.807559,2.91954 20.915493,16.12714 18.002863,28.88184 -3.003342,13.1518 -16.568968,21.4768 -29.667725,18.4805 -13.497708,-3.0875 -22.040648,-17.0127 -18.9602924,-30.4571 3.1721494,-13.845 17.4584554,-22.60688 31.2499524,-19.44208 14.193792,3.25711 23.175471,17.90608 19.925848,32.04618 -3.342452,14.544 -18.355566,23.7464 -32.84565,20.4116 C 10.48629,1043.8052 1.0622629,1028.4265 4.4826406,1013.5849 7.996842,998.33631 23.742689,988.6898 38.937019,992.19609 c 15.603,3.60061 25.472871,19.71501 21.880301,35.26351 -3.68735,15.9587 -20.171671,26.0528 -36.075728,22.3736 -16.3157715,-3.7744 -26.6348754,-20.6301 -22.8687229,-36.891 3.8618537,-16.67415 21.0902149,-27.21911 37.7093179,-23.36566 2.910873,0.67494 5.723828,1.76337 8.331629,3.22207"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="14.0449"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-3"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-09">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-34"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-1"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-4" /></flowRegion><flowPara
+               id="flowPara4161-9">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-1"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-4"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-0" /></flowRegion><flowPara
+               id="flowPara4188-44">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-9"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-0"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-2" /></flowRegion><flowPara
+               id="flowPara4244-3">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-7"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(384.0004,-0.01253482)"
+       id="g4154-3">
+      <g
+         id="g4264-69">
+        <g
+           id="g4246-6">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-2"
+             style="opacity:1;fill:#000000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03391,-0.1377 0.21558,-0.01 0.245323,0.06 0.109185,0.2506 -0.159424,0.4753 -0.384133,0.5032 -0.447021,0.055 -0.77477,-0.3774 -0.77801,-0.7894 -0.0051,-0.6511 0.62208,-1.1015 1.235722,-1.069 0.865258,0.046 1.447979,0.885 1.373497,1.7116 -0.09808,1.0884 -1.16228,1.8105 -2.211159,1.6895 -1.31948,-0.1522 -2.186392,-1.4513 -2.015531,-2.7305 0.20803,-1.5575 1.75028,-2.574 3.266935,-2.3505 1.801822,0.2654 2.972012,2.0582 2.693691,3.8186 -0.324395,2.0518 -2.374091,3.3794 -4.383937,3.0442 -2.307014,-0.3847 -3.795359,-2.6972 -3.40163,-4.9618 0.446321,-2.567 3.02694,-4.2192 5.55103,-3.7653 2.831548,0.5091 4.650443,3.3628 4.135056,6.1509 -0.573081,3.1003 -3.704405,5.0886 -6.76082,4.5104 -3.372927,-0.6381 -5.533088,-4.0514 -4.890856,-7.3801 0.704102,-3.6493 4.403342,-5.9837 8.007996,-5.2763 3.929281,0.771 6.440191,4.7601 5.66666,8.6443 -0.838931,4.2126 -5.121388,6.9021 -9.288541,6.0614 -4.499146,-0.9076 -7.369346,-5.487 -6.460594,-9.9403 0.977204,-4.7888 5.856699,-7.8416 10.599293,-6.8639 5.081351,1.0476 8.318624,6.2304 7.271142,11.2652 -1.118624,5.3768 -6.607787,8.8003 -11.937698,7.6823 -5.674927,-1.1905 -9.286442,-6.9889 -8.097043,-12.6166 1.262945,-5.9757 7.373426,-9.7769 13.30164,-8.5154 6.279064,1.3361 10.271471,7.7613 8.937234,13.9926 -1.409956,6.5849 -8.152586,10.7701 -14.689336,9.3624 -6.89307,-1.4844 -11.272583,-8.547 -9.790806,-15.3916 1.559482,-7.2036 8.944387,-11.7789 16.099263,-10.2224 7.516348,1.6352 12.288802,9.3448 10.656968,16.8122 -1.711366,7.8313 -9.748069,12.8023 -17.5301,11.0945 -8.148375,-1.7881 -13.319276,-10.1541 -11.535028,-18.253 1.865474,-8.4675 10.562968,-13.8396 18.980691,-11.9783 8.788693,1.9433 14.363257,10.9744 12.424374,19.7131 -2.021687,9.1118 -11.388497,14.8901 -20.450014,12.8731 -9.436893,-2.1006 -15.420077,-11.8051 -13.324461,-21.1914 2.179898,-9.7639 12.224136,-15.9532 21.937161,-13.7784 10.092607,2.2597 16.489139,12.6456 14.234798,22.6871 -2.340013,10.4232 -13.069416,17.0281 -23.441313,14.6937 -10.755509,-2.4207 -17.5699074,-13.4955 -15.154947,-24.1995 2.501949,-11.0896 13.923918,-18.11455 24.961738,-15.6186 11.425296,2.5836 18.661893,14.3545 16.084502,25.7278 -2.665624,11.7627 -14.787259,19.212 -26.497763,16.5527 -12.1017,-2.7481 -19.7646549,-15.2221 -17.0231013,-27.2714 2.8309723,-12.4423 15.6590903,-20.31995 28.0487823,-17.49569 12.784468,2.91429 20.877785,16.09809 17.970406,28.82979 -2.997927,13.1281 -16.539095,21.4381 -29.614236,18.4472 -13.473372,-3.082 -22.0009101,-16.9821 -18.9261082,-30.4022 3.1664302,-13.8201 17.4269792,-22.56615 31.1936102,-19.40705 14.168202,3.25124 23.133687,17.87375 19.889923,31.98835 -3.336426,14.5178 -18.322472,23.7036 -32.786431,20.3748 -14.868761,-3.422 -24.2757972,-18.773 -20.8615862,-33.5877 3.5078655,-15.22117 19.2253242,-24.8503 34.3922592,-21.35033 15.574869,3.59412 25.426945,19.67943 21.840852,35.19993 -3.680702,15.9299 -20.135302,26.0058 -36.010685,22.3333 -16.2863556,-3.7677 -26.5868548,-20.5929 -22.8274924,-36.8245 3.8548909,-16.64411 21.0521904,-27.17006 37.6413304,-23.32355 8.382087,1.94354 15.740463,7.3418 20.141325,14.73175"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.996616"
+             sodipodi:revolution="14.128233"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-7"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-6">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-45"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-7"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-58" /></flowRegion><flowPara
+               id="flowPara4161-3">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-9"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-04"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-24" /></flowRegion><flowPara
+               id="flowPara4188-6">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-85"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-9"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-27" /></flowRegion><flowPara
+               id="flowPara4244-38">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-9"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+    <g
+       transform="translate(448.0125,-0.01253482)"
+       id="g4154-432">
+      <g
+         id="g4264-1">
+        <g
+           id="g4246-68">
+          <circle
+             r="31.987894"
+             cy="1020.3747"
+             cx="31.987499"
+             id="path4151-23"
+             style="opacity:1;fill:#000000;fill-opacity:0.26818183;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.25909089" />
+          <path
+             d="m 32,1020.3622 c 0.03326,-0.1351 0.211444,-0.01 0.240618,0.059 0.10709,0.2458 -0.156367,0.4662 -0.376766,0.4936 -0.438446,0.054 -0.759908,-0.3702 -0.763087,-0.7743 -0.005,-0.6386 0.610148,-1.0803 1.21202,-1.0485 0.848661,0.045 1.420205,0.8681 1.347152,1.6788 -0.0962,1.0676 -1.139986,1.7757 -2.168747,1.6571 -1.29417,-0.1493 -2.144453,-1.4234 -1.97687,-2.6781 0.20404,-1.5277 1.716707,-2.5246 3.204271,-2.3055 1.767261,0.2604 2.915005,2.0187 2.642022,3.7454 -0.318172,2.0124 -2.328552,3.3145 -4.299847,2.9858 -2.262763,-0.3773 -3.722559,-2.6454 -3.336383,-4.8666 0.437761,-2.5178 2.96888,-4.1383 5.444555,-3.6931 2.777235,0.4994 4.561241,3.2983 4.055741,6.033 -0.56209,3.0408 -3.633351,4.9909 -6.631139,4.4238 -3.308231,-0.6259 -5.426957,-3.9737 -4.797044,-7.2385 0.690597,-3.5793 4.31888,-5.8689 7.854393,-5.1752 3.853912,0.7563 6.31666,4.6688 5.557966,8.4785 -0.822839,4.1318 -5.023154,6.7698 -9.110375,5.9452 -4.412847,-0.8902 -7.227993,-5.3817 -6.336671,-9.7496 0.958459,-4.6969 5.74436,-7.6912 10.395984,-6.7322 4.983885,1.0274 8.159063,6.1108 7.131672,11.0491 -1.097167,5.2736 -6.481041,8.6315 -11.708717,7.5349 -5.566075,-1.1676 -9.108316,-6.8548 -7.941731,-12.3746 1.238719,-5.8611 7.231994,-9.5894 13.046497,-8.3521 6.158624,1.3105 10.074452,7.6125 8.765807,13.7242 -1.382912,6.4586 -7.996209,10.5635 -14.407576,9.1828 -6.760852,-1.4559 -11.056361,-8.383 -9.603006,-15.0963 1.529569,-7.0654 8.772822,-11.553 15.790458,-10.0263 7.372175,1.6038 12.053088,9.1655 10.452554,16.4896 -1.67854,7.6811 -9.561088,12.5568 -17.19385,10.8818 -7.992079,-1.7539 -13.063796,-9.9594 -11.313771,-17.9029 1.829692,-8.3051 10.360356,-13.5741 18.616617,-11.7486 8.620115,1.9061 14.087751,10.764 12.186058,19.335 -1.982908,8.9371 -11.170051,14.6045 -20.057757,12.6262 -9.255881,-2.0603 -15.1243,-11.5787 -13.06888,-20.785 2.138085,-9.5765 11.989661,-15.6471 21.516378,-13.514 9.899018,2.2163 16.172856,12.403 13.961757,22.2519 -2.29513,10.2233 -12.818728,16.7015 -22.99168,14.4119 -10.549204,-2.3743 -17.232893,-13.2367 -14.864255,-23.7354 2.453958,-10.8768 13.656839,-17.76705 24.48294,-15.319 11.206145,2.534 18.303934,14.0792 15.775981,25.2344 -2.614495,11.537 -14.50362,18.8434 -25.989503,16.2352 -11.869573,-2.6954 -19.3855431,-14.9302 -16.696576,-26.7484 2.776671,-12.2036 15.358729,-19.93015 27.510771,-17.16006 12.539246,2.85836 20.477322,15.78926 17.625711,28.27676 -2.940423,12.8763 -16.221854,21.0269 -29.046198,18.0934 -13.214936,-3.0229 -21.5789042,-16.6564 -18.5630809,-29.8191 3.1056939,-13.555 17.0927069,-22.13325 30.5952769,-19.03476 13.896438,3.18889 22.689954,17.53096 19.508409,31.37476 -3.272429,14.2393 -17.971023,23.249 -32.157545,19.984 -14.58356,-3.3563 -23.8101569,-18.4129 -20.4614349,-32.9435 3.4405802,-14.92915 18.8565579,-24.37358 33.7325719,-20.94074 15.276123,3.52517 24.939224,19.30194 21.421917,34.52474 -3.610101,15.6244 -19.749082,25.507 -35.319955,21.9049 -15.9739621,-3.6954 -26.0768846,-20.1979 -22.3896316,-36.1182 3.7809493,-16.32479 20.6483826,-26.64883 36.9193216,-22.87611 16.676922,3.86686 27.222887,21.10051 23.364369,37.72341 -0.675658,2.9108 -1.764776,5.7236 -3.22414,8.3311"
+             sodipodi:t0="0"
+             sodipodi:argument="-32.745239"
+             sodipodi:radius="31.827662"
+             sodipodi:revolution="14.2949"
+             sodipodi:expansion="1.2"
+             sodipodi:cy="1020.3622"
+             sodipodi:cx="32"
+             id="path4153-2"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <g
+           id="g4250-21">
+          <flowRoot
+             transform="matrix(0.28910514,0,0,0.28910514,-11.007213,1029.235)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4155-7"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4157-79"><rect
+                 style="fill:#00ec00;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+                 y="-56"
+                 x="50"
+                 height="50"
+                 width="210"
+                 id="rect4159-45" /></flowRegion><flowPara
+               id="flowPara4161-4">PUSING!!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.13204125,0,0,0.13204125,19.940234,1028.0787)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4182-37"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4184-9"><rect
+                 style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+                 y="-31"
+                 x="0"
+                 height="45"
+                 width="225"
+                 id="rect4186-62" /></flowRegion><flowPara
+               id="flowPara4188-5">MUMET!!</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.14372248,0,0,0.14372248,24.234214,1017.4917)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#480000;fill-opacity:1;stroke:#006400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4238-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4240-94"><rect
+                 style="fill:#480000;fill-opacity:1;stroke:#006400;stroke-opacity:1"
+                 y="-61"
+                 x="-35"
+                 height="50"
+                 width="185"
+                 id="rect4242-9" /></flowRegion><flowPara
+               id="flowPara4244-7">PUYENG!</flowPara></flowRoot>        </g>
+      </g>
+      <circle
+         r="2"
+         cy="1020.3622"
+         cx="32"
+         id="path4152-09"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.70909089;fill-rule:evenodd;stroke:#000000;stroke-width:0.69400001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80454544" />
+    </g>
+  </g>
+</svg>
