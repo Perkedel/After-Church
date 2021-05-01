@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="1920"
+   viewBox="0 0 1080 1920"
+   version="1.1"
+   id="svg2137"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="11-volunter.svg"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\After Church\RAW files\Inkscape\Week Strong\11-volunter.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2131" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="510.03665"
+     inkscape:cy="766.29253"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2709" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#6c5353;stroke-linecap:round;stroke-linejoin:round"
+       id="path2711"
+       sodipodi:sides="4"
+       sodipodi:cx="560"
+       sodipodi:cy="1180"
+       sodipodi:r1="120"
+       sodipodi:r2="84.852814"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 560,1300 440,1180 560,1060 680,1180 Z" />
+    <path
+       d="M 660.00001,980 120,440.00001 659.99999,-100 1200,439.99999 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="381.83765"
+       sodipodi:r1="540"
+       sodipodi:cy="440"
+       sodipodi:cx="660"
+       sodipodi:sides="4"
+       id="path2729"
+       style="fill:#8e9fce;fill-opacity:1;stroke-width:3.85714;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#6c5353;stroke-width:0.142857;stroke-linecap:round;stroke-linejoin:round"
+       id="path2713"
+       sodipodi:sides="4"
+       sodipodi:cx="580"
+       sodipodi:cy="480"
+       sodipodi:r1="40"
+       sodipodi:r2="28.284271"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 580,520 -40,-40 40,-40 40,40 z" />
+    <path
+       d="M 220.00001,1280 -180,880.00001 219.99999,480 620,879.99999 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="282.84271"
+       sodipodi:r1="400"
+       sodipodi:cy="880"
+       sodipodi:cx="220"
+       sodipodi:sides="4"
+       id="path868"
+       style="fill:#338000;fill-opacity:1;stroke-width:2.85714;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e42523;fill-opacity:1;stroke-width:2.85714;stroke-linecap:round;stroke-linejoin:round"
+       id="path2723"
+       sodipodi:sides="4"
+       sodipodi:cx="119.99999"
+       sodipodi:cy="520"
+       sodipodi:r1="400"
+       sodipodi:r2="282.84271"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 120,920 -280.00001,520.00001 119.99998,120 519.99999,519.99999 Z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#6ce053;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path2715"
+       sodipodi:sides="4"
+       sodipodi:cx="440"
+       sodipodi:cy="560"
+       sodipodi:r1="140"
+       sodipodi:r2="98.994949"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 440,700 300,560 440,420 580,560 Z" />
+    <path
+       d="M 740,560 600,420 740,280 880,420 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="98.994949"
+       sodipodi:r1="140"
+       sodipodi:cy="420"
+       sodipodi:cx="740"
+       sodipodi:sides="4"
+       id="path2717"
+       style="fill:#030deb;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e40deb;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path2719"
+       sodipodi:sides="4"
+       sodipodi:cx="500"
+       sodipodi:cy="300"
+       sodipodi:r1="140"
+       sodipodi:r2="98.994949"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 500,440 360,300 500,160 640,300 Z" />
+    <path
+       d="M 660,820 520,680 660,540 800,680 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="98.994949"
+       sodipodi:r1="140"
+       sodipodi:cy="680"
+       sodipodi:cx="660"
+       sodipodi:sides="4"
+       id="path2721"
+       style="fill:#e4aa23;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <circle
+       style="fill:#00ff00;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       id="path2725"
+       cx="580"
+       cy="480"
+       r="20" />
+    <circle
+       r="20"
+       cy="1180"
+       cx="560"
+       id="circle2727"
+       style="fill:#00ff00;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2731"
+       sodipodi:sides="4"
+       sodipodi:cx="915.00021"
+       sodipodi:cy="620"
+       sodipodi:r1="140"
+       sodipodi:r2="98.994949"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 915.00019,760 -140.00001,-140 140,-140 140.00002,140 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#34aad0;fill-opacity:1;stroke-width:1.78571;stroke-linecap:round;stroke-linejoin:round"
+       id="path2733"
+       sodipodi:sides="4"
+       sodipodi:cx="370"
+       sodipodi:cy="840"
+       sodipodi:r1="250"
+       sodipodi:r2="176.7767"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 370.00001,1090 120,840.00001 369.99999,590 620,839.99999 Z" />
+    <path
+       d="M 820.00001,290 570,40.000007 819.99999,-210 1070,39.999993 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="176.7767"
+       sodipodi:r1="250"
+       sodipodi:cy="40"
+       sodipodi:cx="820"
+       sodipodi:sides="4"
+       id="path2735"
+       style="fill:#d55747;fill-opacity:1;stroke-width:1.78571;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#400d1e;fill-opacity:1;stroke-width:1.35714;stroke-linecap:round;stroke-linejoin:round"
+       id="path2737"
+       sodipodi:sides="4"
+       sodipodi:cx="260"
+       sodipodi:cy="140"
+       sodipodi:r1="190"
+       sodipodi:r2="134.3503"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 260.00001,330 70,140.00001 259.99999,-50 450,139.99999 Z" />
+    <path
+       d="M 800,1100 620,920 800,740 980,920 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="127.27922"
+       sodipodi:r1="180"
+       sodipodi:cy="920"
+       sodipodi:cx="800"
+       sodipodi:sides="4"
+       id="path2739"
+       style="fill:#d38d5f;fill-opacity:1;stroke-width:1.28571;stroke-linecap:round;stroke-linejoin:round"
+       sodipodi:type="star" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:42.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px"
+       x="60"
+       y="960"
+       id="text2743"><tspan
+         sodipodi:role="line"
+         id="tspan2741"
+         x="60"
+         y="960">by JOELwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="1013.3334"
+         id="tspan2745">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="1066.6667"
+         id="tspan2747">CC4.0-BY-SA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:42.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px"
+       x="60"
+       y="-280"
+       id="text2751"><tspan
+         sodipodi:role="line"
+         id="tspan2749"
+         x="60"
+         y="-280">Game that does not support mod is like asking for demise</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:42.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px"
+       x="1300"
+       y="460"
+       id="text2755"><tspan
+         sodipodi:role="line"
+         id="tspan2753"
+         x="1300"
+         y="460">This is FNF from small team. it supports mod. there're alot of Mods.</tspan><tspan
+         sodipodi:role="line"
+         x="1300"
+         y="513.33337"
+         id="tspan2757">You can represent it AHiT or whatever modable games if you like</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:42.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px"
+       x="1340"
+       y="1160"
+       id="text2761"><tspan
+         sodipodi:role="line"
+         id="tspan2759"
+         x="1340"
+         y="1160">This is big game from AAA company. it doesn't support mod that extends the functionality.</tspan><tspan
+         sodipodi:role="line"
+         x="1340"
+         y="1213.3334"
+         id="tspan2763">when you done the main campaign, that's all you have.</tspan><tspan
+         sodipodi:role="line"
+         x="1340"
+         y="1266.6667"
+         id="tspan2765">DLC? and that's just that.</tspan></text>
+  </g>
+</svg>
