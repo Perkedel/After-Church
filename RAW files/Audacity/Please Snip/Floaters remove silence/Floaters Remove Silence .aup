@@ -1,0 +1,189 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Floaters Remove Silence _data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="109.4955782313" vpos="16" h="0.0000000000" zoom="64.2841233072" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Pop"/>
+		<tag name="TITLE" value="Floaters"/>
+		<tag name="ALBUM" value="YouTube Audio Library"/>
+	</tags>
+	<wavetrack name="Floaters (salinan) " isSelected="1" height="349" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="4828755">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fc26.au" len="504275" min="-1.0" max="0.999969" rms="0.217957"/>
+				</waveblock>
+				<waveblock start="504275">
+					<simpleblockfile filename="eff1ffd6.au" len="524288" min="-1.0" max="0.999969" rms="0.258237"/>
+				</waveblock>
+				<waveblock start="1028563">
+					<simpleblockfile filename="eff1f5e3.au" len="524288" min="-1.0" max="0.999969" rms="0.244479"/>
+				</waveblock>
+				<waveblock start="1552851">
+					<simpleblockfile filename="eff1f812.au" len="524288" min="-1.0" max="0.999969" rms="0.301986"/>
+				</waveblock>
+				<waveblock start="2077139">
+					<simpleblockfile filename="eff1fa16.au" len="524288" min="-1.0" max="0.999969" rms="0.317674"/>
+				</waveblock>
+				<waveblock start="2601427">
+					<simpleblockfile filename="eff1f703.au" len="524288" min="-1.0" max="0.999969" rms="0.287634"/>
+				</waveblock>
+				<waveblock start="3125715">
+					<simpleblockfile filename="eff1f307.au" len="524288" min="-1.0" max="0.999969" rms="0.349038"/>
+				</waveblock>
+				<waveblock start="3650003">
+					<simpleblockfile filename="eff1f696.au" len="524288" min="-1.0" max="0.999969" rms="0.296802"/>
+				</waveblock>
+				<waveblock start="4174291">
+					<simpleblockfile filename="eff1f087.au" len="524288" min="-1.0" max="0.999969" rms="0.153532"/>
+				</waveblock>
+				<waveblock start="4698579">
+					<simpleblockfile filename="eff1f10c.au" len="130176" min="-0.001129" max="0.001129" rms="0.000186"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Floaters (salinan) " isSelected="1" height="349" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="4828755">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f375.au" len="504275" min="-1.0" max="0.999969" rms="0.229163"/>
+				</waveblock>
+				<waveblock start="504275">
+					<simpleblockfile filename="eff1f8d9.au" len="524288" min="-1.0" max="0.999969" rms="0.255453"/>
+				</waveblock>
+				<waveblock start="1028563">
+					<simpleblockfile filename="eff1f933.au" len="524288" min="-1.0" max="0.999969" rms="0.267693"/>
+				</waveblock>
+				<waveblock start="1552851">
+					<simpleblockfile filename="eff1f757.au" len="524288" min="-1.0" max="0.999969" rms="0.284068"/>
+				</waveblock>
+				<waveblock start="2077139">
+					<simpleblockfile filename="eff1fa78.au" len="524288" min="-1.0" max="0.999969" rms="0.314867"/>
+				</waveblock>
+				<waveblock start="2601427">
+					<simpleblockfile filename="eff1f49d.au" len="524288" min="-1.0" max="0.999969" rms="0.291863"/>
+				</waveblock>
+				<waveblock start="3125715">
+					<simpleblockfile filename="eff1f243.au" len="524288" min="-1.0" max="0.999969" rms="0.3453"/>
+				</waveblock>
+				<waveblock start="3650003">
+					<simpleblockfile filename="eff1f8c4.au" len="524288" min="-1.0" max="0.999969" rms="0.290659"/>
+				</waveblock>
+				<waveblock start="4174291">
+					<simpleblockfile filename="eff1f3b7.au" len="524288" min="-1.0" max="0.999969" rms="0.158611"/>
+				</waveblock>
+				<waveblock start="4698579">
+					<simpleblockfile filename="eff1f794.au" len="130176" min="-0.001221" max="0.00116" rms="0.000178"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Trek Label" isSelected="0" height="73" minimized="0" numlabels="104">
+		<label t="0.0400000000" t1="0.0400000000" title="B"/>
+		<label t="1.3220000000" t1="1.3220000000" title="B"/>
+		<label t="3.4460000000" t1="3.4460000000" title="B"/>
+		<label t="4.7420000000" t1="4.7420000000" title="B"/>
+		<label t="4.7500000000" t1="4.7500000000" title="B"/>
+		<label t="6.8780000000" t1="6.8780000000" title="B"/>
+		<label t="8.1680000000" t1="8.1680000000" title="B"/>
+		<label t="10.3010000000" t1="10.3010000000" title="B"/>
+		<label t="11.5940000000" t1="11.5940000000" title="B"/>
+		<label t="13.7550000000" t1="13.7550000000" title="B"/>
+		<label t="15.0350000000" t1="15.0350000000" title="B"/>
+		<label t="17.1730000000" t1="17.1730000000" title="B"/>
+		<label t="18.4580000000" t1="18.4580000000" title="B"/>
+		<label t="19.3260000000" t1="19.3260000000" title="B"/>
+		<label t="19.9480000000" t1="19.9480000000" title="B"/>
+		<label t="20.5750000000" t1="20.5750000000" title="B"/>
+		<label t="21.2320000000" t1="21.2320000000" title="B"/>
+		<label t="21.8710000000" t1="21.8710000000" title="B"/>
+		<label t="22.7320000000" t1="22.7320000000" title="B"/>
+		<label t="23.8150000000" t1="23.8150000000" title="B"/>
+		<label t="25.9650000000" t1="25.9650000000" title="B"/>
+		<label t="27.0510000000" t1="27.0510000000" title="B"/>
+		<label t="27.4610000000" t1="27.4610000000" title="B"/>
+		<label t="28.7310000000" t1="28.7310000000" title="B"/>
+		<label t="30.8810000000" t1="30.8810000000" title="B"/>
+		<label t="32.5970000000" t1="32.5970000000" title="B"/>
+		<label t="32.6280000000" t1="32.6280000000" title="B"/>
+		<label t="33.0150000000" t1="33.0150000000" title="B"/>
+		<label t="33.8820000000" t1="33.8820000000" title="B"/>
+		<label t="34.3110000000" t1="34.3110000000" title="B"/>
+		<label t="34.9650000000" t1="34.9650000000" title="B"/>
+		<label t="35.5920000000" t1="35.5920000000" title="B"/>
+		<label t="35.6220000000" t1="35.6220000000" title="B"/>
+		<label t="36.4610000000" t1="36.4610000000" title="B"/>
+		<label t="38.8260000000" t1="38.8260000000" title="B"/>
+		<label t="41.1720000000" t1="41.1720000000" title="B"/>
+		<label t="41.8140000000" t1="41.8140000000" title="B"/>
+		<label t="42.4740000000" t1="42.4740000000" title="B"/>
+		<label t="43.3290000000" t1="43.3290000000" title="B"/>
+		<label t="44.6030000000" t1="44.6030000000" title="B"/>
+		<label t="45.2320000000" t1="45.2320000000" title="B"/>
+		<label t="45.8690000000" t1="45.8690000000" title="B"/>
+		<label t="46.7370000000" t1="46.7370000000" title="B"/>
+		<label t="47.8020000000" t1="47.8020000000" title="B"/>
+		<label t="48.0210000000" t1="48.0210000000" title="B"/>
+		<label t="49.3140000000" t1="49.3140000000" title="B"/>
+		<label t="50.1690000000" t1="50.1690000000" title="B"/>
+		<label t="51.2330000000" t1="51.2330000000" title="B"/>
+		<label t="51.4580000000" t1="51.4580000000" title="B"/>
+		<label t="52.7270000000" t1="52.7270000000" title="B"/>
+		<label t="53.5960000000" t1="53.5960000000" title="B"/>
+		<label t="54.4610000000" t1="54.4610000000" title="B"/>
+		<label t="54.8720000000" t1="54.8720000000" title="B"/>
+		<label t="55.5280000000" t1="55.5280000000" title="B"/>
+		<label t="57.0340000000" t1="57.0340000000" title="B"/>
+		<label t="58.7810000000" t1="58.7810000000" title="B"/>
+		<label t="61.7249999999" t1="61.7249999999" title="B"/>
+		<label t="62.1709999999" t1="62.1709999999" title="B"/>
+		<label t="62.5839999999" t1="62.5839999999" title="B"/>
+		<label t="63.0139999999" t1="63.0139999999" title="B"/>
+		<label t="63.4479999999" t1="63.4479999999" title="B"/>
+		<label t="63.8729999999" t1="63.8729999999" title="B"/>
+		<label t="64.3049999999" t1="64.3049999999" title="B"/>
+		<label t="64.7429999999" t1="64.7429999999" title="B"/>
+		<label t="65.1639999999" t1="65.1639999999" title="B"/>
+		<label t="65.5829999999" t1="65.5829999999" title="B"/>
+		<label t="66.0130000000" t1="66.0130000000" title="B"/>
+		<label t="66.4500000000" t1="66.4500000000" title="B"/>
+		<label t="66.8880000000" t1="66.8880000000" title="B"/>
+		<label t="67.3020000000" t1="67.3020000000" title="B"/>
+		<label t="67.7420000000" t1="67.7420000000" title="B"/>
+		<label t="68.1680000000" t1="68.1680000000" title="B"/>
+		<label t="68.6000000000" t1="68.6000000000" title="B"/>
+		<label t="69.4710000000" t1="69.4710000000" title="B"/>
+		<label t="70.3080000000" t1="70.3080000000" title="B"/>
+		<label t="70.7390000000" t1="70.7390000000" title="B"/>
+		<label t="71.1770000000" t1="71.1770000000" title="B"/>
+		<label t="71.6030000000" t1="71.6030000000" title="B"/>
+		<label t="72.4550000000" t1="72.4550000000" title="B"/>
+		<label t="73.0950000000" t1="73.0950000000" title="B"/>
+		<label t="73.1210000000" t1="73.1210000000" title="B"/>
+		<label t="73.3140000000" t1="73.3140000000" title="B"/>
+		<label t="74.0070000000" t1="74.0070000000" title="B"/>
+		<label t="75.4600000000" t1="75.4600000000" title="B"/>
+		<label t="76.7500000000" t1="76.7500000000" title="B"/>
+		<label t="77.5970000000" t1="77.5970000000" title="B"/>
+		<label t="78.6720000000" t1="78.6720000000" title="B"/>
+		<label t="78.9000000000" t1="78.9000000000" title="B"/>
+		<label t="80.1750000000" t1="80.1750000000" title="B"/>
+		<label t="81.0300000000" t1="81.0300000000" title="B"/>
+		<label t="82.3140000000" t1="82.3140000000" title="B"/>
+		<label t="83.5920000000" t1="83.5920000000" title="B"/>
+		<label t="85.7220000000" t1="85.7220000000" title="B"/>
+		<label t="86.3800000000" t1="86.3800000000" title="B"/>
+		<label t="86.8120000001" t1="86.8120000001" title="B"/>
+		<label t="87.0170000001" t1="87.0170000001" title="B"/>
+		<label t="89.1740000001" t1="89.1740000001" title="B"/>
+		<label t="90.4630000001" t1="90.4630000001" title="B"/>
+		<label t="92.5980000001" t1="92.5980000001" title="B"/>
+		<label t="93.8890000001" t1="93.8890000001" title="B"/>
+		<label t="96.0220000001" t1="96.0220000001" title="B"/>
+		<label t="97.3030000001" t1="97.3030000001" title="B"/>
+		<label t="99.4780000001" t1="99.4780000001" title="B"/>
+		<label t="100.7330000001" t1="100.7330000001" title="B"/>
+	</labeltrack>
+</project>
