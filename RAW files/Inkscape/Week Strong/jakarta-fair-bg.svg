@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="jakarta-fair-bg.svg"
-   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\shared\images\jakartaFair\jakartaFairBgAroundALL.png"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\shared\images\jakartaFair\jakartaFairBgBehindALL.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -59,8 +59,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="873.15147"
-     inkscape:cy="427.78313"
+     inkscape:cx="1186.793"
+     inkscape:cy="463.04814"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
@@ -111,11 +111,11 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="aroundYou"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:1.4025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1539"
@@ -1110,21 +1110,21 @@
          style="stroke-width:0.34941">NEW ARRIVAL</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-size:15.5021px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px;fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.242221;stroke-opacity:1"
-       x="2188.7571"
-       y="-43.859268"
+       style="font-style:italic;font-size:11.7739px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px;fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.183967;stroke-opacity:1"
+       x="2224.8945"
+       y="-80.037621"
        id="text1632"
        transform="matrix(0.82240744,0.28235003,0,1.2159423,0,0)"><tspan
          sodipodi:role="line"
-         x="2188.7571"
-         y="-43.859268"
+         x="2224.8945"
+         y="-80.037621"
          id="tspan1634"
-         style="fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.242221;stroke-opacity:1">it's decentralized!</tspan><tspan
+         style="fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.183967;stroke-opacity:1">it's decentralized!</tspan><tspan
          sodipodi:role="line"
-         x="2188.7571"
-         y="-24.481644"
+         x="2224.8945"
+         y="-65.320244"
          id="tspan1638"
-         style="fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.242221;stroke-opacity:1">wow!</tspan></text>
+         style="fill:#0065ff;fill-opacity:1;stroke:#000000;stroke-width:0.183967;stroke-opacity:1">wow!</tspan></text>
     <g
        id="g1726">
       <g
