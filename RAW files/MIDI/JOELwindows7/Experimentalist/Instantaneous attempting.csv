@@ -1,0 +1,232 @@
+0, 0, Header, 1, 17, 120
+1, 0, Start_track
+1, 0, Title_t, ""
+1, 0, Tempo, 500000
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 480, End_track
+2, 0, Start_track
+2, 0, Title_t, ""
+2, 0, Control_c, 0, 0, 0
+2, 130, Control_c, 0, 32, 0
+2, 140, Program_c, 0, 0
+2, 150, Control_c, 0, 1, 0
+2, 160, Control_c, 0, 7, 100
+2, 170, Control_c, 0, 10, 64
+2, 180, Control_c, 0, 11, 127
+2, 190, Control_c, 0, 64, 0
+2, 200, Control_c, 0, 91, 40
+2, 210, Control_c, 0, 93, 0
+2, 220, Control_c, 0, 94, 0
+2, 480, End_track
+3, 0, Start_track
+3, 0, Title_t, ""
+3, 0, Control_c, 1, 0, 0
+3, 130, Control_c, 1, 32, 0
+3, 140, Program_c, 1, 0
+3, 150, Control_c, 1, 1, 0
+3, 160, Control_c, 1, 7, 100
+3, 170, Control_c, 1, 10, 64
+3, 180, Control_c, 1, 11, 127
+3, 190, Control_c, 1, 64, 0
+3, 200, Control_c, 1, 91, 40
+3, 210, Control_c, 1, 93, 0
+3, 220, Control_c, 1, 94, 0
+3, 480, End_track
+4, 0, Start_track
+4, 0, Title_t, ""
+4, 0, Control_c, 2, 0, 0
+4, 130, Control_c, 2, 32, 0
+4, 140, Program_c, 2, 0
+4, 150, Control_c, 2, 1, 0
+4, 160, Control_c, 2, 7, 100
+4, 170, Control_c, 2, 10, 64
+4, 180, Control_c, 2, 11, 127
+4, 190, Control_c, 2, 64, 0
+4, 200, Control_c, 2, 91, 40
+4, 210, Control_c, 2, 93, 0
+4, 220, Control_c, 2, 94, 0
+4, 480, End_track
+5, 0, Start_track
+5, 0, Title_t, ""
+5, 0, Control_c, 3, 0, 0
+5, 130, Control_c, 3, 32, 0
+5, 140, Program_c, 3, 0
+5, 150, Control_c, 3, 1, 0
+5, 160, Control_c, 3, 7, 100
+5, 170, Control_c, 3, 10, 64
+5, 180, Control_c, 3, 11, 127
+5, 190, Control_c, 3, 64, 0
+5, 200, Control_c, 3, 91, 40
+5, 210, Control_c, 3, 93, 0
+5, 220, Control_c, 3, 94, 0
+5, 480, End_track
+6, 0, Start_track
+6, 0, Title_t, ""
+6, 0, Control_c, 4, 0, 0
+6, 130, Control_c, 4, 32, 0
+6, 140, Program_c, 4, 0
+6, 150, Control_c, 4, 1, 0
+6, 160, Control_c, 4, 7, 100
+6, 170, Control_c, 4, 10, 64
+6, 180, Control_c, 4, 11, 127
+6, 190, Control_c, 4, 64, 0
+6, 200, Control_c, 4, 91, 40
+6, 210, Control_c, 4, 93, 0
+6, 220, Control_c, 4, 94, 0
+6, 480, End_track
+7, 0, Start_track
+7, 0, Title_t, ""
+7, 0, Control_c, 5, 0, 0
+7, 130, Control_c, 5, 32, 0
+7, 140, Program_c, 5, 0
+7, 150, Control_c, 5, 1, 0
+7, 160, Control_c, 5, 7, 100
+7, 170, Control_c, 5, 10, 64
+7, 180, Control_c, 5, 11, 127
+7, 190, Control_c, 5, 64, 0
+7, 200, Control_c, 5, 91, 40
+7, 210, Control_c, 5, 93, 0
+7, 220, Control_c, 5, 94, 0
+7, 480, End_track
+8, 0, Start_track
+8, 0, Title_t, ""
+8, 0, Control_c, 6, 0, 0
+8, 130, Control_c, 6, 32, 0
+8, 140, Program_c, 6, 0
+8, 150, Control_c, 6, 1, 0
+8, 160, Control_c, 6, 7, 100
+8, 170, Control_c, 6, 10, 64
+8, 180, Control_c, 6, 11, 127
+8, 190, Control_c, 6, 64, 0
+8, 200, Control_c, 6, 91, 40
+8, 210, Control_c, 6, 93, 0
+8, 220, Control_c, 6, 94, 0
+8, 480, End_track
+9, 0, Start_track
+9, 0, Title_t, ""
+9, 0, Control_c, 7, 0, 0
+9, 130, Control_c, 7, 32, 0
+9, 140, Program_c, 7, 0
+9, 150, Control_c, 7, 1, 0
+9, 160, Control_c, 7, 7, 100
+9, 170, Control_c, 7, 10, 64
+9, 180, Control_c, 7, 11, 127
+9, 190, Control_c, 7, 64, 0
+9, 200, Control_c, 7, 91, 40
+9, 210, Control_c, 7, 93, 0
+9, 220, Control_c, 7, 94, 0
+9, 480, End_track
+10, 0, Start_track
+10, 0, Title_t, ""
+10, 120, Control_c, 8, 0, 0
+10, 130, Control_c, 8, 32, 0
+10, 140, Program_c, 8, 0
+10, 150, Control_c, 8, 1, 0
+10, 160, Control_c, 8, 7, 100
+10, 170, Control_c, 8, 10, 64
+10, 180, Control_c, 8, 11, 127
+10, 190, Control_c, 8, 64, 0
+10, 200, Control_c, 8, 91, 40
+10, 210, Control_c, 8, 93, 0
+10, 220, Control_c, 8, 94, 0
+10, 480, End_track
+11, 0, Start_track
+11, 0, Title_t, ""
+11, 120, Control_c, 9, 0, 0
+11, 130, Control_c, 9, 32, 0
+11, 140, Program_c, 9, 0
+11, 150, Control_c, 9, 1, 0
+11, 160, Control_c, 9, 7, 100
+11, 170, Control_c, 9, 10, 64
+11, 180, Control_c, 9, 11, 127
+11, 190, Control_c, 9, 64, 0
+11, 200, Control_c, 9, 91, 40
+11, 210, Control_c, 9, 93, 0
+11, 220, Control_c, 9, 94, 0
+11, 480, End_track
+12, 0, Start_track
+12, 0, Title_t, ""
+12, 120, Control_c, 10, 0, 0
+12, 130, Control_c, 10, 32, 0
+12, 140, Program_c, 10, 0
+12, 150, Control_c, 10, 1, 0
+12, 160, Control_c, 10, 7, 100
+12, 170, Control_c, 10, 10, 64
+12, 180, Control_c, 10, 11, 127
+12, 190, Control_c, 10, 64, 0
+12, 200, Control_c, 10, 91, 40
+12, 210, Control_c, 10, 93, 0
+12, 220, Control_c, 10, 94, 0
+12, 480, End_track
+13, 0, Start_track
+13, 0, Title_t, ""
+13, 120, Control_c, 11, 0, 0
+13, 130, Control_c, 11, 32, 0
+13, 140, Program_c, 11, 0
+13, 150, Control_c, 11, 1, 0
+13, 160, Control_c, 11, 7, 100
+13, 170, Control_c, 11, 10, 64
+13, 180, Control_c, 11, 11, 127
+13, 190, Control_c, 11, 64, 0
+13, 200, Control_c, 11, 91, 40
+13, 210, Control_c, 11, 93, 0
+13, 220, Control_c, 11, 94, 0
+13, 480, End_track
+14, 0, Start_track
+14, 0, Title_t, ""
+14, 120, Control_c, 12, 0, 0
+14, 130, Control_c, 12, 32, 0
+14, 140, Program_c, 12, 0
+14, 150, Control_c, 12, 1, 0
+14, 160, Control_c, 12, 7, 100
+14, 170, Control_c, 12, 10, 64
+14, 180, Control_c, 12, 11, 127
+14, 190, Control_c, 12, 64, 0
+14, 200, Control_c, 12, 91, 40
+14, 210, Control_c, 12, 93, 0
+14, 220, Control_c, 12, 94, 0
+14, 480, End_track
+15, 0, Start_track
+15, 0, Title_t, ""
+15, 120, Control_c, 13, 0, 0
+15, 130, Control_c, 13, 32, 0
+15, 140, Program_c, 13, 0
+15, 150, Control_c, 13, 1, 0
+15, 160, Control_c, 13, 7, 100
+15, 170, Control_c, 13, 10, 64
+15, 180, Control_c, 13, 11, 127
+15, 190, Control_c, 13, 64, 0
+15, 200, Control_c, 13, 91, 40
+15, 210, Control_c, 13, 93, 0
+15, 220, Control_c, 13, 94, 0
+15, 480, End_track
+16, 0, Start_track
+16, 0, Title_t, ""
+16, 120, Control_c, 14, 0, 0
+16, 130, Control_c, 14, 32, 0
+16, 140, Program_c, 14, 0
+16, 150, Control_c, 14, 1, 0
+16, 160, Control_c, 14, 7, 100
+16, 170, Control_c, 14, 10, 64
+16, 180, Control_c, 14, 11, 127
+16, 190, Control_c, 14, 64, 0
+16, 200, Control_c, 14, 91, 40
+16, 210, Control_c, 14, 93, 0
+16, 220, Control_c, 14, 94, 0
+16, 480, End_track
+17, 0, Start_track
+17, 0, Title_t, ""
+17, 120, Control_c, 15, 0, 0
+17, 130, Control_c, 15, 32, 0
+17, 140, Program_c, 15, 0
+17, 150, Control_c, 15, 1, 0
+17, 160, Control_c, 15, 7, 100
+17, 170, Control_c, 15, 10, 64
+17, 180, Control_c, 15, 11, 127
+17, 190, Control_c, 15, 64, 0
+17, 200, Control_c, 15, 91, 40
+17, 210, Control_c, 15, 93, 0
+17, 220, Control_c, 15, 94, 0
+17, 480, End_track
+0, 0, End_of_file

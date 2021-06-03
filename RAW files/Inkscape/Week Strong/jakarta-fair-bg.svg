@@ -15,11 +15,39 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="jakarta-fair-bg.svg"
-   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\shared\images\jakartaFair\jakartaFairBgBehindALL.png"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\shared\images\jakartaFair\jakartaFairBgColorableRoof.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient1292"
+       inkscape:collect="always">
+      <stop
+         id="stop1288"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.59554732" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.23191093"
+         offset="0.12962963"
+         id="stop1296" />
+      <stop
+         id="stop1302"
+         offset="0.22222222"
+         style="stop-color:#ffffff;stop-opacity:0.135436" />
+      <stop
+         id="stop1298"
+         offset="0.31481481"
+         style="stop-color:#ffffff;stop-opacity:0.07792208" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0.44444445"
+         id="stop1300" />
+      <stop
+         id="stop1290"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
     <symbol
        id="symbol93474">
       <title
@@ -50,19 +78,28 @@
          stdDeviation="0.00243"
          id="feGaussianBlur100668" />
     </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1080"
+       x2="960"
+       y1="0"
+       x1="960"
+       id="linearGradient1294"
+       xlink:href="#linearGradient1292"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#3a4842"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1186.793"
-     inkscape:cy="463.04814"
+     inkscape:cx="945.89464"
+     inkscape:cy="303.78717"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="true"
      units="px"
@@ -1915,6 +1952,20 @@
            y="205.98087"
            style="fill:#00ff00;stroke:#000000;stroke-width:0.468818;stroke-opacity:1">KELUAR / EXIT</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="colorable"
+     style="display:inline;opacity:1">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0 420,140 H 1500 L 1920,0 Z"
+       id="path3195" />
+    <path
+       id="path1286"
+       d="M 0,0 60,1020 H 1860 L 1920,0 Z"
+       style="fill:url(#linearGradient1294);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

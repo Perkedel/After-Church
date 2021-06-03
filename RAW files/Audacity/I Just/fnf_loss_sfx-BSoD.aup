@@ -1,0 +1,202 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="fnf_loss_sfx-BSoD_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="320" h="0.0000000000" zoom="167.8775510204" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="JOELwindows7, KawaiSprite, Leszek Szary"/>
+		<tag name="hof" value="https://github.com/Perkedel/kaded-fnf-mods"/>
+		<tag name="TITLE" value="FNF loss but hang BSoD"/>
+		<tag name="COMMENTS" value="game over sound https://freesound.org/people/Leszek_Szary/sounds/133283/"/>
+		<tag name="ALBUM" value="Week Strong"/>
+		<tag name="YEAR" value="2021"/>
+		<tag name="TRACKNUMBER" value="99"/>
+		<tag name="GENRE" value="Game"/>
+	</tags>
+	<wavetrack name="fnf_loss_sfx" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="180075">
+				<waveblock start="0">
+					<simpleblockfile filename="e080851a.au" len="180075" min="-0.700684" max="0.688477" rms="0.063933"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fnf_loss_sfx" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="180075">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f5b.au" len="180075" min="-0.73288" max="0.683136" rms="0.064589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fnf_loss_sfx-bsod" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e080849b.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.12256236" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fc5.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.24512472" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.36768707" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.49024943" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.61281179" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.73537415" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.85793651" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087a8.au" len="5405" min="-0.700684" max="0.688477" rms="0.188198"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.98049887" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2833">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088bd.au" len="2833" min="-0.700684" max="0.688477" rms="0.207371"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fnf_loss_sfx-bsod" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e08086f1.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.12256236" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d81.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.24512472" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.36768707" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.49024943" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.61281179" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.73537415" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.85793651" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5405">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f77.au" len="5405" min="-0.73288" max="0.683136" rms="0.188122"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.98049887" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2833">
+				<waveblock start="0">
+					<simpleblockfile filename="e08085fd.au" len="2833" min="-0.73288" max="0.662811" rms="0.207477"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="133283__leszek-szary__game-over" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.04473923" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101211">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cd1.au" len="101211" min="-0.500397" max="0.483856" rms="0.10486"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="133283__leszek-szary__game-over" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.04473923" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101211">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808845.au" len="101211" min="-0.50116" max="0.483765" rms="0.10486"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
