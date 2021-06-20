@@ -1,0 +1,80 @@
+-cp C:\ArmorySDK\Kha\Sources
+-cp C:\ArmorySDK\Kha\Backends\Krom
+-cp C:\Users\joelr\Documents\starring codes\After Church\RAW files\Blender\Armory3D Projects\playground_wedit\Sources
+-cp C:\ArmorySDK\armory\Sources
+-cp C:\ArmorySDK\iron\Sources
+-cp C:\ArmorySDK\lib\haxebullet\Sources
+-cp C:\ArmorySDK\lib\zui\Sources
+-cp C:/ArmorySDK/armory
+-cp C:/ArmorySDK/iron
+-cp C:/ArmorySDK/lib/haxebullet
+-cp C:/ArmorySDK/lib/zui
+-D hxcpp_smart_strings
+-D C:/ArmorySDK/armory
+-D C:/ArmorySDK/iron
+-D C:/ArmorySDK/lib/haxebullet
+-D C:/ArmorySDK/lib/zui
+-D arm_hosek
+-D arm_deferred
+-D arm_csm
+-D arm_voxelgi_revox
+-D arm_voxelgi_temporal
+-D arm_spot
+-D rp_hdr
+-D rp_renderer=Deferred
+-D rp_shadowmap
+-D rp_shadowmap_cascade=1024
+-D rp_shadowmap_cube=512
+-D rp_background=World
+-D rp_render_to_texture
+-D rp_compositornodes
+-D rp_antialiasing=FXAA
+-D rp_supersampling=1
+-D rp_ssgi=SSAO
+-D rp_voxelao
+-D rp_voxelgi_resolution=64
+-D rp_voxelgi_resolution_z=0.5
+-D arm_physics
+-D arm_bullet
+-D arm_noembed
+-D arm_soundcompress
+-D arm_audio
+-D arm_ui
+-D arm_skin
+-D arm_particles
+-D sys_krom
+-D sys_g1
+-D sys_g2
+-D sys_g3
+-D sys_g4
+-D sys_a1
+-D sys_a2
+-D kha_js
+-D kha_krom
+-D kha_krom_js
+-D kha_direct3d11
+-D kha_g1
+-D kha_g2
+-D kha_g3
+-D kha_g4
+-D kha_a1
+-D kha_a2
+-D kha
+-D kha_version=1810
+-D kha_project_name=Playground_1_0_0
+-js krom\krom.js.temp
+armory.trait.physics.bullet.PhysicsWorld
+--macro keep('armory.trait.physics.bullet.PhysicsWorld')
+arm.SpawnBox
+--macro keep('arm.SpawnBox')
+armory.trait.physics.bullet.RigidBody
+--macro keep('armory.trait.physics.bullet.RigidBody')
+armory.trait.PhysicsDrag
+--macro keep('armory.trait.PhysicsDrag')
+arm.node.MoveCylinder
+--macro keep('arm.node.MoveCylinder')
+armory.trait.WalkNavigation
+--macro keep('armory.trait.WalkNavigation')
+armory.trait.internal.CanvasScript
+--macro keep('armory.trait.internal.CanvasScript')
+-main Main

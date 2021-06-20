@@ -1,0 +1,1591 @@
+{
+	"files": [
+		{
+			"name": "Blue_mesh_frag",
+			"files": [
+				"Blue_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "ImageTexture",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "Blue_mesh_vert",
+			"files": [
+				"Blue_mesh.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec4"
+				},
+				{
+					"name": "nor",
+					"type": "vec2"
+				},
+				{
+					"name": "tex",
+					"type": "vec2"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "N",
+					"type": "mat3"
+				},
+				{
+					"name": "texUnpack",
+					"type": "float"
+				},
+				{
+					"name": "WVP",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Blue_shadowmap_frag",
+			"files": [
+				"Blue_shadowmap.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "Blue_shadowmap_vert",
+			"files": [
+				"Blue_shadowmap.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [],
+			"uniforms": [
+				{
+					"name": "LWVP",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Blue_voxel_frag",
+			"files": [
+				"Blue_voxel.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "Blue_voxel_geom",
+			"files": [
+				"Blue_voxel.geom.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "Blue_voxel_vert",
+			"files": [
+				"Blue_voxel.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "BotBody_armskin_mesh_frag",
+			"files": [
+				"BotBody_armskin_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "BotBody_armskin_mesh_vert",
+			"files": [
+				"BotBody_armskin_mesh.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec4"
+				},
+				{
+					"name": "bone",
+					"type": "vec4"
+				},
+				{
+					"name": "weight",
+					"type": "vec4"
+				},
+				{
+					"name": "nor",
+					"type": "vec2"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "skinBones",
+					"type": "vec4[]"
+				},
+				{
+					"name": "posUnpack",
+					"type": "float"
+				},
+				{
+					"name": "N",
+					"type": "mat3"
+				},
+				{
+					"name": "WVP",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "BotBody_armskin_shadowmap_vert",
+			"files": [
+				"BotBody_armskin_shadowmap.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec4"
+				},
+				{
+					"name": "bone",
+					"type": "vec4"
+				},
+				{
+					"name": "weight",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [],
+			"uniforms": [
+				{
+					"name": "skinBones",
+					"type": "vec4[]"
+				},
+				{
+					"name": "posUnpack",
+					"type": "float"
+				},
+				{
+					"name": "LWVP",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "BotBody_armskin_voxel_vert",
+			"files": [
+				"BotBody_armskin_voxel.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "BotJoints_armskin_mesh_frag",
+			"files": [
+				"BotJoints_armskin_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "BotTorso_armskin_mesh_frag",
+			"files": [
+				"BotTorso_armskin_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "Plane_mesh_frag",
+			"files": [
+				"Plane_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "ImageTexture_002",
+					"type": "sampler2D"
+				},
+				{
+					"name": "ImageTexture",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "Plane_voxel_vert",
+			"files": [
+				"Plane_voxel.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [],
+			"outputs": [],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "Red_mesh_frag",
+			"files": [
+				"Red_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "ImageTexture",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "Wall_mesh_frag",
+			"files": [
+				"Wall_mesh.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "wnormal",
+					"type": "vec3"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4[]"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "ImageTexture",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "World_World_frag",
+			"files": [
+				"World_World.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "normal",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "H",
+					"type": "vec3"
+				},
+				{
+					"name": "A",
+					"type": "vec3"
+				},
+				{
+					"name": "B",
+					"type": "vec3"
+				},
+				{
+					"name": "C",
+					"type": "vec3"
+				},
+				{
+					"name": "D",
+					"type": "vec3"
+				},
+				{
+					"name": "E",
+					"type": "vec3"
+				},
+				{
+					"name": "F",
+					"type": "vec3"
+				},
+				{
+					"name": "G",
+					"type": "vec3"
+				},
+				{
+					"name": "I",
+					"type": "vec3"
+				},
+				{
+					"name": "hosekSunDirection",
+					"type": "vec3"
+				},
+				{
+					"name": "Z",
+					"type": "vec3"
+				},
+				{
+					"name": "envmapStrength",
+					"type": "float"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "World_World_vert",
+			"files": [
+				"World_World.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "nor",
+					"type": "vec3"
+				},
+				{
+					"name": "pos",
+					"type": "vec3"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "normal",
+					"type": "vec3"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "SMVP",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "blur_edge_pass_frag",
+			"files": [
+				"blur_edge_pass.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "float"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "gbuffer0",
+					"type": "sampler2D"
+				},
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				},
+				{
+					"name": "dirInv",
+					"type": "vec2"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "compositor_pass_frag",
+			"files": [
+				"compositor_pass.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "texStep",
+					"type": "vec2"
+				},
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "compositor_pass_vert",
+			"files": [
+				"compositor_pass.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec2"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"uniforms": [],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "deferred_light_frag",
+			"files": [
+				"deferred_light.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "viewRay",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "LWVPSpot",
+					"type": "mat4[]"
+				},
+				{
+					"name": "shadowMapSpot",
+					"type": "sampler2DShadow[]"
+				},
+				{
+					"name": "gbuffer0",
+					"type": "sampler2D"
+				},
+				{
+					"name": "gbuffer1",
+					"type": "sampler2D"
+				},
+				{
+					"name": "gbufferD",
+					"type": "sampler2D"
+				},
+				{
+					"name": "eye",
+					"type": "vec3"
+				},
+				{
+					"name": "eyeLook",
+					"type": "vec3"
+				},
+				{
+					"name": "cameraProj",
+					"type": "vec2"
+				},
+				{
+					"name": "gbuffer2",
+					"type": "sampler2D"
+				},
+				{
+					"name": "senvmapBrdf",
+					"type": "sampler2D"
+				},
+				{
+					"name": "shirr",
+					"type": "vec4[]"
+				},
+				{
+					"name": "envmapNumMipmaps",
+					"type": "int"
+				},
+				{
+					"name": "senvmapRadiance",
+					"type": "sampler2D"
+				},
+				{
+					"name": "envmapStrength",
+					"type": "float"
+				},
+				{
+					"name": "voxels",
+					"type": "sampler3D"
+				},
+				{
+					"name": "voxelBlend",
+					"type": "float"
+				},
+				{
+					"name": "voxelsLast",
+					"type": "sampler3D"
+				},
+				{
+					"name": "ssaotex",
+					"type": "sampler2D"
+				},
+				{
+					"name": "pointPos",
+					"type": "vec3"
+				},
+				{
+					"name": "pointCol",
+					"type": "vec3"
+				},
+				{
+					"name": "pointBias",
+					"type": "float"
+				},
+				{
+					"name": "spotData",
+					"type": "vec2"
+				},
+				{
+					"name": "spotDir",
+					"type": "vec3"
+				},
+				{
+					"name": "casData",
+					"type": "vec4[]"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "font_default",
+			"files": [
+				"font_default.ttf"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "font"
+		},
+		{
+			"name": "painter_colored_frag",
+			"files": [
+				"painter-colored.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "fragmentColor",
+					"type": "vec4"
+				}
+			],
+			"outputs": [
+				{
+					"name": "FragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [],
+			"types": []
+		},
+		{
+			"name": "painter_colored_vert",
+			"files": [
+				"painter-colored.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "vertexPosition",
+					"type": "vec3"
+				},
+				{
+					"name": "vertexColor",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragmentColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "projectionMatrix",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "painter_image_frag",
+			"files": [
+				"painter-image.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "color",
+					"type": "vec4"
+				}
+			],
+			"outputs": [
+				{
+					"name": "FragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "painter_image_vert",
+			"files": [
+				"painter-image.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "vertexPosition",
+					"type": "vec3"
+				},
+				{
+					"name": "texPosition",
+					"type": "vec2"
+				},
+				{
+					"name": "vertexColor",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "color",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "projectionMatrix",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "painter_text_frag",
+			"files": [
+				"painter-text.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "fragmentColor",
+					"type": "vec4"
+				},
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "FragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "painter_text_vert",
+			"files": [
+				"painter-text.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "vertexPosition",
+					"type": "vec3"
+				},
+				{
+					"name": "texPosition",
+					"type": "vec2"
+				},
+				{
+					"name": "vertexColor",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "fragmentColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "projectionMatrix",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "painter_video_frag",
+			"files": [
+				"painter-video.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "color",
+					"type": "vec4"
+				}
+			],
+			"outputs": [
+				{
+					"name": "FragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "painter_video_vert",
+			"files": [
+				"painter-video.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "vertexPosition",
+					"type": "vec3"
+				},
+				{
+					"name": "texPosition",
+					"type": "vec2"
+				},
+				{
+					"name": "vertexColor",
+					"type": "vec4"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "color",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "projectionMatrix",
+					"type": "mat4"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "pass_copy_frag",
+			"files": [
+				"pass_copy.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "vec4"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "tex",
+					"type": "sampler2D"
+				}
+			],
+			"types": []
+		},
+		{
+			"name": "pass_vert",
+			"files": [
+				"pass.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec2"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				}
+			],
+			"uniforms": [],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "pass_viewray_vert",
+			"files": [
+				"pass_viewray.vert.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "pos",
+					"type": "vec2"
+				},
+				{
+					"name": "gl_VertexID",
+					"type": "int"
+				},
+				{
+					"name": "gl_InstanceID",
+					"type": "int"
+				}
+			],
+			"outputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "viewRay",
+					"type": "vec3"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "invVP",
+					"type": "mat4"
+				},
+				{
+					"name": "eye",
+					"type": "vec3"
+				}
+			],
+			"types": [
+				{
+					"name": "gl_PerVertex",
+					"members": [
+						{
+							"type": "vec4",
+							"name": "gl_Position"
+						},
+						{
+							"type": "float",
+							"name": "gl_PointSize"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_ClipDistance"
+						},
+						{
+							"type": "float[]",
+							"name": "gl_CullDistance"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "ssao_pass_frag",
+			"files": [
+				"ssao_pass.frag.d3d11"
+			],
+			"file_sizes": [
+				1
+			],
+			"type": "shader",
+			"inputs": [
+				{
+					"name": "texCoord",
+					"type": "vec2"
+				},
+				{
+					"name": "viewRay",
+					"type": "vec3"
+				}
+			],
+			"outputs": [
+				{
+					"name": "fragColor",
+					"type": "float"
+				}
+			],
+			"uniforms": [
+				{
+					"name": "gbufferD",
+					"type": "sampler2D"
+				},
+				{
+					"name": "gbuffer0",
+					"type": "sampler2D"
+				},
+				{
+					"name": "eyeLook",
+					"type": "vec3"
+				},
+				{
+					"name": "cameraProj",
+					"type": "vec2"
+				},
+				{
+					"name": "screenSize",
+					"type": "vec2"
+				},
+				{
+					"name": "eye",
+					"type": "vec3"
+				},
+				{
+					"name": "invVP",
+					"type": "mat4"
+				},
+				{
+					"name": "PPComp11",
+					"type": "vec3"
+				},
+				{
+					"name": "PPComp12",
+					"type": "vec3"
+				}
+			],
+			"types": []
+		}
+	]
+}
