@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="1024"
+   viewBox="0 0 2048 1024"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="empty-template-testBg.svg"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\shared\images\stages\empty-template\empty-template-testBg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="874.37598"
+     inkscape:cy="486.57108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid844"
+       empspacing="256" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="wall"
+       sodipodi:insensitive="true">
+      <rect
+         style="opacity:0.994;fill:#00ff00;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect847"
+         width="2048"
+         height="1024"
+         x="0"
+         y="0" />
+      <g
+         id="g1181">
+        <g
+           id="g1103">
+          <g
+             id="g1065">
+            <rect
+               y="32"
+               x="32"
+               height="192"
+               width="192"
+               id="rect849"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1043"
+               width="192"
+               height="192"
+               x="288"
+               y="32" />
+            <rect
+               y="32"
+               x="544"
+               height="192"
+               width="192"
+               id="rect1045"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1047"
+               width="192"
+               height="192"
+               x="800"
+               y="32" />
+            <rect
+               y="32"
+               x="1056"
+               height="192"
+               width="192"
+               id="rect1049"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1051"
+               width="192"
+               height="192"
+               x="1312"
+               y="32" />
+            <rect
+               y="32"
+               x="1568"
+               height="192"
+               width="192"
+               id="rect1053"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1055"
+               width="192"
+               height="192"
+               x="1824"
+               y="32" />
+          </g>
+          <g
+             id="g1083"
+             transform="translate(0,256)">
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1067"
+               width="192"
+               height="192"
+               x="32"
+               y="32" />
+            <rect
+               y="32"
+               x="288"
+               height="192"
+               width="192"
+               id="rect1069"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1071"
+               width="192"
+               height="192"
+               x="544"
+               y="32" />
+            <rect
+               y="32"
+               x="800"
+               height="192"
+               width="192"
+               id="rect1073"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1075"
+               width="192"
+               height="192"
+               x="1056"
+               y="32" />
+            <rect
+               y="32"
+               x="1312"
+               height="192"
+               width="192"
+               id="rect1077"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1079"
+               width="192"
+               height="192"
+               x="1568"
+               y="32" />
+            <rect
+               y="32"
+               x="1824"
+               height="192"
+               width="192"
+               id="rect1081"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+          </g>
+        </g>
+        <g
+           transform="translate(0,512)"
+           id="g1141">
+          <g
+             id="g1121">
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1105"
+               width="192"
+               height="192"
+               x="32"
+               y="32" />
+            <rect
+               y="32"
+               x="288"
+               height="192"
+               width="192"
+               id="rect1107"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1109"
+               width="192"
+               height="192"
+               x="544"
+               y="32" />
+            <rect
+               y="32"
+               x="800"
+               height="192"
+               width="192"
+               id="rect1111"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1113"
+               width="192"
+               height="192"
+               x="1056"
+               y="32" />
+            <rect
+               y="32"
+               x="1312"
+               height="192"
+               width="192"
+               id="rect1115"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1117"
+               width="192"
+               height="192"
+               x="1568"
+               y="32" />
+            <rect
+               y="32"
+               x="1824"
+               height="192"
+               width="192"
+               id="rect1119"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+          </g>
+          <g
+             transform="translate(0,256)"
+             id="g1139">
+            <rect
+               y="32"
+               x="32"
+               height="192"
+               width="192"
+               id="rect1123"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1125"
+               width="192"
+               height="192"
+               x="288"
+               y="32" />
+            <rect
+               y="32"
+               x="544"
+               height="192"
+               width="192"
+               id="rect1127"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1129"
+               width="192"
+               height="192"
+               x="800"
+               y="32" />
+            <rect
+               y="32"
+               x="1056"
+               height="192"
+               width="192"
+               id="rect1131"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1133"
+               width="192"
+               height="192"
+               x="1312"
+               y="32" />
+            <rect
+               y="32"
+               x="1568"
+               height="192"
+               width="192"
+               id="rect1135"
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+            <rect
+               style="opacity:0.994;fill:#000000;fill-opacity:0.996078;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               id="rect1137"
+               width="192"
+               height="192"
+               x="1824"
+               y="32" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="floor"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#ff00ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,512 -256,512 H 2304 L 2048,512 Z"
+         id="path1184" />
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 32,544 H 224 L 160,736 H -64 Z"
+         id="path1186" />
+      <path
+         id="path1188"
+         d="m 2016,544 h -192 l 64,192 h 224 z"
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 288,544 224,736 H 448 L 480,544 Z"
+         id="path1190" />
+      <path
+         id="path1192"
+         d="m 1760,544 64,192 h -224 l -32,-192 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         style="opacity:0.994;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1194"
+         width="192"
+         height="192"
+         x="800"
+         y="544" />
+      <rect
+         style="opacity:0.994;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1196"
+         width="192"
+         height="192"
+         x="1056"
+         y="544" />
+      <rect
+         style="opacity:0.994;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1198"
+         width="192"
+         height="192"
+         x="800"
+         y="800" />
+      <rect
+         style="opacity:0.994;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1200"
+         width="192"
+         height="192"
+         x="1056"
+         y="800" />
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -96,800 H 128 L 64,992 h -256 z"
+         id="path1202" />
+      <path
+         id="path1204"
+         d="m 2144,800 h -224 l 64,192 h 256 z"
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 192,800 H 416 L 384,992 H 128 Z"
+         id="path1206"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1208"
+         d="m 1856,800 h -224 l 32,192 c 0,0 256,0 256,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 544,544 H 736 V 736 H 512 Z"
+         id="path1210"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1212"
+         d="m 1504,544 h -192 v 192 h 224 z"
+         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 480,800 H 736 V 992 H 448 Z"
+         id="path1214"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path1216"
+         d="m 1568,800 h -256 v 192 h 288 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g1536-6-4"
+       transform="matrix(0.78506568,0,0,0.78506568,735.24923,-62.531826)">
+      <g
+         id="g1492-8-7"
+         transform="translate(-128,64)">
+        <path
+           id="path1451-5-8"
+           transform="translate(0,106.5)"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="rect1461-3-4"
+           transform="translate(0,106.5)"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1482-6-4"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="translate(-108.256,129.20475)"><flowRegion
+           id="flowRegion1484-4-7"
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"><rect
+             id="rect1486-8-8"
+             width="1024"
+             height="128"
+             x="384"
+             y="272"
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;" /></flowRegion><flowPara
+           id="flowPara1488-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1">Perkedel </flowPara></flowRoot>
+    </g>
+    <g
+       transform="matrix(0.36417627,0,0,0.36417627,887.62309,211.71174)"
+       id="g1552"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="translate(-128,64)"
+         id="g1542">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           transform="translate(0,106.5)"
+           id="path1538" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           transform="translate(0,106.5)"
+           id="path1540" />
+      </g>
+      <flowRoot
+         transform="translate(-108.256,129.20475)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="flowRoot1550"
+         xml:space="preserve"><flowRegion
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowRegion1546"><rect
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+             y="272"
+             x="384"
+             height="128"
+             width="1024"
+             id="rect1544" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           id="flowPara1548">Perkedel </flowPara></flowRoot>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g1568"
+       transform="matrix(0.22996079,0,0,0.22996079,936.21288,344.78565)">
+      <g
+         id="g1558"
+         transform="translate(-128,64)">
+        <path
+           id="path1554"
+           transform="translate(0,106.5)"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           style="opacity:1;fill:#ffc800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path1556"
+           transform="translate(0,106.5)"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           style="opacity:1;fill:#fffe00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04447;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1566"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="translate(-108.256,129.20475)"><flowRegion
+           id="flowRegion1562"
+           style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1"><rect
+             id="rect1560"
+             width="1024"
+             height="128"
+             x="384"
+             y="272"
+             style="line-height:0;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1;" /></flowRegion><flowPara
+           id="flowPara1564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-opacity:1">Perkedel </flowPara></flowRoot>
+    </g>
+  </g>
+</svg>

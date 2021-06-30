@@ -7,48 +7,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 512.00001 512.00002"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="fnf-ui-buttons.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="fnf-ui-buttons.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512.00001 512.00002"
+   height="512"
+   width="512">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="188.29667"
-     inkscape:cy="586.91568"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="true"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true">
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="553.82532"
+     inkscape:cx="372.95217"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#000000"
+     id="base">
     <inkscape:grid
-       type="xygrid"
+       empspacing="4"
        id="grid842"
-       empspacing="4" />
+       type="xygrid" />
     <inkscape:grid
-       type="xygrid"
+       empspacing="64"
        id="grid844"
-       empspacing="64" />
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -80,150 +80,192 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="set1"
-     inkscape:groupmode="layer"
+     style="display:inline"
      id="layer1"
-     style="display:inline">
+     inkscape:groupmode="layer"
+     inkscape:label="set1">
     <g
-       id="g866"
-       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\backButton.png"
+       inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\backButton.png"
+       id="g866">
       <rect
-         y="128"
-         x="64"
-         height="128"
-         width="384"
+         style="fill:#ff6600;stroke:#010101;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          id="rect846"
-         style="fill:#ff6600;stroke:#010101;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+         width="384"
+         height="128"
+         x="64"
+         y="128" />
       <g
          id="g859">
         <text
-           xml:space="preserve"
-           style="font-size:97.4829px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:1.52317"
-           x="167.61647"
+           id="text850"
            y="225.82657"
-           id="text850"><tspan
-             sodipodi:role="line"
-             id="tspan848"
-             x="167.61647"
+           x="167.61647"
+           style="font-size:97.4829px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:1.52317"
+           xml:space="preserve"><tspan
+             style="stroke-width:1.52317"
              y="225.82657"
-             style="stroke-width:1.52317">BACK</tspan></text>
+             x="167.61647"
+             id="tspan848"
+             sodipodi:role="line">BACK</tspan></text>
         <path
-           style="fill:#ff6600;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 86.158277,233.91118 h 37.670863 c 0,0 37.67086,0 37.67086,-37.67086 0,-37.67086 -37.67086,-37.67086 -37.67086,-37.67086 h -21.18986 v -16.481 l -16.481003,16.481 16.481003,16.481 v -16.481 h 21.18986 c 0,0 37.67086,0 37.67086,37.67086 0,37.67086 -37.67086,37.67086 -37.67086,37.67086 z"
+           sodipodi:nodetypes="ccscccccccscc"
            id="path852"
-           sodipodi:nodetypes="ccscccccccscc" />
+           d="m 86.158277,233.91118 h 37.670863 c 0,0 37.67086,0 37.67086,-37.67086 0,-37.67086 -37.67086,-37.67086 -37.67086,-37.67086 h -21.18986 v -16.481 l -16.481003,16.481 16.481003,16.481 v -16.481 h 21.18986 c 0,0 37.67086,0 37.67086,37.67086 0,37.67086 -37.67086,37.67086 -37.67086,37.67086 z"
+           style="fill:#ff6600;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <path
-       sodipodi:nodetypes="ccscccccccscc"
-       id="path854"
+       style="fill:#ff0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -185,23 h 64 c 0,0 64,0 64,-64 0,-64 -64,-64 -64,-64 h -36 v -28 l -28,28 28,28 v -28 h 36 c 0,0 64,0 64,64 0,64 -64,64 -64,64 z"
-       style="fill:#ff0000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path854"
+       sodipodi:nodetypes="ccscccccccscc" />
     <g
-       id="g878"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
        inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\leftAdjustButton.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g878">
       <rect
-         y="320"
-         x="64"
-         height="128"
-         width="128"
+         style="fill:#ff00ff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="rect868"
-         style="fill:#ff00ff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
-      <path
-         id="path872"
-         d="M 180,332 V 440 L 72,384 Z"
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g882"
-       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\rightAdjustButton.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
-         style="fill:#ff0000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect870"
          width="128"
          height="128"
-         x="256"
+         x="64"
          y="320" />
       <path
          style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 268,332 V 440 L 376,384 Z"
-         id="path874" />
+         d="M 180,332 V 440 L 72,384 Z"
+         id="path872" />
     </g>
     <g
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\upAdjustButton.png"
-       id="g887">
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\rightAdjustButton.png"
+       id="g882">
       <rect
-         style="fill:#00ff00;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect869"
-         width="128"
-         height="128"
-         x="64"
-         y="576" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 180,692 H 71.999998 L 128,584 Z"
-         id="path871" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\downAdjustButton.png"
-       id="g891">
-      <rect
-         y="576"
+         y="320"
          x="256"
          height="128"
          width="128"
-         id="rect875"
-         style="fill:#00ffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+         id="rect870"
+         style="fill:#ff0000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
       <path
-         id="path877"
-         d="M 372,588 H 264 l 56,108 z"
+         id="path874"
+         d="M 268,332 V 440 L 376,384 Z"
          style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-  </g>
-  <g
-     style="display:none"
-     sodipodi:insensitive="true"
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="set2">
     <g
-       id="g899"
-       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\pauseButton.png"
+       id="g887"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\upAdjustButton.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
-         y="64"
+         y="576"
          x="64"
          height="128"
          width="128"
+         id="rect869"
+         style="fill:#00ff00;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+      <path
+         id="path871"
+         d="M 180,692 H 71.999998 L 128,584 Z"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g891"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\downAdjustButton.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#00ffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect875"
+         width="128"
+         height="128"
+         x="256"
+         y="576" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 372,588 H 264 l 56,108 z"
+         id="path877" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\acceptButton.png"
+       id="g892">
+      <rect
+         style="opacity:0.994;fill:#0000ff;stroke-width:3.49;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+         id="rect874"
+         width="128"
+         height="128"
+         x="512"
+         y="576" />
+      <g
+         id="g885">
+        <path
+           d="m 576,584 56,56 -56,56 -56,-56 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="-0.78539816"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:r2="39.59798"
+           sodipodi:r1="56"
+           sodipodi:cy="640"
+           sodipodi:cx="576"
+           sodipodi:sides="4"
+           id="path876"
+           style="opacity:0.994;fill:none;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:type="star" />
+        <text
+           id="text880"
+           y="657.31946"
+           x="574.69995"
+           style="font-size:49.912px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.519916"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.519916"
+             y="657.31946"
+             x="574.69995"
+             id="tspan878"
+             sodipodi:role="line">OK</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="set2"
+     id="layer2"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods\assets\preload\images\pauseButton.png"
+       id="g899">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="rect885"
-         style="fill:#ffffff;fill-opacity:0.1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+         width="128"
+         height="128"
+         x="64"
+         y="64" />
       <g
          id="g893">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-           id="rect887"
-           width="32"
-           height="96"
+           y="80"
            x="80"
-           y="80" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-           id="rect889"
-           width="32"
            height="96"
+           width="32"
+           id="rect887"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+        <rect
+           y="80"
            x="144"
-           y="80" />
+           height="96"
+           width="32"
+           id="rect889"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
       </g>
     </g>
   </g>
