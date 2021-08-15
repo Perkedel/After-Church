@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <version>190219</version>
-    <url>C:/Users/joelr/Documents/starring codes/Godot Projects/HexagonEngine/OliveVideoEdit/WalkFass.ove</url>
+    <url>C:/Users/joelr/Documents/starring codes/After Church/Project Files/Side/WalkFass.ove</url>
     <folders>
         <folder name="WalkFass-Default" id="1" parent="0"/>
         <folder name="Dancing-Cockroach" id="2" parent="0"/>
@@ -9,30 +9,32 @@
         <folder name="PupupSetak" id="4" parent="0"/>
     </folders>
     <media>
-        <footage id="1" folder="1" name="2019-10-16 15-40-24.mkv" url="../../../../../Videos/2019-10-16 15-40-24.mkv" duration="55834000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath=""/>
+        <footage id="1" folder="1" name="DieYoungPreviewButton.mkv" url="../../RAW files/VideoFiles/WindowsOBS/DieYoungPreviewButton.mkv" duration="55834000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="60.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
         <footage id="2" folder="1" name="FarmerGirl-aka-Mino-Walking-spriteSheeted.0000.png" url="../../../../../../ASUS/Documents/starring codes/Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/walking/FarmerGirl-aka-Mino-Walking-spriteSheeted.%4d.png" duration="4840000" using_inout="0" in="0" out="0" speed="2.4" alphapremul="0" startnumber="0" proxy="1" proxypath="C:/Users/ASUS/Documents/starring codes/Godot Projects/HexagonEngine/OliveVideoEdit/../../../Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/walking/Proksi/FarmerGirl-aka-Mino-Walking-spriteSheeted.mov"/>
-        <footage id="3" folder="1" name="FarmerGirl-aka-Mino-Walking-spriteSheeted.avi" url="../../../Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/Videoed/FarmerGirl-aka-Mino-Walking-spriteSheeted.avi" duration="5041667" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="2048" height="2048" framerate="24.0000000000" infinite="0"/>
-        </footage>
-        <footage id="4" folder="1" name="FarmerGirl-aka-Mino-Walking-spriteSheeted.mkv" url="../../../Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/Videoed/FarmerGirl-aka-Mino-Walking-spriteSheeted.mkv" duration="5042000" using_inout="0" in="0" out="0" speed="2.5" alphapremul="0" startnumber="0" proxy="0" proxypath="">
-            <video id="0" width="2048" height="2048" framerate="24.0000000000" infinite="0"/>
-        </footage>
+        <footage id="3" folder="1" name="FarmerGirl-aka-Mino-Walking-spriteSheeted.avi" url="../../../Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/Videoed/FarmerGirl-aka-Mino-Walking-spriteSheeted.avi" duration="5041667" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath=""/>
+        <footage id="4" folder="1" name="FarmerGirl-aka-Mino-Walking-spriteSheeted.mkv" url="../../../Unity Projects/Qmoveph_for2DAnimation/Assets/Synfig/SpriteSheeted/Videoed/FarmerGirl-aka-Mino-Walking-spriteSheeted.mkv" duration="5042000" using_inout="0" in="0" out="0" speed="2.5" alphapremul="0" startnumber="0" proxy="0" proxypath=""/>
         <footage id="5" folder="1" name="GurukuTersayang_BaWaMI.mov" url="../../../../../Videos/GurukuTersayang_BaWaMI.mov" duration="185967000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath=""/>
         <footage id="6" folder="2" name="72b.gif" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/jjjjjohn/72b.gif" duration="4600000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="500" height="500" framerate="10.0000000000" infinite="0"/>
         </footage>
-        <footage id="7" folder="3" name="Dancing Triforce Official Video Part 1-8BPq3akHaGI.mkv" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/DancingTriforce/Dancing Triforce Official Video Part 1-8BPq3akHaGI.mkv" duration="280101000" using_inout="0" in="0" out="0" speed="2" alphapremul="0" startnumber="0" proxy="0" proxypath=""/>
-        <footage id="8" folder="4" name="Joel Robert Justiawa-6938665624872783105.mp4" url="../../../After Church/RAW files/TikTok/Joel Robert Justiawa-6938665624872783105.mp4" duration="16276000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="7" folder="3" name="Dancing Triforce Official Video Part 1-8BPq3akHaGI.mkv" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/DancingTriforce/Dancing Triforce Official Video Part 1-8BPq3akHaGI.mkv" duration="280101000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="320" height="240" framerate="30.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="8" folder="4" name="Joel Robert Justiawa-6938665624872783105.mp4" url="../../RAW files/TikTok/Joel Robert Justiawa-6938665624872783105.mp4" duration="16276000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="576" height="1024" framerate="14.9170000000" infinite="0"/>
             <audio id="1" channels="2" layout="3" frequency="44100"/>
         </footage>
-        <footage id="9" folder="0" name="Perkedel Logo Typeborder.png" url="../Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="9" folder="0" name="Perkedel Logo Typeborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Typeborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="3710" height="400" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="10" folder="0" name="Perkedel Logo Darkborder.png" url="../Inkscape/Logo Setup/Perkedel Logo Darkborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="10" folder="0" name="Perkedel Logo Darkborder.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel Logo Darkborder.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="3709" height="400" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="11" folder="0" name="Perkedel_Ended_4K.png" url="../Inkscape/Logo Setup/Perkedel_Ended_4K.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="11" folder="0" name="Perkedel_Ended_4K.png" url="../../../Godot Projects/HexagonEngine/Inkscape/Logo Setup/Perkedel_Ended_4K.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="4096" height="2160" framerate="0.0000000000" infinite="1"/>
         </footage>
         <footage id="12" folder="0" name="by-sa.png" url="../../../../kolmorotzzet (kolmorotshitt)/Artistic Setups/Creative Commons/by-sa.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
@@ -13687,7 +13689,7 @@
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
-                        <field id="volume" value="1.58489e-05">
+                        <field id="volume" value="1">
                             <key value="1" frame="1629" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1.58489e-05" frame="1760" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -13854,7 +13856,7 @@
                 </effect>
             </clip>
         </sequence>
-        <sequence id="14" folder="4" name="PupupSetak" width="1024" height="1024" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+        <sequence id="14" folder="4" name="PupupSetak" width="1024" height="1024" framerate="60.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
             <clip id="0" enabled="1" name="72b.gif" clipin="0" in="0" out="46" track="-2" r="192" g="160" b="128" autoscale="0" speed="6.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
@@ -14616,6 +14618,184 @@
                     </row>
                     <row>
                         <field id="shadowopacity" value="6"/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+        <sequence id="15" folder="0" name="Portrait" width="1080" height="1920" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="Main (DancingTriforce)" clipin="0" in="0" out="1655" track="-1" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="11">
+                <linked>
+                    <link id="1"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="540"/>
+                        <field id="posy" value="960"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="25"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="Main (DancingTriforce)" clipin="0" in="0" out="1655" track="0" r="192" g="128" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="1" sequence="11">
+                <linked>
+                    <link id="0"/>
+                </linked>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="Title" clipin="0" in="0" out="1787" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="540"/>
+                        <field id="posy" value="960"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:36pt; font-weight:696; color:#ffff00;&quot;&gt;Keju Joget&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:24pt; font-weight:696; color:#ffff00;&quot;&gt;https://odysee.com/@JOELwindows7:a/WalkFass-Dancing-DancingTriforce:4&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="267"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="Title" clipin="0" in="1655" out="1787" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="540"/>
+                        <field id="posy" value="960"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:696; color:#ffffff;&quot;&gt;Unfortunately,&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:696; color:#ffffff;&quot;&gt;The MIDI Ke$ha - Die Young has been gone. Link to buy, gone. poof to dust.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:696; color:#ffffff;&quot;&gt;wtf, Yamaha Musicsoft?!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:48pt; font-weight:696; color:#ffffff;&quot;&gt;I didn't even get to buy it!!&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Ubuntu'; font-size:48pt; font-weight:696; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ubuntu'; font-size:24pt; font-weight:696; color:#ffffff;&quot;&gt;https://cointr.ee/joelwindows7&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
                     </row>
                 </effect>
             </clip>
