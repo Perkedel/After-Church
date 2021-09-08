@@ -4,16 +4,16 @@
     <url>C:/Users/joelr/Documents/starring codes/After Church/Project Files/Side/Funkinator-marketing.ove</url>
     <folders/>
     <media>
-        <footage id="1" folder="0" name="set.png" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/ninja_muffin99/funkin-windows-64bit/assets/images/set.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="1" folder="0" name="set.png" url="../../../Haxe Projects/Kaded-fnf-mods/assets/shared/images/set.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="702" height="322" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="2" folder="0" name="go.png" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/ninja_muffin99/funkin-windows-64bit/assets/images/go.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="2" folder="0" name="go.png" url="../../../Haxe Projects/Kaded-fnf-mods/assets/shared/images/go.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="558" height="430" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="3" folder="0" name="ready.png" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/ninja_muffin99/funkin-windows-64bit/assets/images/ready.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="3" folder="0" name="ready.png" url="../../../Haxe Projects/Kaded-fnf-mods/assets/shared/images/ready.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="757" height="364" framerate="0.0000000000" infinite="1"/>
         </footage>
-        <footage id="4" folder="0" name="iconGrid.png" url="D:/kolmorotzzet (kolmorotshitt)/Artistic Setups/ninja_muffin99/funkin-windows-64bit/assets/images/iconGrid.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+        <footage id="4" folder="0" name="iconGrid.png" url="../../../Haxe Projects/Kaded-fnf-mods/assets/preload/images/iconGrid.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <video id="0" width="1500" height="900" framerate="0.0000000000" infinite="1"/>
         </footage>
         <footage id="5" folder="0" name="gurukuTersayang-full.ogg" url="../../RAW files/Funkin/AFI Junior - Guruku Tersayang PSR S970 UTI/gurukuTersayang-full.ogg" duration="195592000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
@@ -30,6 +30,9 @@
         </footage>
         <footage id="9" folder="0" name="breakfast.ogg" url="../../../Haxe Projects/Kaded-fnf-mods/assets/shared/music/breakfast.ogg" duration="60003265" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
             <audio id="0" channels="2" layout="3" frequency="44100"/>
+        </footage>
+        <footage id="10" folder="0" name="Alsa_themed_speaker_test-7dot1.wav" url="../../RAW files/Audacity/Alsa Themed Speaker Testoid/Alsa_themed_speaker_test-7dot1.wav" duration="14224854" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="8" layout="0" frequency="48000"/>
         </footage>
     </media>
     <sequences>
@@ -2504,7 +2507,7 @@
                 </effect>
             </clip>
         </sequence>
-        <sequence id="3" folder="0" name="after week6" width="1280" height="720" framerate="30.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+        <sequence id="3" folder="0" name="after week6" width="1280" height="720" framerate="30.0000000000" afreq="48000" alayout="3" workarea="0" workareaIn="0" workareaOut="0">
             <clip id="0" enabled="1" name="purple error" clipin="0" in="0" out="1350" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
@@ -3196,5 +3199,6 @@
                 </effect>
             </clip>
         </sequence>
+        <sequence id="4" folder="0" name="vlcTest" width="1280" height="720" framerate="60.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0"/>
     </sequences>
 </project>
