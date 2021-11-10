@@ -1086,7 +1086,20 @@ Busak: Yeaaaha!! Mantab, Tari!!!
 
 # Round 2
 
+## win
+
+## lose
 # a
 pls continue
 
 Play Minecraft capture flag over here
+
+# Round 3 (if lose 2nd round) / Last Chance win (if won 2nd round)
+Cosefir: Dan pemenangnya adalah... EITS! belum selesai. Kita kasih kesempatan.
+## Round 3 (lost 2nd round)
+Cosefir: 
+## Last Chance win
+Cosefir:
+
+
+
