@@ -17,7 +17,7 @@ body:
     label: Write the merchandise / lore name
     description: What's the name of the Storyful Video game, Film, Manga / Comic, Novel / Visual Novel, etc.?
     placeholder: Example - ""
-  validation:
+  validations:
     required: true
 
 - type: textarea
@@ -25,5 +25,5 @@ body:
     label: Production from
     description: What's the name of the production company? or author of the lore itself?
     placeholder: Example - ""
-  validation:
+  validations:
     required: true
