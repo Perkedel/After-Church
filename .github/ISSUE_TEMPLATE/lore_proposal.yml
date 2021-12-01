@@ -68,16 +68,16 @@ body:
       to consider before making fanart of this lore.
 
 - type: dropdown
-    id: license-to-access
-    attributes:
-      label: License to access
-      description: How do we access this lore? This is very important to consider for us to ensure we correctly build spending strategies & avoid recklessly putting our souls in debts. Not to be confused with Business acquirements!
-      options:
-        - GRATIS 100% (even the DLCs are **all $0**)
-        - Paid Lifetime (or Free to access with optional **paid** DLCs)
-        - Sell Soul (Subscription)
-    validations:
-      required: true
+  id: license-to-access
+  attributes:
+    label: License to access
+    description: How do we access this lore? This is very important to consider for us to ensure we correctly build spending strategies & avoid recklessly putting our souls in debts. Not to be confused with Business acquirements!
+    options:
+      - GRATIS 100% (even the DLCs are **all $0**)
+      - Paid Lifetime (or Free to access with optional **paid** DLCs)
+      - Sell Soul (Subscription)
+  validations:
+    required: true
 
 - type: checkboxes
   id: holder-special-behaviours
