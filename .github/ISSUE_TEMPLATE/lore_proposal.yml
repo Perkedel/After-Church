@@ -33,13 +33,13 @@ body:
     required: true
   
 - type: textarea
-    id: details
-    attributes:
-      label: Lore Details
-      description: Describe the lore in detail. At least by synopsis of what happened, what was the main character, how's the end & what current situation is there right now, etc.
-      placeholder: Example - "Once upon a time, there is a kid in yellow jacket awaken..."
-    validations:
-      required: true
+  id: details
+  attributes:
+    label: Lore Details
+    description: Describe the lore in detail. At least by synopsis of what happened, what was the main character, how's the end & what current situation is there right now, etc.
+    placeholder: Example - "Once upon a time, there is a kid in yellow jacket awaken..."
+  validations:
+    required: true
 
 - type: textarea
   id: link
