@@ -5,6 +5,9 @@
 
 name: Lore Proposal
 description: Open a new lore proposal
+labels: ["proposal"]
+assignees:
+  - JOELwindows7
 body:
 
 - type: markdown
@@ -13,6 +16,7 @@ body:
       # Lore Proposal
       - Write a descriptive proposal title above.
       - Search [open](https://github.com/Perkedel/After-Church/issues) and [closed](https://github.com/Perkedel/After-Church/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the lore has not already been suggested.
+      - This is not for asking reupload & piracy. Please wait for the template from Admiral Zumi of Xop1r4t3 Eenvreensment to be added later.
 
 - type: input
   id: title
@@ -92,6 +96,8 @@ body:
       - label: Doxxer (collects your private key datas, has exchange activities to them) (.e.g. Google, Meta / Facebook, Microsoft)
       - label: karen (wants to win argument at all time & wrath if lose) (bashes other lores)
       - label: racist (hates white, black, asian, latino, etc.)
+      - label: Money-eyed (partialist, charges everything possible for money or anything exchanges, expect user to pay extra to win. Next level of Paywallist)
+      - label: Elusive (often disappear &/or along with the lore &/or files)
       - label: Homosexual (Lesbian, Gay) / special sexuals (Pansexual, asexual, etc.)
       - label: Super Procrastinate (takes way extremely long to release new part of the lore such as Episodes, Seasons, Sequels, Spinoffs, new lores, etc.)
       - label: Unstable (state of the lore storyline keeps changing everytime) (NOT TO BE CONFUSED WITH Choose your path, Rolling Release)
