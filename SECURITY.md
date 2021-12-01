@@ -15,7 +15,7 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | >Future  | :white_check_mark: |
 | Today  | :white_check_mark: |
-| < 1999   | :x:                |
+| < Today   | :x:               |
 
 ## Reporting a Vulnerability, Drama, Threats
 
