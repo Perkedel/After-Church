@@ -1,10 +1,13 @@
 # Security Policy
-Report Vulnerability & Threats in the lore &/or lore displayability.
+Report Vulnerability & Threats in the lore &/or lore displayability.  
+Use this only if the issue shall not be publicly shown & could enrage the lore holder if they knew that we're discussing the drama.
 
 Example:
 - Parts that has to be censored in certain region due to political correctness enforcements
 - Trauma that affects group of people
 - Ban & block potential for showing certain part of lore
+- Newly found terrible behaviour of the lore holders
+- what else?
 
 ## Supported Versions
 
