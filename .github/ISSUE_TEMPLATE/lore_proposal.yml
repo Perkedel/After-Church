@@ -1,0 +1,29 @@
+# Yoink template from Godot's issue template
+# https://github.com/godotengine/godot/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml
+# https://github.com/godotengine/godot-proposals/blob/master/.github/ISSUE_TEMPLATE/feature_enhancement_proposal.yml
+
+name: Lore Proposal
+description: Open a new lore proposal
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      - Write a descriptive proposal title above.
+      - Search [open](https://github.com/Perkedel/After-Church/issues) and [closed](https://github.com/Perkedel/After-Church/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the lore has not already been suggested.
+
+- type: textarea
+  attributes:
+    label: Write the merchandise / lore name
+    description: What's the name of the Storyful Video game, Film, Manga / Comic, Novel / Visual Novel, etc.?
+    placeholder: Example - ""
+  validation:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Production from
+    description: What's the name of the production company? or author of the lore itself?
+    placeholder: Example - ""
+  validation:
+    required: true
