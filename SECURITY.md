@@ -1,6 +1,6 @@
 # Security Policy
 Report Vulnerability & Threats in the lore &/or lore displayability.  
-Use this only if the issue shall not be publicly shown & could enrage the lore holder if they knew that we're discussing the drama.
+Use this only if the issue shall not be publicly shown & could enrage the lore holder &/or broadcast parties if they knew that we're discussing the drama.
 
 Example:
 - Parts that has to be censored in certain region due to political correctness enforcements
