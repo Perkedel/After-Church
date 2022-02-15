@@ -16,7 +16,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="2" x="0.25" y="0.1">
+  <FILTER uid="2" x="0.21484375" y="0.09633649932157395">
     <PLUGIN name="MIDI Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="a9e4f9eb"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -65,7 +65,7 @@
     <PLUGIN name="S-YXG2006LE.64" descriptiveName="[jBridge]S-YXG2006LE"
             format="VST" category="Synth" manufacturer="[jBridge]" version="0.2.5.6"
             file="C:\Users\joelr\Documents\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
-            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17ee4b9965a"
+            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17eeeb40aff"
             numInputs="0" numOutputs="2" isShell="0" uid="35377732"/>
     <STATE>160.CMlaKA....fQBMDZ....ATyM2IC...P.....A.................................................................................................................................................................................</STATE>
     <LAYOUT>
@@ -75,23 +75,6 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="6" x="0.2578125" y="0.3147896879240163" uiLastX_Normal="398"
-          uiLastY_Normal="118" uiopen_Normal="0">
-    <PLUGIN name="IvanC-MIDI-Play-Plugin" format="VST3" category="Instrument|Generator"
-            manufacturer="Perkedel Technologies + IvanC" version="2022.02"
-            file="C:\Users\joelr\Documents\starring codes\JUCE Projects\TestGUInowWillYaJUCE\IvanC-MIDI-Play-Plugin\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2019\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3"
-            uniqueId="b484efd3" isInstrument="1" fileTime="17ee4ade742" infoUpdateTime="17ee4b9965c"
-            numInputs="0" numOutputs="2" isShell="0" uid="8b2cd1d3"/>
-    <STATE>427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfjcUg1Xrk0QXQmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
-    <LAYOUT>
-      <INPUTS/>
-      <OUTPUTS>
-        <BUS index="0" layout="L R"/>
-      </OUTPUTS>
-    </LAYOUT>
-  </FILTER>
-  <CONNECTION srcFilter="2" srcChannel="4096" dstFilter="6" dstChannel="4096"/>
   <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
   <CONNECTION srcFilter="5" srcChannel="1" dstFilter="3" dstChannel="1"/>
-  <CONNECTION srcFilter="6" srcChannel="4096" dstFilter="5" dstChannel="4096"/>
 </FILTERGRAPH>

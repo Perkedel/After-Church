@@ -14,27 +14,6 @@
   <BeatsPerMinute>120</BeatsPerMinute>
  </Transport>
 
- <!-- MIDI Channelize -->
- <Plugin>
-  <Info>
-   <Type>INTERNAL</Type>
-   <Name>MIDI Channelize</Name>
-   <Label>midichannelize</Label>
-  </Info>
-
-  <Data>
-   <Active>No</Active>
-   <ControlChannel>1</ControlChannel>
-   <Options>0x3f0</Options>
-
-   <Parameter>
-    <Index>0</Index>
-    <Name>Channel</Name>
-    <Value>1</Value>
-   </Parameter>
-  </Data>
- </Plugin>
-
  <!-- S-YXG2006LE -->
  <Plugin>
   <Info>
@@ -45,7 +24,7 @@
   </Info>
 
   <Data>
-   <Active>No</Active>
+   <Active>Yes</Active>
    <ControlChannel>N</ControlChannel>
    <Options>0x3f9</Options>
 
@@ -65,7 +44,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
   </Info>
 
   <Data>
-   <Active>Yes</Active>
+   <Active>No</Active>
    <ControlChannel>1</ControlChannel>
    <Options>0x0</Options>
 
@@ -129,7 +108,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
   </Info>
 
   <Data>
-   <Active>Yes</Active>
+   <Active>No</Active>
    <Volume>1.04</Volume>
    <ControlChannel>N</ControlChannel>
    <Options>0x3f9</Options>
@@ -256,7 +235,7 @@ AAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAGQAAABAAAAAKAAAAAAAAABAAAAAAAAAAAAA
   </Info>
 
   <Data>
-   <Active>Yes</Active>
+   <Active>No</Active>
    <ControlChannel>N</ControlChannel>
    <Options>0x0</Options>
 
@@ -5993,11 +5972,31 @@ AAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAGQAAABAAAAAKAAAAAAAAABAAAAAAAAAAAAA
   </Data>
  </Plugin>
 
+ <!-- IvanC-MIDI-Play-Plugin -->
+ <Plugin>
+  <Info>
+   <Type>VST3</Type>
+   <Name>IvanC-MIDI-Play-Plugin</Name>
+   <Binary>C:/Users/joelr/Documents/starring codes/JUCE Projects\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2019\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3</Binary>
+   <Label>IvanC-MIDI-Play-Plugin</Label>
+  </Info>
+
+  <Data>
+   <Active>Yes</Active>
+   <ControlChannel>1</ControlChannel>
+   <Options>0x3f9</Options>
+
+   <Chunk>
+VkMyIaIBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8VlNUM1BsdWdpblN0YXRlPjxJQ29tcG9uZW50PjIzNi5WTUdjV0EuLi5m
+Li4uLlAuLi4uLi5Melh0c0QuLi4uMEZJelBuQS4uLkhQUmkwRllHWHQuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLnZDLi4uLi4uLi4uLm5UVUNVRFR4a2xjZ1FXWURFRmNnQVAuQUhUZHZFMWJ5QVAu
+QUwuLmMuLi4uLi4uLi5mUlVNVFFQSVdaMUVGY2tRVFh6RUY8L0lDb21wb25lbnQ+PC9WU1QzUGx1Z2luU3RhdGU+AA==
+   </Chunk>
+  </Data>
+ </Plugin>
+
  <Patchbay>
-  <Connection>
-   <Source>Midi Input:Capture 1</Source>
-   <Target>MIDI Channelize:events-in</Target>
-  </Connection>
   <Connection>
    <Source>Midi Input:Capture 1</Source>
    <Target>S-YXG2006LE:event-in</Target>
@@ -6013,6 +6012,10 @@ AAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAGQAAABAAAAAKAAAAAAAAABAAAAAAAAAAAAA
   <Connection>
    <Source>Midi Input:Capture 1</Source>
    <Target>Big Meter:events-in</Target>
+  </Connection>
+  <Connection>
+   <Source>Midi Input:Capture 1</Source>
+   <Target>MIDI File:events-in</Target>
   </Connection>
   <Connection>
    <Source>S-YXG2006LE:output_1</Source>
@@ -6043,43 +6046,46 @@ AAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAGQAAABAAAAAKAAAAAAAAABAAAAAAAAAAAAA
    <Target>Big Meter:input_2</Target>
   </Connection>
   <Connection>
-   <Source>Midi Input:Capture 1</Source>
-   <Target>MIDI File:events-in</Target>
+   <Source>MIDI File:events-out</Source>
+   <Target>S-YXG2006LE:event-in</Target>
   </Connection>
   <Connection>
    <Source>MIDI File:events-out</Source>
    <Target>BassMidiVsti:events-in</Target>
   </Connection>
   <Connection>
-   <Source>MIDI File:events-out</Source>
+   <Source>IvanC-MIDI-Play-Plugin:events-out</Source>
    <Target>S-YXG2006LE:event-in</Target>
   </Connection>
   <Positions>
-   <Position x1="1454" y1="1204" pluginId="6">
+   <Position x1="1506" y1="951" pluginId="6">
+    <Name>IvanC-MIDI-Play-Plugin</Name>
+   </Position>
+   <Position x1="1422" y1="1134" pluginId="5">
     <Name>MIDI File</Name>
    </Position>
-   <Position x1="1958" y1="1380" pluginId="5">
+   <Position x1="2009" y1="1410" pluginId="4">
     <Name>Big Meter</Name>
    </Position>
-   <Position x1="1771" y1="1438" pluginId="4">
+   <Position x1="1626" y1="1486" pluginId="3">
     <Name>Notes</Name>
    </Position>
-   <Position x1="1760" y1="1264" pluginId="3">
+   <Position x1="1778" y1="1263" pluginId="2">
     <Name>BassMidiVsti</Name>
    </Position>
-   <Position x1="1549" y1="1073" pluginId="2">
+   <Position x1="1549" y1="1073" pluginId="1">
     <Name>MIDI Pattern</Name>
    </Position>
-   <Position x1="1763" y1="1186" pluginId="1">
+   <Position x1="1778" y1="1112" pluginId="0">
     <Name>S-YXG2006LE</Name>
    </Position>
-   <Position x1="1696" y1="1350" pluginId="0">
-    <Name>MIDI Channelize</Name>
+   <Position x1="1550" y1="1337" x2="2063" y2="1280">
+    <Name>Midi Output</Name>
    </Position>
    <Position x1="1441" y1="1361" x2="2149" y2="1112">
     <Name>Midi Input</Name>
    </Position>
-   <Position x1="1550" y1="1200" x2="2424" y2="1167">
+   <Position x1="1998" y1="1137">
     <Name>Audio Output</Name>
    </Position>
   </Positions>
