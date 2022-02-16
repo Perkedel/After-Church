@@ -5919,7 +5919,7 @@
               pluginIdentifierString="VST3-IvanC-MIDI-Play-Plugin-415b72d2-cfb8649a"
               uuid="77e3b1c6d5734dc4892e1fe756412e4b" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127.0" transpose="0"
-              x="570.0" y="70.0" windowX="414" windowY="98" windowVisible="0"
+              x="570.0" y="70.0" windowX="489" windowY="146" windowVisible="0"
               state="427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
               program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
@@ -10120,5 +10120,5 @@
   </graphs>
   <controllers/>
   <maps/>
-  <ui content="129.3ocAA2sBBCBF..UunmlfcSzV2NVS5yF8CTVJrKDzUSE+hRR6suy4SRmrDJ8.Zr8l4D9tCiIaLIlsYBcbQcc0JbCO41tGtxt6vlxw9oK7r5Ine3Yg.JbJNSFAH3ZEJyKPisAe.Xt34fVoDkSYuSVj2ftgxteCUeWurYRPH+AhRqhY"/>
+  <ui content="130.3ocCFGrCBBBF..FNzqCqsbTWcltvbk5JRXqCsINDQvU+Kn297z22G3EnPX7EeuJueD7uy7NP4.9nJfvO2Pojc9Ckf43Y18hNiee7Z9vsxvRCSHkEBg110zxkFFuqcUcX8I1YWpUVuXmzI1u0gIiHJdvxphm9UQHaSoCyHze.2EgJK."/>
 </session>
