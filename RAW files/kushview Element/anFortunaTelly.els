@@ -9,11 +9,11 @@
         <node id="1" type="plugin" format="Internal" identifier="audio.input"
               name="Microphone (Realtek High Definition Audio)" relativeX="0.2495948136142626"
               relativeY="0.2495088408644401" numAudioIns="0" numAudioOuts="2"
-              uuid="75dca98fa1834a19a2acb430816746ba" bypass="1" persistent="1"
+              uuid="75dca98fa1834a19a2acb430816746ba" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127" transpose="0" enabled="1"
               x="186.0" y="104.0" program="0" midiProgram="0" globalMidiPrograms="0"
               midiProgramsEnabled="0" mute="1" muteInput="0" midiProgramsState=""
-              oversamplingFactor="1" gain="1.0">
+              oversamplingFactor="1" gain="0.0">
           <nodes/>
           <ui/>
           <ports>
@@ -5823,11 +5823,11 @@
           </ports>
         </node>
         <node id="9" type="plugin" format="Element" identifier="element.midiMonitor"
-              name="MIDI Monitor" relativeX="0.5283630470016207" relativeY="0.4282907662082515"
+              name="MIDI Monitor" relativeX="0.4538087520259319" relativeY="0.4361493123772102"
               pluginIdentifierString="Element-MIDI Monitor-b08bd707-3f8" uuid="e5719a1b72cf48069af2b8ec4a27bfcd"
               bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127.0"
-              transpose="0" x="592.0" y="195.0" windowX="238" windowY="254"
-              windowVisible="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
+              transpose="0" x="500.0" y="199.0" windowX="134" windowY="182"
+              windowVisible="1" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
               oversamplingFactor="1" enabled="1">
           <nodes/>
@@ -5915,15 +5915,15 @@
           </ports>
         </node>
         <node id="15" type="plugin" format="VST3" identifier="C:\Users\joelr\Documents\starring codes\JUCE Projects\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2019\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3"
-              name="IvanC-MIDI-Play-Plugin" relativeX="0.513776337115073" relativeY="0.1827111984282908"
+              name="IvanC-MIDI-Play-Plugin" relativeX="0.513776337115073" relativeY="0.1787819253438114"
               pluginIdentifierString="VST3-IvanC-MIDI-Play-Plugin-415b72d2-cfb8649a"
               uuid="77e3b1c6d5734dc4892e1fe756412e4b" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127.0" transpose="0"
-              x="570.0" y="70.0" windowX="489" windowY="146" windowVisible="0"
+              x="570.0" y="68.0" windowX="476" windowY="176" windowVisible="1"
               state="427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
               program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
-              oversamplingFactor="1" enabled="1">
+              oversamplingFactor="1" enabled="1" gain="1.0">
           <nodes/>
           <ui/>
           <ports>
