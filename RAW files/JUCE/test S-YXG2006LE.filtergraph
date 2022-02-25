@@ -65,7 +65,7 @@
     <PLUGIN name="S-YXG2006LE.64" descriptiveName="[jBridge]S-YXG2006LE"
             format="VST" category="Synth" manufacturer="[jBridge]" version="0.2.5.6"
             file="C:\Users\joelr\Documents\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
-            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17f04233123"
+            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17f2606acb7"
             numInputs="0" numOutputs="2" isShell="0" uid="35377732"/>
     <STATE>160.CMlaKA....fQBMDZ....ATyM2IC...P.....A.................................................................................................................................................................................</STATE>
     <LAYOUT>
@@ -76,11 +76,11 @@
     </LAYOUT>
   </FILTER>
   <FILTER uid="6" x="0.3131510416666667" y="0.2930800542740841" uiLastX_Normal="622"
-          uiLastY_Normal="154" uiopen_Normal="1">
+          uiLastY_Normal="154" uiopen_Normal="0">
     <PLUGIN name="IvanC-MIDI-Play-Plugin" format="VST3" category="Instrument|Generator"
             manufacturer="Perkedel Technologies + IvanC" version="2022.02"
             file="C:\Users\joelr\Documents\starring codes\JUCE Projects\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2019\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3"
-            uniqueId="8bfd10a1" isInstrument="1" fileTime="17f03ece6cd" infoUpdateTime="17f04233124"
+            uniqueId="8bfd10a1" isInstrument="1" fileTime="17f13764136" infoUpdateTime="17f2606acb9"
             numInputs="0" numOutputs="2" isShell="0" uid="cfb8649a"/>
     <STATE>427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
     <LAYOUT>
@@ -90,6 +90,36 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
+  <FILTER uid="7" x="0.6692708333333334" y="0.3202170963364993" uiLastX_Normal="136"
+          uiLastY_Normal="294" uiopen_Normal="0">
+    <PLUGIN name="MultiOutSynthPlugin" format="VST3" category="Instrument|Synth"
+            manufacturer="JUCE" version="1.0.0" file="C:\Users\joelr\Documents\starring codes\JUCE Projects\MultiOutSynthPlugin\Builds\VisualStudio2019\x64\Debug\VST3\MultiOutSynthPlugin.vst3"
+            uniqueId="f5a3ea19" isInstrument="1" fileTime="17f25fedae8" infoUpdateTime="17f2606acb9"
+            numInputs="0" numOutputs="2" isShell="0" uid="e954e358"/>
+    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+        <BUS index="1" layout="L R"/>
+        <BUS index="2" layout="L R"/>
+        <BUS index="3" layout="L R"/>
+        <BUS index="4" layout="L R"/>
+        <BUS index="5" layout="L R"/>
+        <BUS index="6" layout="L R"/>
+        <BUS index="7" layout="L R"/>
+        <BUS index="8" layout="L R"/>
+        <BUS index="9" layout="L R"/>
+        <BUS index="10" layout="L R"/>
+        <BUS index="11" layout="L R"/>
+        <BUS index="12" layout="L R"/>
+        <BUS index="13" layout="L R"/>
+        <BUS index="14" layout="L R"/>
+        <BUS index="15" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <CONNECTION srcFilter="2" srcChannel="4096" dstFilter="7" dstChannel="4096"/>
   <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
   <CONNECTION srcFilter="5" srcChannel="1" dstFilter="3" dstChannel="1"/>
   <CONNECTION srcFilter="6" srcChannel="4096" dstFilter="5" dstChannel="4096"/>
