@@ -12,11 +12,11 @@
         <BUS index="0" layout="disabled"/>
       </INPUTS>
       <OUTPUTS>
-        <BUS index="0" layout="L R"/>
+        <BUS index="0" layout="disabled"/>
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="2" x="0.21484375" y="0.09633649932157395">
+  <FILTER uid="2" x="0.2135416666666667" y="0.08548168249660787">
     <PLUGIN name="MIDI Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="a9e4f9eb"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -34,7 +34,7 @@
   <FILTER uid="3" x="0.5" y="0.9">
     <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="724248cb"
-            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="2"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
             numOutputs="0" isShell="0" uid="724248cb"/>
     <STATE>0.</STATE>
     <LAYOUT>
@@ -61,26 +61,12 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.3515625" y="0.4396200814111262">
-    <PLUGIN name="S-YXG2006LE.64" descriptiveName="[jBridge]S-YXG2006LE"
-            format="VST" category="Synth" manufacturer="[jBridge]" version="0.2.5.6"
-            file="C:\Users\joelr\Documents\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
-            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17f2606acb7"
-            numInputs="0" numOutputs="2" isShell="0" uid="35377732"/>
-    <STATE>160.CMlaKA....fQBMDZ....ATyM2IC...P.....A.................................................................................................................................................................................</STATE>
-    <LAYOUT>
-      <INPUTS/>
-      <OUTPUTS>
-        <BUS index="0" layout="L R"/>
-      </OUTPUTS>
-    </LAYOUT>
-  </FILTER>
-  <FILTER uid="6" x="0.3131510416666667" y="0.2930800542740841" uiLastX_Normal="622"
-          uiLastY_Normal="154" uiopen_Normal="0">
+  <FILTER uid="6" x="0.2884114583333333" y="0.4504748982360923" uiLastX_Normal="333"
+          uiLastY_Normal="86" uiopen_Normal="0">
     <PLUGIN name="IvanC-MIDI-Play-Plugin" format="VST3" category="Instrument|Generator"
             manufacturer="Perkedel Technologies + IvanC" version="2022.02"
             file="C:\Users\joelr\Documents\starring codes\JUCE Projects\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2019\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3"
-            uniqueId="8bfd10a1" isInstrument="1" fileTime="17f13764136" infoUpdateTime="17f2606acb9"
+            uniqueId="8bfd10a1" isInstrument="1" fileTime="17f27f0a379" infoUpdateTime="17f46284f8e"
             numInputs="0" numOutputs="2" isShell="0" uid="cfb8649a"/>
     <STATE>427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQmKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
     <LAYOUT>
@@ -94,7 +80,7 @@
           uiLastY_Normal="294" uiopen_Normal="0">
     <PLUGIN name="MultiOutSynthPlugin" format="VST3" category="Instrument|Synth"
             manufacturer="JUCE" version="1.0.0" file="C:\Users\joelr\Documents\starring codes\JUCE Projects\MultiOutSynthPlugin\Builds\VisualStudio2019\x64\Debug\VST3\MultiOutSynthPlugin.vst3"
-            uniqueId="f5a3ea19" isInstrument="1" fileTime="17f25fedae8" infoUpdateTime="17f2606acb9"
+            uniqueId="f5a3ea19" isInstrument="1" fileTime="17f25fedae8" infoUpdateTime="17f46284f8e"
             numInputs="0" numOutputs="2" isShell="0" uid="e954e358"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
     <LAYOUT>
@@ -119,8 +105,22 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
+  <FILTER uid="8" x="0.375" y="0.5997286295793759">
+    <PLUGIN name="S-YXG2006LE.64" descriptiveName="[jBridge]S-YXG2006LE"
+            format="VST" category="Synth" manufacturer="[jBridge]" version="0.2.5.6"
+            file="C:\Users\joelr\Documents\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
+            uniqueId="35377732" isInstrument="1" fileTime="150922f41b0" infoUpdateTime="17f46284f8f"
+            numInputs="0" numOutputs="2" isShell="0" uid="35377732"/>
+    <STATE>160.CMlaKA....fQBMDZ....ATyM2IC...P.....A.................................................................................................................................................................................</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
   <CONNECTION srcFilter="2" srcChannel="4096" dstFilter="7" dstChannel="4096"/>
-  <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
-  <CONNECTION srcFilter="5" srcChannel="1" dstFilter="3" dstChannel="1"/>
-  <CONNECTION srcFilter="6" srcChannel="4096" dstFilter="5" dstChannel="4096"/>
+  <CONNECTION srcFilter="6" srcChannel="4096" dstFilter="8" dstChannel="4096"/>
+  <CONNECTION srcFilter="8" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="8" srcChannel="1" dstFilter="3" dstChannel="1"/>
 </FILTERGRAPH>
