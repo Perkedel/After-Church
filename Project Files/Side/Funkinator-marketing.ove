@@ -4033,7 +4033,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="2" enabled="1" name="Solid Color" clipin="0" in="0" out="9942" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="1" enabled="1" name="Solid Color" clipin="0" in="0" out="9942" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4079,7 +4079,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="3" enabled="1" name="go.png" clipin="0" in="1097" out="1128" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
+            <clip id="2" enabled="1" name="go.png" clipin="0" in="1097" out="1128" track="-6" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4111,7 +4111,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="4" enabled="1" name="Title" clipin="0" in="9869" out="9885" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="3" enabled="1" name="Title" clipin="0" in="9869" out="9885" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4176,7 +4176,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="5" enabled="1" name="Perkedel_Ended.png" clipin="0" in="9869" out="11735" track="-5" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
+            <clip id="4" enabled="1" name="Perkedel_Ended.png" clipin="0" in="9869" out="11735" track="-5" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4205,7 +4205,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="6" enabled="1" name="Title" clipin="0" in="9869" out="10704" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="5" enabled="1" name="Title" clipin="0" in="9869" out="10704" track="-1" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4270,7 +4270,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="7" enabled="1" name="Title" clipin="-67" in="1128" out="1406" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="6" enabled="1" name="Title" clipin="-67" in="1128" out="1406" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4335,7 +4335,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="8" enabled="1" name="Solid Color" clipin="-100" in="1095" out="9869" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="7" enabled="1" name="Solid Color" clipin="-100" in="1095" out="9869" track="-4" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4385,7 +4385,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="9" enabled="1" name="ready.png" clipin="0" in="1027" out="1069" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="3" stream="0">
+            <clip id="8" enabled="1" name="ready.png" clipin="0" in="1027" out="1069" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="3" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4417,7 +4417,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="10" enabled="1" name="set.png" clipin="0" in="1062" out="1098" track="-5" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+            <clip id="9" enabled="1" name="set.png" clipin="0" in="1062" out="1098" track="-5" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4449,7 +4449,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="11" enabled="1" name="Title" clipin="-67" in="1411" out="1689" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="10" enabled="1" name="Title" clipin="-67" in="1411" out="1689" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4514,7 +4514,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="12" enabled="1" name="Title" clipin="-67" in="1689" out="1967" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="11" enabled="1" name="Title" clipin="-67" in="1689" out="1967" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4579,7 +4579,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="13" enabled="1" name="Title" clipin="-67" in="1972" out="2250" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="12" enabled="1" name="Title" clipin="-67" in="1972" out="2250" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4644,7 +4644,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="14" enabled="1" name="Title" clipin="-67" in="2250" out="2520" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="13" enabled="1" name="Title" clipin="-67" in="2250" out="2520" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4709,7 +4709,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="15" enabled="1" name="Title" clipin="-75" in="2520" out="2779" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="14" enabled="1" name="Title" clipin="-75" in="2520" out="2779" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4774,7 +4774,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="16" enabled="1" name="Title" clipin="-75" in="2805" out="3064" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="15" enabled="1" name="Title" clipin="-75" in="2805" out="3064" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4839,7 +4839,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="17" enabled="1" name="Title" clipin="-75" in="3072" out="3331" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="16" enabled="1" name="Title" clipin="-75" in="3072" out="3331" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4904,7 +4904,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="18" enabled="1" name="Title" clipin="-75" in="3379" out="3638" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="17" enabled="1" name="Title" clipin="-75" in="3379" out="3638" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -4969,7 +4969,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="19" enabled="1" name="Title" clipin="-75" in="3638" out="3957" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="18" enabled="1" name="Title" clipin="-75" in="3638" out="3957" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5034,7 +5034,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="20" enabled="1" name="Title" clipin="-67" in="5225" out="5503" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="19" enabled="1" name="Title" clipin="-67" in="5225" out="5503" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5099,7 +5099,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="21" enabled="1" name="Title" clipin="-67" in="5508" out="5786" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="20" enabled="1" name="Title" clipin="-67" in="5508" out="5786" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5164,7 +5164,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="22" enabled="1" name="Title" clipin="-67" in="5786" out="6056" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="21" enabled="1" name="Title" clipin="-67" in="5786" out="6056" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5229,7 +5229,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="23" enabled="1" name="Title" clipin="-75" in="6056" out="6315" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="22" enabled="1" name="Title" clipin="-75" in="6056" out="6315" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5294,7 +5294,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="24" enabled="1" name="Title" clipin="-75" in="6341" out="6600" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="23" enabled="1" name="Title" clipin="-75" in="6341" out="6600" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5359,7 +5359,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="25" enabled="1" name="Title" clipin="-75" in="6600" out="6859" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="24" enabled="1" name="Title" clipin="-75" in="6600" out="6859" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5424,7 +5424,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="26" enabled="1" name="Title" clipin="-75" in="6859" out="7165" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="25" enabled="1" name="Title" clipin="-75" in="6859" out="7165" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5489,7 +5489,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="27" enabled="1" name="Title" clipin="-75" in="7165" out="7464" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="26" enabled="1" name="Title" clipin="-75" in="7165" out="7464" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5554,7 +5554,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="28" enabled="1" name="Title" clipin="-67" in="7464" out="7734" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="27" enabled="1" name="Title" clipin="-67" in="7464" out="7734" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5619,7 +5619,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="29" enabled="1" name="Title" clipin="-75" in="7734" out="7993" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="28" enabled="1" name="Title" clipin="-75" in="7734" out="7993" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5684,7 +5684,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="30" enabled="1" name="Title" clipin="-75" in="8019" out="8278" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="29" enabled="1" name="Title" clipin="-75" in="8019" out="8278" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5749,7 +5749,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="31" enabled="1" name="Title" clipin="-75" in="8286" out="8545" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="30" enabled="1" name="Title" clipin="-75" in="8286" out="8545" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5814,7 +5814,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="32" enabled="1" name="Title" clipin="-67" in="8611" out="8881" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="31" enabled="1" name="Title" clipin="-67" in="8611" out="8881" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5879,7 +5879,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="33" enabled="1" name="Title" clipin="-75" in="8881" out="9140" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="32" enabled="1" name="Title" clipin="-75" in="8881" out="9140" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -5944,7 +5944,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="34" enabled="1" name="Title" clipin="-75" in="9166" out="9425" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="33" enabled="1" name="Title" clipin="-75" in="9166" out="9425" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6009,7 +6009,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="35" enabled="1" name="Title" clipin="-75" in="9433" out="9692" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="34" enabled="1" name="Title" clipin="-75" in="9433" out="9692" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6074,7 +6074,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="36" enabled="1" name="Title" clipin="-75" in="9692" out="9738" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="35" enabled="1" name="Title" clipin="-75" in="9692" out="9738" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6139,7 +6139,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="37" enabled="1" name="Title" clipin="-29" in="9738" out="9869" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+            <clip id="36" enabled="1" name="Title" clipin="-29" in="9738" out="9869" track="-5" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
@@ -6204,7 +6204,7 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="38" enabled="1" name="gurukuTersayang-full-v3.ogg" clipin="0" in="0" out="11735" track="0" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+            <clip id="37" enabled="1" name="gurukuTersayang-full-v3.ogg" clipin="0" in="0" out="11735" track="0" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
