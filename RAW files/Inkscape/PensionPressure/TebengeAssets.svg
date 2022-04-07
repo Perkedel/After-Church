@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="TebengeAssets.svg"
-   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\NiceIcon.png"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\ignoredIcon.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008">
   <defs
@@ -437,10 +437,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="207.92031"
-     inkscape:cy="226.9299"
+     inkscape:cx="179.19587"
+     inkscape:cy="210.85787"
      inkscape:document-units="px"
-     inkscape:current-layer="layer40"
+     inkscape:current-layer="layer43"
      inkscape:document-rotation="0"
      showgrid="true"
      units="px"
@@ -2056,7 +2056,9 @@
   <g
      inkscape:label="69nice"
      id="layer40"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     style="display:none">
     <circle
        r="256"
        cy="256"
@@ -2100,7 +2102,7 @@
       <path
          id="path1176"
          style="fill:#1a1a1a;fill-opacity:0.998145;stroke:#808000;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         d="M 174.7832 175.2793 A 24 24 0 0 0 168 192 A 24 24 0 0 0 172.41992 205.87891 C 186.16181 204.94669 200.85328 201.98559 215.69727 195.79492 A 24 24 0 0 0 216 192 A 24 24 0 0 0 215.60547 187.66797 C 201.14854 180.73282 187.42791 176.94176 174.7832 175.2793 z " />
+         d="M 174.7832,175.2793 A 24,24 0 0 0 168,192 a 24,24 0 0 0 4.41992,13.87891 c 13.74189,-0.93222 28.43336,-3.89332 43.27735,-10.08399 A 24,24 0 0 0 216,192 24,24 0 0 0 215.60547,187.66797 C 201.14854,180.73282 187.42791,176.94176 174.7832,175.2793 Z" />
     </g>
     <g
        transform="translate(191.94746)"
@@ -2115,4 +2117,125 @@
          id="path1188" />
     </g>
   </g>
+  <g
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer41"
+     inkscape:label="cloudGame">
+    <path
+       style="fill:#80e5ff;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 224,368 H 96 c 0,0 -64,0 -64,-64 0,-64 64,-64 64,-64 0,0 0,-128 128,-128 128,0 128,64 128,64 0,0 64,0 64,64 0,0 64,8 64,64 0,56 -64,64 -64,64 z"
+       id="path1151" />
+  </g>
+  <g
+     inkscape:label="ignored"
+     id="layer42"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(1.2887042,0,0,1.2887042,-73.908268,-47.506744)"
+       id="g1259">
+      <g
+         id="g1220">
+        <g
+           id="g1208">
+          <g
+             id="g1169"
+             transform="translate(48,48)">
+            <rect
+               transform="rotate(-45)"
+               y="105.70563"
+               x="-12.686292"
+               height="64"
+               width="24"
+               id="rect1155"
+               style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+            <path
+               id="path1159"
+               d="m 60.747004,151.25667 c 0,0 -45.254831,-45.25483 0,-90.509667 45.254836,-45.25483 90.509666,0 90.509666,0 z"
+               style="fill:#ff0000;stroke:#ffff00;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <g
+             id="g1165"
+             transform="translate(-48.000004,47.999987)">
+            <rect
+               style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+               id="rect1157"
+               width="24"
+               height="64"
+               x="-374.72498"
+               y="-256.33304"
+               transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+            <path
+               style="fill:#ff0000;stroke:#ffff00;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 451.25299,151.25667 c 0,0 45.25483,-45.25483 0,-90.509667 -45.25483,-45.25483 -90.50966,0 -90.50966,0 z"
+               id="path1161" />
+          </g>
+        </g>
+        <g
+           id="g1178">
+          <rect
+             style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+             id="rect1171"
+             width="64"
+             height="24"
+             x="224"
+             y="80" />
+          <rect
+             style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+             id="rect1174"
+             width="16"
+             height="24"
+             x="248"
+             y="104" />
+        </g>
+      </g>
+      <g
+         id="g1238">
+        <g
+           id="g1186">
+          <rect
+             style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+             id="rect1180"
+             width="24"
+             height="48"
+             x="355.00925"
+             y="116.04877"
+             transform="rotate(45)" />
+          <rect
+             transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+             y="478.08743"
+             x="-7.0294347"
+             height="48"
+             width="24"
+             id="rect1182"
+             style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        </g>
+        <g
+           id="g1229">
+          <circle
+             style="fill:#ff0000;fill-opacity:0.998145;stroke:#ffff00;stroke-width:0.664935;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+             id="path1153"
+             cx="256"
+             cy="256"
+             r="127.66753" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:252.408px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:3.94387"
+             x="256"
+             y="348.17938"
+             id="text1224"><tspan
+               sodipodi:role="line"
+               id="tspan1222"
+               x="256"
+               y="348.17938"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:or;-inkscape-font-specification:or;fill:#ffffff;stroke-width:3.94387">0</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="swipeTokenCard"
+     id="layer43"
+     inkscape:groupmode="layer" />
 </svg>
