@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96.000008"
-   inkscape:export-xdpi="96.000008"
-   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkSaveIcon.png"
+   inkscape:export-ydpi="3.0000002"
+   inkscape:export-xdpi="3.0000002"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\sliderHeadDisabledIconMicro.png"
    sodipodi:docname="TebengeAssets.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -20,6 +20,278 @@
    width="512">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1331"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="100"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1319"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="100"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="100"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1301"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1524"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="30"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1515"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="25"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1513"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1493"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1489"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1 @ F,0,0,1,0,25,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="25"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1339"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="100"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1337"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1306"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="100"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1295"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="100"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1293"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="true"
+       flexible="false"
+       chamfer_steps="1"
+       radius="30"
+       mode="F"
+       method="auto"
+       unit="px"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1281"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1277"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1 @ F,0,0,1,0,30,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1273"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1 @ F,0,0,1,0,100,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="100"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        hide_knots="false"
        only_selected="false"
@@ -443,10 +715,10 @@
      units="px"
      showgrid="true"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g1230"
+     inkscape:current-layer="layer65"
      inkscape:document-units="px"
-     inkscape:cy="225.95056"
-     inkscape:cx="273.14722"
+     inkscape:cy="252.61873"
+     inkscape:cx="160.26354"
      inkscape:zoom="0.98994949"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -1934,8 +2206,8 @@
        style="fill:#ffff00;fill-opacity:0.998145;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
   </g>
   <g
-     style="display:none"
      sodipodi:insensitive="true"
+     style="display:none"
      inkscape:label="Forbidden"
      id="layer35"
      inkscape:groupmode="layer">
@@ -2240,7 +2512,8 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="layer43"
-     inkscape:label="swipeTokenCard">
+     inkscape:label="swipeTokenCard"
+     sodipodi:insensitive="true">
     <g
        transform="translate(128)"
        id="g1183">
@@ -2309,14 +2582,16 @@
   <g
      inkscape:label="checkSave"
      id="layer44"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     style="display:none">
     <g
        style="fill:#37abc8"
        id="g1221">
       <path
          id="ellipse1212"
          style="fill:#37abc8;fill-opacity:0.998145;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-         d="M 64 128 L 64 384 A 192 64 0 0 0 256 448 A 192 64 0 0 0 448 384 L 448 128 L 64 128 z " />
+         d="m 64,128 v 256 a 192,64 0 0 0 192,64 192,64 0 0 0 192,-64 V 128 Z" />
       <ellipse
          style="fill:#37abc8;fill-opacity:0.998145;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
          id="path1210"
@@ -2362,5 +2637,630 @@
          id="rect1235"
          style="fill:#1a1a1a;fill-opacity:0.998145;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer45"
+     inkscape:label="updateCheck"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:70;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.2355,113.95512 c 0,0 -135.764502,135.7645 0,271.529 135.7645,135.7645 271.529,0 271.529,0 0,0 135.7645,-135.7645 0,-271.529 l -45.25483,45.25483 V 68.700284 h 90.50966 L 391.7645,113.95512"
+       id="path1200" />
+    <path
+       id="path1202"
+       d="m 256.00247,-467.00052 c 0,0 -191.999994,0 -191.999994,192 0,192.000002 191.999994,192.000002 191.999994,192.000002 0,0 192,0 192,-192.000002 h -64 l 64,-64 64,64 h -64"
+       style="fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:70;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer46"
+     inkscape:label="soundSpeaker">
+    <g
+       id="g1226">
+      <path
+         id="path1206"
+         d="M 192,384 128,320 H 64 V 192 h 64 l 64,-64 z"
+         style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         id="g1219">
+        <path
+           style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 208,288 c 0,0 32,0 32,-32 0,-32 -32,-32 -32,-32"
+           id="path1208" />
+        <path
+           style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 256,320 c 0,0 64,0 64,-64 0,-64 -64,-64 -64,-64"
+           id="path1212" />
+        <path
+           style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 320,384 c 0,0 128,0 128,-128 C 448,128 320,128 320,128"
+           id="path1214" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="soundSpeakerMute"
+     id="layer47"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       id="path1213"
+       d="M 192,384 128,320 H 64 V 192 h 64 l 64,-64 z"
+       style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <g
+       transform="translate(0,-448)"
+       id="g1222">
+      <path
+         style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208,288 c 0,0 32,0 32,-32 0,-32 -32,-32 -32,-32"
+         id="path1215" />
+      <path
+         style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 256,320 c 0,0 64,0 64,-64 0,-64 -64,-64 -64,-64"
+         id="path1217" />
+      <path
+         style="fill:none;stroke:#00ffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 320,384 c 0,0 128,0 128,-128 C 448,128 320,128 320,128"
+         id="path1219" />
+    </g>
+    <path
+       id="rect1213-6"
+       style="display:inline;fill:#ff0000;fill-opacity:0.998145;stroke:#000000;stroke-width:0.730907;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 233.17312,144.36544 208.36544,169.17312 295.19232,256 208.36544,342.82688 233.17312,367.63456 320,280.80768 406.82688,367.63456 431.63456,342.82688 344.80768,256 431.63456,169.17312 406.82688,144.36544 320,231.19232 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer48"
+     inkscape:label="CheckOn"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1231"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOnIconMicro.png"
+       inkscape:export-xdpi="5.6250005"
+       inkscape:export-ydpi="5.6250005">
+      <path
+         d="M 132.5,132.81203 A 123.18797,123.18797 0 0 0 9.6240602,256 123.18797,123.18797 0 0 0 132.81203,379.18797 H 379.18797 A 123.18797,123.18797 0 0 0 502.37594,256 123.18797,123.18797 0 0 0 379.18797,132.81203 h -0.31203 -246.06391 a 123.18797,123.18797 0 0 0 -0.31203,0 z"
+         style="fill:#00ffff;stroke:#0000ff;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path1216" />
+      <circle
+         r="112"
+         cy="256"
+         cx="384"
+         id="path1226"
+         style="fill:#00ff00;stroke:#005522;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer51"
+     inkscape:label="CheckOnDisabled"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1384"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOnDisabledIconMicro.png"
+       inkscape:export-xdpi="5.6250005"
+       inkscape:export-ydpi="5.6250005">
+      <g
+         inkscape:export-ydpi="5.6250005"
+         inkscape:export-xdpi="5.6250005"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOnDisabledIconMicro.png"
+         id="g1265"
+         style="display:inline">
+        <path
+           d="M 132.5,132.81203 A 123.18797,123.18797 0 0 0 9.6240602,256 123.18797,123.18797 0 0 0 132.81203,379.18797 H 379.18797 A 123.18797,123.18797 0 0 0 502.37594,256 123.18797,123.18797 0 0 0 379.18797,132.81203 h -0.31203 -246.06391 a 123.18797,123.18797 0 0 0 -0.31203,0 z"
+           style="fill:#008080;fill-opacity:0.2;stroke:#000080;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="path1261" />
+        <circle
+           r="112"
+           cy="256"
+           cx="384"
+           id="circle1263"
+           style="fill:#00ff00;fill-opacity:0.2;stroke:#005522;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+      </g>
+      <path
+         d="M 384,144.24944 A 111.75056,111.75056 0 0 0 272.24944,256 111.75056,111.75056 0 0 0 384,367.75056 111.75056,111.75056 0 0 0 495.75056,256 111.75056,111.75056 0 0 0 384,144.24944 Z m -0.3196,16.17776 a 95.572863,95.572863 0 0 1 10e-4,0 95.572863,95.572863 0 0 1 0.31862,0 95.572863,95.572863 0 0 1 57.25501,19.0483 L 307.4755,313.25501 A 95.572863,95.572863 0 0 1 288.4272,256 95.572863,95.572863 0 0 1 383.6804,160.4272 Z m 78.522,40.63098 A 95.572863,95.572863 0 0 1 479.5728,256 95.572863,95.572863 0 0 1 384,351.5728 95.572863,95.572863 0 0 1 329.05916,334.20142 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:0.498886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer49"
+     inkscape:label="CheckOff"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1248"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOffIconMicro.png"
+       inkscape:export-xdpi="5.6250005"
+       inkscape:export-ydpi="5.6250005">
+      <path
+         id="path1234"
+         style="fill:none;stroke:#0000ff;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="M 132.5,132.81203 A 123.18797,123.18797 0 0 0 9.6240602,256 123.18797,123.18797 0 0 0 132.81203,379.18797 H 379.18797 A 123.18797,123.18797 0 0 0 502.37594,256 123.18797,123.18797 0 0 0 379.18797,132.81203 h -0.31203 -246.06391 a 123.18797,123.18797 0 0 0 -0.31203,0 z" />
+      <circle
+         style="fill:#00ff00;stroke:#4d4d4d;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="circle1236"
+         cx="128"
+         cy="256"
+         r="112" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer50"
+     inkscape:label="CheckOffDisabled"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1405"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOffDisabledIconMicro.png"
+       inkscape:export-xdpi="5.6250005"
+       inkscape:export-ydpi="5.6250005">
+      <g
+         inkscape:export-ydpi="5.6250005"
+         inkscape:export-xdpi="5.6250005"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\checkOffDisabledIconMicro.png"
+         id="g1255">
+        <path
+           id="path1251"
+           style="fill:none;stroke:#000080;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           d="M 132.5,132.81203 A 123.18797,123.18797 0 0 0 9.6240602,256 123.18797,123.18797 0 0 0 132.81203,379.18797 H 379.18797 A 123.18797,123.18797 0 0 0 502.37594,256 123.18797,123.18797 0 0 0 379.18797,132.81203 h -0.31203 -246.06391 a 123.18797,123.18797 0 0 0 -0.31203,0 z" />
+        <circle
+           style="fill:none;stroke:#4d4d4d;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="circle1253"
+           cx="128"
+           cy="256"
+           r="112" />
+      </g>
+      <path
+         d="M 128,144.24944 A 111.75056,111.75056 0 0 0 16.249443,256 111.75056,111.75056 0 0 0 128,367.75056 111.75056,111.75056 0 0 0 239.75056,256 111.75056,111.75056 0 0 0 128,144.24944 Z m -0.3196,16.17776 a 95.572863,95.572863 0 0 1 10e-4,0 95.572863,95.572863 0 0 1 0.31862,0 95.572863,95.572863 0 0 1 57.25501,19.0483 L 51.475503,313.25501 A 95.572863,95.572863 0 0 1 32.427203,256 95.572863,95.572863 0 0 1 127.6804,160.4272 Z m 78.522,40.63098 A 95.572863,95.572863 0 0 1 223.5728,256 95.572863,95.572863 0 0 1 128,351.5728 95.572863,95.572863 0 0 1 73.059163,334.20142 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:0.498886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-0-3" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer52"
+     inkscape:label="centangOn"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#00ff00;stroke:#008000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m -384,478 v 4 a 30,30 45 0 0 30,30 h 196 a 30,30 135 0 0 30,-30 V 94 a 30,30 45 0 0 -30,-30 h -4 a 30,30 135 0 0 -30,30 v 324 a 30,30 135 0 1 -30,30 h -132 a 30,30 135 0 0 -30,30 z"
+       id="path1275"
+       inkscape:path-effect="#path-effect1277"
+       inkscape:original-d="m -384,448 v 64 h 256 V 64 h -64 v 384 z" />
+    <g
+       id="g1285"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOnIconMicro.png"
+       inkscape:export-xdpi="3.0000005"
+       inkscape:export-ydpi="3.0000005">
+      <path
+         sodipodi:type="rect"
+         d="m 109.62406,9.6240597 h 292.75189 a 100,100 45 0 1 100,100.0000003 v 292.75189 a 100,100 135 0 1 -100,100 H 109.62406 a 100,100 45 0 1 -100.0000003,-100 V 109.62406 A 100,100 135 0 1 109.62406,9.6240597 Z"
+         inkscape:path-effect="#path-effect1273"
+         y="9.6240597"
+         x="9.6240597"
+         height="492.75189"
+         width="492.75189"
+         id="rect1271"
+         style="fill:#00ffff;fill-opacity:0.998145;stroke:#0000ff;stroke-width:19.248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+      <path
+         style="fill:#00ff00;stroke:#008000;stroke-width:18.4411;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.117393,231.83936 a 29.509957,29.509957 89.040465 0 0 0.698879,41.72753 l 124.483698,124.4837 a 30.000001,30.000001 3.1875382e-7 0 0 42.4264,0 L 464.39266,148.38431 a 29.999998,29.999998 89.999999 0 0 0,-42.4264 29.509964,29.509964 179.04047 0 0 -41.72754,0.69887 L 214.72637,314.59554 a 29.999998,29.999998 180 0 1 -42.4264,0 L 89.543799,231.83936 a 29.999999,29.999999 0 0 0 -42.426406,0 z"
+         id="path1279"
+         inkscape:path-effect="#path-effect1281"
+         inkscape:original-d="M 68.330596,210.62616 26.603068,252.35369 193.51317,419.26379 485.60586,127.17111 443.87832,85.443575 193.51317,335.80874 Z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer55"
+     inkscape:label="centangOnDisabled"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       id="g1363"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOnDisabledIconMicro.png"
+       inkscape:export-xdpi="3.0000005"
+       inkscape:export-ydpi="3.0000005">
+      <g
+         id="g1335"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOnIconMicro.png"
+         inkscape:export-xdpi="3.0000005"
+         inkscape:export-ydpi="3.0000005"
+         style="display:inline">
+        <path
+           sodipodi:type="rect"
+           d="m 109.62406,9.6240597 h 292.75189 a 100,100 45 0 1 100,100.0000003 v 292.75189 a 100,100 135 0 1 -100,100 H 109.62406 a 100,100 45 0 1 -100.0000003,-100 V 109.62406 A 100,100 135 0 1 109.62406,9.6240597 Z"
+           inkscape:path-effect="#path-effect1337"
+           y="9.6240597"
+           x="9.6240597"
+           height="492.75189"
+           width="492.75189"
+           id="path1331"
+           style="fill:#008080;fill-opacity:0.2;stroke:#0000ff;stroke-width:19.248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+        <path
+           style="fill:#008000;fill-opacity:0.2;stroke:#008000;stroke-width:18.4411;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 47.117393,231.83936 a 29.509957,29.509957 89.040465 0 0 0.698879,41.72753 l 124.483698,124.4837 a 30.000001,30.000001 3.1875382e-7 0 0 42.4264,0 L 464.39266,148.38431 a 29.999998,29.999998 89.999999 0 0 0,-42.4264 29.509964,29.509964 179.04047 0 0 -41.72754,0.69887 L 214.72637,314.59554 a 29.999998,29.999998 180 0 1 -42.4264,0 L 89.543799,231.83936 a 29.999999,29.999999 0 0 0 -42.426406,0 z"
+           id="path1333"
+           inkscape:path-effect="#path-effect1339"
+           inkscape:original-d="M 68.330596,210.62616 26.603068,252.35369 193.51317,419.26379 485.60586,127.17111 443.87832,85.443575 193.51317,335.80874 Z" />
+      </g>
+      <path
+         d="M 256,32 A 224,224 0 0 0 32,256 224,224 0 0 0 256,480 224,224 0 0 0 480,256 224,224 0 0 0 256,32 Z m -0.64062,32.427734 a 191.57239,191.57239 0 0 1 0.002,0 191.57239,191.57239 0 0 1 0.63867,0 191.57239,191.57239 0 0 1 114.76562,38.181646 L 102.60938,370.76562 A 191.57239,191.57239 0 0 1 64.427734,256 191.57239,191.57239 0 0 1 255.35938,64.427734 Z M 412.75391,145.87109 A 191.57239,191.57239 0 0 1 447.57227,256 191.57239,191.57239 0 0 1 256,447.57227 191.57239,191.57239 0 0 1 145.87305,412.75195 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-4-9" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer53"
+     inkscape:label="centangOff"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:export-ydpi="3.0000005"
+       inkscape:export-xdpi="3.0000005"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOffIconMicro.png"
+       id="g1291"
+       style="fill:#241c1c;fill-opacity:1">
+      <path
+         style="fill:#241c1c;fill-opacity:1;stroke:#0000ff;stroke-width:19.248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1287"
+         width="492.75189"
+         height="492.75189"
+         x="9.6240597"
+         y="9.6240597"
+         inkscape:path-effect="#path-effect1293"
+         d="m 109.62406,9.6240597 h 292.75189 a 100,100 45 0 1 100,100.0000003 v 292.75189 a 100,100 135 0 1 -100,100 H 109.62406 a 100,100 45 0 1 -100.0000003,-100 V 109.62406 A 100,100 135 0 1 109.62406,9.6240597 Z"
+         sodipodi:type="rect" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer54"
+     inkscape:label="centangOffDisabled"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1328"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOffDisabledIconMicro.png"
+       inkscape:export-xdpi="3.0000005"
+       inkscape:export-ydpi="3.0000005">
+      <g
+         inkscape:export-ydpi="3.0000005"
+         inkscape:export-xdpi="3.0000005"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\centangOffIconMicro.png"
+         id="g1304"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000080;stroke-opacity:0.504638">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:19.248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.504638;paint-order:fill markers stroke"
+           id="path1302"
+           width="492.75189"
+           height="492.75189"
+           x="9.6240597"
+           y="9.6240597"
+           inkscape:path-effect="#path-effect1306"
+           d="m 109.62406,9.6240597 h 292.75189 a 100,100 45 0 1 100,100.0000003 v 292.75189 a 100,100 135 0 1 -100,100 H 109.62406 a 100,100 45 0 1 -100.0000003,-100 V 109.62406 A 100,100 135 0 1 109.62406,9.6240597 Z"
+           sodipodi:type="rect" />
+      </g>
+      <path
+         d="M 256,32 A 224,224 0 0 0 32,256 224,224 0 0 0 256,480 224,224 0 0 0 480,256 224,224 0 0 0 256,32 Z m -0.64062,32.427734 a 191.57239,191.57239 0 0 1 0.002,0 191.57239,191.57239 0 0 1 0.63867,0 191.57239,191.57239 0 0 1 114.76562,38.181646 L 102.60938,370.76562 A 191.57239,191.57239 0 0 1 64.427734,256 191.57239,191.57239 0 0 1 255.35938,64.427734 Z M 412.75391,145.87109 A 191.57239,191.57239 0 0 1 447.57227,256 191.57239,191.57239 0 0 1 256,447.57227 191.57239,191.57239 0 0 1 145.87305,412.75195 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-4" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer56"
+     inkscape:label="radioOn"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <circle
+       r="256"
+       cy="256"
+       cx="-352"
+       id="circle1410"
+       style="fill:#ff0000;fill-opacity:0.5;stroke:#008080;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.504638;paint-order:fill markers stroke" />
+    <g
+       id="g1416"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOnIconMicro.png"
+       inkscape:export-xdpi="3.0000002"
+       inkscape:export-ydpi="3.0000002">
+      <circle
+         r="246.37595"
+         cy="256"
+         cx="256"
+         id="path1408"
+         style="fill:#00ffff;fill-opacity:0.996289;stroke:#0000ff;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998145;paint-order:fill markers stroke" />
+      <circle
+         style="fill:#00ff00;fill-opacity:0.996289;stroke:#008000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998145;paint-order:fill markers stroke"
+         id="circle1412"
+         cx="256"
+         cy="256"
+         r="153.98497" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer59"
+     inkscape:label="radioOnDisabled"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       id="g1484"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOnDisabledIconMicro.png"
+       inkscape:export-xdpi="3.0000002"
+       inkscape:export-ydpi="3.0000002">
+      <g
+         id="g1460"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOnIconMicro.png"
+         inkscape:export-xdpi="3.0000002"
+         inkscape:export-ydpi="3.0000002"
+         style="display:inline">
+        <circle
+           r="246.37595"
+           cy="256"
+           cx="256"
+           id="circle1456"
+           style="fill:#008080;fill-opacity:0.495362;stroke:#000080;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998145;paint-order:fill markers stroke" />
+        <circle
+           style="fill:#008000;fill-opacity:0.2;stroke:#008000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998145;paint-order:fill markers stroke"
+           id="circle1458"
+           cx="256"
+           cy="256"
+           r="153.98497" />
+      </g>
+      <path
+         d="M 256,32 A 224,224 0 0 0 32,256 224,224 0 0 0 256,480 224,224 0 0 0 480,256 224,224 0 0 0 256,32 Z m -0.64062,32.427734 a 191.57239,191.57239 0 0 1 0.002,0 191.57239,191.57239 0 0 1 0.63867,0 191.57239,191.57239 0 0 1 114.76562,38.181646 L 102.60938,370.76562 A 191.57239,191.57239 0 0 1 64.427734,256 191.57239,191.57239 0 0 1 255.35938,64.427734 Z M 412.75391,145.87109 A 191.57239,191.57239 0 0 1 447.57227,256 191.57239,191.57239 0 0 1 256,447.57227 191.57239,191.57239 0 0 1 145.87305,412.75195 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-1-4" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer57"
+     inkscape:label="radioOff"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       inkscape:export-ydpi="3.0000002"
+       inkscape:export-xdpi="3.0000002"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOffIconMicro.png"
+       id="g1423"
+       style="fill:#241c1c;fill-opacity:1">
+      <circle
+         style="fill:#241c1c;fill-opacity:1;stroke:#0000ff;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.998145;paint-order:fill markers stroke"
+         id="circle1419"
+         cx="256"
+         cy="256"
+         r="246.37595" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer58"
+     inkscape:label="radioOffDisabled"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1453"
+       inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOffDisabledIconMicro.png"
+       inkscape:export-xdpi="3.0000002"
+       inkscape:export-ydpi="3.0000002">
+      <g
+         inkscape:export-ydpi="3.0000002"
+         inkscape:export-xdpi="3.0000002"
+         inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Godot Projects\Tebenge\GameDVDCardtridge\Tebenge\Assets\images\radioOffIconMicro.png"
+         id="g1431"
+         style="fill:none;fill-opacity:1;stroke:#000080;stroke-opacity:0.500928">
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000080;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.500928;paint-order:fill markers stroke"
+           id="circle1429"
+           cx="256"
+           cy="256"
+           r="246.37595" />
+      </g>
+      <path
+         d="M 256,32 A 224,224 0 0 0 32,256 224,224 0 0 0 256,480 224,224 0 0 0 480,256 224,224 0 0 0 256,32 Z m -0.64062,32.427734 a 191.57239,191.57239 0 0 1 0.002,0 191.57239,191.57239 0 0 1 0.63867,0 191.57239,191.57239 0 0 1 114.76562,38.181646 L 102.60938,370.76562 A 191.57239,191.57239 0 0 1 64.427734,256 191.57239,191.57239 0 0 1 255.35938,64.427734 Z M 412.75391,145.87109 A 191.57239,191.57239 0 0 1 447.57227,256 191.57239,191.57239 0 0 1 256,447.57227 191.57239,191.57239 0 0 1 145.87305,412.75195 Z"
+         style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1201-1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer60"
+     inkscape:label="visibleOn"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       id="g1503">
+      <g
+         id="g1497">
+        <path
+           style="fill:#00ffff;stroke:#0000ff;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 27.301346,273.67767 87.832824,87.83282 a 60.35534,60.35534 22.5 0 0 42.67767,17.67767 h 196.37632 a 60.355339,60.355339 157.5 0 0 42.67767,-17.67767 l 87.83282,-87.83282 a 25,25 90 0 0 0,-35.35534 L 396.86583,150.48951 A 60.355339,60.355339 22.5 0 0 354.18816,132.81184 H 157.81184 a 60.35534,60.35534 157.5 0 0 -42.67767,17.67767 l -87.832824,87.83282 a 24.999999,24.999999 90 0 0 0,35.35534 z"
+           id="path1487"
+           inkscape:path-effect="#path-effect1489"
+           inkscape:original-d="M 9.6236766,256 132.81184,379.18816 H 379.18816 L 502.37632,256 379.18816,132.81184 H 132.81184 Z" />
+        <path
+           sodipodi:type="star"
+           style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="path1491"
+           sodipodi:sides="4"
+           sodipodi:cx="256"
+           sodipodi:cy="256"
+           sodipodi:r1="112"
+           sodipodi:r2="79.195961"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.78539816"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 277.21321,165.2132 69.57359,69.5736 a 30,30 90.000002 0 1 0,42.42641 l -69.5736,69.57359 a 30,30 1.5352344e-6 0 1 -42.42641,0 L 165.2132,277.2132 a 30,30 90.000002 0 1 0,-42.42641 l 69.5736,-69.57359 a 30,30 1.5352345e-6 0 1 42.42641,0 z"
+           inkscape:path-effect="#path-effect1493" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer61"
+     inkscape:label="visibleXray"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <g
+       id="g1511">
+      <g
+         id="g1509">
+        <path
+           inkscape:original-d="M 9.6236766,256 132.81184,379.18816 H 379.18816 L 502.37632,256 379.18816,132.81184 H 132.81184 Z"
+           inkscape:path-effect="#path-effect1513"
+           id="path1505"
+           d="m 27.301346,273.67767 87.832824,87.83282 a 60.35534,60.35534 22.5 0 0 42.67767,17.67767 h 196.37632 a 60.355339,60.355339 157.5 0 0 42.67767,-17.67767 l 87.83282,-87.83282 a 25,25 90 0 0 0,-35.35534 L 396.86583,150.48951 A 60.355339,60.355339 22.5 0 0 354.18816,132.81184 H 157.81184 a 60.35534,60.35534 157.5 0 0 -42.67767,17.67767 l -87.832824,87.83282 a 24.999999,24.999999 90 0 0 0,35.35534 z"
+           style="fill:#ff00ff;fill-opacity:0.2;stroke:#800080;stroke-width:19.2481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:path-effect="#path-effect1515"
+           d="m 277.21321,165.2132 69.57359,69.5736 a 30,30 90.000002 0 1 0,42.42641 l -69.5736,69.57359 a 30,30 1.5352344e-6 0 1 -42.42641,0 L 165.2132,277.2132 a 30,30 90.000002 0 1 0,-42.42641 l 69.5736,-69.57359 a 30,30 1.5352345e-6 0 1 42.42641,0 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="-0.78539816"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:r2="79.195961"
+           sodipodi:r1="112"
+           sodipodi:cy="256"
+           sodipodi:cx="256"
+           sodipodi:sides="4"
+           id="path1507"
+           style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           sodipodi:type="star" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer62"
+     inkscape:label="visibleOff">
+    <path
+       style="fill:#1a1a1a;stroke:#0000ff;stroke-width:19.2482;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.567187,251.52786 12.908592,-6.45429 a 42.360674,42.360674 166.71747 0 1 18.944272,-4.47214 H 461.57995 a 42.360667,42.360667 13.282529 0 1 18.94427,4.47214 l 12.90859,6.45429 a 5.0000016,5.0000016 90 0 1 0,8.94428 l -12.90859,6.45429 a 42.360667,42.360667 166.71747 0 1 -18.94427,4.47214 H 50.420051 a 42.360674,42.360674 13.282527 0 1 -18.944272,-4.47214 l -12.908592,-6.45429 a 5.0000008,5.0000008 90 0 1 0,-8.94428 z"
+       id="path1522"
+       inkscape:path-effect="#path-effect1524"
+       inkscape:original-d="M 9.6229157,256 40.420051,240.60143 H 471.57995 L 502.37708,256 471.57995,271.39857 H 40.420051 Z" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:none"
+     inkscape:label="sliderHead"
+     id="layer63"
+     inkscape:groupmode="layer">
+    <g
+       id="g1317"
+       transform="matrix(1.1912954,0,0,1.1912954,-48.971625,-48.971625)"
+       style="display:inline">
+      <path
+         inkscape:path-effect="#path-effect1319"
+         d="M 326.71068,80.334352 431.66565,185.28933 a 100,100 90.000002 0 1 0,141.42135 L 326.71067,431.66565 a 100,100 1.5352345e-6 0 1 -141.42135,0 L 80.334349,326.71067 a 100,100 90.000002 0 1 3e-6,-141.42135 L 185.28933,80.334349 a 100,100 1.5352345e-6 0 1 141.42135,3e-6 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.78539816"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="174.21437"
+         sodipodi:r1="246.37633"
+         sodipodi:cy="256"
+         sodipodi:cx="256"
+         sodipodi:sides="4"
+         id="path1313"
+         style="fill:none;stroke:#0000ff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         sodipodi:type="star" />
+      <circle
+         r="128"
+         cy="256"
+         cx="256"
+         id="circle1315"
+         style="fill:#00ff00;stroke:#0000ff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+    </g>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:none"
+     inkscape:label="sliderHeadHover"
+     id="layer64"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(1.1912954,0,0,1.1912954,-48.971625,-48.971625)"
+       id="g1308">
+      <path
+         sodipodi:type="star"
+         style="fill:#00ffff;stroke:#ffffff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1299"
+         sodipodi:sides="4"
+         sodipodi:cx="256"
+         sodipodi:cy="256"
+         sodipodi:r1="246.37633"
+         sodipodi:r2="174.21437"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.78539816"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 326.71068,80.334352 431.66565,185.28933 a 100,100 90.000002 0 1 0,141.42135 L 326.71067,431.66565 a 100,100 1.5352345e-6 0 1 -141.42135,0 L 80.334349,326.71067 a 100,100 90.000002 0 1 3e-6,-141.42135 L 185.28933,80.334349 a 100,100 1.5352345e-6 0 1 141.42135,3e-6 z"
+         inkscape:path-effect="#path-effect1301" />
+      <circle
+         style="fill:#00ff00;stroke:#0000ff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="path1303"
+         cx="256"
+         cy="256"
+         r="128" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="sliderHeadDisabled"
+     id="layer65"
+     inkscape:groupmode="layer">
+    <g
+       id="g1329"
+       transform="matrix(1.1912954,0,0,1.1912954,-48.971625,-48.971625)"
+       style="display:inline">
+      <path
+         inkscape:path-effect="#path-effect1331"
+         d="M 326.71068,80.334352 431.66565,185.28933 a 100,100 90.000002 0 1 0,141.42135 L 326.71067,431.66565 a 100,100 1.5352345e-6 0 1 -141.42135,0 L 80.334349,326.71067 a 100,100 90.000002 0 1 3e-6,-141.42135 L 185.28933,80.334349 a 100,100 1.5352345e-6 0 1 141.42135,3e-6 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.78539816"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="174.21437"
+         sodipodi:r1="246.37633"
+         sodipodi:cy="256"
+         sodipodi:cx="256"
+         sodipodi:sides="4"
+         id="path1325"
+         style="fill:none;stroke:#1a1a1a;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+         sodipodi:type="star" />
+      <circle
+         r="128"
+         cy="256"
+         cx="256"
+         id="circle1327"
+         style="fill:none;stroke:#0000ff;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stroke-opacity:0.5" />
+    </g>
+    <path
+       id="path1201-10"
+       style="display:inline;fill:#ff0000;fill-opacity:0.5;stroke:#000000;stroke-width:0.926503;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 256,48.463252 A 207.53675,207.53675 0 0 0 48.463252,256 207.53675,207.53675 0 0 0 256,463.53675 207.53675,207.53675 0 0 0 463.53675,256 207.53675,207.53675 0 0 0 256,48.463252 Z m -0.59354,30.044404 a 177.49246,177.49246 0 0 1 0.002,0 177.49246,177.49246 0 0 1 0.59173,0 177.49246,177.49246 0 0 1 106.33073,35.375424 L 113.88308,362.33073 A 177.49246,177.49246 0 0 1 78.507656,256 177.49246,177.49246 0 0 1 255.40646,78.507656 Z M 401.23302,153.9652 A 177.49246,177.49246 0 0 1 433.49235,256 177.49246,177.49246 0 0 1 256,433.49235 177.49246,177.49246 0 0 1 153.96701,401.23121 Z" />
   </g>
 </svg>
