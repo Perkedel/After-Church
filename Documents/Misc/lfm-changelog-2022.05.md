@@ -32,14 +32,21 @@ You can see now, this is the first time in my carreer I think, that I dehoisted 
 So there you have it. We hope MFM come back too so we can happilly live in peace.
 # Changes
 - SKY IS BACK
-
+- change bekgron (but not overwrite previous background files) to our brand logos.
+- Week Overbuse Kevin Macleod
+- Mod menu! which mod to load before the game start. full BIOS setting coming soon.
+- Fix Eggnog epilogue cutscene interupted too early due to no more delayam. let's move that cutscene to proper epilogue cutscene function as same working as Mayday yeah.
+- MINE NOW SPEENS!! Now you know if it's mine & never step. Mine spins this fast, never step spins even faster! **JUST LIKE STEPMANIA**
+- Stepmania conversion now also port mines to here yey!!! no more ignore mine.
+- We've seen Ragnarock, a VR game about viking drum rhythm play music.
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
 - lbry://@JOELwindows7#a/lfm-lore-2021.07#1
 - lbry://@JOELwindows7#a/lfm-lore-2021.08#f
 - lbry://@JOELwindows7#a/lfm-lore-2021.10#b
-- lbry:/@JOELwindows7#a/LFM-changelog-2021.11.180#0
+- lbry://@JOELwindows7#a/LFM-changelog-2021.11.180#0
+- lbry://@JOELwindows7#a/LFM-changelog-2022.01#6
 
 # (LORE) A Foolish Day
 ## Disclaimer
@@ -556,9 +563,9 @@ Roig: (knew this is racist) Yeah, don't talk this.
 Denf (game disc seller): Steam key, for cheap! Limited stock!
 
 ## Level B6
-Roig: Wow, this one is.. long.
+Roig: (noticed stair is very long) Wow, this one is.. long.
 
-Zumi: Because this floor is for physical arcades & amusements basically. Roller Coaster, Bom bom car (Bumper car), Ice skate, roller skate, simulators, whatever rides.
+Zumi: Yeah, because this floor is for physical arcades & amusements basically. Roller Coaster, Bom bom car (Bumper car), Ice skate, roller skate, simulators, whatever rides.
 
 Roig: Okay, that usually should be on the Ground level.
 
@@ -574,4 +581,1022 @@ Zumi: Good question. This mall is huge, too tired & starved & die to go up the m
 
 Roig: Okay. well, I'll a look at that later.
 
-Zumi: Yeah, if you happen to go there, look for red sign, which is controvercy mark. You probably want to examine carefully those with it before going in. The sign says which ingrediant exsit
+Zumi: Yeah, if you happen to go there, look for red sign, which is controvercy mark. You probably want to examine carefully those with it before going in. The sign says which ingredient exists in that restaurant that you should know.
+
+Roig: Okay. If I may ask, how do you arrange those floors for restaurants?
+
+Zumi: Umm I think it's like.. more upper, more buffet (bespoke premium) it is, and more down, more indie (street food) it is. Yeah, that's uh how do we think.
+
+Roig: Like.. you not afraid lots of polution here?
+
+Zumi: Yeah, that's why I thought it up. lots of vents there, No gas stove allowed, electric only, vents are special, it's slippy anti-stick. No grease sticks, easier to clean. just spray water & soap! yeah!
+
+Roig: That gotta be expensive pulling down vents to here right? not to mention how many path maze it would've been to clean them all.
+
+Zumi: I know. street food that cooks & or have smells must be about on the height floor, where vents starts around at. While pre-packed, not cooked, may be placed as low as they want. Yeah, I wish we can go outside but again, Federals.
+
+## Level B7
+Roig: Wow, how long we need to get there?
+
+Zumi: (whisper) Psst, b14
+
+Roig: (whisper) 😲😲😲?!?! so far!!
+
+Zumi: I know. That one is the last I thought of after doing this mall.
+
+Roig: Still gonna more?
+
+Zumi: idk, I guess that's it. I think if I do more, I would reach mantle. hoof!, very hot!
+
+Roig: Yeah, You got so many already. Maybe it's time to break?
+
+Zumi: I guess.. 😏😏😏😏.
+
+Roig: What's with that face.. and, is this floor empty?
+
+Zumi: Don't be fooled by those whole area *Under Contrstruction* barriers. Those.. are something 😏😏😏.
+
+Roig: Oh. Wow. Okay, let's..
+
+Zumi: Obviously, you need to be biologically mature to access.. (found the entrace & soup hand point it) there. How do we do that? Simple, but atleast work. They see your being, and match the bio mature age on our database. *Homo sapiens* & similar is 18 years old, etc etc.
+
+Roig: Alright, I would like visit that soon but uh, We go `Giant Truth` first.
+
+Zumi: yeah, everything fun is in this floor. And btw, Littmann is sale here if you need a stethoscope.
+
+Roig: Oh cool.. yess!!
+
+Zumi: cardiophille heaven baby!
+
+## Level B8
+Roig: Hmmm this appears to be a fashion floor.. but uh... Oh my God, What??
+
+Zumi: That's right! We got latex suits! & every fetish things! every kind you'd like to have here. Catsuit, zentai, BDSM, and toys about it, you name it.
+
+Roig: Wow.. you got a pairs of *bedrock balls* or what?
+
+Zumi: Yeah buddy, never seen mall that sells lewd stuffs? The only mall, only on Dasandim.
+
+Roig: Okay, let's move on.
+
+Zumi: Hey, no need to shy, I also like latex suit too. I know you like it, we all like it. Go get another some, these are all locally manufactured with rubbers from TexCity (Latex City). All Dasandim!!
+
+Roig: Uhh okay.
+
+Zumi: Hey, how many Latex suit collection you have?
+
+Roig: 5. what?
+
+Zumi: None of them are Dasandimians right?
+
+Roig: Alright, you embarrased me in front of everyone, but FINE. Just get one to my house. and my ledger still dedd, I don't have powerbank.
+
+Zumi: Easy, another birthday gift for you. But, which one you need?
+
+Roig: Full Zentai breathable that one. I've been looking that for so long. I can only find suffocate at that time I explore couple months ago.
+
+Rumiri Tulandrak (female Tamashien): Yes, this one sir.
+
+Roig: (spread out & examine) hmmm yess.
+
+Rumiri: Version 2022, newest release!
+
+Roig: Okay, uh.. size L pls?
+
+Rumiri: Available.
+
+Roig: Alright, can I test that?
+
+Rumiri: No need, lot bacteria! let me scan (holographically scan Roig's body)... (size found) Okay, it's L. (pickup L size still in packaging wrap)... Here L size.
+
+Roig: Cost?
+
+Rumiri: 450 Kvz, sir.
+
+Roig: Right, lemme see the brand.. `Hymatt`. okay..
+
+Rumiri: Dr. Hymatt fashion brand! top cher!!
+
+Roig: This gotta be import right?
+
+Rumiri: Only the name, the trademark & manufacturing for this model is here Dasandim. TexCity.
+
+Roig: Right.. uh.. Zumi?
+
+Zumi: Right, happy late birthday once again (take out phone, open camera).
+
+Rumiri: (checked out, QR code ready)!
+
+Zumi: (scan QR code), (pay)! Ahei, deliver this to his home please. here's the address, Roig?
+
+Roig: Okay.. (type Address) Dimension.. junk division... exact coord.. (apply) okay.
+
+Rumiri: Thank you! mmwah! 😘
+
+Zumi: You're welcome. (continue walking)
+
+JOELwindows7: Reminder! There are Zumi, Roig, Bladewire, Roig's mom, Roig's dad. Oh yeah lol. The pattern is trade center. me & family goes to trade center sometimes to find things, ITC Cempaka Mas, Tanah Abang, whatever it is. And that's how it looks like.
+
+## Level B9
+Roig: Hmmm, it appears alotta mixed assorted here.
+
+Zumi: Okay, I dug more yess. idk what this floor would be for. Maybe in case customer came from this floor, perhaps introduce them a little bit about our mall. idk.
+
+Roig: (Ponder the demo toys, appliances, everything exposed in every counter)...
+
+## Level B10
+Roig: Alright this floor is full of cars. And oh, they test drive those cars inside?!?
+
+JOELwindows7: yet it's empty like nothing. only sales people. People around here doesn't like EV. Only few likes.
+
+Zumi: Don't worry, all of them are electric.
+
+Roig: Wheuh! imagine lots of smoke here.
+
+Zumi: Yep. That's why.
+
+Quentzal Lapim (car salesman): Hey, boy! try IONIQ 5 here! (to Zumi) Sir?
+
+Roig: What's special?
+
+Quentzal: idk, it looks like a DeLorean from South Korea, Earth.
+
+Roig: Damn, you don't know how to sell car do you? Fine. Do myself (get in the car, at right which is driver seat).
+
+JOELwindows7: Dasandim steering is on right. just my nation (Indonesia) and others (UK, Malaysia, Japan, Singapore, Australia, etc.), we drive on left. Also in Dasandim, salesman are not expert in marketing & clickbait. it's culture here for potential customer to try themselves, not hear from marketer.
+
+Mulyono: (sit on front passenger left)
+
+Dinda: (sit on back passenger left)
+
+Zumi: (sit on back passenger right) Ah yess. wow, this is not bad, shame, the seat is not cloth.
+
+Roig: Guess it's better like this. What if you spilled something?
+
+Zumi: Alright, you got a point. (find adjust seat forward backward button) Oh, wow, the back seat is also electrical? Yeah!
+
+Roig: Well, the back also can finally say goodbye to funny momentum when adjusting forward backward of the seat. Very neat!
+
+Zumi: (noticed seat warmer selection button next to the power window adjust) The seat warmer.
+
+Roig: Hey, I think this was how that 3D printer measured that dashclushter. He went all the way to here.
+
+Zumi: Yep. He did. brought his meter (measurement tape) to here. measure also angles, whatever it is.
+
+Roig: hmm How do they brought cars to here?
+
+Zumi: Tunnels. there is parking tower beside this, accessible through car tunnels.
+
+Roig: What is that?
+
+Quentzal (bg async communicate 0): HEY! Try IONIQ 5 here! loh.. hey, this is the best car! C'mon!
+
+Johnny Candlelight (bg async communicate 0): NO! EV sucks!! I want real car!! Not these toys!
+
+Quentzal (bg async communicate 0): There is no ice (ICE, Internal Combustion Engine) here!!!
+
+Johnny (bg async communicate 0): Then'll I'll find somewhere else.
+
+Zumi: Boring Company, but it's Dasandim. Dasandimian likes to dig down. also left right front back, wherever. Houses must also dig down, no up. max 2 up, I mean 1 higher floor, but down as deep as you want.
+
+Roig: Wow.
+
+Zumi: hey, speaking of IONIQ 5, I heard a couple weeks ago, Wakturia chose a car. You know, some employees volunteered the testing, there are Teslas, a Volvo, and this Hyundai. many volunteer chose Tesla, Model X Plaid of course, no hesitate..
+
+Roig: Okay.
+
+Zumi: Only one chose Volvo XC90. I really clarity, it was Grevor's family. Yep, Misfortune. Obviously Swedish way choice.
+
+Roig: Uh hem.
+
+Zumi: Aand.. Latsufir. he carefully analyzed each car. seen S, 3, X, Y, and even CyberTruck. He doesn't like it.
+
+Roig: wait what?
+
+Zumi: The interface & UX is pecking strange to him. I mean yeah, Plaid has turn signal as touch button. He's appalled, lots of electric car too strange. Then Yume.. suggested, .. either.. Volvo, or this.
+
+Roig: Then?
+
+Zumi: He choose this.
+
+Roig: Oh why?
+
+Zumi: Because that [Volvo XC90 Recharge is **hybrid**](). I mean, it had somekind purposed of combustion engines idk how Volvo would use that. Also.. one already chose it.
+
+Roig: Well, which reason prevalent? I complain hybrid.
+
+Zumi: Same. Latsufir hates combustion engine. And it felt forced honestly. I can see from the video, his face. etc.
+
+Roig: mmm
+
+Zumi: The worst car ever. They only viable choice available at that time. 2 rows of seater only, imagine. How do you supposed to fit all family just by 4. You know you got grandpa, grandma, 2 pair both mom and dad side. Man!, 4 seater only. That's not family number. Where else the rest would have to sitt?
+
+Roig: Yeah..
+
+Zumi: But turns out, there's a bright side.
+
+Roig: What is it?
+
+Zumi: Sky is also come in. all spouse or potential must also come in for those volunteered. must include into couple if available yess.
+
+Roig: So..
+
+Zumi: Sky fell in *love*. Idk why. She just.. likes it. So okay then. If that makes her happy, Latsufir no longer care but just chose it for her.
+
+Roig: mmmm I see. That's really wholesome.
+
+Zumi: Well, that car, like this show here is still prototype though. Earth people & even Hyundai themselves called it complete in this version, very weird.
+
+Roig: What's going on?
+
+Zumi: See beyond that Dashcluster there.
+
+Roig: It's nothing.
+
+Zumi: No hologram. Dasandim government imported the car from Cikarang, Indonesia, Earth. Much cheaper than other parts of Earth. There is manufacturer for this model in Indonesia and that's where they got it from. And it happens to lacks lots of features.
+
+Roig: Okay. that's disappointing.
+
+Zumi: look the side view mirror.
+
+Roig: (look), mmm nothing special.
+
+Zumi: No digital side view mirror but still has surround 360 deg camera. That digital side view mirror is only available on Korea right now. just.. Korea.
+
+Roig: Ouch!
+
+Zumi: Well, many people here doesn't like digital side view mirror. Now look at keyfob put in the cupholder island.
+
+Roig: (take a look), okay. (examine)... what's missing?
+
+Zumi: No Remote Parking Assist. You were supposed to be able to push the car out or in just from the keyfob. Nope, Indonesia version doesn't have it.
+
+Roig: oh man. this is infuriating. What else?
+
+Zumi: No DisplayPort IN, no HDMI IN. just that USB-A for Android Auto & Apple Car Play. yep, only your phone (Fairphone 4, is Android hence Android Auto) can extend monitor to the dash. My phone (a Linux phone) can't. need DisplayPort USB-C.
+
+JOELwindows7: Additionally, it lacks built-in dashcam (Korean), Digital Rearview center mirror ([will be fixed in 2023 revision, idk](https://www.youtube.com/watch?v=UzDo_-w6eNg )), Back cold seat (only warm seat on back, only front has cold & warm seat), Solar panel (European & British non panoramic sunroof), Android Automotive (just basic heavily crippled Android for all Hyundai cars with that infotainment), DVB-T2 (Korea has DMB, the free digital TV service), etc.
+
+Roig: Well.. if the car is bad, then why still choose it?
+
+Zumi: I have no idea. I dislike to say just because it's made in Indonesia, and unfortunately it's the only reason. Yeah Kaorfa & other Indonesian apparently have been felt neglected by big companies for so long, therefore it's its own opportunity for Hyundai to build hype out of this. Made in Indonesia, newer than common been. Yeah, I can see it. lots of marketing about "Dibuat di Indonesia" alongside others stuff like that. that alone.
+
+Roig: Wow, still Kaorfa & others felt it to this day?
+
+Zumi: No possible fading as usual. anything made in Indonesia, is permanent hype starting point. that's it. And.. because it's lackluster severly, Dasandim Government forcedly has to modify the car by the time it's available. many things.
+
+Roig: Okay. Great luck.
+
+Zumi: Alright, let's move on.
+
+## Level B12
+Roig: Mmm, Department store.
+
+Zumi: And groceries.
+
+Roig: So wait, we gotta go this far?
+
+Zumi: I know. many mothers park in this floor. Again, tunnels.
+
+Roig: Okay.
+
+## Level B13
+Zumi: Right almost there. Bear with me. You tired yet?
+
+Roig: Honestly yes.
+
+Zumi: Hey, here I buy you drincc, over there. (go to drink stall)
+
+Blotok Vanyar: Sir?
+
+Zumi: `I'm Tired!!` pls.
+
+Blotok: Okay, for all 5?
+
+Zumi: Roig?
+
+Roig: wait that's the drink name? uhh idk. whatever is that.
+
+Blotok: You mean `I'm Tired!!` or `Whatever is that.`?
+
+Roig: daf88!? Okay uh... `Whatever`.
+
+Blotok: you two?
+
+Mulyono: Uhh.. uhmmm.. hmmm
+
+Blotok: Okay, `hmmmm...` you?
+
+Dinda: gak tahu 🤷‍♀️..
+
+Blotok: Right, `idk.`. Now, Bladewire. as usual?
+
+Siru: Strawberry yess!!
+
+Blotok: Okay, `As usual` (strawberry full). So the total are `I'm Tired`, `Whatever.`, `hmmmm...`, `idk.`, & `As usual`. for 30 Kvz is that correct?
+
+Roig: Argh! I wish I got powerbank here!
+
+Zumi: na na na! It's okay, Another... (open camera) birthday gift. (scan QR), (pay).
+
+Blotok: Alright have a seat, in a few minutes.
+
+(few minutes later).
+
+*all*: (drincc bottoms up, I mean until finish)
+
+Zumi: Okay so. It's time.
+
+Blotok: Thancc & please come back.
+
+Zumi: No problem.
+
+Blotok: And hey, No federals.
+
+Zumi: (look back) Definitely 😉. ... (look front & continue walk)
+
+Roig: Okay, is this that tiny hallway?
+
+Zumi: Well, this is one of the way. another more on the parking tower, for stuff deliveries. (walk)..
+
+Feut Tion: Sir? (respect salute)
+
+Zumi: My best friend is back. and here too his parents. time to introduce them what I've been doing really.
+
+Feut: Yes sir. (unlock door & open roll door)! (come in hand pose)
+
+*all*: (get in)
+
+Feut: (close & lock side roll door)
+
+Zumi: (press call lift going down button)
+
+JOELwindows7: the lift is glass with metal frame for structural. this allows user to look around wide area around the `Giant Truth` & also phillosophy that we do not want to hide the *truth* no matter what happen.
+
+Roig: Ah finally, lift!
+
+Zumi: Yeah, because at this point, this is restricted area. No, not I don't want to share. I don't care if something got leaked. it'll be shared anyway. It's the federals.
+
+Roig: Wheuh, I thought something nasty here!
+
+Zumi: No, why would I? You'll quickly stress handling surprises and die young. My only stress is federals.
+
+(lift arrived)
+
+Zumi: Right, This is it. You first.
+
+Roig: (get in)
+
+Dinda: (get in)
+
+Mulyono: (get in)
+
+Zumi: (look around).... Okay. (get in), (press B14), (press close door now) careful, you might wanna hold on to bars now.
+
+(lift goes down fast in acceleration)
+
+Roig: Whoawoawoa! (hold) Whoah!
+
+Dinda & Mulyono: (also hold bar)
+
+Roig: Man, never feel lifts this fast!
+
+Zumi: Don't worry, not as much as fastest one on Earth though.
+
+## Level B14 THIS IS IT!! THE GIANT TRUTH
+Roig: Whoah!!!
+
+Zumi: Yep, here it is. but not done yet. more inside.
+
+Roig: More?!
+
+Zumi: Yep!
+
+(lift arrive)
+
+Roig: (get out of lift)!
+
+*all*: (get out one by one)..
+
+Roig: Okay. that's the gate.
+
+Zumi: One of them. c'mon. (walk towards)... ...
+
+Roig: Wow, there's a minigate in this gate.
+
+Zumi: Yeah. You see, it takes alot of energy to open big gate like that. So, I add mini gate. Because, if I don't need big open, why has to open all? after all, it's not secure doing that, so.. make it small!
+
+Roig: Hah yeah, make sense
+
+(giant light turns on with that loud Hollywood knocker)!!
+
+Dinda: (async) (flinch)!
+
+Mulyono: (async) (flinch)!
+
+Roig: (async) HOAH!!! Jesus Christ! what the f888 was that loud wood shock?!
+
+Zumi: Oh, sorry. I know.. that.
+
+Roig: Dude!
+
+Zumi: Yeah, the knocker. It's to tell that the light is on. if cannot, then it won't knock.
+
+Roig: But why?
+
+Zumi: Security reason. intimidate federals of course. also for safety, difficult of seeing has to know it's on. idk, but I believe everyone here has to know regardless of condition.
+
+Roig: Alright. Now, here's the door. How do we get in?
+
+Zumi: easy! there are 3. You need of course, ID card (scan ID card to NFC scanner).., and Right palm (scan right palm to reader).., finally.. the ledger. (scan phone NFC to the NFC scanner), To see your name, and verify you hold the Dasandim ID account.
+
+Olbin sonson: (answer intercom) Yes, door guard. Sir? Do you want to open this door?
+
+Zumi: `vent amogus` (`pin`, small door).
+
+Olbin: Okay. (unlock door), (close intercom).
+
+Zumi: (door unlocks) interview. 3 things, yess. Plus 1 if you count it. (open door), right, you first. Bladewire too. ... (checking around).. (get in), (close & lock door).
+
+*all*: (get in)
+
+## Giant Truth Hubway
+
+Jallopy Ometamnasir: (driving the cartrain towards just accessed gate No. 5)... (arrive & engage handbrake), Yo!
+
+Zumi: Sup, buddy.
+
+Jallopy: Sir?
+
+Zumi: Introducing, my best friend. finally back. and his parents too. this is how do they looks like.
+
+Jallopy: Oh.. Ahei nice to meet you. Jallopy.
+
+Roig: Roig.
+
+Mulyono: Mulyono.
+
+Dinda: Dinda.
+
+Jallopy: Right, nice to meet you all..
+
+Zumi: We had been together like this back when I was kid. It's time to show my truth.
+
+Jallopy: Lab 1, Sir?
+
+Zumi: What else if not?
+
+Jallopy: No federals. (disengage handbrake), (switch gear to move other way forward), Hang on tight! (step gas pedal)..
+
+Roig: I didn't see this huge, in matter of time? How old are you now?
+
+Zumi: 19. Right now.
+
+Roig: Oh that's right! wait, how long you built this?
+
+Zumi: Takes me about 5 years. Honestly this is just the pipes right now, only 1 lab over there straight. the right turn I made house for workers to live and communicate jobs, left I think.. for other labs. That's what I thought of for now, can have change a bit later.
+
+Roig: Okay. I thought, it should be maybe 30 years to done just this hallway.
+
+Zumi: Well, we're lucky! Dasandimian contractors have experience, that includes speed.
+
+Roig: Wow. okay.. Just impressive.
+
+Zumi: Indeed.
+
+Roig: So, why that big?
+
+Zumi: idk if I would eventually need bigger things. go in and out, in any form, and maybe also include something that 😏😏😏 you know..
+
+Roig: (recognize sparsdat activity) Oh, that's right! I get it.
+
+Zumi: If things gone big (paywallism, proprietarism, & partialism been worse than ever), that's how do we ready.
+
+Roig: Uh hem. alright then.
+
+Jallopy: (close mini train crossing bridge to lab 1) Folks, we're arriving. check your belonging make sure nothing's left (enter crossing bridge)..
+
+Zumi: Alright, people let's go (stand up)
+
+*all but driver*: (standup)..
+
+Jallopy: Okay here it is. Lab 1. (point to stair) Stair is there, great luck, God bless you. No federals. (reverse again to go to about middle of the hallway to door gate)
+
+Zumi: Alright, thancc for getting us here, c'mon people.. (down the stair)
+
+*all*: (follow)
+
+Roig: Oh look, there's also the mini track on bottom.
+
+Zumi: If the hallway is crowded, we won't use this, only for mini things that need to quickly go around here. We have mini train lifts & ramps along this walls here. (point to that) look.
+
+(camera view that ramp & lift)
+
+Zumi: ramp is something emergency or too crowd, lift for ease. that's all.
+
+Roig: Wow, so comprehensive
+
+Zumi: I thought these all, what else missing? I'll add it.
+
+Roig: idk. Well, let's get in!
+
+Zumi: Alright! (run to the mini door of lab 1), (scan ID card), (right palm scan), (phone scan).. (door unlocks, open)! C'mon, you first.
+
+*all but bladewire*: (get in)..
+
+Zumi: (get in) Okay.. C'mon in. we're done!
+
+Siru: (still on guard mode) (slowly crawl in)... ... ... .. .. (got in)
+
+## Lab 1 (Lab 0 I think is already on the top where we started? idk)
+
+Zumi: Iyya! (close door)! (lock door).
+
+Siru: (relax guard mode into casual, retract sword upon limbs). Yeah!!
+
+Gorgam Harkman (Siru's husband): Oh hai! (hug Siru)!!..
+
+Zumi: Right!.. Here is.. my `Truth`. You know, I love being sparsdator (pirate) here. But as you can see, games already used to. people stop being care because, we've lost! alot of reason & it's the fact, that compensation & purchase of other things are needed in order to make games. So.. We're done, dead. Luckily, which is unfortunately, we still have more. It is a big surprise to me honestly that there exist, Open Source GNU GPL projects that its binary are not free. Introducing.. the [`Factory`](https://github.com/Perkedel/Sparsdator ) (open curtain).
+
+Roig: Oh.. wow!
+
+Zumi: Go ahead! take a look! lots of things in here.
+
+Roig: Okay.. which one aaa... (spotted a [module box](https://github.com/Perkedel/Kaded-fnf-mods/tree/stable/Admiral_Zumi/simple_dimple_Kade-LFM_port ))! (take hands on) Oh, what is this?
+
+Tuir Feullun: It's a prototype. Proof of concept. Here as you can see, we've managed to port somebody's file that we found at [outstrange places](https://youtu.be/7GPmOYlUVLc ). If that's not us who preserve this, this treasure can be damaged irrecoverable. no archive could replicate the download system, so we gotta act. (demonstrate the Polymod LFM mod) Now, Here I start the application, btw I am one of the remote member of Wakturia contract 2022, (press Escape to go to mod menu) alright... (loaded, point at the mod) ah here is this. I make sure that thingy, look `Simple Dimple` is loaded. After done, I can just save and go back.
+
+Roig: Interesting..
+
+Tuir: (load freeplay).. Sorry this one takes long... (loaded) Oh so fast! Okay. Yeah lol, I got premium PC here, anyway so.. uh. we scroll down and look at this `SIMPLE DIMPLE` It's there. you got it. Note, that the song is not built-in of course. it's copyrighted song so we can't build that in, must be separated. .. and I better not to play this here either. DMCA federals can hear through headsets. (terminate app)
+
+Roig: well. So, you got this only?
+
+Tuir: Well for now. we will yoink port alot of stuffs this way. Idea was to bring Psyched stuffs to here, but maybe we should first take a look at some stuffs that built chaotically at that time due to lack of modding semantics. If you have one, feel free to tell me.. [Right here](https://github.com/Perkedel/Kaded-fnf-mods/issues/new?assignees=&labels=reupload_pls&template=reupload_pls.md&title=Reupload+pls%3A+reupload+%3Cmod+name%3F%3E ). If the stuff was demonstrated through video, send me the video link, if mod page, the mod page link, never the cloud link. We need to credit the maker.
+
+JOELwindows7: I need to reflect that `Reupload Pls` template to not only reupload but also mod ports.
+
+Roig: Okay, cool! I'll take a look at this. Okay, next.
+
+(baker tray. sparsdat open source software)
+
+Roig: (spot a [bunch of baker trays](https://github.com/Perkedel/Sparsdator/tree/main/.github/workflows )), (hands on kushview) what is this?
+
+Spour Affernen: This is our sparsdator prototype. How it works we simply do this.. The [machine](https://docs.github.com/en/actions/using-workflows ) over there will download the source code. then compile it & publish the results. Simple! Well, that machine is scale, the bigger one is still in Work in Progress. Yeah, we need help.
+
+Roig: So um.. let's see (view kushview factory line program)... Ah.. yess.. Okay. Maybe perhaps for this one, you should try be on Windows. & try to access if the [cartridge](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idruns-on ) had Visual Studio or something. JUCE it up & then uhh compile the solution, stuff like that.
+
+Spour: Oh.. oh wow.
+
+Roig: Anything else?
+
+Spour: There uh.. Dosit?
+
+Dosit Affernen: We have Ardour, but it's difficult. Its instruction we find on internet uses Arch to get this done. Here's the program (handover programming script to Roig)
+
+Roig: (examine).... uh hem... okay. There a guy who had a tools to get Arch-like experience work for Windows I heard. if not mistaken they're under the name of something like... [msys2](https://www.msys2.org/ ) or what have you.. idk. but that's the people. There is [distributors nearby here somewhere](https://community.chocolatey.org/packages/msys2 )!
+
+Dosit: Oh! 
+
+Roig: You should build strategy for that. try to attach one, and see if the machine can interact with it step by step like usual.
+
+Dosit: Ahhh yes yes yess yess. Thancc you, thank you..
+
+Zumi: Wow, Impressive. You know things too!
+
+Roig: Yeah. No problem. This is fairly easy, but yeah it can be hard. UGH! those federals. Wait wait!! Dude!
+
+Dosit: Yeah?
+
+Roig: ***btw***, you don't have Arch all at once?, Windows & Msys is rather complicated, again I'm not sure if the machine can step and interact through here.
+
+Dosit: Oh yeah, but.
+
+Spour: We tried. We cannot find it on list. they don't have Arch cartridge. Just Ubuntu, macOS, & Windows.
+
+Roig: Aw man.. Damn it!
+
+Spour: But still, thancc for your help, we'll soon experiment with this strategy.
+
+Roig: Yea, Great luck! God bless you.
+
+Dosit: Hey, btw, this is one result we've manually baked out. check [this](https://github.com/Perkedel/Sparsdator/tree/main/Handmade ) out
+
+Roig: It's empty.
+
+Dosit: We will put some of the manual bake there. And will use those for reference later. In case we still fail, burnt, undercooked or what, there we put ripe one manually baked.
+
+Roig: Okay.
+
+Zumi: Hey, you should be here then. I think you can excel at this.
+
+Roig: Yeah, Of course, if there's something here, I can help I guess..
+
+Zumi: Well then.. ... (hug)!!!
+
+Roig: Whoah, okay.
+
+Zumi: Welcome back. ... Please don't die again.
+
+Roig: I won't, (reply hug slowly)..
+
+...
+
+...
+
+...
+
+Zumi: (release hug). Right, so.. how's your home? is it dangerous?
+
+Roig: But luckily we have Home association. They nice, very kind. But.. bad guys still evolving. it's war everyday.
+
+Zumi: Oh, well! then we should move you here! lemme..
+
+Roig: 'Kay, how do we go back there?
+
+Zumi: It's okay, I can call you teleport portal right now. You still have the number?
+
+Roig: umm here's Bognan.
+
+Zumi: Okay, I need to tell them whatever gender, to notify, we moving. right now. call them!
+
+Roig: It's guy (male), lemme (call Bognan), (loudspeaker)
+
+(Bognan receive, at Junkyard dimension)
+
+Roig: Okay, please wait. signal reception often tumbled down by naughty so..
+
+Bognan Kuprum: (answer) Yeah, Poldak residence here.
+
+Roig: Hey, buddy! Remember when you told me to move away from here?
+
+Bognan: Yeah. 😀 What did you found it?
+
+Roig: My best friend, Zumi.. had a place for me.
+
+Bognan: OHW YESS!!! FINALLY, and for me too? my people too?
+
+Zumi: Oup, oh well.. I got more don't worry.
+
+Roig: yeah he got it.
+
+Bognan: Okay okay. how do we get there?
+
+Zumi: Ahem! this is Zumi here.. I got house for you all.
+
+Bognan: Who is this guy? and no way!
+
+Roig: This is my childhood best friend, Admiral Zumi!
+
+Bognan: Oh, that guy.
+
+Zumi: Yeah, I can call movers now. Right now.
+
+Bognan: Oh cool, wait, lemme
+
+Zumi: No no, don't worry. they'll pack everything for you.
+
+Bognan: Yeah you gotta be quick man. We've been on warzone for my life here.
+
+Zumi: Oh.. that dangerous?
+
+Bognan: What else should I tell?
+
+Gorgam: (inititatively call mover right now)
+
+Zumi: Okay okay. don't panic. we're gonna
+
+Gorgam: Sir, I called them, here (handover the call wirelessly to Zumi's phone)
+
+Tusuk Letagahn: Dasandim Mover, what can I help?
+
+Bognan: HEY!! you need to help me, get us out of here!
+
+Tusuk: Okay, don't panic. (immediately prepare) we're going. Location?
+
+Bognan: idk.. somekind of junk dimension..
+
+Tusuk: Alright please stay on call, we'll tracking now. Please scream `A`.
+
+Bognan: **AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA**..
+
+Tusuk: Please wait please wait..
+
+Busetda: Found it. realm id `throwaway_federal`.
+
+Tusuk: Oh man. Paywallists. I mean, okay, we're going there. (cover mic) Folks! Dangerous place!
+
+*all employee*: Yes sir! (also equip lethal weapons).
+
+Tusuk: (uncover mic) Alright, in a few seconds. You can stay in the call... 
+
+Bognan: (close call)!!
+
+Zumi: Oh, don't close the call! No no no!
+
+## Junkyard dimension
+Bognan: s888 s888 s888!
+
+Gusman Kuprum: No.. I think they found out.
+
+Bognan: I shouldn't have screamed!
+
+Gusman: No, scream is not the thing..
+
+Gorgam: Should we call him again?
+
+Tusuk: No need, we're about to arrive the portal. (portal connected to target) okay here it is! GO!
+
+Irun: (hit gas pedal to the floor)!!
+
+Busetda: (close portal)!
+
+Tusuk: There there there!
+
+Irun: (run inside the residence gate)... (stop the truck)!!
+
+*employees*: (get off & secure perimeter)
+
+Tusuk: Sir?
+
+Bognan: Hoh! thancc God! Brother!
+
+Gusman: (follows)
+
+Bognan: There's alot of people still on the house, quick! the scavengers are *brainless*!
+
+Tusuk: Alright, got it. (open portal to Level B14 of X0pi1r4t3, near front giant gate) go inside this portal, you'll be safe.
+
+Bognan: Brother! (jump to portal)
+
+Gusman: (follow jump portal)
+
+Tusuk: (close immediately)!
+
+Tak Frin: (shot Tusuk's left shoulder)!
+
+Tusuk: ARGH!!! (drawn handgun with right hand), (fire at that scavenger headshot)
+
+Tak: (duar & dedd, Eik serkat)!
+
+JOELwindows7: full disclaimer, that guy just shot dead was a polymorph. they are robbers (begal) but aren't part of paywallists. They discovered this dimension and found that there are alot of tresasures to rob. But they only have 5 hours before those robbers awake again.
+
+Busetda: Oh peck! they're coming.
+
+Tusuk: Save people first.
+
+(one house)
+
+Irun: rescuer! we gotta get out from here!
+
+*all people in the house*: (into the escort)...
+
+Irun: Go!!
+
+*employees*: (start wrapping & moving items to portal)
+
+Mojik: alright, check anymore else..
+
+Nok Frin: (fire)!!
+
+Mojik: HUOHH! PECK NECK (close portal)!! (draw riffle & shoot the scavenger)!!!
+
+*background*: (startrescuers moving items & defending)
+
+Tusuk: Alright, this is the last house...
+
+Toseliem: Sir, I found a computer with racks in here.
+
+Tusuk: This must be Roig's house. Move the computer first, as well as the harddisk!
+
+Toseliem: Yes sir, (open portal at the wall upon the computer desk), (push away the computers, & NAS racks).. Okay.. I think that's all now..
+
+(rocket proprelled grenade entered this house, slowmo oh sh88 moment), 💥💥💥💥(duar)!!
+
+...
+
+Tusuk: (try to stand up) ugh.. Argh.. Toseliem?!?!
+
+Toseliem: eeghh... (stand up)..
+
+Tusuk: `THROW EVERYTHING`!!!
+
+Toseliem: (take out `throw everything` grenade), (pull pin)!, (stab to ground)!!
+
+(the grenade is digging)...
+
+Toseliem: (move away from about to be teleported area)..
+
+Tusuk: (aim)...
+
+Xhocle Frin: (aimed), (fire RPG now)!!
+
+Tusuk: (fire)!
+
+(bullet hit just launched still near launcher RPG), 💥💥💥💥💥💥💥💥💥💥 JEGERR!!!!!
+
+...
+
+Busetda: (quickly go to the scene)..
+
+*rest of employees*: (also rush towards)..
+
+Xhocle: ... ... (hands up)!..
+
+Tusuk, Busetda, Toseliem, Mojik, Irun, etc.: (brutally headshot those scavengers to death, finish all ammo)!!!
+
+Tusuk: Right, we got 5 hours before they awake. anything we miss?
+
+(teleport grenade explodes)!! (entire house teleports to X0p1r4t3)!!!
+
+(house arrives slidingly), ... (crash wall)!!
+
+*rescued citizens* = whoah ha! (cover eyes from dust flying)
+
+Roig: Huh, what was that?
+
+Zumi: Stay here, I'll check the front. (immediately go to outside `giant truth`)!..
+
+Tusuk: First, teleport these robber straight to jail. into the Justice dimension. (take out sticky teleport mine), (set to Justice jail), (attach & activate)!
+
+*all rest employees*: (get all scavengers be teleported)!..
+
+Tusuk: Let's see.. umm.. Okay. Just the walls here. Let's continue.
+
+## Back to Giant Truth outside
+Zumi: (open door).. (see around).. Okay, Roig's house.
+
+Nondi Kompta (delivery guy): HEY!!! DON'T SHOOT!! HELP!!
+
+Zumi: Huh? who's there? (go inside the sound source at thrown Roig's house)..
+
+Nondi: HELP!!!
+
+Zumi: (sound is on the basement door), (lift open the basement door)..
+
+Nondi: AAAH!! PLEASE DON'T SHOOT!! TAKE IT, HERE (throw the package)!!
+
+Zumi: (catch) Uoh!! Nondi?
+
+Nondi: Huh, Admiral Zumi?
+
+Zumi: What are you doing here?
+
+Nondi: I am delivering package, under name of Roig Hermalansa, here house.
+
+Zumi: Oh, the Latex suit. What happened?
+
+Nondi: Scavengers, they came!
+
+Zumi: Oh okay. I shouldn't have deliver that there. I'm sorry.
+
+Nondi: It's okay, I've been like this before.
+
+Zumi: No man, nobody shall get you there ever again. Until the robber got destroyed first.
+
+Nondi: Okay, anything else?
+
+Zumi: I think that's it.
+
+Nondi: Okay, see you later..  (deploy portal), (enter portal go back to delivery center)!!
+
+JOELwindows7: remember, robber scavengers can trace exact source where teleporter was deployed. it's not safe while the scavengers are approaching. Nondi has to teleport far away from target delivery first then run towards it, and after that, run away far from target and then teleport back.
+
+## Back again at Level B14
+Zumi: Ahei, you can get in the door now!
+
+Spakto: Oh, really?
+
+Zumi: Jallopy!? Get them in!
+
+Jallopy: Aye aye, sir.., (unlock & open mini door)!
+
+*rescueds*: (rushes in)
+
+Jallopy: People, get in the train by the stair. I'll take you to your new home.
+
+Spakto: What about our stuff?
+
+Jallopy: Don't worry, the mover will bring your stuffs in. Now go get into the train.
+
+*rescued*: (up the stair), ... (take a seat in the train)..
+
+(Movers came back)
+
+Zumi: Ahei!
+
+Tusuk: Sir, we've completed the checks. all are brought.
+
+Zumi: Including Roig's house, but others?
+
+Tusuk: Oh that one..
+
+Toseliem: Man, scavengers! This is why we gotta be very vigillant. Now they even got grenades here.
+
+Zumi: Right, nobody dead right? Cool and good. (call heavy hauler).. Right, I'll also open this gate for a while. The houses are in Yellow line.
+
+Tusuk: Yes, sir. Okay, people. let's go! (bring all the stuffs to new house)
+
+Gonotskop Tukram (strong T Truck driver): (saw Roig's house)?.... Whoah..
+
+Zumi: I know, sounds confusing to you. But hear me out. We just got bombed by an who?
+
+Toseliem: an indestructible slime evil beast with RPG. 
+
+Gonotskop: Hokey.. (draw the grabber crane hook)... (stop & reverse to scoop the house into the basket)..
+
+# The EV selections. Couple weeks ago. dawn 4 PM
+Gyouter: (walk to *virtual* podium area, no not VR. empty area between people & cars)... (stop), (face to people) Alright. here it is. Greetings, Dasandimians. Today is special day. Behind me, are special vehicles. We are going to own EV that are imported from Earth.
+
+*all*: Huh? whaat??
+
+Gyouter: I know. But.. King Dasan here needs help. He wants to know how to build the best EV with everything combined. You can see that he has been prototyping the only Dasandim EV since long. It's quite good, but still not confirmed yet if it is good enough, & safe enough. As usual, we've been inspiring designs, how it works, and pretty much everything, from Earth by looking. Now it's time.. to hands it on too as well.
+
+Malore Konufir: Alright, this better be good okay?
+
+Gyouter: Introducing.. Earth cars, that are electric. Some **Hybrid**. All you have to do here, experience any of the car here, test drive as you'd like, aand if you done.. fill out this form. Which car you'd like to own. Then, we'll buy the car you chose. Remember, no undo. So Think 3 times before ou submit. Thancc.  Now, Enjoy. (walk off the speech area), (start also trying various EV & Hybrids)
+
+Grevor Sritowi: Right, so.. we choose a vehicle, but before that, we test one first. Okay! There're alot here.
+
+Misfortune Ramirez Hernandez: I suggest you pick one that is Volvo.
+
+Grevor: Okay, thancc for the feedback.. and it looks like so many people are taking queue for.. Tesla Model X. and Tesla Cybertruck.
+
+Misfortune: hmm, it's already crowded. Unless by miracle we can't try them now.
+
+Yume Kamerline: Wow, I guess I should've borrowed more Tesla here. I should've known first, Tesla is the OG!
+
+Grevor: Alright, we got options. This is shame, so try lower end Teslas, or the Volvo. or that Hyundai, what the peck even is that?
+
+Misfortune: Umm Volvo is the safest car.
+
+Grevor: Oh peck! I'm sorry, honey.. ah peck!
+
+Yume: Well, Maybe try Volvo if you have to.
+
+Grevor: Okay, let's Volvo.. (look at the back).. XC90. Electric. This car is big, like usual car. Alright, Honey, we try Volvo!
+
+Yume: But keep in mind though, it has [polution engine](https://www.youtube.com/watch?v=TmncLjyBs4Q ) in it.
+
+Grevor: (demotivated) OUw, Oh! oh oh OOOh, mmmm...
+
+Misfortune: C'mon daddy! we would lose one if you hesitate!
+
+Grevor: Alrightririright sorry. Okay.. let's try.. (get in the right driver seat) uuugh.... pls stay electric! (Press Start Stop).. ... Okay, it's on. Now idle gas!
+
+(pollution engine turns on)! brrrrrr**RRRRR**rrrmmmm!!!!
+
+Sky: (nearby the Volvo XC90 at left side front looking at the bonnet) (digusted face), (immediately back off)!!
+
+Grevor: 😞 Oh peck.
+
+Misfortune: It's okay, You gotta..
+
+Grevor: Wai wai wait, I think I found.. (figured out to change mode to EV only) oh yess!!! much better. Let's go! (start test driving)
+
+Yume: Ahei, Mr. Latsufir. Do you need help?
+
+Latsufir: Aw man. All Tesla full!
+
+Jayce Nadoul: Sir? Tesla Model X Plaid!
+
+Latsufir: OH YESS!! C'mon Sky!
+
+Sky: (come here)
+
+Latsufir: (get to right drive seat)!
+
+Sky: (get to left passenger seat)! (close door manually), (seatbelt on).
+
+Latsufir: hmmm (seatbelt on), (hold brake pedal until door closes)... ! okay. Right. (noticed the steering wheel is yoke) uhh.. (try to find gear shift stock)... Um.. where's the..
+
+Sky: (point the shifter on the right edge of the infotainment)!
+
+Latsufir: Oh kay. (push slider up)!.. (gas pedal for a while)... Oh wait.. (find speed control), (Press & hold Ludicrous option).. (enjoy the lightspeed animation) This is it. (Press really confirm plaid speed)! (honk the horn)!!...
+
+Gyouter: People, Plaid run, plaid run, plaid run!!
+
+*all*: (stay back 10 metres away for safety)!!
+
+Latsufir: (waiting for stayback)... (completed) Okay. Let's go. (hit gas pedal to the floor)!!!
+
+(Tesla gone *plaid*)!!!!!!!!!!!!!!!!
+
+Latsufir: (relax gas pedal). Mmmm, not bad.
+
+JOELwindows7: Latsufir is not interested with speed.
+
+Latsufir: Wanna try?
+
+Sky: (eject seatbealt) ... (press open door button & wait for power window to go down a bit first)... (push door)
+
+Latsufir: (eject seatbelt), (press open door button & wait for power window to go down a bit first)... (push door)
+
+(swap driver)
+
+Sky: (sitt), (press hold brake until door closes)... ! (seatbealt on).
+
+Latsufir: (drag door in), (sitt), (close door), ahh (seatbealt on). Alright so, what do you like here?
+
+Sky: (turn around)... (check if plaid mode still active)... (reactivate Plaid mode), ... (animation done). 
+
