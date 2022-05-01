@@ -1600,3 +1600,200 @@ Latsufir: (drag door in), (sitt), (close door), ahh (seatbealt on). Alright so, 
 
 Sky: (turn around)... (check if plaid mode still active)... (reactivate Plaid mode), ... (animation done). 
 
+(re plaid & then attempt FSD but failed due to cost. subscribe for 149 month, or buy full outright 10000 once)
+
+Latsufir: Alright, remember honk it.. Safety warn..
+
+Sky: (honk)!!!!, !!!,
+
+Latsufir: Ready.
+
+Sky: (hit gas pedal to the floor)!!!...
+
+(go to queue tripoded camera), (Tesla passes whooosh)!!
+
+Sky: ... (relax gas pedal)... Mmkay..
+
+Latsufir: Alright, so that's for the launch & max speed. Okay um.. Hey, I remember, Tesla now has Full Self Driving, go find that functionality!
+
+Sky: (attempt to access FSD)... (found roadblock) wait what?!?
+
+Latsufir: Ow, what the peck?! *$150 a month* or *$10000 full buy*?! Okay, at least there's full buy.. like... (open left front window)..., Yume?
+
+Yume: Yeah?
+
+Latsufir: Hey, you got info about this? the FSD is paywalled.
+
+Yume: Oh yeah so.. the FSD over here is a research work. I guess that's maybe why.
+
+Latsufir: Right, so.. you got any car that got it activated?
+
+Yume: None yet, I think you need the app. And I heard that [its activation ties to the car](https://www.youtube.com/watch?v=u57QHDPBBpQ ), not the account.
+
+Latsufir: Hell!..
+
+Yume: But you see, at least there is permanent purchase, deummm there's a grace.. I think.
+
+Latsufir: 😐🤨... Have you confirmed that it'll be like this, or just for this WIP stage?
+
+Yume: No, idk, but I'm afraid that it'd be the worse.
+
+Latsufir: (async) (sigh)....... (land head to dash)!......
+
+Sky: (async) (fall leanback fast in disappointment) 💢💢💢💢💢💢!!!....
+
+Latsufir: ... (rise up again) Okay who's that guy again (telepathy context = Who's the founder of the Tesla again?)?
+
+Yume: Elon Musk. Yes, Elon Musk.
+
+Latusfir: Oh, Okay, Mars King.. Yes.. (leanback slowly in disappointment)... ... ... You got another EV here?
+
+Yume: While we honestly have paltry amount that worthy in Dasandim, we left with another Teslas, Volvo, and Hyundai.
+
+Latsufir: Okay, Tesla, get the hell outta here..
+
+Yume: We now have Volvo & Hyundai.
+
+Latsufir: Pretty sure, I'll choose Volvo because (interupted the = "it's big & foremost in safety")...
+
+Sky: (left hand pull Latsufir clothing upper arm) (swing head left right) No.
+
+Latsufir: .. Uhh. What's wrong with Volvo?
+
+Sky: Hybrid. ew!
+
+Yume: Volvo XC90 is Hybrid. Plug in Hybrid, Earth people classifies.
+
+Latsufir: 🤢🤢🤢 (cover mouth)... Sorry for my degeneracy, Hybrid?
+
+Yume: Yess. it helps extend the range further.. the manufacturer promises..
+
+Latsufir: I wonder if anybody get this one (choses Volvo XC90)..
+
+Yume: Grevor Sritowi & Misfortune Ramirez Hernandez.
+
+Latsufir: Oh, okay. that's right. Oh wait. Sweden, lol!
+
+Yume: 😂 ahaha yess! Volvo, Misfortune, Swedish lmao!!! hahahhaa
+
+Latsufir: Right, so that's already chosen.. what about Hyundai?
+
+Yume: Um, we can get you another copy of XC90..
+
+Latsufir: Yeah, thancc for the offer but.. it's Hybrid. **Impostor among us**.
+
+Yume: Are you sure? like Tesla Model Y, it only has 2 rows seatings. not 3 the standard.
+
+Latsufir: OwH... 😬😬😬😬sssss, aaAaaahhhhh..
+
+Yume: And no wonder nobody test drive it like noone on Y.
+
+Latsufir: Well, we left with no choice. get the Hyundai I guess? (press open door & wait for power window)... (push door & out), Sky?
+
+Sky: 🤔mmmmm, perhaps we should not underestimate anything unfamiliar? (press open door & wait for power window), so we should still try anyway! (push door & out).
+
+Latsufir: Oh yess, you're right. try something new! genius idea! let's go. (walk to IONIQ 5)
+
+Jayce: Hyundai?
+
+Latsufir: Yeah, the Tesla has Paywall. You knew?
+
+Jayce: Oh. So that's real?
+
+Latsufir: 140 America buck a month, or ten thousand permanent buy. ties to the car only, no transferable.
+
+Jayce: Ohh.. the Volvo?
+
+Latsufir: Hybrid.
+
+Jayce: okay, what about... XC40 is full electric but no. 2 rows only, like this Hyundai.
+
+Latsufir: (sigh)... Alright lemme try. Who's driving first? Sky, you want to try?
+
+Sky: (intrigued with the design, that headlamp)...
+
+Latsufir: Sky?
+
+Sky: Oh! sorry. I was just... ahaa.. (get into the right driving seat)
+
+Latsufir: Okay. I'll be honest too, somebody seems have imported it from 2050.
+
+Sky: (adjusting seat height & length to steering)...
+
+Jayce: 😂😂😂 No sir, this is today's look.
+
+Latsufir: 🤯 Oh wow! what the hell?
+
+Yume: it was inspired from Pony. Yep, retrofuturistic design.
+
+Latsufir: I mean yeah. I mistaken that as it's from near future of mid 21st century. Because that reminds me of a DeLorean from Back to the Future. The car looks futuristic and travels time.
+
+Sky: (adjust steering length & height to appropriate setting)...
+
+Yume: Okay lol, so yeah this kinda.. a DeLorean from South Korea!
+
+Latsufir: AHA! 😂😂😂 yess! Of course doesn't travel time right?
+
+Sky: (completed, attach seatbelt).
+
+Jayce: No, it doesn't, fortunately.
+
+Latsufir: WHeuhh! thancc God. Time Travel is creepy. luckily no time travel here. Right, (see right driver seat) Oh, you, okay.. (turn around to left passenger seat).. (open door), (sitt), (close door)! Okay, Sky. what do you get here?
+
+Sky: Not many yet. I just calibrated my seat.
+
+Latsufir: Alright, I'll give you sometime. mmm, the infotainment is so tiny!
+
+Jayce: Classic Hyundai. many modern Hyundai since certain years ago looks like that.
+
+Latsufir: Well that's okay, we should not look video all the time on the road. (notice seat cooler warmer button) Oh look, another button after the window, what's this? (press)! .... Okay, cooler, (press again)! .... warm, (press again)! ... warmer, (press again)! off. Oh shoot! forgot seatbelt! (attach seatbelt)!
+
+Sky: (find shifter)... (found shifter stock), (look sideways), (noticed 🅿️ button) ... (push entire stock not working), (twist the silver part towards front clockwise works)?? (saw the indicator now moves to `D`) oh. let's.. (hit gas pedal)
+
+Latsufir: mmm okay.. 
+
+Yume: You don't want to try speed first?
+
+Latsufir: Oh yess, but honestly we're not interested. but not hurt to try either..
+
+JOELwindows7: Disclaimer. thru window communication is possible with telepathy.
+
+Sky: (press left drive mode button), Oh? (set it to `SPORT` mode).. Hey, I want to launch! (honk)!!!
+
+Yume & Jayce: (stay back 10 metres away)!!
+
+Sky: (hit gas pedal to floor)!!!.......
+
+Latsufir: 😐😐😐😐😐😐😐😐😐😐
+
+Sky: (relax gas pedal)
+
+Latsufir: Much slower than Tesla, but eh..
+
+JOELwindows7: Hyundai IONIQ 5 doesn't have `HYPERSPEED` (non-Tesla`Ludicrous`) at the moment.
+
+Latsufir: Hmmm, I don't see anything special here other than uh.. the control UI UX is standard. That should make it easier, no strange ways. and heuh! Circle steering wheel flat bottom. Not yoke like what the hell? Hey, is there any missing here?
+
+Jayce: ... a peckton! No Hologram (HUD projection cluster), No DVB-T2 (DMB in OG South Korea), No Dashcam (OG Korea & Tesla have), No USB-C + DisplayPort (only USB-A Android Auto & Apple Car play), Only 2 row of seat (maybe IONIQ 7 will solve this?), Back seat only has warmer, (take breath again first),
+
+Latsufir: Yeah, I agree. I'm very appalled, no EV that goes with my satisfaction or anyone. Man, I wish Dasandim EV is ready.
+
+Yume: I know. But now you have to choose.
+
+Latsufir: eeeeugh.. What do you think, Sky?
+
+Sky: (just finished fiddling with the infotainment) I think.. I fell in love.. Sorry, I mean I like it.
+
+Latsufir: Well, I guess just take this. whatever we have here.
+
+Yume: Okay, so Hyundai IONIQ 5 Signature Long Range?
+
+Latsufir: yea yeah. I guess we will travel in vain.
+
+Jayce: Don't worry sir. we will then modify this car beforehand so fill the gap.
+
+Latsufir: Oh cool! please add everything yess!
+
+Jayce: certainly, sir.
+
+JOELwindows7: Just like overmodified it is with original DeLorean of Back to the Future.
