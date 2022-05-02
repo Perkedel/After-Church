@@ -39,6 +39,8 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - MINE NOW SPEENS!! Now you know if it's mine & never step. Mine spins this fast, never step spins even faster! **JUST LIKE STEPMANIA**
 - Stepmania conversion now also port mines to here yey!!! no more ignore mine.
 - We've seen Ragnarock, a VR game about viking drum rhythm play music.
+- Proposed Noteskin JSON system yey
+- Installed v16 Cherry Kai's noteskins to try fill missing gaps, placeholder, & own new noteskins for later down the road
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
@@ -1746,7 +1748,7 @@ Latsufir: Alright, I'll give you sometime. mmm, the infotainment is so tiny!
 
 Jayce: Classic Hyundai. many modern Hyundai since certain years ago looks like that.
 
-Latsufir: Well that's okay, we should not look video all the time on the road. (notice seat cooler warmer button) Oh look, another button after the window, what's this? (press)! .... Okay, cooler, (press again)! .... warm, (press again)! ... warmer, (press again)! off. Oh shoot! forgot seatbelt! (attach seatbelt)!
+Latsufir: Well that's okay, we should not look video all the time on the road. (notice seat cooler warmer button bellow climate button) Oh look, seat warmer, what's this? (press)! .... Okay, let's.. (adjust to cool) cooler, (set to warm)! .... warm, (set to hot)! ... warmer, (set to middle)! off. Oh shoot! forgot seatbelt! (attach seatbelt)!
 
 Sky: (find shifter)... (found shifter stock), (look sideways), (noticed 🅿️ button) ... (push entire stock not working), (twist the silver part towards front clockwise works)?? (saw the indicator now moves to `D`) oh. let's.. (hit gas pedal)
 
@@ -1774,9 +1776,9 @@ JOELwindows7: Hyundai IONIQ 5 doesn't have `HYPERSPEED` (non-Tesla`Ludicrous`) a
 
 Latsufir: Hmmm, I don't see anything special here other than uh.. the control UI UX is standard. That should make it easier, no strange ways. and heuh! Circle steering wheel flat bottom. Not yoke like what the hell? Hey, is there any missing here?
 
-Jayce: ... a peckton! No Hologram (HUD projection cluster), No DVB-T2 (DMB in OG South Korea), No Dashcam (OG Korea & Tesla have), No USB-C + DisplayPort (only USB-A Android Auto & Apple Car play), Only 2 row of seat (maybe IONIQ 7 will solve this?), Back seat only has warmer, (take breath again first),
+Jayce: ... a peckton! No Hologram (HUD projection cluster, Indonesia Cikarang version loses this), No DVB-T2 (DMB in OG South Korea), No Dashcam (OG Korea & Tesla sentry cam), No USB-C + DisplayPort (only USB-A Android Auto & Apple Car play, this is hurdle in Dasandim since most Dasandimian has true Linux phone), Only 2 row of seat (maybe IONIQ 7 will solve this?), Back seat only has warmer, (take breath again first) HHHHHHHHHHHHHHhhh, No remote parking assist (at least in Indonesia canon use loses this), No robot parking (Tesla-like auto park, Indonesia canon use doesn't have this), No Full Self Driving (only Common Cruise Control a.k.a. Autopilot in Tesla), No Digital sideview mirror (OG Korea), No All Wheel Drive (Indonesia Cikarang loses AWD), No Sidemarker (only USA version has this and is enforced for all cars in US, Dasandim recommends sidemarker), No Solar Panel (European version, or combined with panoramic sunroof), (take breath once again) HHHHHHHHHHHHHHHhhhh, No install app (Tesla has games), Infotainment is heavily cripled Android (not Android Automotive), electric recliner is only on the front (back only has electric forward backward), No controller interface on back seat (Tesla since Plaid), No rear wiper, No Spare Tire, aaaaand... et cetera, WHUEUH!!! MAN! That's long butt lackluster, peck!
 
-Latsufir: Yeah, I agree. I'm very appalled, no EV that goes with my satisfaction or anyone. Man, I wish Dasandim EV is ready.
+Latsufir: Yeah, I see. I'm very appalled, no EV that goes with my satisfaction or anyone. Man, I wish Dasandim EV is ready.
 
 Yume: I know. But now you have to choose.
 
@@ -1797,3 +1799,417 @@ Latsufir: Oh cool! please add everything yess!
 Jayce: certainly, sir.
 
 JOELwindows7: Just like overmodified it is with original DeLorean of Back to the Future.
+
+Latsufir: Sky, you haven't tried anything that exist in here. Why so immediate?
+
+Sky: idk, I feel I am too distracted with the things in here (open Media on infotainment).. (click random one which is Sound of Nature)
+
+Latsufir: That's alright, this I suppose a usual effect for things that are relatively... new. (noticed the Sound of Nature) Huh! the samples are like that.
+
+Sky: Yeah, looks like that.
+
+Latsufir: idk, I think we should try music in here. Um maybe, not so. (take out Fairphone 4) I have this Fairphone here, the tech lab phone we had here. It says that this infotainment can extend monitor of Android phone but is heavily cripled, (take out data cable) let's just... (connect one end to car), (and another to phone). Okay.
+
+Sky: (open Phone Projection).
+
+Latsufir: ... (Android Auto loaded) Huh okay. nothing special. (explore Android Auto menus) Really cripled. I don't have anything interesting here other than for Google Maps e.g., Aand, it only works on Earth. What else do we have here?
+
+JOELwindows7: I think I should also limit certain use of features when on road too? idk, like you don't see anything (even video or playing games) but road, however there's passenger but eh, passenger must also see road because if not, passenger get nausea. Of course, limit not here when parked, what did you thought?!
+
+Sky: We'll see everything later.
+
+Latsufir: Alright then. let's...
+
+Sky: (press 🅿️ on shift stock), (press EV Start Stop to turn off car). (detach seatbelt), (open door & get out)
+
+Latsufir: (detach seatbealt), (open door & get out)
+
+Yume: Alright, you done? please fill out the survey. (point to survey hut post) right there.
+
+Latsufir: Whoa, we went too far, Sky let's get us there. (go back to car) (async) (attach seatbelt)
+
+Sky: (async) (go back to car), (turn on Car), (attach seatbelt), (twist Shift to D), (go to survey hut post).... (detach car & out)
+
+Latsufir: (detach car & out) Okay, we're done.
+
+Gyouter: Lats? okay, pls scan this survey.
+
+Latsufir: (open camera & scan QR code) Sky, c'mon.
+
+Sky: (open phone & scan QR) wait, Is this supposed to be just one, for couple you said?
+
+Gyouter: No no, you can also join survey. Lats, there's invite player..
+
+Latsufir: Oh yess (top right menu), (add player), (invite them), Sky? press menu on top right, add player, and scan invite.
+
+Sky: Okay.. (top right menu), (add player), (scan invite join) Oh, (scan QR code on Latsufir's phone).. (joined) Done.
+
+Latsufir: Alright, soo.. let's begin.
+
+## Choose Electric Car survey 2022
+### 1. Welcome to choose your EV 2022. 
+In event for aid for King Dasan perfecting his EV project, all Dasandim officials will own various brands & model of Electric Vehicle imported from galaxies. Today's decade is: `Earth`. You have just tested your favourite Earth cars available during this day of test driving. Now it's time for you to choose. Which EV you'd like to own, and we'll cover everything for you. Enjoy!
+
+#### Button
+`Next`
+
+### 2. Select your EV
+#### Choose car to own! (Enum)
+- Tesla Model S Plaid
+- Tesla Model 3 Plaid
+- Tesla Model X Plaid
+- Tesla Model Y Plaid
+- Tesla Cybertruck
+- Volvo XC90 Recharge (⚠️ contains pollution engine, NOT RECOMMENDED)
+- Hyundai IONIQ 5 (Indonesia Cikarang version) Signature Long Range
+- Other (if empty, invalid, or *none* then `Hyundai IONIQ 5`) (`STRING` Please describe)
+
+#### Choose Color (default is unavailable)
+- Default any
+- Silver
+- Gray
+- Black
+- Blue
+- Red
+- Yellow
+- Green
+- Other (describe color in name or hex) (`COLOR` Please describe)
+
+#### Choose Texture Type
+- Latex shinny
+- Doff Matte
+- Default any
+
+#### Comment on why or whatever
+`STRING`
+
+#### Button
+`Review`
+### 3. Please review
+You have chosen: `choose_car`, `color`, `texture_type`
+
+and commented: `comment_why`
+
+Review carefully. If you have confirmed, please press `Submit`.
+
+#### Button
+`Back` `Submit`
+
+## End survey
+Latsufir: Okay, so um `IONIQ 5`..
+
+Sky: (choose `Hyundai IONIQ 5`)
+
+Latsufir: Now, do we have any words?
+
+Sky: Just write what about other vehicle we've seen!
+
+Latsufir: alright so.. (add line..)
+
+> Tesla has paywall in fsd, Volvo XC90 Recharge is hybrid ew what the peck, 
+
+Sky: done?
+
+Latsufir: I feel like the cars are paltry. do you have any idea what to suggest?
+
+Sky: I think... hold on (add line..)
+
+> Please add test drive: Rivian r1t, ford f150 lightning, polestar
+
+Sky: That's some I remember.
+
+Latsufir: Alright, (press `Review`), so you sure IONIQ 5? There'll be no return back though!
+
+Sky: Sure!
+
+Latsufir: ... Yeah whatever. I wish there's more car, but... honestly, too busy to find which. So eh! Whatever. (press `Submit`)
+
+Gyouter: (receive submit notification) Oh, Okay. Latsufir & Sky. (receive more notification) Okay... more of them..
+
+Neshim M'neer: Hey, Sky!
+
+Sky: Yeah?
+
+Neshim: I heard IONIQ 5 has zero gravity chair mode. (send how to telepathically) you press back on the second capsule button, behind footrest capsule button.
+
+Sky: Huh? lemme try! (go back to IONIQ 5 right driver side)... Okay so..
+
+Latsufir: (async) (follow Sky), (stand next to right side)
+
+Sky: (hover relax adjust capsule button) is this one?
+
+Neshim: Yeah!
+
+Sky: (press adjust back) mmmm... (chair is now relacc). ... 😦 (drop 1 tear of nostalgia)
+
+Latsufir: Whoah, Sky, what happen? don't cry!
+
+Sky: mom?
+
+Latsufir: Hey, mother's still in our home! We can get her anytime..
+
+Sky: UHhh whaa.. Uh, what?
+
+Latsufir: Sky, you longing something?
+
+Sky: (look bit down).. Um, sorry. I was reminded the good old days mom often pick me up like this. Although, remotely with robot (Remote Locomotion System, humanoid robot that can remotely be controlled via internet like VR experience)..
+
+Latsufir: Oh.. I see. Well, maybe we can do that again finally, since now, it's real.
+
+Sky: Oh yeah! I forgot. Man. I want mommy to pick me up like baby again.
+
+Latsufir: 😄 ah yess.
+
+Neshim: Whoah. I'm sorry, did I..
+
+Latsufir: No, it's okay! She missed her moment with her mom. (send this info telepathically) Though never been real before.
+
+Neshim: Ooouww.. Okay..
+
+Latsufir: Right, so.. what else here?
+
+Gyouter: Nothing. that's it for today. If you wanna try other vehicles then feel free. But remember, you cannot change your mind once you've chosen your car.
+
+Latsufir: Alright, thancc. So yeah. pretty sure. IONIQ 5 here we have today.. (disappointed because Tesla has paywall, Volvo XC90 is hybrid, and left with terrible & worst ever one which is IONIQ 5) 😬😬😬😬😬😬ssssss
+
+Gyouter: mmmm, Maybe we should not feel bad. Who knows turns out Hyundai is the better one, idk. Already example, Sky likes it. And look, the relacc chair seems to be something with Sky and her mom.
+
+Latsufir: Yeah, I agree too. I just be better with anything than nothing, so if that's what Sky wants then.. eh whatever just get that for her.
+
+Gyouter: Very wholesome. Ahei, Malore!
+
+Malore: Yea?
+
+Gyouter: You done the survey?
+
+Malore: ... 😬😬😬😬😬😬sssss (sigh) eugh... I'll be honest here. I don't choose anything. none. But why the `Other` option falls back to IONIQ 5? not Tesla Model X?
+
+Gyouter: uhh Because you must choose and if not then it'll be random or this one says `IONIQ 5`. I'm very sorry man. I just don't want anyone escape the terrible choices here, I'll be better next time I guess.
+
+Malore: 😠 Oh, YOU!!
+
+Gyouter: Oh man, please forgive me. I had tried to help Importer Yoinker to get as many as car here but apparently, they're really expensive & uncommon across galaxies. Especially.. the steering. That's the difficult one, because we cannot easily find one that is Right steered, or custom build commission, etc.
+
+Malore: Right, congratulations. I chose `Tesla Model X Plaid` which had plagued with sh888est scumiest momment of Elon Musk of all time. Paywall, you see that?! Now I hell live in this hell from Mars that I cannot easily get rid of.
+
+Gyouter: I'm really sorry man. But..., once IONIQ 5 or maybe 7 is proven.. *ICONIC*, then I can change your car, absolutely free, 0 Kvz.
+
+(camera look at Malore)
+
+Gyouter: For now.. you just.. drive the car, and think that FSD is just.. imagination, like IONIQ 5 that doesn't have anything but *Dumb Cruise Control*, idk..
+
+Malore: ... alright then, you should do it.
+
+Gyouter: Yea yeah. I'll do the best I can.
+
+Malore: Fine. Lats?
+
+Latsufir: mmM?
+
+Malore: Great luck buddy! don't die, I guess..
+
+Latsufir: Yeah man. thancc.
+
+# END. but we still have bonus footage.
+## Bonus Moment 1. Arrival. Import Yoink Alliance
+Ponguat Sutul: Yeou!! It's arrive!
+
+Opem Ferasol: What's that? ... Oh, Latsufir & Sky IONIQ 5. Parts ready?
+
+Ponguat: Saw it saw it. Hyundai Genuine parts?
+
+Tirr Miteg: Yeah yeah. Hyundai parts, yess.
+
+Ponguat: Okay, let's go!
+
+(straight to frankensteining) (b roll of frankensteining IONIQ 5 to be full)
+
+Opem: (Open frunk)..., (disconnect both `+` & `-` of 12V battery)! Okay, Aki disconnect! begin!
+
+Ponguat: (replace trunk lamp with LED)...
+
+Opem: (install built-in Dashcam, USB port, & its button)...
+
+Tirr: (take off back bumper & install back sidemarker & tow port)..
+
+Ponguat: (unpack solar panel & modify to be compatible with this Panoramic Sunroofed model)
+
+Opem: (circular saw the upper dashboard table to install the Hologram Heads Up Display)!!!..
+
+(and then it goes)
+
+## Bonus Moment 2. Final handover. Salt Flat World
+(portal is open to Salt Flat World)
+
+Ponguat: (use telekinetic drag wand), (drag the car to Salt Flat World)...
+
+Latsufir: Alright, here it is!
+
+Sky: Oh yes! Where's the Key?
+
+Ponguat: Oh, here key! (give keyfob)
+
+Latsufir: So, what did you change here? did you add everything?
+
+Sky: (attempt to tap door handle button), (not working)
+
+Opem: Oh sorry, we disconnect battery for safety.
+
+Ponguat: We added everything but some. Honestly it looks... not great.
+
+Sky: (take out emergency key out of the key fob), (open the door manually)
+
+Latsufir: That's alright, that should makes is kinda like Back to the Future. 
+
+Ponguat: Ah yess. And we missed the Front motor & the keyfob & sideview mirror. the Motor is risky so let it out, but (give smaller frunk bucket) here's the smaller frunk in case we figured out later, aaaand, the keyfob.. kinda risky too. we have no idea yet how to properly register one. And for the mirror, not sure if you're comfortable because honestly digital sideview is relatively new. But here's one again (give package of digital rearview mirror) just in case..
+
+Sky: (pull open bonnet lever), (async some until next Sky play bellow) (slide finger across bonnet second latch), (open bonnet), (open the 12V battery cover)
+
+Opem: Okay, I'll close the door to prevent alarm from ringing.
+
+Latsufir: Okay, but overall it's everything we got right?
+
+Ponguat: Hopefully. We'll find more later. Remember sir, this is *prototype*. Not the time to take it for granted right now, I guesss, idk.
+
+Latsufir: Alright..
+
+Sky: (connected the `-`)!!, (connected the `+`)!!
+
+Latsufir: Oup, alright, it's on! let's see..
+
+Sky: (close battery, frunk, & close bonnet)!! (open right driver door, & sitt to chair of it), (press EV Start Stop).
+
+Latsufir: (enter the left front passenger door & sitt to chair of it) Alright, Sky. it's yours.
+
+Sky: (filling the profile)... Done. Now you.
+
+Latsufir: Alright, (change profile), (to second driver profile), (fill profile)..... Okay done.
+
+Ponguat: Alright so, is that it? any question?
+
+Latsufir: Ummmm, When is the new one come?
+
+Ponguat: Not confirmed yet. it's just a rumor at the moment. 
+
+Opem: And I hope it's better than this. Seriously, we risk damaging this newly car just to get it done here.
+
+Latsufir: Alright, soo... thancc everyone.
+
+Ponguat: No problem! if you have any question, feel free to contact us again. See you later, Great luck, God Bless you.
+
+Latsufir: Oh yeah Great luck, GBU too.
+
+Ponguat: (go back from Salt flat world to Import Yoink Alliance again)..
+
+Opem: (follow)
+
+Ponguat: 🙋‍♂️.... (close portal)!
+
+JOELwindows7: Don't worry, the Home EV charger has already installed in the previous episode. And yeah I know, the seat for each will be adjusted before going to enjoy crazy.
+
+Latsufir: Alright, Sky. what do you wanna do here?
+
+Sky: (change profile back to `Sky`)... I know 😏..
+
+## Bonus Moment 3. Enjoy the drive. Salt Flat World
+Sky: (run the car like crazy)!!!!, (drift the car)!!! Ow, yeah!!!
+
+## Bonus Moment 4. One last thing!
+Sky: Mom?
+
+Yolaine: Oh my baby! you back.
+
+Latsufir: Well, we got the car.
+
+Sky: (lie down to Yolaine's hand) Ah yes!
+
+Yolaine: (hold Sky like baby in background) How was it?
+
+Latsufir: Well, not bad. maybe should try later.
+
+Yolaine: Okay. Oh.. wow,
+
+Sky: Mom, remember we used to..
+
+Yolaine: Yes, Sky. Mommy never forget! How did you remember now?
+
+Latsufir: mmm, Neshim told us that, there is `Zero Gravity Chair` mode.. on the front seat, that makes you like being like that!
+
+Yolaine: 😳?!?!?
+
+Latsufir: She moved & that's how she missed your pickup now.
+
+(go to the car, at left front passenger seat)
+
+Yolaine: Okay. Show me how.
+
+Sky: (telepathic) (press relacc adjust back button)
+
+Yolaine: (follow on her side) okay... whoah, whoaho, wow, okay. oh... (relacc)
+
+Sky: Yep.
+
+Yolaine: Oh wow. I... I remember. My day of ***manifest***.. Oh, hohoho.. wha...
+
+Latsufir: Yep, pretty much.
+
+JOELwindows7: ok idk how do I suppose to Yolaine here, Should I have her a pure manifest, or from birth, idk. I will go with pure manifest for now. Yolaine is created, no predecessor, I think..
+
+# Epilogue End.
+## Mega credit reel
+(play SYBS - Bittersweet again)
+
+Directed by: Joel Robert Justiawan
+
+Written by: Joel Robert Justiawan
+
+...
+
+...
+
+...
+
+Built for Television by: Joel Robert Justiawan
+
+Realization System provided by: Juan Linietsy & contributors (Godot Engine)
+
+With inspiration from: Friday Night Funkin'
+
+(Gyouter actor name)
+
+(Latsufir actor name)
+
+(Sky actor name)
+
+(any special actor name if you want)
+
+**Last Funkin Moments**
+
+(fade song off)
+
+## Small credit reel
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Friday Night Funkin'
+ninjamuffin
+Phantom Arcade
+evilsk8ter
+
+OG Sky owned by kitsuneskulls (Instagram)  
+Sky mod by bbpanzu
+
+Viorfa Studios a Perkedel Technologies company
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
