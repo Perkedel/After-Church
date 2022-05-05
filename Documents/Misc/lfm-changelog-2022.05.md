@@ -41,6 +41,7 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - We've seen Ragnarock, a VR game about viking drum rhythm play music.
 - Proposed Noteskin JSON system yey
 - Installed v16 Cherry Kai's noteskins to try fill missing gaps, placeholder, & own new noteskins for later down the road
+- **WE HAVE MANAGED TO HAVE INSTALLED & CONFIRMED PSYCHED BLAMMED LIGHTS** WHEW!!! That alone took lots of effort to understand how to use these yoinked functions couple months ago. Test now in Blammed yey! How to use is, input the argument `1-5` to turn on if haven't already & select which color based on number you put. more than `5` to random. `0` to turn it off.
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
