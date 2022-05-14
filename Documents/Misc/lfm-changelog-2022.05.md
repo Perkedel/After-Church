@@ -42,6 +42,9 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - Proposed Noteskin JSON system yey
 - Installed v16 Cherry Kai's noteskins to try fill missing gaps, placeholder, & own new noteskins for later down the road
 - **WE HAVE MANAGED TO HAVE INSTALLED & CONFIRMED PSYCHED BLAMMED LIGHTS** WHEW!!! That alone took lots of effort to understand how to use these yoinked functions couple months ago. Test now in Blammed yey! How to use is, input the argument `1-5` to turn on if haven't already & select which color based on number you put. more than `5` to random. `0` to turn it off.
+- Reyoink classic Sky because we found a surprising but unfortunately expected issues. Sorry, we don't have capability to sculpt humanoid Blender at the moment.
+- Let's install larsiusprime's crash dumper library which probably what YoshiCrafter engine uses, idk. wait, Yoshi engine or what? yeah. this tweet [here](https://twitter.com/FNFYoshiEngine/status/1524021682175942661?t=Jt63KgMo8P0Do0PVhKi3cQ&s=19 )
+- replace watermark text type to `FlxUIText`
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
