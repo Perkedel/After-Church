@@ -43,7 +43,13 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - Installed v16 Cherry Kai's noteskins to try fill missing gaps, placeholder, & own new noteskins for later down the road
 - **WE HAVE MANAGED TO HAVE INSTALLED & CONFIRMED PSYCHED BLAMMED LIGHTS** WHEW!!! That alone took lots of effort to understand how to use these yoinked functions couple months ago. Test now in Blammed yey! How to use is, input the argument `1-5` to turn on if haven't already & select which color based on number you put. more than `5` to random. `0` to turn it off.
 - Reyoink classic Sky because we found a surprising but unfortunately expected issues. Sorry, we don't have capability to sculpt humanoid Blender at the moment.
-- Let's install larsiusprime's crash dumper library which probably what YoshiCrafter engine uses, idk. wait, Yoshi engine or what? yeah. this tweet [here](https://twitter.com/FNFYoshiEngine/status/1524021682175942661?t=Jt63KgMo8P0Do0PVhKi3cQ&s=19 )
+- Let's install larsiusprime's crash dumper library which probably what YoshiCrafter engine uses, idk. wait, Yoshi engine or what? yeah. this tweet [here](https://twitter.com/FNFYoshiEngine/status/1524021682175942661?t=Jt63KgMo8P0Do0PVhKi3cQ&s=19 ). Uh oh bug!
+    ```
+    PS C:\Users\joelr\Documents\starring codes\Haxe Projects\Kaded-fnf-mods> lime build windows -final
+    C:/HaxeToolkit/haxe/lib/crashdumper/git/crashdumper/hooks/openfl/HookOpenFL.hx:61: characters 16-53 : Failed to load file project.xml: File not found 'project.xml'
+    C:/HaxeToolkit/haxe/lib/yagp/1,1,4/com/yagp/GifDecoder.hx:41: characters 18-31 : Warning : This typedef is deprecated in favor of sys.thread.Thread
+    ```
+- That was because somehow capital sensitivity with `project.xml`. uh, we have `Project.xml`. yeah, `P` != `p`.
 - replace watermark text type to `FlxUIText`
 
 # Previous Lores
