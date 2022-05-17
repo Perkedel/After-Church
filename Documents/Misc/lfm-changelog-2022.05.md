@@ -54,6 +54,7 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - Winter Horrorland now has Player 2 character health icon hidden into `?` (Placeholder Health Icon a.k.a. Surprise `?` & Oh no `<!>`) until their turn.
 - KitsuneSkulls has been revealed being a terminally bad guy. idk what do we do now?
 - yoink week 7 finally, as everything as all as possible, big shoutout to luckydog7 with android port & YoshiCrafter29 with YoshiEngine for the yoink yey!
+- bonus [gf **THICC**](https://gamebanana.com/mods/377842 )
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
