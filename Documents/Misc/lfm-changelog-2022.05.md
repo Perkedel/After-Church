@@ -54,7 +54,20 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - Winter Horrorland now has Player 2 character health icon hidden into `?` (Placeholder Health Icon a.k.a. Surprise `?` & Oh no `<!>`) until their turn.
 - KitsuneSkulls has been revealed being a terminally bad guy. idk what do we do now?
 - yoink week 7 finally, as everything as all as possible, big shoutout to luckydog7 with android port & YoshiCrafter29 with YoshiEngine for the yoink yey!
-- bonus [gf **THICC**](https://gamebanana.com/mods/377842 )
+- ~~bonus [gf **THICC**](https://gamebanana.com/mods/377842 )~~ It was tracened, confirmed. ugh. also I did not get to get latest update. peck. well, atleast we got Redsty Phoenix's standalone gf, idk..
+- Only NuSky is banned, because KitsuneSkulls (I think not just being voice actor for that, also creator of that?) again.. okay, no need to say again.
+- BanPMX https://gamebanana.com/threads/221682
+- Improve Week 7 mechanics a little bit with optimized code approach. the Tankmen running supposedly be recycled & not destroyed, just `kill()` & `reset()` function that's it.
+- Got concerned with everything exposeae. Proposing Passage of Demotivation with pool of ghosts that tells you to give up & give reason with facts about all coincidence and affects that they think would happen the same to passerbies. For now, I have the document about the exposae, pointing a coincidence regarding emotion cured. Desptie it's just a coincidence no cnnect, that itself makes me afraid.
+- Stuck on a dead end. unable to find solution for rereputation in case got destroyed for reason like this.
+- Fixed Week 7 stress animation error because alt frame of tankman not found or what.
+- Rescratched 💓🫀🩺 Heartbeat Cardiophile! Now realisticly located. The heart organ system lives inside each character object in the class. JUST LIKE REAL ONE!!! Also, each character data can have more than 1 hearts. Because, there are some of the merge characters such as Spookies. TODO: install extrapolate motion system to make visible heartbeat effect.
+- Installed Pause beeps! using SFBGames ChipTone to generate tone we used to make sfx for [Tebenge](https://odysee.com/@JOELwindows7/Tebenge  ). Let's make it like A Hat in Time.
+- finally got Master Eric's mod menu working.
+- Additional info like found in Yamaha Keyboards!!! Tempo & Metronome info bar yess!!!
+- Song position bar color is now based on week yeah!
+- proposed particular color for each song in selection, overrides week color.
+- what else?!?!?
 
 # Previous Lores
 - lbry://@JOELwindows7#a/lfm-lore-2021.06#b
@@ -2221,7 +2234,7 @@ ninjamuffin
 Phantom Arcade
 evilsk8ter
 
-OG Sky owned by kitsuneskulls (Instagram)  
+OG Sky owned by kitsuneskulls (Instagram) ⚠️☢️☣️ 
 Sky mod by bbpanzu
 
 Viorfa Studios a Perkedel Technologies company
