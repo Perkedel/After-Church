@@ -67,6 +67,10 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - Additional info like found in Yamaha Keyboards!!! Tempo & Metronome info bar yess!!!
 - Song position bar color is now based on week yeah!
 - proposed particular color for each song in selection, overrides week color.
+- MOAR LIBRARIES refered for future use. idk.
+- PANIK SKIP!!! If at the end of song, the game fail to end song, press pause again. After all note finish & song ends, the pause button turns into instant end song button. you can manually end song after all notes finished. no more panik close app yey!
+- hey should we just use the `validScore` in the song json to mark whether the song worth showing on list? I mean, if it's true, then it deserves showing in the automatic scan. otherwise hide it. idk.
+- hey, just a little idea here. here are 2 languages. one has this variable says blue, and the other red. the program reads it as color name. So if you set language to this, it blue, other goes red. etc etc.
 - what else?!?!?
 
 # Previous Lores
