@@ -66,6 +66,7 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - finally got Master Eric's mod menu working.
 - Additional info like found in Yamaha Keyboards!!! Tempo & Metronome info bar yess!!!
 - Song position bar color is now based on week yeah!
+- Each song can have own color that overrides week color!! if the song JSON has `selectionColor`, then the menu selecting the song & song position bar will choose the color defined. if `null`, then go back to week color. YESS!!!
 - proposed particular color for each song in selection, overrides week color.
 - MOAR LIBRARIES refered for future use. idk.
 - PANIK SKIP!!! If at the end of song, the game fail to end song, press pause again. After all note finish & song ends, the pause button turns into instant end song button. you can manually end song after all notes finished. no more panik close app yey!
