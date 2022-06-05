@@ -72,6 +72,17 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - PANIK SKIP!!! If at the end of song, the game fail to end song, press pause again. After all note finish & song ends, the pause button turns into instant end song button. you can manually end song after all notes finished. no more panik close app yey!
 - hey should we just use the `validScore` in the song json to mark whether the song worth showing on list? I mean, if it's true, then it deserves showing in the automatic scan. otherwise hide it. idk.
 - hey, just a little idea here. here are 2 languages. one has this variable says blue, and the other red. the program reads it as color name. So if you set language to this, it blue, other goes red. etc etc.
+- metronome in charting state yey!
+- dialogue font, font color, & sound are now customizable in character. more coming soon.
+- add array of gamepads in player setting because sometimes there are device with multitaping gamepads
+- combo counter on judgement list right, because you may want to see it. also has max combo!
+- added collapse toast syndication finally!
+- [PEnginification](https://github.com/Paidyy/Funkin-PEngine ) & bit of [Funkin 64](https://gamebanana.com/mods/373601 ) things.
+- Crash handler workening! yey PEngine!
+- clipboarden PEngine
+- YAML interpreter later to be used PEngine
+- uiiu
+- Name all the songs we had here. because it's complicated to capitalize first letter & ironically Haxe doesn't have this built in!!! to be added manually later
 - what else?!?!?
 
 # Previous Lores
