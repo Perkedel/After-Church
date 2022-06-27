@@ -83,6 +83,9 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - YAML interpreter later to be used PEngine
 - uiiu
 - Name all the songs we had here. because it's complicated to capitalize first letter & ironically Haxe doesn't have this built in!!! to be added manually later
+- fixed jumblesone notes on Linux. Because loading Sparrow XML by the `FileSystem` somehow doesn't work at all it seems. while most of the time, pixel noteskin does works well. AH peck this, also break everything! rewrite the loading of noteskin to be fully `Paths` with existence checker powered by `OpenFlAssets` yeah. okay the pixel ones kept `FileSystem`er because this new way doesn't work with `BitmapData` at all.
+- Add option to disable video cutscener entirely due to crash bug. On Linux yess. In my machine it doesn't work. VLC or WEBM native.
+- fix category misc did not scroll down properly. & also fix category selection forgor aware maximum number available
 - what else?!?!?
 
 # Previous Lores
