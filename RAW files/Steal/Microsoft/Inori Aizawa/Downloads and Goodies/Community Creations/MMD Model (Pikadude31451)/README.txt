@@ -1,0 +1,2 @@
+Created by: Pikadude31451 (http://pikadude31451.deviantart.com/art/MMD-Inori-Aizawa-Download-V-1-0-436567918)
+Mirrored from: http://www.mediafire.com/download/47368vdhnc412ar/Inori+Aizawa+V.1.0+%28Pikadude%29.zip

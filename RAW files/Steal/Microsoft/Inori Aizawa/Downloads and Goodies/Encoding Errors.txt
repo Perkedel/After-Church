@@ -1,0 +1,5 @@
+﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
+
+Original File Name  ->  New File Name
+Community Creations/MMD Model (ぼーぴん)/Aizawa_Inori.zip -> Community Creations/1/Aizawa_Inori.zip
+Community Creations/MMD Model (ぼーぴん)/README.txt -> Community Creations/1/README.txt

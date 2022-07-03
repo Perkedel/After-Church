@@ -86,6 +86,10 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - fixed jumblesone notes on Linux. Because loading Sparrow XML by the `FileSystem` somehow doesn't work at all it seems. while most of the time, pixel noteskin does works well. AH peck this, also break everything! rewrite the loading of noteskin to be fully `Paths` with existence checker powered by `OpenFlAssets` yeah. okay the pixel ones kept `FileSystem`er because this new way doesn't work with `BitmapData` at all.
 - Add option to disable video cutscener entirely due to crash bug. On Linux yess. In my machine it doesn't work. VLC or WEBM native.
 - fix category misc did not scroll down properly. & also fix category selection forgor aware maximum number available
+- PKGBUILD for Arch User Repository later down the road btw. try with `makepkg` with Arch Linux after you `cd` to this repo. `makepkg -Si` to try install everything built & stuffs to your system (**Only works with mutable file system mode!!!**, sorry, Steam Deck user). the PKGBUILD script runs same steps of setting up haxe, & building this thing yess. So after building, you can just run `export/release/bin/Last Funkin Moments` executable if you don't want to install it OR your Steam Deck file system mode is default immutable.
+- You can assign your own blueball / death sound. There 2 types. regular which plays all those particular sound files, and another similar play all same time but in which each bit plays different variants.
+- YOINK BOLOxd thingy https://github.com/BoloVEVO/Kade-Engine-Public https://gamebanana.com/mods/384783
+- According to BOLO's week7 improve, now Optimize will always ON even if there is modchart. 
 - what else?!?!?
 
 # Previous Lores
