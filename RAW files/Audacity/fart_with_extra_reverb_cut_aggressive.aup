@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="fart_with_extra_reverb_cut_aggressive_data" version="1.3.0" audacityversion="2.4.1" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0945053725" zoom="11718.7500000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2018"/>
+		<tag name="major_brand" value="ajor"/>
+		<tag name="Encoded by" value="ncoded by"/>
+		<tag name="comment" value="omment"/>
+		<tag name="ARTIST" value="your mom"/>
+		<tag name="Software" value="oftware"/>
+		<tag name="compatible_brands" value="ompatibl"/>
+		<tag name="TRACKNUMBER" value="69"/>
+		<tag name="Band" value="dairyorange"/>
+		<tag name="TITLE" value="fart with extra reverb"/>
+		<tag name="ALBUM" value="scary monsters and nice sprites 2"/>
+		<tag name="GENRE" value="fartcore"/>
+		<tag name="minor_version" value="i"/>
+		<tag name="COMMENTS" value="cum"/>
+	</tags>
+	<wavetrack name="fart_with_extra_reverb" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="304644">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fb09.au" len="256900" min="-1.007428" max="1.011453" rms="0.15692"/>
+				</waveblock>
+				<waveblock start="256900">
+					<simpleblockfile filename="eff1fa48.au" len="47744" min="-0.035384" max="0.028466" rms="0.007983"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fart_with_extra_reverb" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="304644">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd39.au" len="256900" min="-1.011322" max="1.011959" rms="0.150062"/>
+				</waveblock>
+				<waveblock start="256900">
+					<simpleblockfile filename="eff1fd3a.au" len="47744" min="-0.020362" max="0.023348" rms="0.005787"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

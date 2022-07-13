@@ -90,6 +90,8 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - You can assign your own blueball / death sound. There 2 types. regular which plays all those particular sound files, and another similar play all same time but in which each bit plays different variants.
 - YOINK BOLOxd thingy https://github.com/BoloVEVO/Kade-Engine-Public https://gamebanana.com/mods/384783
 - According to BOLO's week7 improve, now Optimize will always ON even if there is modchart. 
+- choose if the death gameover character is in the same character JSON file or a different JSON file.
+- move more value of various things into our brand constant class. Okay hear me out, it was Master Eric's idea with Enigma branded constant, so you should also *blame* (git term blame) him too. idk, we've already went this way, and renaming to like `Constant` mega class is.. tedious.
 - what else?!?!?
 
 # Previous Lores
