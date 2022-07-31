@@ -2240,6 +2240,8 @@ With inspiration from: Friday Night Funkin'
 (fade song off)
 
 ## Small credit reel
+(Sponsor Finance aid acknowlegement)
+
 ...
 
 ...
