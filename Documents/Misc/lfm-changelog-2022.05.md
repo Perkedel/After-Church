@@ -1,6 +1,15 @@
-![](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.02-thumb.png )
+![](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png )
 
 pls change image & fill new infos!
+
+# 🛑AW SHUCKS!!!🛑
+CONTRACT DISTURBED
+
+Gamers, I have to apologize. The contract for this mod of FNF has been disturbed severely. Therefore the mod has been considered disturbed. Basically, like it's "canceled" quote on quote, but in Perkedel, there is no such. OR atleast that's the best we've been trying to keep the fate from being disappointing. I mean, I should say, ... Slowed stagnantly, or whatever.
+I now had job. embarrasing job. sitting in an office desk, rating stuffs on the internet. for every 30 paper submited grants me $30. in a week I could get about uh.. $25 to $50 ish. Very paltry!
+So, sorry gamers. I couldn't keep this up for so much long. man! the Full Ass gotta be finished here, I know, I should be patient, but, my soul has been tied in for so long, I want to break free, majestically of course, not in a turd! yeah.
+If you'd like to help me finish what haven't been done, that'd be great & thancc cool and good.
+
 # Download Updated
 - [Linux](https://odysee.com/@JOELwindows7/last-funkin-moments )
 - ~~[Linux 32 bit](https://odysee.com/@JOELwindows7/last-funkin-moments-32bit )~~
@@ -92,6 +101,10 @@ So there you have it. We hope MFM come back too so we can happilly live in peace
 - According to BOLO's week7 improve, now Optimize will always ON even if there is modchart. 
 - choose if the death gameover character is in the same character JSON file or a different JSON file.
 - move more value of various things into our brand constant class. Okay hear me out, it was Master Eric's idea with Enigma branded constant, so you should also *blame* (git term blame) him too. idk, we've already went this way, and renaming to like `Constant` mega class is.. tedious.
+- Reyoink week 7 & other stuffs I forgot to mention from [Bolo](https://github.com/BoloVEVO/Kade-Engine-Public) yeah.
+- BOLO's way of brand new autosaving
+- BOLO's new Alphabet system!!! now you can have `1234567890` in Intro text & anything that uses those `Alphabet.x` finally yeyeyeyeyeyeyeyeyyey!!!
+- Game has been degraded severely. Damn it! if only the game releases, I could finally break free from this long strangling contract. But what can we do now? ***We still have to wait***. Ugh, honestly I hate patiences. Look, last time, my yoink again broke the game, note invisible and other broken poops so much and so stressful I forcedly have to go back to last working commit from scratch & selectively pick codes I did yoinked. idk if cherry-pick commit works, let's not do it this time because I usually commit in amalgate & I'll just manually pick one by one.
 - what else?!?!?
 
 # Previous Lores
