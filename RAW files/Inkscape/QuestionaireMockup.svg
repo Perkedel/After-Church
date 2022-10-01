@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="QuestionaireMockup.svg"
+   inkscape:export-filename="QuestionaireMockup-loading.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#848484"
+     bordercolor="#66462f"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#24364a"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.56063608"
+     inkscape:cx="940.89556"
+     inkscape:cy="562.75365"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid686" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1289">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1285" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1287" />
+    </linearGradient>
+    <rect
+       x="20"
+       y="100"
+       width="1840"
+       height="180"
+       id="rect1817" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1788">
+      <stop
+         style="stop-color:#000034;stop-opacity:1;"
+         offset="0"
+         id="stop1784" />
+      <stop
+         style="stop-color:#000034;stop-opacity:0;"
+         offset="1"
+         id="stop1786" />
+    </linearGradient>
+    <rect
+       x="20"
+       y="20"
+       width="1880"
+       height="120"
+       id="rect1099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1788"
+       id="linearGradient1790"
+       x1="980"
+       y1="0"
+       x2="980"
+       y2="160"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0212766,1)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1289"
+       id="radialGradient1291"
+       cx="960"
+       cy="540"
+       fx="960"
+       fy="540"
+       r="960"
+       gradientTransform="matrix(1,0,0,0.5625,0,236.25)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Mockup"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g1030"
+       transform="translate(20)"
+       style="fill:#1a1a1a;fill-opacity:0.518198">
+      <g
+         id="g1016"
+         style="fill:#1a1a1a;fill-opacity:0.518198">
+        <rect
+           style="fill:#1a1a1a;fill-opacity:0.518198;stroke:#00ffff;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="rect798"
+           width="900"
+           height="140"
+           x="40"
+           y="740" />
+        <rect
+           style="fill:#1a1a1a;fill-opacity:0.518198;stroke:#00ffff;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="rect1012"
+           width="900"
+           height="140"
+           x="40"
+           y="910" />
+      </g>
+      <g
+         id="g1022"
+         transform="translate(920)"
+         style="fill:#1a1a1a;fill-opacity:0.518198">
+        <rect
+           style="fill:#1a1a1a;fill-opacity:0.518198;stroke:#00ffff;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="rect1018"
+           width="900"
+           height="140"
+           x="40"
+           y="740" />
+        <rect
+           style="fill:#1a1a1a;fill-opacity:0.518198;stroke:#00ffff;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           id="rect1020"
+           width="900"
+           height="140"
+           x="40"
+           y="910" />
+      </g>
+    </g>
+    <rect
+       style="fill:url(#linearGradient1790);fill-opacity:1;stroke:none;stroke-width:3.03175;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1239"
+       width="1920"
+       height="160"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text1097"
+       style="font-weight:bold;font-size:64px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1099);display:inline;fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"><tspan
+         x="20"
+         y="79.679501"
+         id="tspan1661">Recital Band Class</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1815"
+       style="font-weight:bold;font-size:53.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1817);display:inline;fill:#000000;stroke:#ffffff"><tspan
+         x="20"
+         y="149.73289"
+         id="tspan1663">Which following are formally considered an instrument?</tspan></text>
+    <g
+       id="g1997">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:190.388px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none"
+         x="280.02713"
+         y="648.16748"
+         id="text1952"><tspan
+           sodipodi:role="line"
+           id="tspan1950"
+           x="280.02713"
+           y="648.16748"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:190.388px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#ffffff;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:30.7692px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#00ffff;stroke-width:0.721153"
+         x="340.02975"
+         y="680.74713"
+         id="text1956"><tspan
+           sodipodi:role="line"
+           id="tspan1954"
+           x="340.02975"
+           y="680.74713"
+           style="font-size:30.7692px;stroke-width:0.721153">Tatiana</tspan><tspan
+           sodipodi:role="line"
+           x="340.02975"
+           y="719.20862"
+           style="font-size:30.7692px;stroke-width:0.721153"
+           id="tspan1958">200 Kvz</tspan></text>
+    </g>
+    <g
+       id="g2768"
+       transform="translate(379.97024)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:190.388px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none"
+         x="280.02713"
+         y="648.16748"
+         id="text2760"><tspan
+           sodipodi:role="line"
+           id="tspan2758"
+           x="280.02713"
+           y="648.16748"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:190.388px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#ffffff;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:30.7692px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#00ffff;stroke-width:0.721153"
+         x="340.02975"
+         y="680.74713"
+         id="text2766"><tspan
+           sodipodi:role="line"
+           id="tspan2762"
+           x="340.02975"
+           y="680.74713"
+           style="font-size:30.7692px;stroke-width:0.721153">Jason</tspan><tspan
+           sodipodi:role="line"
+           x="340.02975"
+           y="719.20862"
+           style="font-size:30.7692px;stroke-width:0.721153"
+           id="tspan2764">3500 Kvz</tspan></text>
+    </g>
+    <g
+       id="g2819"
+       transform="translate(859.97024)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:190.388px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none"
+         x="280.02713"
+         y="648.16748"
+         id="text2811"><tspan
+           sodipodi:role="line"
+           id="tspan2809"
+           x="280.02713"
+           y="648.16748"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:190.388px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#ffffff;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:30.7692px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#00ffff;stroke-width:0.721153"
+         x="340.02975"
+         y="680.74713"
+         id="text2817"><tspan
+           sodipodi:role="line"
+           id="tspan2813"
+           x="340.02975"
+           y="680.74713"
+           style="font-size:30.7692px;stroke-width:0.721153">Maxwell</tspan><tspan
+           sodipodi:role="line"
+           x="340.02975"
+           y="719.20862"
+           style="font-size:30.7692px;stroke-width:0.721153"
+           id="tspan2815">-300 Kvz</tspan></text>
+    </g>
+    <g
+       id="g2831"
+       transform="translate(1239.9405)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:190.388px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none"
+         x="280.02713"
+         y="648.16748"
+         id="text2823"><tspan
+           sodipodi:role="line"
+           id="tspan2821"
+           x="280.02713"
+           y="648.16748"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:190.388px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#ffffff;stroke:#00ffff;stroke-width:3.66498;stroke-dasharray:none">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:30.7692px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#00ffff;stroke-width:0.721153"
+         x="340.02975"
+         y="680.74713"
+         id="text2829"><tspan
+           sodipodi:role="line"
+           id="tspan2825"
+           x="340.02975"
+           y="680.74713"
+           style="font-size:30.7692px;stroke-width:0.721153">Eric</tspan><tspan
+           sodipodi:role="line"
+           x="340.02975"
+           y="719.20862"
+           style="font-size:30.7692px;stroke-width:0.721153"
+           id="tspan2827">16700 Kvz</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#ffffff"
+       x="180"
+       y="860"
+       id="text3612"><tspan
+         sodipodi:role="line"
+         id="tspan3610"
+         x="180"
+         y="860">Mayonaise</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#ffffff"
+       x="180"
+       y="1020"
+       id="text3616"><tspan
+         sodipodi:role="line"
+         id="tspan3614"
+         x="180"
+         y="1020">Meowsynth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#ffffff"
+       x="1160"
+       y="860"
+       id="text3620"><tspan
+         sodipodi:role="line"
+         id="tspan3618"
+         x="1160"
+         y="860">Air</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#ffffff"
+       x="1160"
+       y="1020"
+       id="text3624"><tspan
+         sodipodi:role="line"
+         id="tspan3622"
+         x="1160"
+         y="1020">Water</tspan></text>
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect3843"
+       width="80"
+       height="80"
+       x="1015"
+       y="770" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3949"
+       cx="120"
+       cy="980"
+       r="40" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path4107"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="1040"
+       sodipodi:cy="980"
+       sodipodi:r1="60"
+       sodipodi:r2="30"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1040,920 51.9615,90 -103.92303,0 z"
+       inkscape:transform-center-y="-15"
+       transform="translate(14.019237,14.999999)" />
+    <path
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+       d="m -55,800 5,-5 5,5 5,-5 5,5 -5,5 5,5 -5,5 -5,-5 -5,5 -5,-5 5,-5 z"
+       id="path4215" />
+    <path
+       style="fill:#0000ff;stroke:#ffffff;stroke-width:4.28571px;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+       d="M 80.714286,793.57143 102.14286,772.14286 123.57143,793.57143 145,772.14286 166.42857,793.57143 145,815 166.42857,836.42857 145,857.85714 123.57143,836.42857 102.14286,857.85714 80.714286,836.42857 102.14286,815 Z"
+       id="path4217" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.2718px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494"
+       x="1300"
+       y="40"
+       id="text4349"><tspan
+         sodipodi:role="line"
+         id="tspan4347"
+         x="1300"
+         y="40"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">by JOELwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="1300"
+         y="60.339748"
+         id="tspan4351"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="1300"
+         y="80.679497"
+         id="tspan4353"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">CC4.0-BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="1300"
+         y="101.01925"
+         id="tspan4355"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494" /><tspan
+         sodipodi:role="line"
+         x="1300"
+         y="121.35899"
+         id="tspan4357"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">You DOn't Know Jack (c) Jackbox Games</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.2718px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494"
+       x="1560.1729"
+       y="712.88116"
+       id="text4439"><tspan
+         sodipodi:role="line"
+         id="tspan4429"
+         x="1560.1729"
+         y="712.88116"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">by JOELwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="1560.1729"
+         y="733.22089"
+         id="tspan4431"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="1560.1729"
+         y="753.56067"
+         id="tspan4433"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">CC4.0-BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="1560.1729"
+         y="773.90039"
+         id="tspan4435"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494" /><tspan
+         sodipodi:role="line"
+         x="1560.1729"
+         y="794.24017"
+         id="tspan4437"
+         style="fill:#ffffff;stroke:#ff00ff;stroke-width:0.508494">You DOn't Know Jack (c) Jackbox Games</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Loading">
+    <rect
+       style="fill:url(#radialGradient1291);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect405"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-linejoin:bevel;stroke-linecap:round"
+       x="940"
+       y="400"
+       id="text461"><tspan
+         sodipodi:role="line"
+         id="tspan459"
+         x="940"
+         y="400"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-linejoin:bevel;stroke-linecap:round">TRANSPARENCY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:370.766px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:5;stroke:#000000;stroke-linejoin:bevel;stroke-linecap:round;stroke-dasharray:none"
+       x="940.00006"
+       y="694.80927"
+       id="text573"><tspan
+         sodipodi:role="line"
+         id="tspan571"
+         x="940.00006"
+         y="694.80927"
+         style="fill:#ffffff;stroke-width:5;stroke:#000000;stroke-linejoin:bevel;stroke-linecap:round;stroke-dasharray:none">TEST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:41.1403px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#1a1a1a;stroke-width:0.482113;fill:#ffffff"
+       x="939.20453"
+       y="745.44733"
+       id="text1469"><tspan
+         sodipodi:role="line"
+         id="tspan1467"
+         x="939.20453"
+         y="745.44733"
+         style="stroke-width:0.482113;fill:#ffffff;stroke:#1a1a1a">by JOELwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="939.20453"
+         y="796.87268"
+         id="tspan1471"
+         style="stroke-width:0.482113;fill:#ffffff;stroke:#1a1a1a">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="939.20453"
+         y="848.2981"
+         id="tspan1473"
+         style="stroke-width:0.482113;fill:#ffffff;stroke:#1a1a1a">coding: GNU GPL v3</tspan><tspan
+         sodipodi:role="line"
+         x="939.20453"
+         y="899.72345"
+         id="tspan1475"
+         style="stroke-width:0.482113;fill:#ffffff;stroke:#1a1a1a">assets: CC4.0-BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="939.20453"
+         y="951.14886"
+         id="tspan1477"
+         style="stroke-width:0.482113;fill:#ffffff;stroke:#1a1a1a">YDKJ (c) Jackbox Games</tspan></text>
+  </g>
+  <metadata
+     id="metadata688">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
