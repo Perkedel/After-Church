@@ -1,0 +1,24 @@
+[submodule "RAW files/Submodules/Whole-KisekaeCharacters"]
+	path = RAW files/Submodules/Whole-KisekaeCharacters
+	url = https://github.com/Perkedel/Whole-KisekaeCharacters.git
+[submodule "RAW files/Submodules/Special_Duino_LCD_i2c_demo"]
+	path = RAW files/Submodules/Special_Duino_LCD_i2c_demo
+	url = https://github.com/Perkedel/Special_Duino_LCD_i2c_demo.git
+[submodule "RAW files/Submodules/bye_bye_Pot_for_i2c_lcd"]
+	path = RAW files/Submodules/bye_bye_Pot_for_i2c_lcd
+	url = https://github.com/Perkedel/bye_bye_Pot_for_i2c_lcd.git
+[submodule "RAW files/Submodules/DesiredToLearnSM5_1"]
+	path = RAW files/Submodules/DesiredToLearnSM5_1
+	url = https://github.com/JOELwindows7/DesiredToLearnSM5_1.git
+[submodule "RAW files/Submodules/ChangeSound-for-SM5"]
+	path = RAW files/Submodules/ChangeSound-for-SM5
+	url = https://github.com/JOELwindows7/ChangeSound-for-SM5.git
+[submodule "RAW files/Submodules/Personal-Pascal"]
+	path = RAW files/Submodules/Personal-Pascal
+	url = https://github.com/JOELwindows7/Personal-Pascal.git
+[submodule "RAW files/Submodules/Personal-Stepmania"]
+	path = RAW files/Submodules/Personal-Stepmania
+	url = https://github.com/JOELwindows7/Personal-Stepmania.git
+[submodule "RAW files/Submodules/GRUB_INIT_TUNE_Compilation"]
+	path = RAW files/Submodules/GRUB_INIT_TUNE_Compilation
+	url = https://github.com/JOELwindows7/GRUB_INIT_TUNE_Compilation.git

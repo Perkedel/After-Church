@@ -1,0 +1,1 @@
+CreateObject ("SAPI.SpVoice").Speak"Hello, Welcome to Windows 8 Pro With Media center"
