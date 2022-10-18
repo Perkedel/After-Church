@@ -1,0 +1,71 @@
+# argh
+Pls avoid naming the map just [b]test.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+Pls avoid naming the map just [b]testmod.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+Pls avoid naming the map just [b]newmod.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+Pls avoid naming the map just [b]firstrift.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+Pls avoid naming the map just [b]stickermod.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+Pls avoid naming the map just [b]chapterinfo.upk[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+# argh apply
+Pls avoid naming the map just [b]testmod.umap[/b] (either case like case, Case, or cAsE) as it will conflict with other mods damn I cannot tell which anymore because there are too many of them that do that! [b]AAAAAAAAAAAAAAAAAA!!!![/b]
+Either rename to something else OR append/prepend the file name with random typing stuffs
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2303965427
+https://steamcommunity.com/sharedfiles/filedetails/?id=2175482812
+https://steamcommunity.com/sharedfiles/filedetails/?id=1843827214
+
+
+# relp
+Now. As you can see that, you have been subscribed to a mods that had file names the same as the other mods. That's right.
+
+So, all you have to do to figure out, notice in that file path, between [i]content[i] and [i]CookedPC[/i], there are 2 numbers. On the left is this game's workshop ID, and the right is the mod ID. Now copy the path again, remove everything [b]except the right number[/b]. open one of the mod page, say..
+
+[b]https://steamcommunity.com/sharedfiles/filedetails/?id=2184689743[/b] this e.g. . you click that address bar, take off the number at the end. if you had extra stuffs, delete the extra stuff, it should ends up like this
+
+[b]https://steamcommunity.com/sharedfiles/filedetails/?id=[/b] Don't press enter yet! recopy the number again so you go to those offending mods. Now you can unsubscribe.
+
+Okay, I'd be better list them all you said here
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1276313552
+https://steamcommunity.com/sharedfiles/filedetails/?id=1394556917
+https://steamcommunity.com/sharedfiles/filedetails/?id=1170686699
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371499460
+https://steamcommunity.com/sharedfiles/filedetails/?id=1170686699
+https://steamcommunity.com/sharedfiles/filedetails/?id=1371499460
+https://steamcommunity.com/sharedfiles/filedetails/?id=1184945238
+https://steamcommunity.com/sharedfiles/filedetails/?id=1271028375
+
+Don't forget comment with this discussion link here, telling that the mod conflicted yess.
+
+You're welcome.
+
+I wish the mod or whatever Unreal Engine 3 thingies could handle all these better. damn!
+
+https://steamcommunity.com/app/253230/discussions/4/1734336452587175551/
+
+# https://steamcommunity.com/app/386360/discussions/2/496880503060290532/
+
+https://steamcommunity.com/app/253230/discussions/4/1734336452587175551/ pls read the discussion about it here.
+
+# sticker
+AW SHUCK!! IT CONFLICT & CRASH THE GAME.
+pls avoid naming the file name just [b]Stickers.u[/b] as it will conflict with many mods! Either rename to anything else OR append/prepend with random word stuffs
+
+# stickers (translate to spain)
+(Google Translate)
+¡AW CIERTO! CONFLICTO Y BLOQUEO DEL JUEGO.
+¡Por favor, evite nombrar el nombre del archivo solo [b]Stickers.u[/b] ya que entrará en conflicto con muchas modificaciones! Cambie el nombre a cualquier otra cosa O agregue / anteponga palabras al azar
+
+# refuse rename for intentional reason
+okay. I was dealing with so many mod conflicts currently. idk if this particular conflict crash the game, maybe coming back later to test again.
