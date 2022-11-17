@@ -1,0 +1,31 @@
+uhhhhh, I have no usual greeting for my videos. anyways,
+[size=24pt]I'm JOELwindows7[/size]
+Yess. ...
+
+What to introduce?? No idea for this particular area. Okay.. ummm
+
+I am founder of Perkedel Technologies, here [url=https://perkedel.netlify.app]website[/url]. I make technologies. not much, not too many actually. Only make softwares at the moment, later for hardware yeah.
+
+[size=24pt]Okay, huuhhhhhh, for Magic Lantern...[/size]
+
+I have [b]Canon EOS 3000D (4000D / Rebel T1000)[/b] & [b]Canon PowerShot SX400IS[/b]... ... Okay, the PowerShot one uses [url=https://chdk.fandom.com/]CHDK[/url], I know. No problem with that. the former is the problem. [b]No ML[/b], I'm trying to port that in, I'm still waiting for my younger sister to finish her semester first, likely about Feb to June 2023 idk, different finish semester time than mine was, because mine was Game Application & Technology (a specialized IT Major in Binus University), and my younger sister is DKV New Animation (an art major in Binus University specialized to Animations). So, I am afraid to start hacking my newly bought ([b]which we have to debt for 12 months[/b], yep credit card) before at least she finished her semester. Yeah, the camera is needed for that only subject.
+So if you can convince me that just running the [url=https://www.magiclantern.fm/forum/index.php?topic=16534.0]ROM Dumper FIR file[/url] never bricks my only 3000D, I can do dump this now. I guess.
+
+And alright, finally, right now I am doing the rest of the things I can, [url=https://perkedel.netlify.app/apps/wceload/Canon/SpecialCase/3000D]here post on my website[/url], would tell other threads too, idk..
+Got issues though. [u][b]I cannot compile anything[/b][/u] with the latest... cygwin, Msys MinGW, even WSL... HAAAH man!! [b]idk how to ask such help with this[/b]. I had downloaded latest mentioned those 2 (what's it called), & that built-in container Windows had. Also followed whatever the big guide on [url=https://www.magiclantern.fm/forum/index.php?topic=20214.0]this[/url], [url=https://www.magiclantern.fm/forum/index.php?topic=16534.0]that[/url], there, had said. I think it's outdated or what, but yeah.
+
+[size=24pt]And, Wow! this forum is alot..[/size]
+& getting to the point of interest is very difficult! But luckily, I've collected things for you,
+
+here [url=https://perkedel.netlify.app/apps/wceload/canon/]https://perkedel.netlify.app/apps/wceload/canon/[/url], you're welcome.
+
+So anything I found interesting will be there. Not just MagicLantern & CHDK, everything camera hacks. And if you press that back arrow [b]beside the homepage button not your browser's back button[/b], there are more hacks. Whew! thancc, Astro.
+
+Oh hey, my website is open source too! you wanna suggest something? Or maybe edit my website & want the edit in? You can, here [url=https://github.com/Perkedel/perkedel-astro]repo[/url].
+
+[size=24pt]Okay, Why I am here?[/size]
+I like hacking technologies. yess. Very interesting. e.g., Why this feature isn't official if it is possible?
+And oh wow, there's the hack for Canon cameras too! I already have my old PowerShot, & why not try to enhance it? yeah!
+
+[size=24pt]Ah man I hope this works[/size]
+Making introduction is hard, not to mention to post anything somewhere. I'm new here, afraid of making mistake & offends anyone. Despite not so new in tech & coding, still though. These days, people easily gets offended & when they have power, [i]they have power[/i]. Hope the power here is not the cruel one I mentioned.. idk..
