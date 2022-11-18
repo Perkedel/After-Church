@@ -1,0 +1,2798 @@
+[quote author=names_are_hard link=topic=20214.msg240975#msg240975 date=1668721080]
+I think that "bad substitution" error is because the version of "make" that you are using is too modern for the source you're trying to compile.
+
+You need these changes:
+https://github.com/reticulatedpines/magiclantern_simplified/commit/4a6e5e666e52e56aaf3447f9d112b3fc791e38f3
+https://github.com/reticulatedpines/magiclantern_simplified/commit/af10c16925912f864f4e218532dc9ac4e5af358f
+
+Very likely your qemu compile errors are because you are using a modern version of linux to build, and you're trying to build qemu 2.  Qemu 2 is so old it's hard to build on new systems.  I recommend using an older version of linux (debian 8 maybe), or using a newer version of qemu.
+[/quote]
+
+[size=18pt]Okay let's see[/size]
+I've already changed things in Makefile.top
+[code]
+# this one is called from both platform and modules
+# copies all scripts, preserving directory structure
+# (simpler way to do this?)
+H := \#
+INSTALL_ALL_SCRIPTS = \
+	$(call build,SCRIPTS,\
+		for f in $(shell find $(SCRIPT_DIR) -type f -name *.lua); do \
+			dst=$(INSTALL_SCRIPTS_DIR)/$${f$H$H$(SCRIPT_DIR)/}; \
+			dstdir=`dirname $$dst`; \
+			$(MKDIR) -p $$dstdir; \
+			$(CP) $$f $$dst; \
+		done)
+[/code]
+
+go to unified branch again (making sure that makefile top edit still there, re add if gone), make clean & make zip again. made progress but
+[code]
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/magic-lantern$ cd platform/1100D.105/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/magic-lantern/platform/1100D.105$ ls
+ML-SETUP.FIR  Makefile.platform.default  cfn.c     features.h  include      stubs.S
+Makefile      Makefile.setup.default     consts.h  gui.h       internals.h
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/magic-lantern/platform/1100D.105$ make zip
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+../../Makefile.inc:81: removing ../../platform/*/magiclantern.sym
+[ RM dir   ]   /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/
+[ RM       ]   ../../platform/*/magiclantern.sym
+mkdir -p /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/1100D.105/stubs.o
+[ VERSION  ]   ../../platform/1100D.105/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   boot-hack.o
+[ CC       ]   fio-ml.o
+[ CC       ]   mem.o
+../../src/mem.c: In function 'mem_total_display':
+../../src/mem.c:1387:13: warning: unused variable 'total' [-Wunused-variable]
+         int total = alloc_total_with_memcheck / 1024;
+             ^
+[ CC       ]   ico.o
+[ CC       ]   edmac.o
+[ CC       ]   menu.o
+[ CC       ]   debug.o
+[ CC       ]   rand.o
+[ CC       ]   posix.o
+[ CC       ]   util.o
+[ CC       ]   imath.o
+[ CC       ]   electronic_level.o
+[ CC       ]   cfn.o
+[ CC       ]   gui.o
+[ CC       ]   picstyle.o
+[ CC       ]   exmem.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   config.o
+[ CC       ]   stdio.o
+[ CC       ]   bitrate.o
+[ CC       ]   lcdsensor.o
+[ CC       ]   tweaks.o
+[ CC       ]   tweaks-eyefi.o
+[ CC       ]   lens.o
+[ CC       ]   property.o
+[ CC       ]   propvalues.o
+[ CC       ]   gui-common.o
+[ CC       ]   chdk-gui_draw.o
+[ CC       ]   movtweaks.o
+[ CC       ]   menuhelp.o
+[ MENU IDX ]   ../../src/menuindexentries.h
+
+No menuindex.txt! The "Complete user guide" menu is empty!
+Run make docq to update menuindex.txt.
+
+[ CC       ]   menuindex.o
+[ CC       ]   af_patterns.o
+[ CC       ]   focus.o
+[ CC       ]   notify_box.o
+[ CC       ]   bootflags.o
+[ CC       ]   dialog_test.o
+[ CC       ]   vram.o
+[ CC       ]   greenscreen.o
+[ CC       ]   fps-engio.o
+[ CC       ]   shoot.o
+[ CC       ]   hdr.o
+[ CC       ]   lv-img-engio.o
+[ CC       ]   state-object.o
+[ CC       ]   tasks.o
+[ CC       ]   vsync-lite.o
+[ CC       ]   tskmon.o
+[ CC       ]   battery.o
+[ CC       ]   imgconv.o
+[ CC       ]   histogram.o
+[ CC       ]   falsecolor.o
+[ CC       ]   audio-ak.o
+[ CC       ]   zebra.o
+[ CC       ]   vectorscope.o
+[ CC       ]   beep.o
+[ CC       ]   crop-mode-hack.o
+[ CC       ]   ph_info_disp.o
+[ CC       ]   flexinfo.o
+[ CC       ]   screenshot.o
+[ CC       ]   fileprefix.o
+[ CC       ]   lvinfo.o
+[ CC       ]   builtin-enforcing.o
+[ CC       ]   powersave.o
+[ CC       ]   ml-cbr.o
+[ CC       ]   raw.o
+../../src/raw.c: In function 'raw_update_params_work':
+../../src/raw.c:623:2: warning: #warning RAW FEATURES WILL NOT WORK IN LIVEVIEW ON THIS BUILD [-Wcpp]
+ #warning RAW FEATURES WILL NOT WORK IN LIVEVIEW ON THIS BUILD
+  ^
+[ CC       ]   chdk-dng.o
+[ CC       ]   edmac-memcpy.o
+[ CC       ]   console.o
+[ CC       ]   tcc-glue.o
+make -C ../../tcc
+make[1]: Entering directory '/home/joelwindows7/sauce/magic-lantern/tcc'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/tcc'
+[ CC       ]   module.o
+[ CC       ]   liveview.o
+[ CC       ]   reloc.o
+../../src/reloc.c: In function 'reloc':
+../../src/reloc.c:203:22: warning: unused variable 'reg_dest' [-Wunused-variable]
+             uint32_t reg_dest    = (instr >> 12) & 0xF;
+                      ^
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ SYMBOLS  ]   magiclantern.sym
+[ CP       ]   t3_105.sym
+[ CP       ]   install
+cp ML-SETUP.FIR /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/
+[ VERSION  ]   ../../platform/1100D.105/version.bin
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 424104 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec.bin
+[ XOR_CHK  ]   autoexec.bin
+cp autoexec.bin /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/
+cp ../../data/fonts/*.rbf /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/ML/fonts/
+cp ../../data/vram/*.lut /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/ML/data/
+cp ../../data/cropmks/*.bmp /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/ML/cropmks/
+[ SCRIPTS  ]   install_extra_data
+for target in  CONFIG_MODULES_install; do make $target; done
+make[1]: Entering directory '/home/joelwindows7/sauce/magic-lantern/platform/1100D.105'
+make -C ../../modules
+make[2]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fa0f62e3dc0>)
+[ CC       ]   mlv_lite.o
+In file included from mlv_lite.c:48:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_lite.o] Error 1
+
+********************************************************
+WARNING: module mlv_lite failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+[ RM       ]   mlv_lite.o ../mlv_rec/mlv.o mlv_lite.mo mlv_lite.sym mlv_lite.dep mlv_lite.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   raw2dng raw2dng.exe dng2raw dng2raw.exe
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fc516ab9f00>)
+[ CC       ]   mlv_play.o
+In file included from mlv_play.c:25:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_play.o] Error 1
+
+********************************************************
+WARNING: module mlv_play failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+[ RM       ]   mlv_play.o video.bmp.rsc mlv_play.mo mlv_play.sym mlv_play.dep mlv_play.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fb01849dd70>)
+[ CC       ]   mlv_rec.o
+In file included from mlv_rec.c:56:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_rec.o] Error 1
+
+********************************************************
+WARNING: module mlv_rec failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+[ RM       ]   mlv_rec.o mlv.o mlv_rec.mo mlv_rec.sym mlv_rec.dep mlv_rec.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   mlv_dump mlv_dump.exe lzma/7zAlloc.host.o lzma/7zBuf.host.o lzma/7zBuf2.host.o lzma/7zCrc.host.o lzma/7zCrcOpt.host.o lzma/7zDec.host.o lzma/7zFile.host.o lzma/7zIn.host.o lzma/7zStream.host.o lzma/Alloc.host.o lzma/Bcj2.host.o lzma/Bra.host.o lzma/Bra86.host.o lzma/BraIA64.host.o lzma/CpuArch.host.o lzma/Delta.host.o lzma/LzFind.host.o lzma/Lzma2Dec.host.o lzma/Lzma2Enc.host.o lzma/Lzma86Dec.host.o lzma/Lzma86Enc.host.o lzma/LzmaDec.host.o lzma/LzmaEnc.host.o lzma/LzmaLib.host.o lzma/Ppmd7.host.o lzma/Ppmd7Dec.host.o lzma/Ppmd7Enc.host.o lzma/Sha256.host.o lzma/Xz.host.o lzma/XzCrc64.host.o lzma/lib7z.a lzma/Threads.w32.o lzma/LzFindMt.w32.o lzma/MtCoder.w32.o lzma/7zAlloc.w32.o lzma/7zBuf.w32.o lzma/7zBuf2.w32.o lzma/7zCrc.w32.o lzma/7zCrcOpt.w32.o lzma/7zDec.w32.o lzma/7zFile.w32.o lzma/7zIn.w32.o lzma/7zStream.w32.o lzma/Alloc.w32.o lzma/Bcj2.w32.o lzma/Bra.w32.o lzma/Bra86.w32.o lzma/BraIA64.w32.o lzma/CpuArch.w32.o lzma/Delta.w32.o lzma/LzFind.w32.o lzma/Lzma2Dec.w32.o lzma/Lzma2Enc.w32.o lzma/Lzma86Dec.w32.o lzma/Lzma86Enc.w32.o lzma/LzmaDec.w32.o lzma/LzmaEnc.w32.o lzma/LzmaLib.w32.o lzma/Ppmd7.w32.o lzma/Ppmd7Dec.w32.o lzma/Ppmd7Enc.w32.o lzma/Sha256.w32.o lzma/Xz.w32.o lzma/XzCrc64.w32.o lzma/lib7z.w32.a
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fdd593a4d70>)
+[ CC       ]   mlv_snd.o
+In file included from mlv_snd.c:25:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_snd.o] Error 1
+
+********************************************************
+WARNING: module mlv_snd failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+[ RM       ]   mlv_snd.o mlv_snd.mo mlv_snd.sym mlv_snd.dep mlv_snd.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+
+Building module file_man...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f360e7ebeb0>)
+[ CC       ]   file_man.o
+In file included from file_man.c:4:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: file_man.o] Error 1
+
+********************************************************
+WARNING: module file_man failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+[ RM       ]   file_man.o file_man.mo file_man.sym file_man.dep file_man.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f9e78bbfdc0>)
+[ CC       ]   pic_view.o
+In file included from pic_view.c:4:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: pic_view.o] Error 1
+
+********************************************************
+WARNING: module pic_view failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+[ RM       ]   pic_view.o pic_view.mo pic_view.sym pic_view.dep pic_view.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+
+Building module ettr...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f523a71bd20>)
+[ CC       ]   ettr.o
+In file included from ettr.c:7:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: ettr.o] Error 1
+
+********************************************************
+WARNING: module ettr failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+[ RM       ]   ettr.o ettr.mo ettr.sym ettr.dep ettr.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fa9048cde10>)
+[ CC       ]   dual_iso.o
+In file included from dual_iso.c:60:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: dual_iso.o] Error 1
+
+********************************************************
+WARNING: module dual_iso failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+[ RM       ]   dual_iso.o dual_iso.mo dual_iso.sym dual_iso.dep dual_iso.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   cr2hdr cr2hdr.exe dcraw dcraw.c dcraw.exe exiftool.exe exiftool.tar.gz exiftool exiftool.zip cr2hdr.zip cr2hdr-win.zip cr2hdr-win_exiftool-perl-script.zip
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+
+Building module silent...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f6ae4e05d20>)
+[ CC       ]   silent.o
+In file included from silent.c:3:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: silent.o] Error 1
+
+********************************************************
+WARNING: module silent failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+[ RM       ]   silent.o silent.mo silent.sym silent.dep silent.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f62d1617dc0>)
+[ CC       ]   dot_tune.o
+In file included from dot_tune.c:11:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: dot_tune.o] Error 1
+
+********************************************************
+WARNING: module dot_tune failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+[ RM       ]   dot_tune.o dot_tune.mo dot_tune.sym dot_tune.dep dot_tune.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f8951f6ed70>)
+[ CC       ]   autoexpo.o
+In file included from autoexpo.c:17:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: autoexpo.o] Error 1
+
+********************************************************
+WARNING: module autoexpo failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+[ RM       ]   autoexpo.o autoexpo.mo autoexpo.sym autoexpo.dep autoexpo.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f5eaa02dd20>)
+[ CC       ]   arkanoid.o
+In file included from arkanoid.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: arkanoid.o] Error 1
+
+********************************************************
+WARNING: module arkanoid failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+[ RM       ]   arkanoid.o arkanoid.mo arkanoid.sym arkanoid.dep arkanoid.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+
+Building module deflick...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fe8fb3e9dc0>)
+[ CC       ]   deflick.o
+In file included from deflick.c:16:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: deflick.o] Error 1
+
+********************************************************
+WARNING: module deflick failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+[ RM       ]   deflick.o deflick.mo deflick.sym deflick.dep deflick.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+
+Building module lua...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f4e72927d70>)
+[ CC       ]   lua/ml-lua-shim.o
+In file included from lua/ml-lua-shim.c:4:0:
+dietlibc/include/unistd.h:72:5: warning: conflicting types for built-in function 'execl'
+ int execl(const char *path, ...) __THROW;
+     ^
+dietlibc/include/unistd.h:73:5: warning: conflicting types for built-in function 'execle'
+ int execle(const char *path, ...) __THROW;
+     ^
+[ CC       ]   lua/lapi.o
+[ CC       ]   lua/lcode.o
+[ CC       ]   lua/lctype.o
+[ CC       ]   lua/ldebug.o
+[ CC       ]   lua/ldo.o
+[ CC       ]   lua/ldump.o
+[ CC       ]   lua/lfunc.o
+[ CC       ]   lua/lgc.o
+[ CC       ]   lua/llex.o
+[ CC       ]   lua/lmem.o
+[ CC       ]   lua/lobject.o
+[ CC       ]   lua/lopcodes.o
+[ CC       ]   lua/lparser.o
+[ CC       ]   lua/lstate.o
+[ CC       ]   lua/lstring.o
+[ CC       ]   lua/ltable.o
+[ CC       ]   lua/ltm.o
+[ CC       ]   lua/lundump.o
+[ CC       ]   lua/lvm.o
+[ CC       ]   lua/lzio.o
+[ CC       ]   lua/lauxlib.o
+In file included from lua/lauxlib.c:24:0:
+lua/lauxlib.c: In function 'luaL_tolstring':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/lauxlib.c:755:36: note: in expansion of macro 'lua_tonumber'
+           lua_pushfstring(L, "%f", lua_tonumber(L, idx));
+                                    ^
+lua/lauxlib.c: In function 'luaL_checkversion_':
+lua/lauxlib.c:970:19: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                   ^
+lua/lauxlib.c:970:24: warning: implicit conversion from 'lua_Number {aka const float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                        ^
+[ CC       ]   lua/lbaselib.o
+[ CC       ]   lua/lbitlib.o
+[ CC       ]   lua/lcorolib.o
+[ CC       ]   lua/ldblib.o
+[ CC       ]   lua/liolib.o
+In file included from lua/liolib.c:20:0:
+lua/liolib.c: In function 'g_write':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/liolib.c:611:46: note: in expansion of macro 'lua_tonumber'
+                 : fprintf(f, LUA_NUMBER_FMT, lua_tonumber(L, arg));
+                                              ^
+[ CC       ]   lua/lmathlib.o
+lua/lmathlib.c: In function 'math_random':
+lua/lmathlib.c:243:59: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                                           ^
+lua/lmathlib.c:243:38: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                      ^
+lua/lmathlib.c:265:27: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   r *= (double)(up - low) + 1.0;
+                           ^
+[ CC       ]   lua/lstrlib.o
+lua/lstrlib.c: In function 'str_format':
+lua/lstrlib.c:910:44: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+           nb = snprintf(buff, 65536, form, luaL_checknumber(L, arg));
+                                            ^
+[ CC       ]   lua/ltablib.o
+[ CC       ]   lua/lutf8lib.o
+[ CC       ]   lua/loadlib.o
+[ CC       ]   lua/linit.o
+[ CC       ]   lua_globals.o
+[ CC       ]   lua_console.o
+[ CC       ]   lua_camera.o
+[ CC       ]   lua_lv.o
+[ CC       ]   lua_lens.o
+[ CC       ]   lua_movie.o
+[ CC       ]   lua_display.o
+[ CC       ]   lua_key.o
+[ CC       ]   lua_menu.o
+[ CC       ]   lua_dryos.o
+lua_dryos.c: In function 'luaCB_dryos_call':
+lua_dryos.c:55:38: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+         result = call(function_name, arg);
+                                      ^
+[ CC       ]   lua_interval.o
+[ CC       ]   lua_battery.o
+[ CC       ]   lua_task.o
+[ CC       ]   lua_property.o
+[ CC       ]   lua_constants.o
+[ CC       ]   lua.o
+In file included from lua.c:21:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: lua.o] Error 1
+
+********************************************************
+WARNING: module lua failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+[ RM       ]   lua/ml-lua-shim.o lua/lapi.o lua/lcode.o lua/lctype.o lua/ldebug.o lua/ldo.o lua/ldump.o lua/lfunc.o lua/lgc.o lua/llex.o lua/lmem.o lua/lobject.o lua/lopcodes.o lua/lparser.o lua/lstate.o lua/lstring.o lua/ltable.o lua/ltm.o lua/lundump.o lua/lvm.o lua/lzio.o lua/lauxlib.o lua/lbaselib.o lua/lbitlib.o lua/lcorolib.o lua/ldblib.o lua/liolib.o lua/lmathlib.o lua/lstrlib.o lua/ltablib.o lua/lutf8lib.o lua/loadlib.o lua/linit.o lua_globals.o lua_console.o lua_camera.o lua_lv.o lua_lens.o lua_movie.o lua_display.o lua_key.o lua_menu.o lua_dryos.o lua_interval.o lua_battery.o lua_task.o lua_property.o lua_constants.o lua.o dietlibc.a lua.mo lua.sym lua.dep lua.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+
+Building module bench...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f41e9c51dc0>)
+[ CC       ]   bench.o
+In file included from bench.c:3:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: bench.o] Error 1
+
+********************************************************
+WARNING: module bench failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+[ RM       ]   bench.o bench.mo bench.sym bench.dep bench.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+
+Building module selftest...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fa838d75dc0>)
+[ CC       ]   selftest.o
+In file included from selftest.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: selftest.o] Error 1
+
+********************************************************
+WARNING: module selftest failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+[ RM       ]   selftest.o selftest.mo selftest.sym selftest.dep selftest.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7efce09cee10>)
+[ CC       ]   adv_int.o
+In file included from adv_int.c:8:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: adv_int.o] Error 1
+
+********************************************************
+WARNING: module adv_int failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+[ RM       ]   adv_int.o adv_int.mo adv_int.sym adv_int.dep adv_int.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+
+Building module edmac...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f46f94bbd20>)
+[ CC       ]   edmac.o
+In file included from edmac.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: edmac.o] Error 1
+
+********************************************************
+WARNING: module edmac failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+[ RM       ]   edmac.o edmac_util.o edmac_test.o md5.o edmac.mo edmac.sym edmac.dep edmac.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[2]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make -C ../../modules install
+make[2]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f0c98003dc0>)
+[ CC       ]   mlv_lite.o
+In file included from mlv_lite.c:48:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_lite.o] Error 1
+
+********************************************************
+WARNING: module mlv_lite failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+[ RM       ]   mlv_lite.o ../mlv_rec/mlv.o mlv_lite.mo mlv_lite.sym mlv_lite.dep mlv_lite.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   raw2dng raw2dng.exe dng2raw dng2raw.exe
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fdf3d7cbf00>)
+[ CC       ]   mlv_play.o
+In file included from mlv_play.c:25:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_play.o] Error 1
+
+********************************************************
+WARNING: module mlv_play failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+[ RM       ]   mlv_play.o video.bmp.rsc mlv_play.mo mlv_play.sym mlv_play.dep mlv_play.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fb7fb67fd70>)
+[ CC       ]   mlv_rec.o
+In file included from mlv_rec.c:56:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_rec.o] Error 1
+
+********************************************************
+WARNING: module mlv_rec failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+[ RM       ]   mlv_rec.o mlv.o mlv_rec.mo mlv_rec.sym mlv_rec.dep mlv_rec.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   mlv_dump mlv_dump.exe lzma/7zAlloc.host.o lzma/7zBuf.host.o lzma/7zBuf2.host.o lzma/7zCrc.host.o lzma/7zCrcOpt.host.o lzma/7zDec.host.o lzma/7zFile.host.o lzma/7zIn.host.o lzma/7zStream.host.o lzma/Alloc.host.o lzma/Bcj2.host.o lzma/Bra.host.o lzma/Bra86.host.o lzma/BraIA64.host.o lzma/CpuArch.host.o lzma/Delta.host.o lzma/LzFind.host.o lzma/Lzma2Dec.host.o lzma/Lzma2Enc.host.o lzma/Lzma86Dec.host.o lzma/Lzma86Enc.host.o lzma/LzmaDec.host.o lzma/LzmaEnc.host.o lzma/LzmaLib.host.o lzma/Ppmd7.host.o lzma/Ppmd7Dec.host.o lzma/Ppmd7Enc.host.o lzma/Sha256.host.o lzma/Xz.host.o lzma/XzCrc64.host.o lzma/lib7z.a lzma/Threads.w32.o lzma/LzFindMt.w32.o lzma/MtCoder.w32.o lzma/7zAlloc.w32.o lzma/7zBuf.w32.o lzma/7zBuf2.w32.o lzma/7zCrc.w32.o lzma/7zCrcOpt.w32.o lzma/7zDec.w32.o lzma/7zFile.w32.o lzma/7zIn.w32.o lzma/7zStream.w32.o lzma/Alloc.w32.o lzma/Bcj2.w32.o lzma/Bra.w32.o lzma/Bra86.w32.o lzma/BraIA64.w32.o lzma/CpuArch.w32.o lzma/Delta.w32.o lzma/LzFind.w32.o lzma/Lzma2Dec.w32.o lzma/Lzma2Enc.w32.o lzma/Lzma86Dec.w32.o lzma/Lzma86Enc.w32.o lzma/LzmaDec.w32.o lzma/LzmaEnc.w32.o lzma/LzmaLib.w32.o lzma/Ppmd7.w32.o lzma/Ppmd7Dec.w32.o lzma/Ppmd7Enc.w32.o lzma/Sha256.w32.o lzma/Xz.w32.o lzma/XzCrc64.w32.o lzma/lib7z.w32.a
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f89ac178d70>)
+[ CC       ]   mlv_snd.o
+In file included from mlv_snd.c:25:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: mlv_snd.o] Error 1
+
+********************************************************
+WARNING: module mlv_snd failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+[ RM       ]   mlv_snd.o mlv_snd.mo mlv_snd.sym mlv_snd.dep mlv_snd.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+
+Building module file_man...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f0b97bbbeb0>)
+[ CC       ]   file_man.o
+In file included from file_man.c:4:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: file_man.o] Error 1
+
+********************************************************
+WARNING: module file_man failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+[ RM       ]   file_man.o file_man.mo file_man.sym file_man.dep file_man.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f1757ac6dc0>)
+[ CC       ]   pic_view.o
+In file included from pic_view.c:4:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: pic_view.o] Error 1
+
+********************************************************
+WARNING: module pic_view failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+[ RM       ]   pic_view.o pic_view.mo pic_view.sym pic_view.dep pic_view.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+
+Building module ettr...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f1bd0846d20>)
+[ CC       ]   ettr.o
+In file included from ettr.c:7:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: ettr.o] Error 1
+
+********************************************************
+WARNING: module ettr failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+[ RM       ]   ettr.o ettr.mo ettr.sym ettr.dep ettr.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f82a4160e10>)
+[ CC       ]   dual_iso.o
+In file included from dual_iso.c:60:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: dual_iso.o] Error 1
+
+********************************************************
+WARNING: module dual_iso failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+[ RM       ]   dual_iso.o dual_iso.mo dual_iso.sym dual_iso.dep dual_iso.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+[ RM       ]   cr2hdr cr2hdr.exe dcraw dcraw.c dcraw.exe exiftool.exe exiftool.tar.gz exiftool exiftool.zip cr2hdr.zip cr2hdr-win.zip cr2hdr-win_exiftool-perl-script.zip
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+
+Building module silent...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fc377affd20>)
+[ CC       ]   silent.o
+In file included from silent.c:3:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: silent.o] Error 1
+
+********************************************************
+WARNING: module silent failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+[ RM       ]   silent.o silent.mo silent.sym silent.dep silent.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f0cddb90dc0>)
+[ CC       ]   dot_tune.o
+In file included from dot_tune.c:11:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: dot_tune.o] Error 1
+
+********************************************************
+WARNING: module dot_tune failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+[ RM       ]   dot_tune.o dot_tune.mo dot_tune.sym dot_tune.dep dot_tune.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f06b81fad70>)
+[ CC       ]   autoexpo.o
+In file included from autoexpo.c:17:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: autoexpo.o] Error 1
+
+********************************************************
+WARNING: module autoexpo failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+[ RM       ]   autoexpo.o autoexpo.mo autoexpo.sym autoexpo.dep autoexpo.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fd9af955d20>)
+[ CC       ]   arkanoid.o
+In file included from arkanoid.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: arkanoid.o] Error 1
+
+********************************************************
+WARNING: module arkanoid failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+[ RM       ]   arkanoid.o arkanoid.mo arkanoid.sym arkanoid.dep arkanoid.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+
+Building module deflick...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7efe3f228dc0>)
+[ CC       ]   deflick.o
+In file included from deflick.c:16:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: deflick.o] Error 1
+
+********************************************************
+WARNING: module deflick failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+[ RM       ]   deflick.o deflick.mo deflick.sym deflick.dep deflick.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+
+Building module lua...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f50ce2a0d70>)
+[ CC       ]   lua/ml-lua-shim.o
+In file included from lua/ml-lua-shim.c:4:0:
+dietlibc/include/unistd.h:72:5: warning: conflicting types for built-in function 'execl'
+ int execl(const char *path, ...) __THROW;
+     ^
+dietlibc/include/unistd.h:73:5: warning: conflicting types for built-in function 'execle'
+ int execle(const char *path, ...) __THROW;
+     ^
+[ CC       ]   lua/lapi.o
+[ CC       ]   lua/lcode.o
+[ CC       ]   lua/lctype.o
+[ CC       ]   lua/ldebug.o
+[ CC       ]   lua/ldo.o
+[ CC       ]   lua/ldump.o
+[ CC       ]   lua/lfunc.o
+[ CC       ]   lua/lgc.o
+[ CC       ]   lua/llex.o
+[ CC       ]   lua/lmem.o
+[ CC       ]   lua/lobject.o
+[ CC       ]   lua/lopcodes.o
+[ CC       ]   lua/lparser.o
+[ CC       ]   lua/lstate.o
+[ CC       ]   lua/lstring.o
+[ CC       ]   lua/ltable.o
+[ CC       ]   lua/ltm.o
+[ CC       ]   lua/lundump.o
+[ CC       ]   lua/lvm.o
+[ CC       ]   lua/lzio.o
+[ CC       ]   lua/lauxlib.o
+In file included from lua/lauxlib.c:24:0:
+lua/lauxlib.c: In function 'luaL_tolstring':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/lauxlib.c:755:36: note: in expansion of macro 'lua_tonumber'
+           lua_pushfstring(L, "%f", lua_tonumber(L, idx));
+                                    ^
+lua/lauxlib.c: In function 'luaL_checkversion_':
+lua/lauxlib.c:970:19: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                   ^
+lua/lauxlib.c:970:24: warning: implicit conversion from 'lua_Number {aka const float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                        ^
+[ CC       ]   lua/lbaselib.o
+[ CC       ]   lua/lbitlib.o
+[ CC       ]   lua/lcorolib.o
+[ CC       ]   lua/ldblib.o
+[ CC       ]   lua/liolib.o
+In file included from lua/liolib.c:20:0:
+lua/liolib.c: In function 'g_write':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/liolib.c:611:46: note: in expansion of macro 'lua_tonumber'
+                 : fprintf(f, LUA_NUMBER_FMT, lua_tonumber(L, arg));
+                                              ^
+[ CC       ]   lua/lmathlib.o
+lua/lmathlib.c: In function 'math_random':
+lua/lmathlib.c:243:59: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                                           ^
+lua/lmathlib.c:243:38: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                      ^
+lua/lmathlib.c:265:27: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   r *= (double)(up - low) + 1.0;
+                           ^
+[ CC       ]   lua/lstrlib.o
+lua/lstrlib.c: In function 'str_format':
+lua/lstrlib.c:910:44: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+           nb = snprintf(buff, 65536, form, luaL_checknumber(L, arg));
+                                            ^
+[ CC       ]   lua/ltablib.o
+[ CC       ]   lua/lutf8lib.o
+[ CC       ]   lua/loadlib.o
+[ CC       ]   lua/linit.o
+[ CC       ]   lua_globals.o
+[ CC       ]   lua_console.o
+[ CC       ]   lua_camera.o
+[ CC       ]   lua_lv.o
+[ CC       ]   lua_lens.o
+[ CC       ]   lua_movie.o
+[ CC       ]   lua_display.o
+[ CC       ]   lua_key.o
+[ CC       ]   lua_menu.o
+[ CC       ]   lua_dryos.o
+lua_dryos.c: In function 'luaCB_dryos_call':
+lua_dryos.c:55:38: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+         result = call(function_name, arg);
+                                      ^
+[ CC       ]   lua_interval.o
+[ CC       ]   lua_battery.o
+[ CC       ]   lua_task.o
+[ CC       ]   lua_property.o
+[ CC       ]   lua_constants.o
+[ CC       ]   lua.o
+In file included from lua.c:21:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: lua.o] Error 1
+
+********************************************************
+WARNING: module lua failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+[ RM       ]   lua/ml-lua-shim.o lua/lapi.o lua/lcode.o lua/lctype.o lua/ldebug.o lua/ldo.o lua/ldump.o lua/lfunc.o lua/lgc.o lua/llex.o lua/lmem.o lua/lobject.o lua/lopcodes.o lua/lparser.o lua/lstate.o lua/lstring.o lua/ltable.o lua/ltm.o lua/lundump.o lua/lvm.o lua/lzio.o lua/lauxlib.o lua/lbaselib.o lua/lbitlib.o lua/lcorolib.o lua/ldblib.o lua/liolib.o lua/lmathlib.o lua/lstrlib.o lua/ltablib.o lua/lutf8lib.o lua/loadlib.o lua/linit.o lua_globals.o lua_console.o lua_camera.o lua_lv.o lua_lens.o lua_movie.o lua_display.o lua_key.o lua_menu.o lua_dryos.o lua_interval.o lua_battery.o lua_task.o lua_property.o lua_constants.o lua.o dietlibc.a lua.mo lua.sym lua.dep lua.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+
+Building module bench...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f832e2e1dc0>)
+[ CC       ]   bench.o
+In file included from bench.c:3:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: bench.o] Error 1
+
+********************************************************
+WARNING: module bench failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+[ RM       ]   bench.o bench.mo bench.sym bench.dep bench.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+
+Building module selftest...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7f7c4e7e2dc0>)
+[ CC       ]   selftest.o
+In file included from selftest.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: selftest.o] Error 1
+
+********************************************************
+WARNING: module selftest failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+[ RM       ]   selftest.o selftest.mo selftest.sym selftest.dep selftest.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7fd04993ae10>)
+[ CC       ]   adv_int.o
+In file included from adv_int.c:8:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: adv_int.o] Error 1
+
+********************************************************
+WARNING: module adv_int failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+[ RM       ]   adv_int.o adv_int.mo adv_int.sym adv_int.dep adv_int.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+
+Building module edmac...
+Updated HGVERSION
+[ README   ]   module_strings.h
+$//"README.rst | grep -v -E "^:([^:])+:.+$" | rst2html | python ../html2text.py -b 700 | sed "s/
+
+/bin/sh: 1: python: Permission denied
+
+(<type 'exceptions.SystemExit'>, SystemExit(1,), <traceback object at 0x7ffaf78c5d20>)
+[ CC       ]   edmac.o
+In file included from edmac.c:1:0:
+../../src/module.h:344:28: fatal error: module_strings.h: No such file or directory
+ #include "module_strings.h"
+                            ^
+compilation terminated.
+make[5]: *** [../../Makefile.filerules:21: edmac.o] Error 1
+
+********************************************************
+WARNING: module edmac failed to build, deleting
+********************************************************
+
+make[5]: Entering directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+[ RM       ]   edmac.o edmac_util.o edmac_test.o md5.o edmac.mo edmac.sym edmac.dep edmac.zip module_strings.h hgdiff.tmp *.o *.d *.dep *.sym hgstamp
+make[5]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+make[4]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules'
+[ MKDIR    ]   ML directory structure...
+cp ../modules/*/*.mo /home/joelwindows7/sauce/magic-lantern/platform/1100D.105/zip/ML/modules/
+cp: cannot stat '../modules/*/*.mo': No such file or directory
+make[2]: *** [Makefile:31: install] Error 1
+make[2]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/modules'
+make[1]: *** [../../Makefile.inc:27: CONFIG_MODULES_install] Error 2
+make[1]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/platform/1100D.105'
+make: *** [../../Makefile.inc:34: install] Error 2
+[/code]
+some how the module_strings.h is not found. Perhaps I missed something.
+
+also for QEMU. I gotta learn how to make the configure adapts to current regular QEMU source code. idk how. gotta learn. feel free to give me any advice.
+
+[size=18pt]EDIT 1:[/size]
+Looks like I or we definitely missed something. I just went ahead cloned [url=https://github.com/reticulatedpines/magiclantern_simplified]reticulatedpines' version of ML[/url]. Of course rename the folder to magic-lantern.
+Now everything fresh, let the Makefile user default, a.k.a. not creating Makefile.user, I tried to compile some of the model.
+[list]
+[li]100D. [url=https://perkedel.netlify.app/assets/zip/magiclantern-Nightly.2022Nov18.100D101.zip][b]WORKS![/b][/url], log file bellow[/li]
+[li]EOSM. [url=https://perkedel.netlify.app/assets/zip/magiclantern-Nightly.2022Nov18.EOSM202.zip][b]WORKS![/b][/url], log file bellow[/li]
+[li]200D. Fail.[/li]
+[/list]
+
+100D:
+[code]
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern$ cd platform/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ ls
+100D.101   5D2.212  5DSR.112  700D.115  7D_MASTER.203  Makefile.platform         RP.160
+1100D.105  5D3.113  600D.102  750D.110  80D.102        Makefile.platform.base    SX740.102
+200D.101   5D3.123  60D.111   760D.100  850D.100       Makefile.platform.extras  all
+500D.111   5D4.112  650D.104  77D.102   EOSM.202       Makefile.platform.map     firmsum.py
+50D.109    5D4.133  6D.116    7D.203    M50.110        R.180                     unmaintained
+550D.109   5DS.111  6D2.105   7D2.104   Makefile       README-unmaintained.txt
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ cd 100D.101/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/100D.101$ ls
+ML-SETUP.FIR  Makefile.platform.default  cfn.c     features.h  include      stubs.S
+Makefile      Makefile.setup.default     consts.h  gui.h       internals.h
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/100D.101$ make zip
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/100D.101/stubs.o
+[ VERSION  ]   ../../platform/100D.101/version.c
+../../build_tools/git_summary.py >> ../../platform/100D.101/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   sgi.o
+[ CC       ]   cpu.o
+[ CC       ]   mmu_utils.o
+[ CC       ]   patch_mmu.o
+[ CC       ]   boot-d45.o
+[ CC       ]   init.o
+[ CC       ]   fio-ml.o
+[ CC       ]   mem.o
+[ CC       ]   ico.o
+[ CC       ]   edmac.o
+[ CC       ]   menu.o
+[ CC       ]   debug.o
+[ CC       ]   rand.o
+[ CC       ]   posix.o
+[ CC       ]   util.o
+[ CC       ]   imath.o
+[ CC       ]   electronic_level.o
+[ CC       ]   cfn.o
+[ CC       ]   gui.o
+[ CC       ]   picstyle.o
+[ CC       ]   exmem.o
+[ CC       ]   compositor.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   config.o
+[ CC       ]   stdio.o
+[ CC       ]   bitrate.o
+[ CC       ]   lcdsensor.o
+[ CC       ]   tweaks.o
+[ CC       ]   tweaks-eyefi.o
+[ CC       ]   lens.o
+[ CC       ]   property.o
+[ CC       ]   propvalues.o
+[ CC       ]   gui-common.o
+[ CC       ]   chdk-gui_draw.o
+[ CC       ]   movtweaks.o
+[ CC       ]   menuhelp.o
+[ MENU IDX ]   ../../src/menuindexentries.h
+
+No menuindex.txt! The "Complete user guide" menu is empty!
+Run make docq to update menuindex.txt.
+
+[ CC       ]   menuindex.o
+[ CC       ]   af_patterns.o
+[ CC       ]   focus.o
+[ CC       ]   notify_box.o
+[ CC       ]   bootflags.o
+[ CC       ]   dialog_test.o
+[ CC       ]   vram.o
+[ CC       ]   greenscreen.o
+[ CC       ]   fps-engio.o
+[ CC       ]   shoot.o
+[ CC       ]   hdr.o
+[ CC       ]   lv-img-engio.o
+[ CC       ]   state-object.o
+[ CC       ]   tasks.o
+[ CC       ]   vsync-lite.o
+[ CC       ]   tskmon.o
+[ CC       ]   battery.o
+[ CC       ]   imgconv.o
+[ CC       ]   histogram.o
+[ CC       ]   falsecolor.o
+[ CC       ]   audio-ak.o
+[ CC       ]   zebra.o
+[ CC       ]   vectorscope.o
+[ CC       ]   beep.o
+[ CC       ]   crop-mode-hack.o
+[ CC       ]   ph_info_disp.o
+[ CC       ]   flexinfo.o
+[ CC       ]   screenshot.o
+[ CC       ]   fileprefix.o
+[ CC       ]   lvinfo.o
+[ CC       ]   builtin-enforcing.o
+[ CC       ]   powersave.o
+[ CC       ]   ml-cbr.o
+[ CC       ]   raw.o
+[ CC       ]   chdk-dng.o
+[ CC       ]   edmac-memcpy.o
+[ CC       ]   cache_hacks.o
+[ CC       ]   patch.o
+[ CC       ]   cache.o
+[ CC       ]   console.o
+[ CC       ]   tcc-glue.o
+make -C ../../tcc
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o libtcc.o -c libtcc.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+libtcc.c: In function 'tcc_free':
+libtcc.c:203:35: warning: implicit declaration of function '__mem_free' [-Wimplicit-function-declaration]
+ #define FreeMemory(buf)           __mem_free(buf)
+                                   ^
+libtcc.c:217:14: note: in expansion of macro 'FreeMemory'
+     if (ptr) FreeMemory(ptr);
+              ^
+libtcc.c: In function 'tcc_malloc':
+libtcc.c:202:44: warning: implicit declaration of function '__mem_malloc' [-Wimplicit-function-declaration]
+ #define AllocateMemory(len)         (void*)__mem_malloc(len, MEM_TEMPORARY, __FILE__, __LINE__)
+                                            ^
+libtcc.c:224:11: note: in expansion of macro 'AllocateMemory'
+     ptr = AllocateMemory(size);
+           ^
+In file included from libtcc.c:21:0:
+libtcc.c: In function 'tcc_error':
+tcc.h:1388:14: warning: implicit declaration of function '_tcc_exit' [-Wimplicit-function-declaration]
+ #define exit _tcc_exit
+              ^
+libtcc.c:554:9: note: in expansion of macro 'exit'
+         exit(1);
+         ^
+libtcc.c: In function 'tcc_close':
+tcc.h:1385:15: warning: implicit declaration of function '_tcc_close' [-Wimplicit-function-declaration]
+ #define close _tcc_close
+               ^
+libtcc.c:599:9: note: in expansion of macro 'close'
+         close(bf->fd);
+         ^
+libtcc.c: In function 'tcc_open':
+tcc.h:1384:14: warning: implicit declaration of function '_tcc_open' [-Wimplicit-function-declaration]
+ #define open _tcc_open
+              ^
+libtcc.c:612:14: note: in expansion of macro 'open'
+         fd = open(filename, O_RDONLY | O_BINARY);
+              ^
+libtcc.c: In function 'tcc_add_file_internal':
+tcc.h:1386:14: warning: implicit declaration of function '_tcc_read' [-Wimplicit-function-declaration]
+ #define read _tcc_read
+              ^
+libtcc.c:861:12: note: in expansion of macro 'read'
+     size = read(fd, &ehdr, sizeof(ehdr));
+            ^
+tcc.h:1387:15: warning: implicit declaration of function '_tcc_lseek' [-Wimplicit-function-declaration]
+ #define lseek _tcc_lseek
+               ^
+libtcc.c:862:5: note: in expansion of macro 'lseek'
+     lseek(fd, 0, SEEK_SET);
+     ^
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o tccpp.o -c tccpp.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o tccgen.o -c tccgen.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o tccelf.o -c tccelf.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+In file included from tccelf.c:21:0:
+tccelf.c: In function 'load_data':
+tcc.h:1387:15: warning: implicit declaration of function '_tcc_lseek' [-Wimplicit-function-declaration]
+ #define lseek _tcc_lseek
+               ^
+tccelf.c:1618:5: note: in expansion of macro 'lseek'
+     lseek(fd, file_offset, SEEK_SET);
+     ^
+tcc.h:1386:14: warning: implicit declaration of function '_tcc_read' [-Wimplicit-function-declaration]
+ #define read _tcc_read
+              ^
+tccelf.c:1619:5: note: in expansion of macro 'read'
+     read(fd, data, size);
+     ^
+tccelf.c: In function 'tcc_load_offline_section':
+tcc.h:1384:14: warning: implicit declaration of function '_tcc_open' [-Wimplicit-function-declaration]
+ #define open _tcc_open
+              ^
+tccelf.c:1968:14: note: in expansion of macro 'open'
+     int fd = open(filename, O_RDONLY | O_BINARY);
+              ^
+tcc.h:1385:15: warning: implicit declaration of function '_tcc_close' [-Wimplicit-function-declaration]
+ #define close _tcc_close
+               ^
+tccelf.c:1990:9: note: in expansion of macro 'close'
+         close(fd);
+         ^
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o tccasm.o -c tccasm.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o tccrun.o -c tccrun.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+tccrun.c: In function 'tcc_relocate_ex':
+tccrun.c:187:29: warning: implicit declaration of function 'get_plt_got_size_for_relocate_section' [-Wimplicit-function-declaration]
+             int extra_ram = get_plt_got_size_for_relocate_section(s1, s);
+                             ^
+tccrun.c:190:18: warning: #warning FIXME: why does it overflow without this extra RAM when loading the big adtg_gui? [-Wcpp]
+                 #warning FIXME: why does it overflow without this extra RAM when loading the big adtg_gui?
+                  ^
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc -o arm-gen.o -c arm-gen.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-ld -r -o libtcctmp.o libtcc.o tccpp.o tccgen.o tccelf.o tccasm.o tccrun.o arm-gen.o
+#~ ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-objcopy libtcctmp.a libtcc.a --localize-symbols localsyms
+~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-objcopy libtcctmp.o libtccx.o --localize-symbols localsyms
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+[ CC       ]   module.o
+[ CC       ]   reloc.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ SYMBOLS  ]   magiclantern.sym
+[ CP       ]   100D_101.sym
+[ CP       ]   install
+cp ML-SETUP.FIR /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/
+[ VERSION  ]   ../../platform/100D.101/version.bin
+../../build_tools/git_summary.py >> ../../platform/100D.101/version.bin
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 481700 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec.bin
+[ XOR_CHK  ]   autoexec.bin
+cp autoexec.bin /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/
+cp ../../data/fonts/*.rbf /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/fonts/
+cp ../../data/vram/*.lut /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/data/
+cp ../../data/cropmks/*.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/cropmks/
+[ SCRIPTS  ]   install_extra_data
+for target in  CONFIG_MODULES_install; do make $target; done
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101'
+make -C ../../modules
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+[ README   ]   module_strings.h
+[ CC       ]   mlv_lite.o
+[ CC       ]   ../mlv_rec/mlv.o
+[ MODULE   ]   mlv_lite.mo
+[ STRIP    ]   mlv_lite.mo
+[ RM       ]
+[ EXPORTS  ]   mlv_lite.sym
+0000015c raw_movie_filename
+00000160 raw_video_enabled
+0000076c raw_rec_trace_ctx
+00004d48 mlv_prng_lfsr
+00004d80 mlv_generate_guid
+00004e08 mlv_set_type
+00004e18 mlv_init_fileheader
+00004e64 mlv_set_timestamp
+00004ecc mlv_fill_lens
+00004fc8 mlv_fill_wbal
+000050e8 mlv_fill_styl
+0000521c mlv_fill_expo
+00005368 mlv_fill_rtci
+000054b4 mlv_fill_idnt
+00005590 mlv_build_vers
+00005658 mlv_write_vers_blocks
+[ DEPENDS  ]   mlv_lite.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+[ README   ]   module_strings.h
+[ CC       ]   mlv_play.o
+[ LD       ]   video.bmp.rsc
+[ MODULE   ]   mlv_play.mo
+[ STRIP    ]   mlv_play.mo
+[ RM       ]
+[ EXPORTS  ]   mlv_play.sym
+00000118 _binary_video_bmp_start
+00003eac mlv_play_file
+00004436 _binary_video_bmp_size
+0000454e _binary_video_bmp_end
+[ DEPENDS  ]   mlv_play.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+[ README   ]   module_strings.h
+[ CC       ]   mlv_rec.o
+mlv_rec.c: In function 'raw_tag_str_start':
+mlv_rec.c:3786:20: warning: pointer targets in passing argument 1 of 'ime_base_start' differ in signedness [-Wpointer-sign]
+     ime_base_start((unsigned char *)"Enter text", (unsigned char *)raw_tag_str_tmp, sizeof(raw_tag_str_tmp)-1, IME_UTF8
+                    ^
+In file included from mlv_rec.c:78:0:
+../ime_base/ime_base.h:70:31: note: expected 'char *' but argument is of type 'unsigned char *'
+ extern IME_WEAK(ret_0) void * ime_base_start (char *caption, char *text, int32_t max_length, int32_t codepage, int32_t
+                               ^
+mlv_rec.c:3786:51: warning: pointer targets in passing argument 2 of 'ime_base_start' differ in signedness [-Wpointer-sign]
+     ime_base_start((unsigned char *)"Enter text", (unsigned char *)raw_tag_str_tmp, sizeof(raw_tag_str_tmp)-1, IME_UTF8
+                                                   ^
+In file included from mlv_rec.c:78:0:
+../ime_base/ime_base.h:70:31: note: expected 'char *' but argument is of type 'unsigned char *'
+ extern IME_WEAK(ret_0) void * ime_base_start (char *caption, char *text, int32_t max_length, int32_t codepage, int32_t
+                               ^
+[ CC       ]   mlv.o
+[ MODULE   ]   mlv_rec.mo
+[ STRIP    ]   mlv_rec.mo
+[ RM       ]
+[ EXPORTS  ]   mlv_rec.sym
+000000a0 mlv_block_queue
+000000a4 mlv_video_enabled
+0000016c raw_rec_trace_ctx
+00000174 mlv_mgr_queue
+00000178 mlv_mgr_queue_close
+0000017c mlv_job_alloc_queue
+00000218 mlv_movie_filename
+000073dc mlv_rec_queue_block
+000073f8 mlv_rec_set_rel_timestamp
+0000744c mlv_rec_get_free_slot
+00007514 mlv_rec_get_slot_info
+000075f0 mlv_rec_release_slot
+00007638 mlv_prng_lfsr
+00007670 mlv_generate_guid
+000076f8 mlv_set_type
+00007708 mlv_init_fileheader
+00007754 mlv_set_timestamp
+000077bc mlv_fill_lens
+000078b8 mlv_fill_wbal
+000079d8 mlv_fill_styl
+00007b0c mlv_fill_expo
+00007c58 mlv_fill_rtci
+00007da4 mlv_fill_idnt
+00007e80 mlv_build_vers
+00007f48 mlv_write_vers_blocks
+[ DEPENDS  ]   mlv_rec.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+[ README   ]   module_strings.h
+[ CC       ]   mlv_snd.o
+[ MODULE   ]   mlv_snd.mo
+[ STRIP    ]   mlv_snd.mo
+[ RM       ]
+[ EXPORTS  ]   mlv_snd.sym
+00000078 mlv_snd_next_buffer
+0000007c mlv_snd_current_buffer
+00000950 raw_rec_cbr_starting
+00000a98 raw_rec_cbr_started
+00000c48 raw_rec_cbr_stopping
+00000d74 raw_rec_cbr_mlv_block
+[ DEPENDS  ]   mlv_snd.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+[ README   ]   module_strings.h
+[ CC       ]   file_man.o
+[ MODULE   ]   file_man.mo
+[ STRIP    ]   file_man.mo
+[ RM       ]
+[ EXPORTS  ]   file_man.sym
+00002284 fileman_register_type
+[ DEPENDS  ]   file_man.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+[ README   ]   module_strings.h
+[ CC       ]   pic_view.o
+[ MODULE   ]   pic_view.mo
+[ STRIP    ]   pic_view.mo
+[ RM       ]
+[ EXPORTS  ]   pic_view.sym
+[ DEPENDS  ]   pic_view.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+[ README   ]   module_strings.h
+[ CC       ]   ettr.o
+[ MODULE   ]   ettr.mo
+[ STRIP    ]   ettr.mo
+[ RM       ]
+[ EXPORTS  ]   ettr.sym
+00003820 auto_ettr_export_correction
+0000384c auto_ettr_intervalometer_warning
+000038f0 auto_ettr_intervalometer_wait
+[ DEPENDS  ]   ettr.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+[ README   ]   module_strings.h
+Help page 1: Quick start
+Help page 2: Tips and tricks
+[ CC       ]   dual_iso.o
+[ MODULE   ]   dual_iso.mo
+[ STRIP    ]   dual_iso.mo
+[ RM       ]
+[ EXPORTS  ]   dual_iso.sym
+000017a4 dual_iso_calc_dr_improvement
+00001800 dual_iso_set_enabled
+00001820 dual_iso_is_enabled
+00001830 dual_iso_is_active
+00001858 dual_iso_get_dr_improvement
+00001a18 dual_iso_get_recovery_iso
+00001a38 dual_iso_set_recovery_iso
+[ DEPENDS  ]   dual_iso.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+[ README   ]   module_strings.h
+[ CC       ]   silent.o
+[ MODULE   ]   silent.mo
+[ STRIP    ]   silent.mo
+[ RM       ]
+[ EXPORTS  ]   silent.sym
+[ DEPENDS  ]   silent.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+[ README   ]   module_strings.h
+[ CC       ]   dot_tune.o
+[ MODULE   ]   dot_tune.mo
+[ STRIP    ]   dot_tune.mo
+[ RM       ]
+[ EXPORTS  ]   dot_tune.sym
+[ DEPENDS  ]   dot_tune.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+[ README   ]   module_strings.h
+[ CC       ]   autoexpo.o
+autoexpo.c: In function 'autoexpo_shoot_task':
+autoexpo.c:208:20: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+         (!lv || lv && autoexpo_lv) &&
+                    ^
+[ MODULE   ]   autoexpo.mo
+[ STRIP    ]   autoexpo.mo
+[ RM       ]
+[ EXPORTS  ]   autoexpo.sym
+[ DEPENDS  ]   autoexpo.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+[ README   ]   module_strings.h
+[ CC       ]   arkanoid.o
+[ MODULE   ]   arkanoid.mo
+[ STRIP    ]   arkanoid.mo
+[ RM       ]
+[ EXPORTS  ]   arkanoid.sym
+[ DEPENDS  ]   arkanoid.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+[ README   ]   module_strings.h
+[ CC       ]   deflick.o
+deflick.c: In function '__module_prophandler_deflick_0x80020000':
+deflick.c:201:17: warning: initialization from incompatible pointer type [-Wincompatible-pointer-types]
+     int* data = buf;
+                 ^
+[ MODULE   ]   deflick.mo
+[ STRIP    ]   deflick.mo
+[ RM       ]
+[ EXPORTS  ]   deflick.sym
+[ DEPENDS  ]   deflick.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+[ README   ]   module_strings.h
+[ CC       ]   lua/ml-lua-shim.o
+In file included from lua/ml-lua-shim.c:9:0:
+dietlibc/include/unistd.h:72:5: warning: conflicting types for built-in function 'execl'
+ int execl(const char *path, ...) __THROW;
+     ^
+dietlibc/include/unistd.h:73:5: warning: conflicting types for built-in function 'execle'
+ int execle(const char *path, ...) __THROW;
+     ^
+[ CC       ]   lua/lapi.o
+[ CC       ]   lua/lcode.o
+[ CC       ]   lua/lctype.o
+[ CC       ]   lua/ldebug.o
+[ CC       ]   lua/ldo.o
+[ CC       ]   lua/ldump.o
+[ CC       ]   lua/lfunc.o
+[ CC       ]   lua/lgc.o
+[ CC       ]   lua/llex.o
+[ CC       ]   lua/lmem.o
+[ CC       ]   lua/lobject.o
+[ CC       ]   lua/lopcodes.o
+[ CC       ]   lua/lparser.o
+[ CC       ]   lua/lstate.o
+[ CC       ]   lua/lstring.o
+[ CC       ]   lua/ltable.o
+[ CC       ]   lua/ltm.o
+[ CC       ]   lua/lundump.o
+[ CC       ]   lua/lvm.o
+[ CC       ]   lua/lzio.o
+[ CC       ]   lua/lauxlib.o
+In file included from lua/lauxlib.c:24:0:
+lua/lauxlib.c: In function 'luaL_tolstring':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/lauxlib.c:755:36: note: in expansion of macro 'lua_tonumber'
+           lua_pushfstring(L, "%f", lua_tonumber(L, idx));
+                                    ^
+lua/lauxlib.c: In function 'luaL_checkversion_':
+lua/lauxlib.c:970:19: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                   ^
+lua/lauxlib.c:970:24: warning: implicit conversion from 'lua_Number {aka const float}' to 'double' when passing argument to function [-Wdouble-promotion]
+                   ver, *v);
+                        ^
+[ CC       ]   lua/lbaselib.o
+[ CC       ]   lua/lbitlib.o
+[ CC       ]   lua/lcorolib.o
+[ CC       ]   lua/ldblib.o
+[ CC       ]   lua/liolib.o
+In file included from lua/liolib.c:20:0:
+lua/liolib.c: In function 'g_write':
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+                           ^
+lua/liolib.c:611:46: note: in expansion of macro 'lua_tonumber'
+                 : fprintf(f, LUA_NUMBER_FMT, lua_tonumber(L, arg));
+                                              ^
+[ CC       ]   lua/lmathlib.o
+lua/lmathlib.c: In function 'math_random':
+lua/lmathlib.c:243:59: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                                           ^
+lua/lmathlib.c:243:38: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+                                      ^
+lua/lmathlib.c:265:27: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+   r *= (double)(up - low) + 1.0;
+                           ^
+[ CC       ]   lua/lstrlib.o
+lua/lstrlib.c: In function 'str_format':
+lua/lstrlib.c:910:44: warning: implicit conversion from 'lua_Number {aka float}' to 'double' when passing argument to function [-Wdouble-promotion]
+           nb = snprintf(buff, 65536, form, luaL_checknumber(L, arg));
+                                            ^
+[ CC       ]   lua/ltablib.o
+[ CC       ]   lua/lutf8lib.o
+[ CC       ]   lua/loadlib.o
+[ CC       ]   lua/linit.o
+[ CC       ]   lua_globals.o
+[ CC       ]   lua_console.o
+[ CC       ]   lua_camera.o
+[ CC       ]   lua_lv.o
+[ CC       ]   lua_lens.o
+[ CC       ]   lua_movie.o
+[ CC       ]   lua_display.o
+[ CC       ]   lua_key.o
+[ CC       ]   lua_menu.o
+[ CC       ]   lua_dryos.o
+lua_dryos.c: In function 'luaCB_dryos_call':
+lua_dryos.c:169:38: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+         result = call(function_name, arg);
+                                      ^
+[ CC       ]   lua_interval.o
+[ CC       ]   lua_battery.o
+[ CC       ]   lua_task.o
+[ CC       ]   lua_property.o
+[ CC       ]   lua_constants.o
+[ CC       ]   lua.o
+[ AR       ]   fopen.o
+[ AR       ]   dietlibc.a
+[ CC       ]   umm_malloc/umm_malloc.o
+[ MODULE   ]   lua.mo
+lua/lauxlib.o: In function `panic':
+/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua/lua/lauxlib.c:952: warning: warning: your code uses stdio (7+k bloat).
+dietlibc.a(vfprintf.o): In function `vfprintf':
+vfprintf.c:(.text+0x34): warning: warning: the printf functions add several kilobytes of bloat.
+[ STRIP    ]   lua.mo
+[ RM       ]
+[ STRIP    ]   lua.sym
+[ STRIP    ]   lua.sym
+[ RM       ]   localsyms
+[ EXPORTS  ]   lua.sym
+[ DEPENDS  ]   lua.dep
+[ LUAC     ]   syntax_check.log
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+/bin/sh: 1: luac: Permission denied
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+[ README   ]   module_strings.h
+[ CC       ]   bench.o
+In file included from bench.c:24:0:
+mem_perf.c: In function 'mem_perf_test':
+mem_perf.c:112:28: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+             plot_add(coll, block_size / 1024.0f, speed);
+                            ^
+mem_perf.c:112:50: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+             plot_add(coll, block_size / 1024.0f, speed);
+                                                  ^
+[ MODULE   ]   bench.mo
+[ STRIP    ]   bench.mo
+[ RM       ]
+[ EXPORTS  ]   bench.sym
+[ DEPENDS  ]   bench.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+[ README   ]   module_strings.h
+[ CC       ]   selftest.o
+[ MODULE   ]   selftest.mo
+[ STRIP    ]   selftest.mo
+[ RM       ]
+[ EXPORTS  ]   selftest.sym
+[ DEPENDS  ]   selftest.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+[ README   ]   module_strings.h
+Help page 1: Usage
+Help page 2: Exposure ramping
+Help page 3: Focus ramping
+Help page 4: Misc notes
+Help page 5: AutoETTR compatibility
+[ CC       ]   adv_int.o
+[ MODULE   ]   adv_int.mo
+[ STRIP    ]   adv_int.mo
+[ RM       ]
+[ EXPORTS  ]   adv_int.sym
+[ DEPENDS  ]   adv_int.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+[ README   ]   module_strings.h
+[ CC       ]   edmac.o
+[ CC       ]   edmac_util.o
+[ CC       ]   edmac_test.o
+[ CC       ]   md5.o
+[ MODULE   ]   edmac.mo
+[ STRIP    ]   edmac.mo
+[ RM       ]
+[ STRIP    ]   edmac.sym
+[ STRIP    ]   edmac.sym
+[ RM       ]   localsyms
+[ EXPORTS  ]   edmac.sym
+00001c5c edmac_format_size
+[ DEPENDS  ]   edmac.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make -C ../../modules install
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+[ MODULE   ]   mlv_lite.mo
+[ STRIP    ]   mlv_lite.mo
+[ RM       ]
+[ EXPORTS  ]   mlv_lite.sym
+0000015c raw_movie_filename
+00000160 raw_video_enabled
+0000076c raw_rec_trace_ctx
+00004d48 mlv_prng_lfsr
+00004d80 mlv_generate_guid
+00004e08 mlv_set_type
+00004e18 mlv_init_fileheader
+00004e64 mlv_set_timestamp
+00004ecc mlv_fill_lens
+00004fc8 mlv_fill_wbal
+000050e8 mlv_fill_styl
+0000521c mlv_fill_expo
+00005368 mlv_fill_rtci
+000054b4 mlv_fill_idnt
+00005590 mlv_build_vers
+00005658 mlv_write_vers_blocks
+[ DEPENDS  ]   mlv_lite.dep
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+[ MKDIR    ]   ML directory structure...
+python3 copy_modules_with_satisfied_deps.py /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/modules mlv_lite mlv_play mlv_rec mlv_snd file_man pic_view ettr dual_iso silent dot_tune autoexpo arkanoid deflick lua bench selftest adv_int edmac
+These modules cannot be included (not possible to meet listed deps):
+dot_tune
+        set_afma_mode
+        get_afma
+        get_afma_max
+        get_config_afma_wide_tele
+        set_afma
+        get_afma_mode
+
+These modules will not be included (deps not solved):
+
+These modules will be included (deps met):
+pic_view
+lua
+file_man
+silent
+mlv_snd
+autoexpo
+dual_iso
+deflick
+edmac
+mlv_lite
+mlv_rec
+adv_int
+bench
+selftest
+arkanoid
+ettr
+mlv_play
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101'
+make -C ../../installer/100D.101 autoexec-fir.bin
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/100D.101'
+[ VERSION  ]   ../../platform/100D.101/version.bin
+../../build_tools/git_summary.py >> ../../platform/100D.101/version.bin
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ CC       ]   boot-d45.o
+[ CC       ]   installer.o
+[ VERSION  ]   ../../platform/100D.101/version.c
+../../build_tools/git_summary.py >> ../../platform/100D.101/version.c
+[ CC       ]   version.o
+[ CC       ]   fio-ml.o
+[ CC       ]   ico.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   stdio.o
+[ CC       ]   dialog_test.o
+[ CC       ]   bootflags.o
+[ CC       ]   mem.o
+[ CC       ]   util.o
+[ CC       ]   cache.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 32104 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec-fir
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec-fir.bin
+[ XOR_CHK  ]   autoexec-fir.bin
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/100D.101'
+make -C ../../installer/100D.101 clean
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/100D.101'
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM       ]   *.fir *.FIR
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/100D.101'
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/doc
+cp -v ../../doc/cam/* /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/doc
+cp: cannot stat '../../doc/cam/*': No such file or directory
+make: [../../Makefile.inc:63: installdoc] Error 1 (ignored)
+cp ../../doc/README.user /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/README
+cp ../../doc/INSTALL.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip || echo "warning Unable to copy INSTALL.pdf"
+cp: cannot stat '../../doc/INSTALL.pdf': No such file or directory
+warning Unable to copy INSTALL.pdf
+cp ../../doc/UserGuide.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip || echo "warning Unable to copy UserGuide.pdf"
+cp: cannot stat '../../doc/UserGuide.pdf': No such file or directory
+warning Unable to copy UserGuide.pdf
+cp ../../src/logo.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/ML/docs || echo "warning Unable to copy logo.bmp"
+[ RM       ]   magiclantern-Nightly.2022Nov18.100D101.zip
+chmod -x /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/autoexec.bin
+cd /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip; zip -z ../magiclantern-Nightly.2022Nov18.100D101.zip < \
+        ../../../src/zip.txt -r .
+  adding: ML-SETUP.FIR (deflated 0%)
+  adding: ML/ (stored 0%)
+  adding: ML/fonts/ (stored 0%)
+  adding: ML/fonts/argnor23.rbf (deflated 84%)
+  adding: ML/fonts/argnor32.rbf (deflated 86%)
+  adding: ML/fonts/term20.rbf (deflated 80%)
+  adding: ML/fonts/argnor28.rbf (deflated 84%)
+  adding: ML/fonts/arghlf22.rbf (deflated 90%)
+  adding: ML/fonts/term12.rbf (deflated 64%)
+  adding: ML/README (deflated 61%)
+  adding: ML/cropmks/ (stored 0%)
+  adding: ML/cropmks/CineSco2.bmp (deflated 87%)
+  adding: ML/cropmks/Passport.bmp (deflated 72%)
+  adding: ML/cropmks/CrssMtr2.bmp (deflated 94%)
+  adding: ML/cropmks/PhiPhoto.bmp (deflated 62%)
+  adding: ML/cropmks/PhiVideo.bmp (deflated 68%)
+  adding: ML/modules/ (stored 0%)
+  adding: ML/modules/deflick.mo (deflated 54%)
+  adding: ML/modules/edmac.mo (deflated 95%)
+  adding: ML/modules/arkanoid.mo (deflated 50%)
+  adding: ML/modules/mlv_play.mo (deflated 62%)
+  adding: ML/modules/mlv_snd.mo (deflated 56%)
+  adding: ML/modules/autoexpo.mo (deflated 57%)
+  adding: ML/modules/100D_101.sym (deflated 65%)
+  adding: ML/modules/dual_iso.mo (deflated 51%)
+  adding: ML/modules/lua.mo (deflated 60%)
+  adding: ML/modules/mlv_lite.mo (deflated 51%)
+  adding: ML/modules/bench.mo (deflated 57%)
+  adding: ML/modules/selftest.mo (deflated 66%)
+  adding: ML/modules/mlv_rec.mo (deflated 53%)
+  adding: ML/modules/silent.mo (deflated 53%)
+  adding: ML/modules/adv_int.mo (deflated 58%)
+  adding: ML/modules/ettr.mo (deflated 56%)
+  adding: ML/modules/file_man.mo (deflated 51%)
+  adding: ML/modules/pic_view.mo (deflated 48%)
+  adding: ML/docs (deflated 94%)
+  adding: ML/scripts/ (stored 0%)
+  adding: ML/scripts/api_test.lua (deflated 79%)
+  adding: ML/scripts/calc.lua (deflated 69%)
+  adding: ML/scripts/menutest.lua (deflated 76%)
+  adding: ML/scripts/recdelay.lua (deflated 73%)
+  adding: ML/scripts/copy2m.lua (deflated 67%)
+  adding: ML/scripts/hello.lua (deflated 27%)
+  adding: ML/scripts/unload.lua (deflated 54%)
+  adding: ML/scripts/scrnshot.lua (deflated 47%)
+  adding: ML/scripts/pong.lua (deflated 73%)
+  adding: ML/scripts/lib/ (stored 0%)
+  adding: ML/scripts/lib/logger.lua (deflated 70%)
+  adding: ML/scripts/lib/strict.lua (deflated 54%)
+  adding: ML/scripts/lib/config.lua (deflated 69%)
+  adding: ML/scripts/lib/keys.lua (deflated 66%)
+  adding: ML/scripts/editor.lua (deflated 82%)
+  adding: ML/scripts/sokoban.lua (deflated 73%)
+  adding: ML/data/ (stored 0%)
+  adding: ML/data/apsc8r.lut (deflated 7%)
+  adding: ML/data/ff8p.lut (deflated 17%)
+  adding: ML/data/apsc8p.lut (deflated 17%)
+  adding: ML/data/ff8r.lut (deflated 11%)
+  adding: ML/doc/ (stored 0%)
+  adding: autoexec.bin (deflated 51%)
+enter new zip file comment (end with .):
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/100D.101/zip/
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x000100 0x0044c100 0x0044c100 0x759a4 0x88e0c RWE 0x100
+
+
+
+Tip: to compile faster, try one of these:
+    make -j12
+    export MAKEFLAGS='-j12'
+
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/100D.101$
+[/code]
+
+EOSM:
+[code]
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ cd EOSM.202/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ ls
+ML-SETUP.FIR  Makefile.platform.default  cfn.c     features.h  include      mvr.h
+Makefile      Makefile.setup.default     consts.h  gui.h       internals.h  stubs.S
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ make clean
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   EOSM_202.sym magiclantern.sym
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM dir   ]   zip
+[ RM       ]   *.zip
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ make zip
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/EOSM.202/stubs.o
+[ VERSION  ]   ../../platform/EOSM.202/version.c
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   sgi.o
+[ CC       ]   cpu.o
+[ CC       ]   mmu_utils.o
+[ CC       ]   patch_mmu.o
+[ CC       ]   boot-d45.o
+[ CC       ]   init.o
+[ CC       ]   fio-ml.o
+[ CC       ]   mem.o
+[ CC       ]   ico.o
+[ CC       ]   edmac.o
+[ CC       ]   menu.o
+[ CC       ]   debug.o
+[ CC       ]   rand.o
+[ CC       ]   posix.o
+[ CC       ]   util.o
+[ CC       ]   imath.o
+[ CC       ]   electronic_level.o
+[ CC       ]   cfn.o
+[ CC       ]   gui.o
+[ CC       ]   picstyle.o
+[ CC       ]   exmem.o
+[ CC       ]   compositor.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   config.o
+[ CC       ]   stdio.o
+[ CC       ]   bitrate.o
+[ CC       ]   lcdsensor.o
+[ CC       ]   tweaks.o
+[ CC       ]   tweaks-eyefi.o
+[ CC       ]   lens.o
+[ CC       ]   property.o
+[ CC       ]   propvalues.o
+[ CC       ]   gui-common.o
+[ CC       ]   chdk-gui_draw.o
+[ CC       ]   movtweaks.o
+[ CC       ]   menuhelp.o
+[ CC       ]   menuindex.o
+[ CC       ]   focus.o
+[ CC       ]   notify_box.o
+[ CC       ]   bootflags.o
+[ CC       ]   dialog_test.o
+[ CC       ]   vram.o
+[ CC       ]   greenscreen.o
+[ CC       ]   fps-engio.o
+[ CC       ]   shoot.o
+[ CC       ]   hdr.o
+[ CC       ]   lv-img-engio.o
+[ CC       ]   state-object.o
+[ CC       ]   tasks.o
+[ CC       ]   vsync-lite.o
+[ CC       ]   tskmon.o
+[ CC       ]   battery.o
+[ CC       ]   imgconv.o
+[ CC       ]   histogram.o
+[ CC       ]   falsecolor.o
+[ CC       ]   audio-ak.o
+[ CC       ]   zebra.o
+[ CC       ]   vectorscope.o
+[ CC       ]   beep.o
+[ CC       ]   crop-mode-hack.o
+[ CC       ]   ph_info_disp.o
+[ CC       ]   flexinfo.o
+[ CC       ]   screenshot.o
+[ CC       ]   fileprefix.o
+[ CC       ]   lvinfo.o
+[ CC       ]   builtin-enforcing.o
+[ CC       ]   powersave.o
+[ CC       ]   ml-cbr.o
+[ CC       ]   raw.o
+[ CC       ]   chdk-dng.o
+[ CC       ]   edmac-memcpy.o
+[ CC       ]   cache_hacks.o
+[ CC       ]   patch.o
+[ CC       ]   cache.o
+[ CC       ]   console.o
+[ CC       ]   tcc-glue.o
+make -C ../../tcc
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+[ CC       ]   module.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ SYMBOLS  ]   magiclantern.sym
+[ CP       ]   EOSM_202.sym
+[ CP       ]   install
+cp ML-SETUP.FIR /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+[ VERSION  ]   ../../platform/EOSM.202/version.bin
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.bin
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 450652 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec.bin
+[ XOR_CHK  ]   autoexec.bin
+cp autoexec.bin /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+cp ../../data/fonts/*.rbf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/fonts/
+cp ../../data/vram/*.lut /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/data/
+cp ../../data/cropmks/*.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/cropmks/
+[ SCRIPTS  ]   install_extra_data
+for target in  CONFIG_MODULES_install; do make $target; done
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202'
+make -C ../../modules
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make -C ../../modules install
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+[ MKDIR    ]   ML directory structure...
+python3 copy_modules_with_satisfied_deps.py /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/modules mlv_lite mlv_play mlv_rec mlv_snd file_man pic_view ettr dual_iso silent dot_tune autoexpo arkanoid deflick lua bench selftest adv_int edmac
+These modules cannot be included (not possible to meet listed deps):
+dot_tune
+        get_afma
+        get_config_afma_wide_tele
+        get_afma_mode
+        set_afma
+        get_afma_max
+        set_afma_mode
+
+These modules will not be included (deps not solved):
+
+These modules will be included (deps met):
+pic_view
+lua
+file_man
+silent
+mlv_snd
+autoexpo
+dual_iso
+deflick
+edmac
+mlv_lite
+mlv_rec
+adv_int
+bench
+selftest
+arkanoid
+ettr
+mlv_play
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202'
+make -C ../../installer/EOSM.202 autoexec-fir.bin
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+[ VERSION  ]   ../../platform/EOSM.202/version.bin
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.bin
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ CC       ]   boot-d45.o
+[ CC       ]   installer.o
+[ VERSION  ]   ../../platform/EOSM.202/version.c
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.c
+[ CC       ]   version.o
+[ CC       ]   fio-ml.o
+[ CC       ]   ico.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   stdio.o
+[ CC       ]   dialog_test.o
+[ CC       ]   bootflags.o
+[ CC       ]   mem.o
+[ CC       ]   util.o
+[ CC       ]   cache.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 32104 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec-fir
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec-fir.bin
+[ XOR_CHK  ]   autoexec-fir.bin
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+make -C ../../installer/EOSM.202 clean
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM       ]   *.fir *.FIR
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/doc
+cp -v ../../doc/cam/* /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/doc
+cp: cannot stat '../../doc/cam/*': No such file or directory
+make: [../../Makefile.inc:63: installdoc] Error 1 (ignored)
+cp ../../doc/README.user /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/README
+cp ../../doc/INSTALL.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip || echo "warning Unable to copy INSTALL.pdf"
+cp: cannot stat '../../doc/INSTALL.pdf': No such file or directory
+warning Unable to copy INSTALL.pdf
+cp ../../doc/UserGuide.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip || echo "warning Unable to copy UserGuide.pdf"
+cp: cannot stat '../../doc/UserGuide.pdf': No such file or directory
+warning Unable to copy UserGuide.pdf
+cp ../../src/logo.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/docs || echo "warning Unable to copy logo.bmp"
+[ RM       ]   magiclantern-Nightly.2022Nov18.EOSM202.zip
+chmod -x /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/autoexec.bin
+cd /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip; zip -z ../magiclantern-Nightly.2022Nov18.EOSM202.zip < \
+        ../../../src/zip.txt -r .
+  adding: ML-SETUP.FIR (deflated 0%)
+  adding: ML/ (stored 0%)
+  adding: ML/fonts/ (stored 0%)
+  adding: ML/fonts/argnor23.rbf (deflated 84%)
+  adding: ML/fonts/argnor32.rbf (deflated 86%)
+  adding: ML/fonts/term20.rbf (deflated 80%)
+  adding: ML/fonts/argnor28.rbf (deflated 84%)
+  adding: ML/fonts/arghlf22.rbf (deflated 90%)
+  adding: ML/fonts/term12.rbf (deflated 64%)
+  adding: ML/README (deflated 61%)
+  adding: ML/cropmks/ (stored 0%)
+  adding: ML/cropmks/CineSco2.bmp (deflated 87%)
+  adding: ML/cropmks/Passport.bmp (deflated 72%)
+  adding: ML/cropmks/CrssMtr2.bmp (deflated 94%)
+  adding: ML/cropmks/PhiPhoto.bmp (deflated 62%)
+  adding: ML/cropmks/PhiVideo.bmp (deflated 68%)
+  adding: ML/modules/ (stored 0%)
+  adding: ML/modules/deflick.mo (deflated 54%)
+  adding: ML/modules/edmac.mo (deflated 95%)
+  adding: ML/modules/arkanoid.mo (deflated 50%)
+  adding: ML/modules/mlv_play.mo (deflated 62%)
+  adding: ML/modules/mlv_snd.mo (deflated 56%)
+  adding: ML/modules/autoexpo.mo (deflated 57%)
+  adding: ML/modules/dual_iso.mo (deflated 51%)
+  adding: ML/modules/EOSM_202.sym (deflated 65%)
+  adding: ML/modules/lua.mo (deflated 60%)
+  adding: ML/modules/mlv_lite.mo (deflated 51%)
+  adding: ML/modules/bench.mo (deflated 57%)
+  adding: ML/modules/selftest.mo (deflated 66%)
+  adding: ML/modules/mlv_rec.mo (deflated 53%)
+  adding: ML/modules/silent.mo (deflated 53%)
+  adding: ML/modules/adv_int.mo (deflated 58%)
+  adding: ML/modules/ettr.mo (deflated 56%)
+  adding: ML/modules/file_man.mo (deflated 51%)
+  adding: ML/modules/pic_view.mo (deflated 48%)
+  adding: ML/docs (deflated 94%)
+  adding: ML/scripts/ (stored 0%)
+  adding: ML/scripts/api_test.lua (deflated 79%)
+  adding: ML/scripts/calc.lua (deflated 69%)
+  adding: ML/scripts/menutest.lua (deflated 76%)
+  adding: ML/scripts/recdelay.lua (deflated 73%)
+  adding: ML/scripts/copy2m.lua (deflated 67%)
+  adding: ML/scripts/hello.lua (deflated 27%)
+  adding: ML/scripts/unload.lua (deflated 54%)
+  adding: ML/scripts/scrnshot.lua (deflated 47%)
+  adding: ML/scripts/pong.lua (deflated 73%)
+  adding: ML/scripts/lib/ (stored 0%)
+  adding: ML/scripts/lib/logger.lua (deflated 70%)
+  adding: ML/scripts/lib/strict.lua (deflated 54%)
+  adding: ML/scripts/lib/config.lua (deflated 69%)
+  adding: ML/scripts/lib/keys.lua (deflated 66%)
+  adding: ML/scripts/editor.lua (deflated 82%)
+  adding: ML/scripts/sokoban.lua (deflated 73%)
+  adding: ML/data/ (stored 0%)
+  adding: ML/data/apsc8r.lut (deflated 7%)
+  adding: ML/data/ff8p.lut (deflated 17%)
+  adding: ML/data/apsc8p.lut (deflated 17%)
+  adding: ML/data/ff8r.lut (deflated 11%)
+  adding: ML/doc/ (stored 0%)
+  adding: autoexec.bin (deflated 50%)
+enter new zip file comment (end with .):
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x0000e0 0x0009e1e0 0x0009e1e0 0x6e05c 0x8142c RWE 0x100
+
+
+
+Tip: to compile faster, try one of these:
+    make -j12
+    export MAKEFLAGS='-j12'
+[/code]
+
+200D:
+[code]
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern$ cd platform/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ ls
+100D.101   5D2.212  5DSR.112  700D.115  7D_MASTER.203  Makefile.platform         RP.160
+1100D.105  5D3.113  600D.102  750D.110  80D.102        Makefile.platform.base    SX740.102
+200D.101   5D3.123  60D.111   760D.100  850D.100       Makefile.platform.extras  all
+500D.111   5D4.112  650D.104  77D.102   EOSM.202       Makefile.platform.map     firmsum.py
+50D.109    5D4.133  6D.116    7D.203    M50.110        R.180                     unmaintained
+550D.109   5DS.111  6D2.105   7D2.104   Makefile       README-unmaintained.txt
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ cd 200D.101/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/200D.101$ make clean
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   200D_101.sym magiclantern.sym
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM dir   ]   zip
+[ RM       ]   *.zip
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/200D.101$ make zip
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/200D.101/zip/
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/200D.101/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/200D.101/stubs.o
+[ VERSION  ]   ../../platform/200D.101/version.c
+../../build_tools/git_summary.py >> ../../platform/200D.101/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   sgi.o
+[ CC       ]   cpu.o
+[ CC       ]   mmu_utils.o
+[ CC       ]   patch_mmu.o
+/tmp/cch9rvQZ.s: Assembler messages:
+/tmp/cch9rvQZ.s:390: Error: invalid constant (4bd8) after fixup
+make: *** [../../Makefile.filerules:25: patch_mmu.o] Error 1
+[/code]
