@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Debian_ML_wallpaper.svg"
+   inkscape:export-filename="Debian_ML_wallpaper.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#000018"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.56063608"
+     inkscape:cx="981.92039"
+     inkscape:cy="632.31749"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="120"
+       y="240"
+       width="1680"
+       height="720"
+       id="rect1062" />
+  </defs>
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;paint-order:fill markers stroke;stroke:none"
+       id="rect342"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+       x="120"
+       y="200"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         x="120"
+         y="200"
+         style="fill:#ffffff">Welcome to Debian Bullseye ML</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1060"
+       style="font-weight:bold;font-size:48px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1062);display:inline;stroke:none"
+       x="-18.265377"
+       y="0"><tspan
+         x="120"
+         y="284.75963"
+         id="tspan2531"><tspan
+           style="line-height:1.25;text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2529">This is VM Compile Box for Magic Lantern (&amp; maybe CHDK).
+</tspan></tspan><tspan
+         x="120"
+         y="344.75963"
+         id="tspan2535"><tspan
+           style="line-height:1.25;text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2533">
+</tspan></tspan><tspan
+         x="120"
+         y="404.75963"
+         id="tspan2539"><tspan
+           style="stroke:#ffff00"
+           id="tspan2537">DO NOT ENTER ANY PASSWORD, PRIVATE KEYS, OR EVEN DUMP ROMS </tspan></tspan><tspan
+         x="120"
+         y="464.75963"
+         id="tspan2545"><tspan
+           style="stroke:#ffff00"
+           id="tspan2541">IF YOU WANTED TO RESHARE THIS EDITED VHD!!!</tspan><tspan
+           style="fill:#ff0000"
+           id="tspan2543">
+</tspan></tspan><tspan
+         x="120"
+         y="524.75963"
+         id="tspan2549"><tspan
+           style="fill:#ff0000"
+           id="tspan2547">
+</tspan></tspan><tspan
+         x="120"
+         y="568.23975"
+         id="tspan2553"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2551">Source code clone locations:
+</tspan></tspan><tspan
+         x="120"
+         y="605.04614"
+         id="tspan2565"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2555">- </tspan><tspan
+           style="line-height:1.15;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
+           id="tspan2557">~/sauce/simplified</tspan><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2559"> = names_are_hard's simplified ML. use </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
+           id="tspan2561">git pull</tspan><tspan
+           dx="0 0 0.00012207031 0 0 -0.00012207031 0.00012207031 -0.00012207031"
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2563"> to update.
+</tspan></tspan><tspan
+         x="120"
+         y="641.85254"
+         id="tspan2581"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2567">- </tspan><tspan
+           style="line-height:1.15;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
+           id="tspan2569">~/sauce/og</tspan><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2571"> = Original ML source code (</tspan><tspan
+           style="fill:#ff9955"
+           id="tspan2573">probably hard to compile on this newer system</tspan><tspan
+           dx="0 0 0 0 0 0.00012207031 0.00012207031"
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2575">). use </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
+           id="tspan2577">hg pull</tspan><tspan
+           dx="0 0 0.00012207031 0 0 -0.00012207031 0.00012207031 -0.00012207031"
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2579"> to update.
+</tspan></tspan><tspan
+         x="120"
+         y="678.65253"
+         id="tspan2585"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2583">
+</tspan></tspan><tspan
+         x="120"
+         y="715.45892"
+         id="tspan2593"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2587">Full README located at </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
+           id="tspan2589">~/Desktop/README.txt</tspan><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2591">
+</tspan></tspan><tspan
+         x="120"
+         y="752.25891"
+         id="tspan2597"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2595">
+</tspan></tspan><tspan
+         x="120"
+         y="789.0589"
+         id="tspan2601"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2599">Enjoy!
+</tspan></tspan><tspan
+         x="120"
+         y="825.85889"
+         id="tspan2605"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2603">
+</tspan></tspan><tspan
+         x="120"
+         y="862.65888"
+         id="tspan2609"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2607">by JOELwindows7
+</tspan></tspan><tspan
+         x="120"
+         y="899.45887"
+         id="tspan2613"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2611">Perkedel Technologies
+</tspan></tspan><tspan
+         x="120"
+         y="936.25885"
+         id="tspan2617"><tspan
+           style="font-size:32px;line-height:1.15;fill:#ffffff"
+           id="tspan2615">CC4.0-BY-SA</tspan></tspan></text>
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
