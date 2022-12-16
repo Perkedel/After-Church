@@ -4,7 +4,7 @@
   <graphs active="0">
     <node type="graph" uuid="0431ce36bb1c4da7b191db98c27bb1a6" name="Graph"
           bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
-          transpose="0">
+          transpose="0" delayCompensation="0">
       <nodes>
         <node id="1" type="plugin" format="Internal" identifier="audio.input"
               name="Microphone Array (Realtek High Definition Audio)" relativeX="0.25"
@@ -12,9 +12,11 @@
               bypass="1" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
               transpose="0" enabled="1" x="186.5" y="104.25" mute="1" program="0"
               midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
-              muteInput="0" midiProgramsState="" oversamplingFactor="1">
+              muteInput="0" midiProgramsState="" oversamplingFactor="1" delayCompensation="0.0">
           <nodes/>
-          <ui/>
+          <ui>
+            <block/>
+          </ui>
           <ports>
             <port index="0" channel="0" type="audio" name="Input channel 1" symbol="audio_out_1"
                   flow="output"/>
@@ -23,15 +25,17 @@
           </ports>
         </node>
         <node id="2" type="plugin" format="Internal" identifier="audio.output"
-              name="Speakers (Realtek High Definition Audio)" relativeX="0.2941653160453809"
-              relativeY="0.7622789783889981" numAudioIns="2" numAudioOuts="0"
+              name="Speakers (Realtek High Definition Audio)" relativeX="0.3184764991896272"
+              relativeY="0.7760314341846758" numAudioIns="2" numAudioOuts="0"
               uuid="0942f8728de84f5e8494e1bc4d8c157a" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127" transpose="0" enabled="1"
-              x="260.0" y="365.0" program="0" midiProgram="0" globalMidiPrograms="0"
+              x="290.0" y="372.0" program="0" midiProgram="0" globalMidiPrograms="0"
               midiProgramsEnabled="0" mute="0" muteInput="0" midiProgramsState=""
-              oversamplingFactor="1">
+              oversamplingFactor="1" delayCompensation="0.0">
           <nodes/>
-          <ui/>
+          <ui>
+            <block/>
+          </ui>
           <ports>
             <port index="0" channel="0" type="audio" name="Output channel 1" symbol="audio_in_1"
                   flow="input"/>
@@ -52,14 +56,16 @@
           </ports>
         </node>
         <node id="3" type="plugin" format="Internal" identifier="midi.input"
-              name="MIDI In" relativeX="0.75" relativeY="0.25" numAudioIns="0"
-              numAudioOuts="0" uuid="f1da4f7a88e84902a20afdb31a3b7523" bypass="0"
-              persistent="1" renderMode="single" keyStart="0" keyEnd="127"
-              transpose="0" enabled="1" x="865.5" y="104.25" program="0" midiProgram="0"
+              name="MIDI In" relativeX="0.5032414910858996" relativeY="0.2986247544204322"
+              numAudioIns="0" numAudioOuts="0" uuid="f1da4f7a88e84902a20afdb31a3b7523"
+              bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
+              transpose="0" enabled="1" x="561.0" y="129.0" program="0" midiProgram="0"
               globalMidiPrograms="0" midiProgramsEnabled="0" mute="0" muteInput="0"
-              midiProgramsState="" oversamplingFactor="1">
+              midiProgramsState="" oversamplingFactor="1" delayCompensation="0.0">
           <nodes/>
-          <ui/>
+          <ui>
+            <block/>
+          </ui>
           <ports>
             <port index="0" channel="0" type="midi" name="MIDI" symbol="midi_out_0"
                   flow="output"/>
@@ -71,32 +77,13 @@
               persistent="1" renderMode="single" keyStart="0" keyEnd="127"
               transpose="0" enabled="1" x="865.5" y="358.75" program="0" midiProgram="0"
               globalMidiPrograms="0" midiProgramsEnabled="0" mute="0" muteInput="0"
-              midiProgramsState="" oversamplingFactor="1">
+              midiProgramsState="" oversamplingFactor="1" delayCompensation="0.0">
           <nodes/>
-          <ui/>
+          <ui>
+            <block/>
+          </ui>
           <ports>
             <port index="0" channel="0" type="midi" name="MIDI" symbol="midi_in_0"
-                  flow="input"/>
-          </ports>
-        </node>
-        <node id="5" type="plugin" format="VST" identifier="W:\starring codes\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
-              name="S-YXG2006LE.64" relativeX="0.2674230145867099" relativeY="0.5972495088408645"
-              pluginIdentifierString="VST-S-YXG2006LE.64-93be0be8-35377732"
-              uuid="a333b6cee82849568ec6af5a0a6d9928" bypass="0" persistent="1"
-              renderMode="single" keyStart="0" keyEnd="127" transpose="0" x="270.0"
-              y="281.0" windowX="229" windowY="240" windowVisible="0" state="160.CMlaKA....fQBMDZ....ATyM2IC...P.....A................................................................................................................................................................................."
-              programState="60.CMlaKA....fQPMDZ....ATyM2IC...P.....A..........................................."
-              program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
-              mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
-              oversamplingFactor="1">
-          <nodes/>
-          <ui/>
-          <ports>
-            <port index="0" channel="0" type="audio" name=" 1" symbol="audio_out_1"
-                  flow="output"/>
-            <port index="1" channel="1" type="audio" name=" 2" symbol="audio_out_2"
-                  flow="output"/>
-            <port index="2" channel="0" type="midi" name="MIDI" symbol="midi_in_0"
                   flow="input"/>
           </ports>
         </node>
@@ -104,13 +91,16 @@
               name="IvanC-MIDI-Play-Plugin" relativeX="0.5" relativeY="0.5"
               pluginIdentifierString="VST3-IvanC-MIDI-Play-Plugin-49a00000-cfb8649a"
               uuid="9757d08ccb694236afa867c3b6c13867" bypass="0" persistent="1"
-              renderMode="single" keyStart="0" keyEnd="127" transpose="0" x="553.0"
-              y="231.5" windowX="406" windowY="133" windowVisible="0" state="427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQlPt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
+              renderMode="single" keyStart="0" keyEnd="127.0" transpose="0"
+              x="553.0" y="231.5" windowX="405" windowY="132" windowVisible="0"
+              state="427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQlPt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
               program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
-              oversamplingFactor="1">
+              oversamplingFactor="1" delayCompensation="0.0" enabled="1">
           <nodes/>
-          <ui/>
+          <ui>
+            <block/>
+          </ui>
           <ports>
             <port index="0" channel="0" type="audio" name="Output 1" symbol="audio_out_1"
                   flow="output"/>
@@ -4284,19 +4274,43 @@
                   flow="output"/>
           </ports>
         </node>
+        <node id="7" type="plugin" format="VST" identifier="W:\starring codes\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
+              name="S-YXG2006LE.64" relativeX="0.3792544570502431" relativeY="0.6070726915520629"
+              pluginIdentifierString="VST-S-YXG2006LE.64-93be0be8-0" uuid="a2bf3de18f704b36a9d10bccdc5da5c4"
+              bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
+              transpose="0" delayCompensation="0.0" x="408.0" y="286.0" windowX="133"
+              windowY="116" windowVisible="0" state="160.CMlaKA....fQBMDZ....ATyM2IC...P.....A................................................................................................................................................................................."
+              programState="60.CMlaKA....fQPMDZ....ATyM2IC...P.....A..........................................."
+              program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
+              mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
+              oversamplingFactor="1">
+          <nodes/>
+          <ui>
+            <block/>
+          </ui>
+          <ports>
+            <port index="0" channel="0" type="audio" name=" 1" symbol="audio_out_1"
+                  flow="output"/>
+            <port index="1" channel="1" type="audio" name=" 2" symbol="audio_out_2"
+                  flow="output"/>
+            <port index="2" channel="0" type="midi" name="MIDI" symbol="midi_in_0"
+                  flow="input"/>
+          </ports>
+        </node>
       </nodes>
       <ports/>
       <ui>
-        <GraphEditorView width="1234" height="509" horizontalRangeStart="0.0" verticalRangeStart="0.0"/>
+        <GraphEditorView width="1234" height="509" horizontalRangeStart="0.0" verticalRangeStart="0.0"
+                         zoomScale="1.0" nodePropsVisible="0"/>
       </ui>
       <arcs>
-        <arc sourceNode="5" sourcePort="0" destNode="2" destPort="0"/>
-        <arc sourceNode="5" sourcePort="1" destNode="2" destPort="1"/>
-        <arc sourceNode="6" sourcePort="2084" destNode="5" destPort="2"/>
+        <arc sourceNode="6" sourcePort="2084" destNode="7" destPort="2"/>
+        <arc sourceNode="7" sourcePort="0" destNode="2" destPort="0"/>
+        <arc sourceNode="7" sourcePort="1" destNode="2" destPort="1"/>
       </arcs>
     </node>
   </graphs>
   <controllers/>
   <maps/>
-  <ui content="130.3ocCK2zCBBBF..FNzeGtXe30hzMfYFh5BWWpIIxZ91x2Mi90WO2elwaniPomfdWV+HBu4vD5lv1Q2Bgdc01MrDHUhgiJQS9k.r6SY1iZ4xq8scdMXGVma0RnaP.V44CpBQC2HslpEen3aczDF7JQLDwp+c8SKikLmVdmSH+.znPJ4."/>
+  <ui content="131.3ocAAGsBBBCE..c9PeMA6khUuF1FcMoRoVtK3CVNMWCugMR8uuy4anJXYQQmnZqrtKPCwTev1Gzc1QVT4Bgfuh1lDb6OB2TENZyzYYy0jQDU97WdmeMfsRBaAM1jAnaG30IfYnEvG49pOYp4KiuclIycHNc5vbJ+mnXI+Ii8G.2dobM"/>
 </session>
