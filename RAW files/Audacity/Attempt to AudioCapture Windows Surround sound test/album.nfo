@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<album>
+  <review />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-02-27 09:03:37</dateadded>
+  <title>Windows Built in and pirated</title>
+  <year>2006</year>
+  <premiered>2006-01-01</premiered>
+  <releasedate>2006-01-01</releasedate>
+  <runtime>0</runtime>
+  <genre>Pop</genre>
+  <art />
+  <artist>Microsoft</artist>
+  <albumartist>Microsoft</albumartist>
+  <track>
+    <title>e00005a5</title>
+  </track>
+  <track>
+    <title>e00005d7</title>
+  </track>
+  <track>
+    <title>e00008b0</title>
+  </track>
+  <track>
+    <title>e0000c04</title>
+  </track>
+  <track>
+    <title>e0000cc2</title>
+  </track>
+  <track>
+    <title>e0000cce</title>
+  </track>
+  <track>
+    <title>e0000dba</title>
+  </track>
+  <track>
+    <title>e0000ee2</title>
+  </track>
+  <track>
+    <position>123</position>
+    <title>Audio test ding</title>
+    <duration>00:13</duration>
+  </track>
+</album>
