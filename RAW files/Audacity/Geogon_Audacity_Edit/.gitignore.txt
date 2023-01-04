@@ -1,0 +1,3 @@
+# too many Unity meta files aaaaaaa
+*.meta
+*.META
