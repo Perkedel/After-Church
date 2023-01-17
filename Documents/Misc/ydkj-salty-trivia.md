@@ -1,24 +1,30 @@
 # This is not You Don't Know Jack fanfiction nor OpenJack episode!
+
 But it's within same Perkedel Cinematic Universe.
 
 Instead of using Project OpenJack / Triviatron whatever, this sketch is for another Jack fangames, [Salty Trivia with Candy Barre](https://haitouch.ga/me/salty). Another Open Source\* YDKJ clone. This frameworks also allows custom trivia episode through the [Modification PCK repository system](https://github.com/JapanYoshi/salty_data). Thought we have to reinvent wheels again, but then.. its assets. Only the code are Open Source, assets proprietary, you have to take it off for the modded trivia replace it with yours only. We gonna reinvent the wheel later.
 
 # Begin
+
 ## Lobby
+
 JOELwindows7: Isn't this gonna be exciting, coz we finally have it real, eh?
 
 (funny commercials)
 ## Intro
+
 (Logo)..!
 
-Joel: Ahei, Dasandimian! Welcome to............ Oh wait. wait! we're in different brand? Oh yeah just rember, Man, I've been rehearsed months ago for that game to be modded, I mean my own wheel reinvention. Okay, soo.. (read prompt) Welcome to Salty Trrivvia with JOELwindows7, where H.. Questions are ridiculous but answers are serious! yey!!, I'm your host JOELwindows7 & I'll be here to guide you through... this rather unexpected meeting for today's video. Let's go!
+Joel: Ahei, Dasandimian! Welcome to (about to say `You Don't Know Jack` but it's not)............ Oh wait. wait! we're in different brand? Oh yeah just rember, Man, I've been rehearsed months ago for that game to be modded, I mean my own wheel reinvention. Okay, soo.. (read prompt) Welcome to Salty Trrivvia with JOELwindows7.. me, where H (`High Culture & Pop Culture Collide` but it's not).. Questions are ridiculous but answers are serious! yey!!, I'm your host JOELwindows7 & I'll be here to guide you through... this rather unexpected meeting for today's video. Let's go!
 
 (Player Bar)
 
-Joel: So these are all gamers that we got. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called `Life Saver`. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind. Right, let's get started!!
+Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright, but maybe next time bring some of your friend, AI is fine. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called `Life Saver`. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind. Right, let's get started!!
 
 ## Round 1
+
 ### 1 One. Who's dating Here?
+
 Joel: Let's get started with, (category). Who's dating? Yeah, you already hear this alot. Right now I'm single, idk who would I take. Had one classmate before, 'course can't simp because that time my high school had policy. I mean c'mon, people fell onto this game, and heart broken everyday. Nah, I cannot have that, I did picked something else, and here I am. At a cost of something. well, let's not think about this, God should pick me one, I hope is what I envisioned, so..
 
 > Imagine Sodium Chloride is an anthromorphic being that likes to date somebody **beautiful** in this day. What material should Sodium Chloride date & marry to make the day full of good examples & brings great guidances among Anthromorphimity?
@@ -35,6 +41,7 @@ Joel: You all already know if salt ever becomes.. tasteless.. Yeah no use than t
 (comment: Photon-chan lol)
 
 ### 2 Two. When is the PC Parts?
+
 Joel: Lemme ask you one more time, (category).
 
 > If I have to satisfy my RPG life so that I can upgrade my arsenal and to be able to beat the boss at the end, which weapon blacksmith company should I trust?
@@ -50,7 +57,8 @@ Joel: is it...
 
 Joel: Finally, a company that care with its owner. You already know when things, yeah just think about laptops for now. Anybody noticing laptops to began to be irrepairable or maybe just hard to find, its sparepart? Yeah you got that.
 
-### 3. Three. Where is the 3D Model?! (Dis or Dat)
+### 3 Three. Where is the 3D Model?! (Dis or Dat)
+
 Joel: Right, (category). And oh boy.., It's Dis.. wait. ... Sorta Kinda!!!
 
 (Dis or Dat / Sorta Kinda segue)
@@ -79,7 +87,7 @@ Joel: Great Job, Gamers!
 
 Joel: I've been hoarding 3D models here. So these are just few examples. Every model that is terminally not available publicly breaks my heart. Now if you have some questions or whatever it is about 3D model sharing, I don't have any yet. BUT, longue always opens at [our website 3D models room](https://perkedel.netlify.app/apps/3dmodels) yeah! Go check it out! there's instruction on how to contribute!
 
-### 4. How do I climb this mountain?
+### 4 Four. How do I climb this mountain?
 
 Joel: This thing so high! (category)? Well, speaking of wielding weapons..
 
@@ -92,7 +100,7 @@ Joel: This thing so high! (category)? Well, speaking of wielding weapons..
 
 Joel: Okay. let's be clear. I really wish these 2 companies sells in Indonesia. I don't want it to be constrained by the marketing & appeal cost here. It's matter. everything this is matter. I mean, with due respect to repair people out there, they also have that kind of stress here, hunting stuffs needed & also facing murder threats from those company they're fixing client's device on, yeah. No need to tell further, but just ask Louis Rossmann if you'd like to know more.
 
-### 5. Why has to be that guy (Taper Jokes / Candy Trivia)
+### 5 Five. Why has to be that guy (Taper Jokes / Candy Trivia / Fortune Cookie?)
 
 Robot: Here are retypes, no recovery. Pls buy Joel new PC parts to prevent this happening again
 
@@ -104,7 +112,7 @@ Joel: Once upon a time, we had this candy pack that each of the wrapper had joke
 
 Joel: Yep, they got me. Speaking about Lizard,
 
-> Supposed a furry convention center takes place at an entire planet scale. What costume design that would be considered Ultra Uber Rare?
+> Supposed a furry convention expo takes place at an entire planet scale. What costume design that would be considered Ultra Uber Rare?
 
 (provided that convetino for entire planet)
 
@@ -115,4 +123,325 @@ Joel: Is it..
 - Manggarai (Answer). This brand new costume design is based after Komodo dragon. an endemic reptile species only found in Indonesia. Manggarai because the preservation site National Komodo Park, Komodo Island is located at District Manggarai, Nusa Tenggara Timur. This species is of course you guessed it, very rare & vulnerable.
 - Bengkulu. Wait, are we having plant based costume design now? Wonder how does Rafflesia chan would look like.
 
-# 6.
+Joel: Folks, initially I would take a rat design, coz I like rat or mouse back then. No no no! the cute rat, yess! ... But you see, my Shio happens to be rabbit, and.. I'm confused. So, let's pick a rat, idk what further design, should be blue, handsome but cute too, any commision and any enough money at no priority, begin. What do you think? Oh yeah some latex (interupted) too, what the peck? I'm not done yet!
+
+### 6 Six. What's Happening Here?
+
+Joel: Okay. (category)?
+
+> Yeah What Happened? As of this time? (2023)
+
+Joel: is it..
+
+- Your battery is fully charged. Oh, wait, forgot, thancc for remember.
+- Your Harddisk ran out of disk space!. I know! .... Give me money! my mom forbids me buying another one!
+- Your BackBlaze Free trial has been expired!. Handling this out, I think I should immediately trust them as bi-annual, because this was the only one we had, and the best of only it is.
+- Your rabbit has escaped from its cage! (answer). This year, in 2023, the Shio is now Rabbit. People born with Shio will receive various advantages this year.
+
+Joel: I mean, you people still believes in Shio? No no, not to offend, just asking. Up to you, I'm just not into, I believe in God. Ah damn it. I think I'm gonna be quote retweeted & probably be mass reported. Elon Musk I think left, and nobody can sit here with me. This could destroy my whole reason why I have this such username. I was signing up, names got used, I thought what Windows I had back then, oh that works? yeah.
+
+## End Round Score
+
+Joel: Say goodbye to round 1, we leave them, we passed them, applause everybody! .... Oh, no applause SFX I could have at the moment, lol! And here's the score!
+
+(score)
+
+Joel: Player (number) is the highest one right now, But apologize there is no applauser once again. Maybe you can buy this in Tokopedia or Shopee, who knows. Well, that's here right now, we'll be right back, after this one, stay tuned!
+
+(close for ad)
+
+## Ad
+
+(ad)
+
+## Round 2
+
+Joel: Ahei Dasandimian back in here again. Now we are in round 2, giving you even more further questions down the road. Have fun.
+
+(Lifesaver)
+
+Joel: (not been used) And it appears you did not used it | (used) And it appears you no longer had it. Right, here's life saver again, and for the next to the end before final, use it so you can answer later after 2, again if other player did not used it, then you who used it can pick later after out of 2 when others did out of 4. Simple as that. Nothing different!
+
+(Double)
+
+Joel: and oh yess, the points here will be doubled. So grab them all right as much as you can, to get in the position & buy yourself some great stuffs! Let's.... begin!
+
+### 7 Seven. Empowering Motivations (Back to Basic)
+
+Joel: Let me read one of the, (category).
+
+(segue)
+
+Joel: Right, the quote is..
+
+> *Triangle in math is good, but not for love*. How much **power** needed in order to reach from one side to another?
+
+Joel: is it..
+
+- 100000 Joules. uhh, not enough, we need more!
+- 200000 Joules (answer). in Pytagorean theorem, the basic formula of triangle, considering edges are labeled `a`, `b`, & `c`, is `c^2 = a^2 + b^2`. that power of `2` is the one you should think about when you'd like to figure out different edge length based on at least two of those known lengths, where `c` is the longest ones usually.
+- 300000 Joules. TOO MUCH! we would over travel through dimensions!
+- 400000 Joules. Oh hell, nope! that's way too far.
+
+Joel: I hate maths. you all must be too, I think. I mean look, if only we were taught gamified way, nothing like this would happen. Seriously, those teacher can only give memorizations instead of proceduralization ways mentally. What the hell, people? Am I right?
+
+### 8 Eight. Pecking hell! it's paid!!
+
+Joel: I want this, but (category)! It's time for Sorta Kinda!
+
+(segue)
+
+Joel: Speaking of 3D Model here, We have replaced ones that didn't have download link, still not include reuploads & lost. Now you got all 7 downloadable, but some of them are:
+
+- Free to Download
+- Pay or Subscribe to Download, or
+- BOTH
+
+Joel: Be fast, 5 seconds. If you think `Gratis`, press `LEFT`. If it is `Paywalled`, press `RIGHT`. or if it is `BOTH`, press `UP`! Great luck, begin!
+
+(Dis = Sorta; Dat = Kinda)
+
+- Protegen. Dat. Nukude https://nukude.gumroad.com/l/ueLiW https://booth.pm/ja/items/2048160
+- Shantae. BOTH. Rafa Knight's https://www.patreon.com/rafaknight is $0 now (formerly paid), while ultima8nik's new version is paid unlike first version (so, formerly Gratis technically)
+- Krystal. Dis. WarefareMachine (Victor Suarez) https://www.patreon.com/posts/ultimate-model-54069196
+- Bullied Blind Girl. Dat. popopoka_ https://www.patreon.com/m/5047264
+- Boyfriend FNF. Dat. Cally3D / CryptiaCurves Sketchfab https://skfb.ly/oouA
+- Yakko Warner. Dis. JCThornton https://www.patreon.com/jcthornton/posts
+- Zoblatos. Dis. JOELwindows7, After-Church blender folder
+
+Joel: Wow!! Amazing Awesome!
+
+(music finishing & finishes)
+
+Joel: I've been spending alot here these days. one of them is that. ... ... I guess I cannot talk about this, coz this topic after all is controvercial. We're gonna talk soon later in years idk. Man, when is the final Chapter Deltarune again? nobody knows yet, it's way early here, only just 2 chapters at the moment.
+
+Zoblatos (use TTS): Ahei.
+
+Joel: Ah, there he is. This is Zoblatos. Zoblatos, here's gamers.
+
+Zoblatos: Hello, gamers.
+
+Joel: He'll be the tour guide on the later game that involves those Trio, so stay tuned. 'Kay, moving on!
+
+### 9 Nine. Fidgeting
+
+Joel: Let's have a look at, (category).
+
+> What limbs fidgets **DOES NOT** have as of 2023?
+
+Joel: is it...
+
+- Atlas. I think you forgot the need of precision of Analog Stick.
+- Tactility. If there is no Button, Then what do you use to navigate to menus then? imagine on it?
+- Glide. If Douglas Egelbart wasn't here, we wouldn't have a mouse or something that points certain thing here then.
+- Glass (answer). As of 2023, fidget cubes & many module fidgets on the market never have Magnifying glass on them because they are not part of the fidgeting fun.
+
+Joel: Seriously, no idea what fun fiddling with magnifier? Well I used to play around with things I can look through it, and then that's it. what else?
+
+### 10 Ten. Sample Files (Thousand Questions Questions / High Stake Fast)
+
+Joel: Hey, take a look at these (Sample Files)!
+
+(segue)
+
+Joel: In this type question, you get the regular 4 choices question. But instead of simultaneous, there's only one that buzzed in quick, wins the bucks. Gotta be quick, because more you let go, more you lost. Simple? | (skipped) Oh okay, hope other players know that too. alright, begin..
+
+> As of 2023, Microsoft has 3 MIDI samples located somewhere in the system folder. In order to get these, You will need to acquire yourself the Windows Operating system. Note, only since Windows ME & 2000 (the NT version of it) does indeed have these examples, no, I mean ME & Windows XP yess, that do have `Flourish.mid`, `Onestop.mid`, & `Town.mid`. Then after you installed these on a virtual machine, navigate to `C:`, Backslash, `WINDOWS`, Backslash..
+
+Joel: dot dot dot,
+
+..
+..
+
+Joel: Hey, where's the thing? Oh, wait.. (reveal choices)
+
+- `media` (answer). the sample MIDI of `Flourish.mid`, `Onestop.mid`, & `Town.mid` are located at the same directory where the system sounds at `C:\Windows\media`.
+- `SysWOW64`. Mirror Mirror on the wall, who is the smartest people? .... Okay, looks like you have 32 Bit Sparsdated Copy of Windows, amirite?
+- `System32`. This folder is only contains libraries. Perhaps you never explored on what you used everyday, Earth people? or not.., Earth people use Windows, Dasandimians here use Linux or any UNIXes, I get it.
+- `common`. (old spice whistle)
+
+Joel: Turns out Dasandimians are also proficient at Windows. It's because they're forced too, back then apps are not as great or not popular in UNIX. Windows did took the winning for the desktop side & UNIX was, way too expensive, niche, too servery texty & Linux whose a derivative of a derivative (Minix, a UNIX derivative; so Linux derives from Minix which derives from Unix, unlike BSD which directly derives from UNIX), relatively backed over, just a kernel, not a distro yet, and it's still way too CD until Slackware coming right up, the rest is history. Hey, if you'd like to get MIDI that Windows did have but don't have resource just to get it done, head over here at [(QR Code `https://sites.google.com/site/musiccurios/home`)](https://sites.google.com/site/musiccurios/home) . yeah! Oh, the OneDrive extra is gone, keep that in mind. Don't lose that QR code, screenshot it now coz you're not going to get it again & probably the chat will detect URL as spam.
+
+### 11 Eleven. Nobehe
+
+Joel: Okehhhh look at this, (category). .... hmm this question, it appears that we are running out of creativity here. I shall read,
+
+> If a room has to be compacted to fit between the mirror on the wall, what items should be ommited in the packaging?
+
+- A slew of cosmetic boxes (answer). To make a gaming laptop can fit at least keyboard with a numpad, the repeating keys that will be ommited would be you guess it, the action buttons such as `Delete`, `Page up` `Page down`, `Home` `End`, & more around the above of the arrow keys, except of course the arrow keys themselves. Now they are one within those numpad, & alternate number keys.
+- A slew of Cupboard. Now how do you supposed to store those delicate outfits then?
+- A slew of ornaments. Nobody would throw away any limited edition beautiful plate (piring cantik)!
+- A slew of utensils. Hear me out, I hate eating rice with hand. disgusting! It was, because there is no money back then, but now reasons are like possibility & simplicity. Like ew! we can have spoon & fork now! it is not colonialism anymore, it's no longer special!.. idk.. okeh, too controvercial, forgive me. 
+
+Joel: Look. This is gotta be interesting here. It's been hard to find laptop that has numpad built in. Of course, only expensive laptop or a gaming laptops at any budget do have one. Why not all of the Laptop? Ah I see, because not fit, you can't just shrink the key size & call it a day, fingers do not shrink, at least that's what most beings are, not all user are slime whose finger can be adjusted dynamically. Okay, enough? Well is that it? Oh, going to twelve? Yeah uh.. in previous game, last one only had 10 before the finals. yeah, now here there are 12?? wow.. okay, cool.. then we must be unprepared?
+
+Zoblatos: Don't worry, Kaorfa. I'll handle this. Question 12 ready, and now making the finals.
+
+Joel: Huh ready? Oh cool! that's great! left 13th?
+
+Zoblatos: Yes, please wait, I am thinking of a question.
+
+Joel: Cool and good. Let's see 12.
+
+### 12 Twelve. Connect to the Astral plane with Radeon (All Outa Salt / Gibberish Question)
+
+Joel: On your left, we have.. (category)! huh? lol what?
+
+(segue)
+
+Joel: I'm going to give you a quote, a very random quote, in which it actually rhymes with the real quote. GOtta be quick, buzz in if you know what to type, because more you let go, more you lost. If you have no idea, I'll give you clue quarter of the way, so it's 3 of them before timeout. Disclaimer though, even though its said by my accent does not mean it goes by for what you mean at all, alright..| (skipped) Oh, sorry, yeah let's get this quick.
+
+(Smart remote check)
+
+Joel: (All remote with display) Wow, all players uses smart remote, great! this gotta be easier, simultaneous. just type in as soon you know, no interupt.
+
+Joel: (any of them did not use remote with display, highlight those player) Whoops, some or all of you, did not use remote that has display in it. Unfortunately, this will be turn by turn. So buzz in 1st before you answer.
+
+Joel: Okay,
+
+> What does this `Game Title` rhymes with?
+
+> Ow, Connect Astral
+
+..
+
+- Available on Steam & Epic Games
+- Promotes PS5 capability early
+- Has Female hero as the main character
+
+Answer = `Kena: Bridge of Spirit`, typed `Kena bridge of spirit` or `kena`
+
+Joel: (fail) Oh man, it was one of the 3rd party title that promotes PS5, did you missed out `Ow, Connect Astral`? it's this! (answer)
+
+Joel: (did it) That's right! it's (answer)
+
+Joel: Kena, along with other Ray Trace games was one of the game that promotes PS5 graphic capabilities at launch. You play as a female hero named Kena and.. damn it haven't played it yet.
+
+Zoblatos: To help Joel play this heavy game & stream it to Odysee, please donate to Kaorfa at [`https://perkedel.netlify.app/apps/donate`](https://perkedel.netlify.app/apps/donate ) so that he can buy PC parts & upgrade whenever more. The goal of this campaign is IDR 100 Million.
+
+Joel: Okay, you've just shooked everybody, I think I shouldn't reveal that amount, sorry folks, but honestly I want the highest end of all. Ryzen 9 7950X, Radeon 7000 thousand thousand XTX, gotta see that later, point it, I want the maximum end. Can't budget at all if I gotta stream. ... Okay, real clear, it's possible, vtuber does it, 1080? yeah 1080, break pixelated, but who's for 4K anyways, you don't have good internet connections anyways. Okay, is that it? ... Zoblatos, is the finals ready? No mention trademark.
+
+Zoblatos: The Finals are ready, Kaorfa. Rocc, and lodded.
+
+Joel: Cool and good! go quick, we must apply this now!
+
+Zoblatos: Are you sure?
+
+Joel: idk, just yess!
+
+### 13 Thirteen. SUGAR RUSH / JACK ATTACK
+
+(segue)
+
+Joel: (creepy Jack attack tone) Be ready for J (almost saying `Jack attack`).. Sugar Rush. Read the prompt center & turn on & off which correct boxes. Win cash you correct, but lost if wrong. As always, *ReMEMbER THe CLue*. It is none other than this clue.. | (skipped) Oh I'm sorry, Spoke too much, heh. Here's clue.. 
+
+> Parrot repeats what's owner said
+
+Joel: "Repeat as I say.". Begin, great luck.. (that's the attack) wait, Oh no, (Cookie's Shut it off impression) ZOblatos what is this?
+
+#### 1. pick contains `Windsor Castle`
+
+- Windsor Castle. ON
+- Castle. ON
+- Windosr.
+- Windor.
+- Queen Elizabeth
+- Windsor. ON
+
+#### 2. pick does not contain `Linux`
+
+- TrueNAS. ON
+- Ubuntu Linux.
+- Debian. ON
+- TrueNAS Scale. ON
+- Linspire. ON
+- Windows Subsystem for Linux.
+
+#### 3. pick exactly `Android`
+
+- Replicant.
+- eOS.
+- Android. ON
+- Cyanogen.
+- Lineage.
+- Android-x86.
+
+#### 4. pick any `lato` & no other spelling of repeat
+
+- lato-lato. ON
+- lato. ON
+- lato lato. ON
+- latto lato.
+- latto latto.
+- lato latto.
+
+#### 5. pick any `nothing`
+
+- nothing. ON
+- NOTHING. ON
+- this is none
+- Nothing Phone. ON.
+- null.
+- empty.
+
+## Final Score
+
+(segue)
+
+Joel: (the player in 1st place) PLAYER (number) takes it!
+
+Joel: (alone) There you have it.
+
+(theme song begins)
+
+Joel: Well, if you are very good here, that's impossible. I played original episodes before, not yet the OG of the Jack, I'm horrible at it. Point is, you don't get it, coz it's salty! Also, Well, I hope you play this episode pure, did not read this episode's modding sketch here on our Odysee channel beforehand.., or maybe, you played it & memorized the answer last time. Afterall, 
+
+(interupt to logo of silence)
+
+Joel: YOU DON'T KNOW (remember not to `JACK`).... ARGH I did it again! You know what? I think I should rebrand this game, into what am I thinking about. What do you think? ... Okay, sorry, uhhh... Sorry Harry. ... it'sssss, ... a fan (interupt)
+
+(credit)
+
+## Credit
+
+(TheFatRat - Xenogenesis beat drop plays)
+
+(pls credit file!)
+
+# Extra voices
+
+## Lifesaver used
+
+Joel: Ok done. Now big button, green, says: `HOLD`.
+
+Joel: Ok correct. Glyph buttons. small `beta`, small `gamma`, small `rho`, small `theta`. scratch last theta, it's cap `theta`.
+
+Joel: Well make note that you've used it now.
+
+Joel: 
+
+## F888 you (non simultaneous)
+
+Joel: (1) Okay here we go again. Folks, we are in Salty Trivia, and this is not simultaneous mode. Therefore this effects. (minus 50K)
+
+Joel: (2) Okay stop, pls don't do this. That's not funny. .... (nothing happens) and nothing happens, coz it's no longer original.
+
+Joel: (3) Okay, that's it. You got all 3 said so. Folks, the game over here is not the usual anymore. Whenever available, you all will be thrown, all of you, even innocent ones, to Ralsei room. ... Welp, can't be helped. Sorry folks, guess you gotta maybe hear annoying Ralsei's chit chattering here now..
+
+(flash bang, grenening the vision vertically & shrink to to ECG 0)
+
+```text
+GAME
+----  
+OVER
+```
+
+(load scene Ralsei punishment room)
+
+Info: The Ralsei reference is because in YDKJ 2015, naming yourself `F888 You` & get the final progress, will game over to goat in white silence room. Ralsei being a Goat. Also the ECG 0 is a reference to a bug in early YDKJ games at Gibberish F888 You game over. the blackening still left the tense heartbeat SFX sound before the software terminates. Therefore we make this something to arrest the cardiac to keep it make sense while tying back to history.
+
+# End
+
+by JOElwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
