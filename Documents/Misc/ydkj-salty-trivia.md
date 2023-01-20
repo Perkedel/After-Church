@@ -19,7 +19,13 @@ Joel: Ahei, Dasandimian! Welcome to (about to say `You Don't Know Jack` but it's
 
 (Player Bar)
 
-Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright, but maybe next time bring some of your friend, AI is fine. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called `Life Saver`. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind. Right, let's get started!!
+Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright, but maybe next time bring some of your friend, AI is fine. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called **`Life Saver`**. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind. 
+
+Joel: (More than 1 player) Since you are so many here, Let's spice the games up with **`Nails`** (old screw)! Yeah, think we would omit those classics? Nope, won't be, it's just kidding, finally figured out, we still have it. In case you didn't know, (appear instruction) you simply use it by holding both bumpers, hold `UP`, & then release the bumpers, Now choose your victim quickly, and once you selected one of them, they'll be forced to answer in 5 second, pretty cool right? they wrong, you got cash. yeah! Remember, 1 out 12.
+
+Joel: (All players uses remote with display) Oh look, All players are using smart remote! Well, I'll give you one more power ups! It's this **`Smoke Bomb`** (Full stream screw)! Like `Nails`, but all players will have various types or random difficulties! You just hold both bumpers, but then this time, hold `RIGHT`. Release bumpers to detonate! All players but your answering display will be bugged out, & some bug will cause physical answering buttons to be disabled, touch screen only. Every players wrong, gives you bonuses each. Crazy right? 1 out of 12, gotta be quick before other players got used it. | (just one player out of all did not use remote with display) Oh looo.. .. wait, that one. Didn't have smart remote. Well unfortunately, I cannot activate this powerup. So you left with 2 powerups now. `Smoke Bomb`s requires all player using a remote that has its own display in it, so the effect applies within the screen. How the effect supposedly apply physically?, considering it's complicated. If we put it on this big screen, yourself will also have this annoyances. So, sorry, we had to be fair. Although if you have suggestion, let us know after the game. Okeh?
+
+Joel: Right, let's get started!!
 
 ## Round 1
 
@@ -439,6 +445,81 @@ OVER
 (load scene Ralsei punishment room)
 
 Info: The Ralsei reference is because in YDKJ 2015, naming yourself `F888 You` & get the final progress, will game over to goat in white silence room. Ralsei being a Goat. Also the ECG 0 is a reference to a bug in early YDKJ games at Gibberish F888 You game over. the blackening still left the tense heartbeat SFX sound before the software terminates. Therefore we make this something to arrest the cardiac to keep it make sense while tying back to history.
+
+## Nails (Old Screw)
+
+Joel: Oohp, player (number) coming up their `Nail`!
+
+Joel: (selected) Oh no player (number victim) you got nailed, 5 seconds! | (selected own) Oh no yourself you footed yourself, 5 seconds!
+
+(check answer)
+
+Joel: (victim wrong) Welp, that's unfortunate. (wait for victim shot with nailgun to death)...., (animation finished) You Nailed em, player (number), here's your cash (give cash, & put to break the player until next). Hey rest of you, why not you go continue get the answer?
+
+Joel: (victim correct) Wow, they dodged it. Unfortunately, player (number), karma is karma. (wait for bounce the nail gun back to player & then explode animation)..., Welp, this already is the correct answer. (ONLY IF there is unselected sponsored wrong answer) Hey, I think I still smell something. Got get find which one was it! | (no sponsored wrong answer) Right, moving on!
+
+## Smoke Bombs (Full stream screw)
+
+Joel: Wuohp, Fire in the hole!
+
+(explodos)!!
+
+Joel: Player (number) has exploded their only bomb,
+
+(below sections)
+
+(question finished)
+
+Joel: Nice blasting, player (number). Here all of the cash.
+
+### Password (repeat as said)
+
+Joel: Hope you remember your password.
+
+### 2FA (changing type numbers)
+
+Joel: Hope you didn't lose your 2FA token.
+
+### Pattern (Android pattern lock)
+
+Joel: Hope you can guess your pattern there.
+
+### Size small
+
+Joel: Hope you don't mind trying to read some fine prints
+
+### Size big
+
+Joel: Hope you don't mind trying to read overbloated text
+
+### DVD corner screensaver (answer bounce like screensaver)
+
+Joel: Let's see whose DVD logo hits the corner.
+
+### Mirrored
+
+Joel: Mirror, mirror on the wall. Who's the most genius & also the most desperate player in this game?
+
+### License Agreement (the agree button is only after you fully scrolled the long post)
+
+(GNU GPL v3, CC4.0-BY-SA full deed, and extra mumbles)
+
+Joel: Well, who's having time to answer, when you have to agree with the license first, lmao!
+
+(press down multiple time to scroll down until you get to agree button)
+
+### Penalty (witheld for until 5 seconds left before able to answer)
+
+Joel: Well, penalty is no fun, right?
+
+### Blind
+
+Joel: The display down, your display. And nope still, physical buttons also don't work. But you can still blindly press answer on the touch screen.
+
+### Minimized
+
+Joel: And Whoops, I think your remote went to home screen. reopen the remote app again!
+
 
 # End
 

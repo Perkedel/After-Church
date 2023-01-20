@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="missing_3dModel.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="missing_3dModel.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.79285915"
+     inkscape:cx="402.97195"
+     inkscape:cy="536.66531"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid134"
+       empspacing="64" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid136"
+       empspacing="128" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9821">
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="rect242"
+         width="128"
+         height="128"
+         x="0"
+         y="-256"
+         inkscape:tile-cx="64"
+         inkscape:tile-cy="64"
+         inkscape:tile-w="128"
+         inkscape:tile-h="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1299"
+         width="128"
+         height="128"
+         x="0"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1301"
+         width="128"
+         height="128"
+         x="0"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1303"
+         width="128"
+         height="128"
+         x="0"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1305"
+         width="128"
+         height="128"
+         x="0"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1307"
+         width="128"
+         height="128"
+         x="0"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1309"
+         width="128"
+         height="128"
+         x="0"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1311"
+         width="128"
+         height="128"
+         x="0"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1313"
+         width="128"
+         height="128"
+         x="0"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1315"
+         width="128"
+         height="128"
+         x="128"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1317"
+         width="128"
+         height="128"
+         x="128"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1319"
+         width="128"
+         height="128"
+         x="128"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1321"
+         width="128"
+         height="128"
+         x="128"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1323"
+         width="128"
+         height="128"
+         x="128"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1325"
+         width="128"
+         height="128"
+         x="128"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1327"
+         width="128"
+         height="128"
+         x="128"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1329"
+         width="128"
+         height="128"
+         x="128"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1331"
+         width="128"
+         height="128"
+         x="256"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1333"
+         width="128"
+         height="128"
+         x="256"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1335"
+         width="128"
+         height="128"
+         x="256"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1337"
+         width="128"
+         height="128"
+         x="256"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1339"
+         width="128"
+         height="128"
+         x="256"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1341"
+         width="128"
+         height="128"
+         x="256"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1343"
+         width="128"
+         height="128"
+         x="256"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1345"
+         width="128"
+         height="128"
+         x="256"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1347"
+         width="128"
+         height="128"
+         x="384"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1349"
+         width="128"
+         height="128"
+         x="384"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1351"
+         width="128"
+         height="128"
+         x="384"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1353"
+         width="128"
+         height="128"
+         x="384"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1355"
+         width="128"
+         height="128"
+         x="384"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1357"
+         width="128"
+         height="128"
+         x="384"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1359"
+         width="128"
+         height="128"
+         x="384"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1361"
+         width="128"
+         height="128"
+         x="384"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1363"
+         width="128"
+         height="128"
+         x="512"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1365"
+         width="128"
+         height="128"
+         x="512"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1367"
+         width="128"
+         height="128"
+         x="512"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1369"
+         width="128"
+         height="128"
+         x="512"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1371"
+         width="128"
+         height="128"
+         x="512"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1373"
+         width="128"
+         height="128"
+         x="512"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1375"
+         width="128"
+         height="128"
+         x="512"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1377"
+         width="128"
+         height="128"
+         x="512"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1379"
+         width="128"
+         height="128"
+         x="640"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1381"
+         width="128"
+         height="128"
+         x="640"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1383"
+         width="128"
+         height="128"
+         x="640"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1385"
+         width="128"
+         height="128"
+         x="640"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1387"
+         width="128"
+         height="128"
+         x="640"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1389"
+         width="128"
+         height="128"
+         x="640"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1391"
+         width="128"
+         height="128"
+         x="640"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1393"
+         width="128"
+         height="128"
+         x="640"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1395"
+         width="128"
+         height="128"
+         x="768"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1397"
+         width="128"
+         height="128"
+         x="768"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1399"
+         width="128"
+         height="128"
+         x="768"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1401"
+         width="128"
+         height="128"
+         x="768"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1403"
+         width="128"
+         height="128"
+         x="768"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1405"
+         width="128"
+         height="128"
+         x="768"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1407"
+         width="128"
+         height="128"
+         x="768"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1409"
+         width="128"
+         height="128"
+         x="768"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1411"
+         width="128"
+         height="128"
+         x="896"
+         y="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1413"
+         width="128"
+         height="128"
+         x="896"
+         y="128"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1415"
+         width="128"
+         height="128"
+         x="896"
+         y="256"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1417"
+         width="128"
+         height="128"
+         x="896"
+         y="384"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1419"
+         width="128"
+         height="128"
+         x="896"
+         y="512"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1421"
+         width="128"
+         height="128"
+         x="896"
+         y="640"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ffff;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1423"
+         width="128"
+         height="128"
+         x="896"
+         y="768"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+      <rect
+         style="fill:#00ff00;fill-opacity:0.5;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+         id="use1425"
+         width="128"
+         height="128"
+         x="896"
+         y="896"
+         inkscape:tile-x0="0"
+         inkscape:tile-y0="0" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#333333;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5083"
+       sodipodi:sides="4"
+       sodipodi:cx="-730"
+       sodipodi:cy="591.25"
+       sodipodi:r1="120.41595"
+       sodipodi:r2="85.146935"
+       sodipodi:arg1="-2.2974387"
+       sodipodi:arg2="-1.5120405"
+       inkscape:flatsided="true"
+       inkscape:rounded="-0.736399"
+       inkscape:randomized="0"
+       d="m -810,501.25 c -93.72829,83.31404 253.31404,103.72829 170,10 -83.31404,-93.72829 -103.72829,253.31404 -10,170 93.72829,-83.31404 -253.31404,-103.72829 -170,-10 83.31404,93.72829 103.72829,-253.31404 10,-170 z"
+       inkscape:transform-center-x="20.949453"
+       inkscape:transform-center-y="-8.3129643"
+       inkscape:export-filename="C:\Users\ASUS\Documents\starring codes\Unity Projects\Qmoveph_for2DAnimation\Assets\Sprites\MavrickleIcon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(1.2186563,0,0,1.2186563,1401.6191,-208.53052)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="9.7933416"
+       y="105.51774"
+       id="text1755"><tspan
+         sodipodi:role="line"
+         id="tspan1753"
+         x="9.7933416"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="172.70645"
+       y="105.51774"
+       id="text1834"><tspan
+         sodipodi:role="line"
+         id="tspan1832"
+         x="172.70645"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="284.64883"
+       y="105.51774"
+       id="text1888"><tspan
+         sodipodi:role="line"
+         id="tspan1886"
+         x="284.64883"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="412.64883"
+       y="105.51774"
+       id="text1971"><tspan
+         sodipodi:role="line"
+         id="tspan1969"
+         x="412.64883"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="556.70648"
+       y="105.51774"
+       id="text1975"><tspan
+         sodipodi:role="line"
+         id="tspan1973"
+         x="556.70648"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="657.84204"
+       y="105.51774"
+       id="text1979"><tspan
+         sodipodi:role="line"
+         id="tspan1977"
+         x="657.84204"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="790.05487"
+       y="105.51774"
+       id="text1983"><tspan
+         sodipodi:role="line"
+         id="tspan1981"
+         x="790.05487"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="942.53815"
+       y="105.51774"
+       id="text1987"><tspan
+         sodipodi:role="line"
+         id="tspan1985"
+         x="942.53815"
+         y="105.51774"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="649.79333"
+       y="490.31146"
+       id="text9825"><tspan
+         sodipodi:role="line"
+         id="tspan9823"
+         x="649.79333"
+         y="490.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="812.70648"
+       y="490.31146"
+       id="text9829"><tspan
+         sodipodi:role="line"
+         id="tspan9827"
+         x="812.70648"
+         y="490.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="924.64886"
+       y="490.31146"
+       id="text9833"><tspan
+         sodipodi:role="line"
+         id="tspan9831"
+         x="924.64886"
+         y="490.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="28.648785"
+       y="489.51773"
+       id="text9837"><tspan
+         sodipodi:role="line"
+         id="tspan9835"
+         x="28.648785"
+         y="489.51773"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="172.70644"
+       y="489.51773"
+       id="text9841"><tspan
+         sodipodi:role="line"
+         id="tspan9839"
+         x="172.70644"
+         y="489.51773"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="273.84198"
+       y="489.51773"
+       id="text9845"><tspan
+         sodipodi:role="line"
+         id="tspan9843"
+         x="273.84198"
+         y="489.51773"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="406.05484"
+       y="489.51773"
+       id="text9849"><tspan
+         sodipodi:role="line"
+         id="tspan9847"
+         x="406.05484"
+         y="489.51773"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="558.53815"
+       y="489.51773"
+       id="text9853"><tspan
+         sodipodi:role="line"
+         id="tspan9851"
+         x="558.53815"
+         y="489.51773"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="905.23322"
+       y="234.31146"
+       id="text2098"><tspan
+         sodipodi:role="line"
+         id="tspan2096"
+         x="905.23322"
+         y="234.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="44.706463"
+       y="234.43356"
+       id="text2102"><tspan
+         sodipodi:role="line"
+         id="tspan2100"
+         x="44.706463"
+         y="234.43356"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="156.64886"
+       y="234.43356"
+       id="text2106"><tspan
+         sodipodi:role="line"
+         id="tspan2104"
+         x="156.64886"
+         y="234.43356"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="284.64886"
+       y="234.43356"
+       id="text2110"><tspan
+         sodipodi:role="line"
+         id="tspan2108"
+         x="284.64886"
+         y="234.43356"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="428.70645"
+       y="234.31146"
+       id="text2114"><tspan
+         sodipodi:role="line"
+         id="tspan2112"
+         x="428.70645"
+         y="234.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="529.84204"
+       y="234.31146"
+       id="text2118"><tspan
+         sodipodi:role="line"
+         id="tspan2116"
+         x="529.84204"
+         y="234.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="662.05487"
+       y="234.49463"
+       id="text2122"><tspan
+         sodipodi:role="line"
+         id="tspan2120"
+         x="662.05487"
+         y="234.49463"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="814.53815"
+       y="233.51775"
+       id="text2126"><tspan
+         sodipodi:role="line"
+         id="tspan2124"
+         x="814.53815"
+         y="233.51775"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="777.23322"
+       y="362.31146"
+       id="text2239"><tspan
+         sodipodi:role="line"
+         id="tspan2237"
+         x="777.23322"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="940.1463"
+       y="362.31146"
+       id="text2243"><tspan
+         sodipodi:role="line"
+         id="tspan2241"
+         x="940.1463"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="28.648867"
+       y="362.31146"
+       id="text2247"><tspan
+         sodipodi:role="line"
+         id="tspan2245"
+         x="28.648867"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="156.64886"
+       y="362.31146"
+       id="text2251"><tspan
+         sodipodi:role="line"
+         id="tspan2249"
+         x="156.64886"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="300.70648"
+       y="362.31146"
+       id="text2255"><tspan
+         sodipodi:role="line"
+         id="tspan2253"
+         x="300.70648"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="401.84204"
+       y="362.31146"
+       id="text2259"><tspan
+         sodipodi:role="line"
+         id="tspan2257"
+         x="401.84204"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="534.05487"
+       y="362.31146"
+       id="text2263"><tspan
+         sodipodi:role="line"
+         id="tspan2261"
+         x="534.05487"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="686.53815"
+       y="362.31146"
+       id="text2267"><tspan
+         sodipodi:role="line"
+         id="tspan2265"
+         x="686.53815"
+         y="362.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="521.23322"
+       y="618.31146"
+       id="text9857"><tspan
+         sodipodi:role="line"
+         id="tspan9855"
+         x="521.23322"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="684.70648"
+       y="618.31146"
+       id="text9861"><tspan
+         sodipodi:role="line"
+         id="tspan9859"
+         x="684.70648"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="796.64886"
+       y="618.31146"
+       id="text9865"><tspan
+         sodipodi:role="line"
+         id="tspan9863"
+         x="796.64886"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="924.64886"
+       y="618.31146"
+       id="text9869"><tspan
+         sodipodi:role="line"
+         id="tspan9867"
+         x="924.64886"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="44.706371"
+       y="618.31146"
+       id="text9873"><tspan
+         sodipodi:role="line"
+         id="tspan9871"
+         x="44.706371"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="145.84196"
+       y="618.31146"
+       id="text9877"><tspan
+         sodipodi:role="line"
+         id="tspan9875"
+         x="145.84196"
+         y="618.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="278.05478"
+       y="618.49463"
+       id="text9881"><tspan
+         sodipodi:role="line"
+         id="tspan9879"
+         x="278.05478"
+         y="618.49463"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="430.53812"
+       y="617.51776"
+       id="text9885"><tspan
+         sodipodi:role="line"
+         id="tspan9883"
+         x="430.53812"
+         y="617.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="393.23315"
+       y="745.51776"
+       id="text9889"><tspan
+         sodipodi:role="line"
+         id="tspan9887"
+         x="393.23315"
+         y="745.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="556.1463"
+       y="745.51776"
+       id="text9893"><tspan
+         sodipodi:role="line"
+         id="tspan9891"
+         x="556.1463"
+         y="745.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="668.64886"
+       y="746.43359"
+       id="text9897"><tspan
+         sodipodi:role="line"
+         id="tspan9895"
+         x="668.64886"
+         y="746.43359"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="796.64886"
+       y="746.43359"
+       id="text9901"><tspan
+         sodipodi:role="line"
+         id="tspan9899"
+         x="796.64886"
+         y="746.43359"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="940.70648"
+       y="746.31146"
+       id="text9905"><tspan
+         sodipodi:role="line"
+         id="tspan9903"
+         x="940.70648"
+         y="746.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="17.841991"
+       y="745.51776"
+       id="text9909"><tspan
+         sodipodi:role="line"
+         id="tspan9907"
+         x="17.841991"
+         y="745.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="150.05486"
+       y="745.51776"
+       id="text9913"><tspan
+         sodipodi:role="line"
+         id="tspan9911"
+         x="150.05486"
+         y="745.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="302.53812"
+       y="745.51776"
+       id="text9917"><tspan
+         sodipodi:role="line"
+         id="tspan9915"
+         x="302.53812"
+         y="745.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="265.23315"
+       y="873.51776"
+       id="text12433"><tspan
+         sodipodi:role="line"
+         id="tspan12431"
+         x="265.23315"
+         y="873.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="428.1463"
+       y="873.51776"
+       id="text12437"><tspan
+         sodipodi:role="line"
+         id="tspan12435"
+         x="428.1463"
+         y="873.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="540.64886"
+       y="874.43359"
+       id="text12441"><tspan
+         sodipodi:role="line"
+         id="tspan12439"
+         x="540.64886"
+         y="874.43359"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="668.64886"
+       y="874.43359"
+       id="text12445"><tspan
+         sodipodi:role="line"
+         id="tspan12443"
+         x="668.64886"
+         y="874.43359"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="812.70648"
+       y="874.31146"
+       id="text12449"><tspan
+         sodipodi:role="line"
+         id="tspan12447"
+         x="812.70648"
+         y="874.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="913.84204"
+       y="874.31146"
+       id="text12453"><tspan
+         sodipodi:role="line"
+         id="tspan12451"
+         x="913.84204"
+         y="874.31146"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="22.054852"
+       y="873.51776"
+       id="text12457"><tspan
+         sodipodi:role="line"
+         id="tspan12455"
+         x="22.054852"
+         y="873.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="174.53813"
+       y="873.51776"
+       id="text12461"><tspan
+         sodipodi:role="line"
+         id="tspan12459"
+         x="174.53813"
+         y="873.51776"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="137.23317"
+       y="1001.5178"
+       id="text12465"><tspan
+         sodipodi:role="line"
+         id="tspan12463"
+         x="137.23317"
+         y="1001.5178"
+         style="fill:#ff00ff;stroke-width:6.54163">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="300.1463"
+       y="1001.5178"
+       id="text12469"><tspan
+         sodipodi:role="line"
+         id="tspan12467"
+         x="300.1463"
+         y="1001.5178"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="412.64886"
+       y="1002.4336"
+       id="text12473"><tspan
+         sodipodi:role="line"
+         id="tspan12471"
+         x="412.64886"
+         y="1002.4336"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="540.64886"
+       y="1002.4336"
+       id="text12477"><tspan
+         sodipodi:role="line"
+         id="tspan12475"
+         x="540.64886"
+         y="1002.4336"
+         style="fill:#ff00ff;stroke-width:6.54163">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="684.70648"
+       y="1002.3115"
+       id="text12481"><tspan
+         sodipodi:role="line"
+         id="tspan12479"
+         x="684.70648"
+         y="1002.3115"
+         style="fill:#ff00ff;stroke-width:6.54163">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="785.84204"
+       y="1002.3115"
+       id="text12485"><tspan
+         sodipodi:role="line"
+         id="tspan12483"
+         x="785.84204"
+         y="1002.3115"
+         style="fill:#ff00ff;stroke-width:6.54163">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="918.05487"
+       y="1002.3115"
+       id="text12489"><tspan
+         sodipodi:role="line"
+         id="tspan12487"
+         x="918.05487"
+         y="1002.3115"
+         style="fill:#ff00ff;stroke-width:6.54163">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:122.111px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff00ff;stroke-width:6.54163"
+       x="46.538128"
+       y="1001.5178"
+       id="text12493"><tspan
+         sodipodi:role="line"
+         id="tspan12491"
+         x="46.538128"
+         y="1001.5178"
+         style="fill:#ff00ff;stroke-width:6.54163">!</tspan></text>
+  </g>
+  <metadata
+     id="metadata138">
+    <rdf:RDF />
+  </metadata>
+</svg>

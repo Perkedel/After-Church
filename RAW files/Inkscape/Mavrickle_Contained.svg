@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="2048"
+   viewBox="0 0 2048 2048"
+   version="1.1"
+   id="svg6170"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Mavrickle_Contained.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview6172"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#0b0813"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.28031804"
+     inkscape:cx="1011.3512"
+     inkscape:cy="1071.9967"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6293"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid6295"
+       empspacing="64" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid6297"
+       empspacing="128" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid6299"
+       empspacing="256" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6167" />
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#333333;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5083"
+       sodipodi:sides="4"
+       sodipodi:cx="-730"
+       sodipodi:cy="591.25"
+       sodipodi:r1="120.41595"
+       sodipodi:r2="85.146935"
+       sodipodi:arg1="-2.2974387"
+       sodipodi:arg2="-1.5120405"
+       inkscape:flatsided="true"
+       inkscape:rounded="-0.736399"
+       inkscape:randomized="0"
+       d="m -810,501.25 c -93.72829,83.31404 253.31404,103.72829 170,10 -83.31404,-93.72829 -103.72829,253.31404 -10,170 93.72829,-83.31404 -253.31404,-103.72829 -170,-10 83.31404,93.72829 103.72829,-253.31404 10,-170 z"
+       inkscape:transform-center-x="167.59518"
+       inkscape:transform-center-y="-66.503906"
+       inkscape:export-filename="C:\Users\ASUS\Documents\starring codes\Unity Projects\Qmoveph_for2DAnimation\Assets\Sprites\MavrickleIcon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(9.7492504,0,0,9.7492504,8140.9527,-4740.2443)" />
+  </g>
+  <metadata
+     id="metadata6291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

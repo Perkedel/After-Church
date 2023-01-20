@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="2048"
+   viewBox="0 0 2048 2048"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ColorFull.svg"
+   inkscape:export-filename="ColorFull.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.39642957"
+     inkscape:cx="597.83633"
+     inkscape:cy="1201.9789"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid686"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid688"
+       empspacing="128" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Symbols"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       id="path846"
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 384,128 c 0,0 -256,2.6e-4 -256,256 v 1280 c 0,0 2.6e-4,256 256,256 h 1280 c 0,0 256,-3e-4 256,-256 V 384 c 0,0 -3e-4,-256 -256,-256 z m 0,128 h 1280 c 127.9999,0 128,128 128,128 v 1280 c 0,127.9999 -128,128 -128,128 H 384 C 256.00013,1792 256,1664 256,1664 V 384 C 256,256.00013 384,256 384,256 Z" />
+    <path
+       style="fill:#ffff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 384,512 c 0,0 0,-128 128,-128 l 1152,1152 c 0,0 0,128 -128,128 z"
+       id="path1081" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+       id="path1143"
+       cx="640"
+       cy="1408"
+       r="256" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1536,1152 c 128,0 128,-128 128,-128 V 512 c 0,-128 -128,-128 -128,-128 h -512 c 0,0 -128,0 -128,128 z"
+       id="path1414"
+       sodipodi:nodetypes="ccscccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Symbols 45">
+    <path
+       id="path1427"
+       style="display:inline;fill:#000000;stroke:none;stroke-width:0.766032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 191.99998,885.33333 c 0,0 -138.666532,138.66687 0,277.33327 L 885.33332,1856 c 0,0 138.66678,138.6666 277.33328,0 L 1856,1162.6666 c 0,0 138.6665,-138.6668 0,-277.33327 L 1162.6666,191.99999 c 0,0 -138.6668,-138.666512 -277.33328,0 z m 69.33333,69.33334 693.33335,-693.33335 c 69.33324,-69.33328 138.66674,0 138.66674,0 l 693.3332,693.33335 c 69.3333,69.33323 0,138.66673 0,138.66673 l -693.3332,693.3332 c -69.3333,69.3333 -138.66674,0 -138.66674,0 L 261.33331,1093.3334 c -69.33326,-69.3333 0,-138.66673 0,-138.66673 z" />
+    <path
+       style="display:inline;fill:#ffff00;stroke:none;stroke-width:0.766032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 399.99998,1093.3334 c 0,0 -69.33333,-69.3334 0,-138.66673 H 1648 c 0,0 69.3334,69.33333 0,138.66673 z"
+       id="path1429" />
+    <circle
+       style="display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.766032;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+       id="circle1431"
+       cx="-294.15643"
+       cy="1742.311"
+       r="196.10428"
+       transform="rotate(-45)" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.766032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1370.6666,816 c 69.3334,-69.33334 0,-138.66667 0,-138.66667 L 1093.3334,399.99999 c -69.3334,-69.33334 -138.66674,0 -138.66674,0 L 677.33332,677.33333 c 0,0 -69.33333,69.33333 0,138.66667 z"
+       id="path1433"
+       sodipodi:nodetypes="ccscccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Watermark">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:18.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:0.25;stroke-dasharray:none"
+       x="80"
+       y="1792"
+       id="text1509"><tspan
+         sodipodi:role="line"
+         id="tspan1507"
+         x="80"
+         y="1792">by JOELLwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1815.3334"
+         id="tspan1511">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1838.6667"
+         id="tspan1513">CC4.0-BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1862.0001"
+         id="tspan1515" /><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1885.3335"
+         id="tspan1517">ColorADD is not Royalty Free! So we tell Admiral Zumi</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1908.6669"
+         id="tspan1519">to create this compatibility alternative, until we can reinvent wheels somehow.</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="1932.0002"
+         id="tspan1521">And so Admiral Zumi goes. Well, his cousin, Heather Lyton. Zumi was busy right now.</tspan></text>
+  </g>
+</svg>

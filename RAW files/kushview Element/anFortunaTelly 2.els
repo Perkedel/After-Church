@@ -7,7 +7,7 @@
           transpose="0" delayCompensation="0">
       <nodes>
         <node id="1" type="plugin" format="Internal" identifier="audio.input"
-              name="Microphone Array (Realtek High Definition Audio)" relativeX="0.25"
+              name="Microphone (Realtek High Definition Audio)" relativeX="0.25"
               relativeY="0.25" numAudioIns="0" numAudioOuts="2" uuid="74ee8027ed9145d083da8ffb04d27d05"
               bypass="1" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
               transpose="0" enabled="1" x="186.5" y="104.25" mute="1" program="0"
@@ -25,11 +25,11 @@
           </ports>
         </node>
         <node id="2" type="plugin" format="Internal" identifier="audio.output"
-              name="Speakers (Realtek High Definition Audio)" relativeX="0.3184764991896272"
-              relativeY="0.7760314341846758" numAudioIns="2" numAudioOuts="0"
+              name="Speakers (Realtek High Definition Audio)" relativeX="0.4813614262560778"
+              relativeY="0.8919449901768173" numAudioIns="2" numAudioOuts="0"
               uuid="0942f8728de84f5e8494e1bc4d8c157a" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127" transpose="0" enabled="1"
-              x="290.0" y="372.0" program="0" midiProgram="0" globalMidiPrograms="0"
+              x="491.0" y="431.0" program="0" midiProgram="0" globalMidiPrograms="0"
               midiProgramsEnabled="0" mute="0" muteInput="0" midiProgramsState=""
               oversamplingFactor="1" delayCompensation="0.0">
           <nodes/>
@@ -88,11 +88,11 @@
           </ports>
         </node>
         <node id="6" type="plugin" format="VST3" identifier="W:\starring codes\JUCE Projects\IvanC-MIDI-Play-Plugin\Builds\VisualStudio2022\x64\Release\VST3\IvanC-MIDI-Play-Plugin.vst3"
-              name="IvanC-MIDI-Play-Plugin" relativeX="0.5" relativeY="0.5"
-              pluginIdentifierString="VST3-IvanC-MIDI-Play-Plugin-49a00000-cfb8649a"
+              name="IvanC-MIDI-Play-Plugin" relativeX="0.5129659643435981"
+              relativeY="0.4007858546168959" pluginIdentifierString="VST3-IvanC-MIDI-Play-Plugin-49a00000-cfb8649a"
               uuid="9757d08ccb694236afa867c3b6c13867" bypass="0" persistent="1"
               renderMode="single" keyStart="0" keyEnd="127.0" transpose="0"
-              x="553.0" y="231.5" windowX="405" windowY="132" windowVisible="0"
+              x="569.0" y="181.0" windowX="641" windowY="115" windowVisible="0"
               state="427.VMjLgHZ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyL13hUMczXWEjKt3hYt3hKt.kKt3hKt3BS5gEcyQjKt3hKvXTR5AkaA4hKtfDTRkFLFk0QXQlPt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtX2Pt3hKt3hKt3hKt3FUUMTUDQEdqw1XmE0UYQTQFM1YAAkKAgDUjYWQwHVdAAkKAwjKtLlKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO.."
               program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
@@ -4277,13 +4277,13 @@
         <node id="7" type="plugin" format="VST" identifier="W:\starring codes\Soundfonted\Jbridged\S-YXG2006LE.64.dll"
               name="S-YXG2006LE.64" relativeX="0.3792544570502431" relativeY="0.6070726915520629"
               pluginIdentifierString="VST-S-YXG2006LE.64-93be0be8-0" uuid="a2bf3de18f704b36a9d10bccdc5da5c4"
-              bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
+              bypass="0" persistent="1" renderMode="single" keyStart="0" keyEnd="127.0"
               transpose="0" delayCompensation="0.0" x="408.0" y="286.0" windowX="133"
               windowY="116" windowVisible="0" state="160.CMlaKA....fQBMDZ....ATyM2IC...P.....A................................................................................................................................................................................."
               programState="60.CMlaKA....fQPMDZ....ATyM2IC...P.....A..........................................."
               program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
               mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
-              oversamplingFactor="1">
+              oversamplingFactor="1" enabled="1">
           <nodes/>
           <ui>
             <block/>
@@ -4297,6 +4297,57 @@
                   flow="input"/>
           </ports>
         </node>
+        <node id="8" type="plugin" format="VST" identifier="W:\kolomorotzzet_(kolmorotshitt)\Artistic_Setups\FalcoSoft\bassmidi_vsti\BassMidiVsti_x64\BassMidiVsti.dll"
+              name="BassMidiVsti" relativeX="0.5899513776337115" relativeY="0.6385068762278978"
+              pluginIdentifierString="VST-BassMidiVsti-d81186c6-42534d44" uuid="8b51d3d7e59f48cfbfcd53e09b239e7c"
+              bypass="1" persistent="1" renderMode="single" keyStart="0" keyEnd="127"
+              transpose="0" delayCompensation="0.0" x="668.0" y="302.0" windowX="109"
+              windowY="189" windowVisible="0" state="3477.CMlaKA....fQBMDZ....AHzTMQD...P.....A..............................................................................................................................................................................C0eE.5..W.rF.uA.a.7F.sAva.HG.uA.c.nG.5APY.PG.eA.J.rF.uA.a.zF.uAfb.7F.zAvb.fF.oA.c.PG.o..W.DD.xA.c.jF.yA.c.jF.iAvW.LE.kA.c.TG.vAvb.vE.DAPc.bG.oAfa.PF.0A.U.fF.gAfb.jF.tA.Y.DF.GAPS.HC.f..J.PD.AAvU.3D.y.PL.PC.o..W.PF.gAvc.3F.yAvY.zF.mAvb.HC.bAvP.7F.rAva.zF.hAva.bD.MAvQ.LE.x.fK.LG.lAfL.................................................................................................................................................................................................................................................................................................................................................................................................................................PF...P.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................jAP............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................Y.H...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................PF.C...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................jA.A...........f+....9C...3O.........JD........fBA...ND.....r......H.............PF....P....cA.........P.........bD.....f..............V....PA...7E..........A........PR......B.............LA....E...ve..........D.........DA.....H.............LC....T....vA.........P.........PD.....f.............fH....PA...zF..........A........vJ......B.............WA....D...vZ..........D.........IA.....H.............fD....Y....+A.........P.........XD.....f.............fP....PA...DG..........A........PK......B.............NA....E...ve..........D.........v......H...................P....PA.........P..........C.....f.............fV.....A...rF..........A.........N......B.............oA...PA....d..........D.........7......H.............vE...fL....FA.........P.........jC.....f.............fV....d....bG..........A.........V......B.............y....fG....Z..........D................H.............PF....P....n..........P............"
+              programState="3377.CMlaKA....fQPMDZ....AHzTMQD...P.....AHTXyMWSoQVZ.............................vP8WAfN.vE.qAva.vF.uAPa.7F.xAva.PG.5Afd.TF.zAvW.fB.qAva.vF.sAva.HG.uA.c.LG.nAPZ.PG.zAPJ.vE.AAfb.PG.oAvb.PG.oAvX.7E.SAPY.PG.0A.b.LG.bA.Q.TG.2APZ.3F.jAPc.PE.nAPX.HG.oAfa.PF.gAvQ.zD.x..H.fB.DAPP.bE.NAvL.DC.z.PJ.vE.jAPX.bG.tAvb.bF.sAvY.LG.x..W.LD.uA.a.7F.sAfX.7F.GAPS.bD.SAfL.3B.yAfY.HC.................................................................................................................................................................................................................................................................................................................................................................................................................................jA...D.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................Y.D...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................PF.B...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................jAv............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................Y.P............3O...f+....9C........fBA........nP...fCA.....K......B.............jA....D...PW..........D.........GA.....H.............fE....T....eA.........P.........jD.....f..............S....PA...7G..........A.........Q......B.............y.....E....b..........D.........DA.....H.............HB....T....sA.........P.........rB.....f.............vU.....A...rF..........A........PR......B.............HA...PF...ve..........D.........FA.....H.............HD....T....wA.........P.........zB.....f.............fS....PA...7G..........A.........L......B...................D....T..........D.........v......H.............nE....P....qA.........P.........fC.....f.............PZ....T....fG..........A.........O......B.............bA...HC...fQ..........D.........4......H.............nE...fG....2A.........P.........fE.....f.............vL....3A...fF..........A................B.............jA....D....J..........D............"
+              program="0" midiProgram="0" globalMidiPrograms="0" midiProgramsEnabled="0"
+              mute="0" muteInput="0" midiProgramsState="52.3o8Jnn7SunDysXFXfQFK.BaFXjY3rXkQF.BxKwbSkAFYhUFJtjDKAHKVX0.8XfA.h2YCaB"
+              oversamplingFactor="1">
+          <nodes/>
+          <ui>
+            <block/>
+          </ui>
+          <ports>
+            <port index="0" channel="0" type="audio" name="Output #1 1" symbol="audio_out_1"
+                  flow="output"/>
+            <port index="1" channel="1" type="audio" name="Output #1 2" symbol="audio_out_2"
+                  flow="output"/>
+            <port index="2" channel="0" type="control" name="Transpose" symbol="control_0"
+                  flow="input"/>
+            <port index="3" channel="1" type="control" name="Midi System" symbol="control_1"
+                  flow="input"/>
+            <port index="4" channel="2" type="control" name="Note Off 1" symbol="control_2"
+                  flow="input"/>
+            <port index="5" channel="3" type="control" name="Use Synch Int." symbol="control_3"
+                  flow="input"/>
+            <port index="6" channel="4" type="control" name="Reverb Type" symbol="control_4"
+                  flow="input"/>
+            <port index="7" channel="5" type="control" name="Reverb Level" symbol="control_5"
+                  flow="input"/>
+            <port index="8" channel="6" type="control" name="Chorus Type" symbol="control_6"
+                  flow="input"/>
+            <port index="9" channel="7" type="control" name="Chorus Level" symbol="control_7"
+                  flow="input"/>
+            <port index="10" channel="8" type="control" name="Max. Polyphony" symbol="control_8"
+                  flow="input"/>
+            <port index="11" channel="9" type="control" name="SF0 Vol." symbol="control_9"
+                  flow="input"/>
+            <port index="12" channel="10" type="control" name="SF1 Vol." symbol="control_10"
+                  flow="input"/>
+            <port index="13" channel="11" type="control" name="SF2 Vol." symbol="control_11"
+                  flow="input"/>
+            <port index="14" channel="12" type="control" name="SF3 Vol." symbol="control_12"
+                  flow="input"/>
+            <port index="15" channel="13" type="control" name="SF4 Vol." symbol="control_13"
+                  flow="input"/>
+            <port index="16" channel="0" type="midi" name="MIDI" symbol="midi_in_0"
+                  flow="input"/>
+          </ports>
+        </node>
       </nodes>
       <ports/>
       <ui>
@@ -4305,12 +4356,15 @@
       </ui>
       <arcs>
         <arc sourceNode="6" sourcePort="2084" destNode="7" destPort="2"/>
+        <arc sourceNode="6" sourcePort="2084" destNode="8" destPort="16"/>
         <arc sourceNode="7" sourcePort="0" destNode="2" destPort="0"/>
         <arc sourceNode="7" sourcePort="1" destNode="2" destPort="1"/>
+        <arc sourceNode="8" sourcePort="0" destNode="2" destPort="0"/>
+        <arc sourceNode="8" sourcePort="1" destNode="2" destPort="1"/>
       </arcs>
     </node>
   </graphs>
   <controllers/>
   <maps/>
-  <ui content="131.3ocAAGsBBBCE..c9PeMA6khUuF1FcMoRoVtK3CVNMWCugMR8uuy4anJXYQQmnZqrtKPCwTev1Gzc1QVT4Bgfuh1lDb6OB2TENZyzYYy0jQDU97WdmeMfsRBaAM1jAnaG30IfYnEvG49pOYp4KiuclIycHNc5vbJ+mnXI+Ii8G.2dobM"/>
+  <ui content="129.3ocAAujBBCCD..MYgmFgtQn59XCNoEMVpex.tHRSwl9IRcvDu89deHK4Xb9wPqqnsmBKhvL4loq8tHi+XUdd1lvNE42WBWj28gsoSEcMpH9RNzfxo52R7LNZ6.vrX.znjntFldp.Kp.DSie0wAuIYtAhpzgeUY50FQrjw9CZojhv"/>
 </session>
