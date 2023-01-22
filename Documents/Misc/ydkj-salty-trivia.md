@@ -518,8 +518,23 @@ Joel: The display down, your display. And nope still, physical buttons also don'
 
 ### Minimized
 
-Joel: And Whoops, I think your remote went to home screen. reopen the remote app again!
+Joel: And Whoops, I think your remote went to home screen. reopen the remote app again, pls..
 
+## Names
+
+Names must be matches within following description exactly.
+
+### Candy Barre
+
+Joel: Hehey, Candy's here. And joinin' right here today!, Okay, what do you think? I know it's messy here, but uh.. yeah.
+
+### Mile Stone
+
+Joel: Hehey, Mile Stone here. Hey did you know Candy's tryna flirting you? Hah lmao, Just kidding. Anyways enjoy the game.
+
+### Daisy Chain
+
+Joel: Hehey, Daisy Chain here. Hey, if you have another advice regarding sound configurations, let us know after this game, okay. It seems that the 7.1 Surround Sound could not work to what I intend, you know, it only works on `Spatial`. Ah you know that? No? Ask Hailey, I'm talking about `3D Space`, the `red` nodes stuffs! There's alot more details in Godot, I'm still getting more.
 
 # End
 
