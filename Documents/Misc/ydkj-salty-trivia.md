@@ -4,6 +4,8 @@ But it's within same Perkedel Cinematic Universe.
 
 Instead of using Project OpenJack / Triviatron whatever, this sketch is for another Jack fangames, [Salty Trivia with Candy Barre](https://haitouch.ga/me/salty). Another Open Source\* YDKJ clone. This frameworks also allows custom trivia episode through the [Modification PCK repository system](https://github.com/JapanYoshi/salty_data). Thought we have to reinvent wheels again, but then.. its assets. Only the code are Open Source, assets proprietary, you have to take it off for the modded trivia replace it with yours only. We gonna reinvent the wheel later.
 
+
+
 # Begin
 
 ## Lobby
@@ -19,7 +21,7 @@ Joel: Ahei, Dasandimian! Welcome to (about to say `You Don't Know Jack` but it's
 
 (Player Bar)
 
-Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright, but maybe next time bring some of your friend, AI is fine. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called **`Life Saver`**. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind. 
+Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright, but maybe next time bring some of your friend, AI is fine. Alrighty then, Let me know if you had some funny feeling here, me too because here the branding are different from what it supposed to be. (Life Saver prompt) As you can see, instead of that power up that makes other player have extra difficulty we have what so called **`Life Saver`**. ... Yeah, Figured out this is a.. Takes 2 wrong answers off. Sorry, no copyrighted mentions in 1st episode before we secured stuffs, But this will let you answer later after 2 options gone. If other players didn't use `Life Saver`, you get to pick an option out of 2 after they picked out of 4. Yeah, you'll figure this out later, basically opposite of 2015 and it helps you, go later and others go first.. wait. yeah! You only had 1 out of dozen or 12, so use this strategically. Btw, it's not working for some special question type so keep that in mind.
 
 Joel: (More than 1 player) Since you are so many here, Let's spice the games up with **`Nails`** (old screw)! Yeah, think we would omit those classics? Nope, won't be, it's just kidding, finally figured out, we still have it. In case you didn't know, (appear instruction) you simply use it by holding both bumpers, hold `UP`, & then release the bumpers, Now choose your victim quickly, and once you selected one of them, they'll be forced to answer in 5 second, pretty cool right? they wrong, you got cash. yeah! Remember, 1 out 12.
 
@@ -79,7 +81,7 @@ Joel: Think fast, you only have 5 seconds to pick between `exist` or `not found`
 (Sorta = Dis; Kinda = Dat)
 
 - Krystal. Dis. WarefareMachine (Victor Suarez)
-- Shantae. Dis. Rafa Knight 
+- Shantae. Dis. Rafa Knight
 - Protogen. Dis. Nukude
 - Bullied Blind Girl. Dis. popopoka_
 - Glamrock Freddy. Dat. Lukasz Borges, requires join Discord. https://discord.gg/uGze6H9
@@ -277,7 +279,7 @@ Joel: Okehhhh look at this, (category). .... hmm this question, it appears that 
 - A slew of cosmetic boxes (answer). To make a gaming laptop can fit at least keyboard with a numpad, the repeating keys that will be ommited would be you guess it, the action buttons such as `Delete`, `Page up` `Page down`, `Home` `End`, & more around the above of the arrow keys, except of course the arrow keys themselves. Now they are one within those numpad, & alternate number keys.
 - A slew of Cupboard. Now how do you supposed to store those delicate outfits then?
 - A slew of ornaments. Nobody would throw away any limited edition beautiful plate (piring cantik)!
-- A slew of utensils. Hear me out, I hate eating rice with hand. disgusting! It was, because there is no money back then, but now reasons are like possibility & simplicity. Like ew! we can have spoon & fork now! it is not colonialism anymore, it's no longer special!.. idk.. okeh, too controvercial, forgive me. 
+- A slew of utensils. Hear me out, I hate eating rice with hand. disgusting! It was, because there is no money back then, but now reasons are like possibility & simplicity. Like ew! we can have spoon & fork now! it is not colonialism anymore, it's no longer special!.. idk.. okeh, too controvercial, forgive me.
 
 Joel: Look. This is gotta be interesting here. It's been hard to find laptop that has numpad built in. Of course, only expensive laptop or a gaming laptops at any budget do have one. Why not all of the Laptop? Ah I see, because not fit, you can't just shrink the key size & call it a day, fingers do not shrink, at least that's what most beings are, not all user are slime whose finger can be adjusted dynamically. Okay, enough? Well is that it? Oh, going to twelve? Yeah uh.. in previous game, last one only had 10 before the finals. yeah, now here there are 12?? wow.. okay, cool.. then we must be unprepared?
 
@@ -339,13 +341,13 @@ Joel: idk, just yess!
 
 (segue)
 
-Joel: (creepy Jack attack tone) Be ready for J (almost saying `Jack attack`).. Sugar Rush. Read the prompt center & turn on & off which correct boxes. Win cash you correct, but lost if wrong. As always, *ReMEMbER THe CLue*. It is none other than this clue.. | (skipped) Oh I'm sorry, Spoke too much, heh. Here's clue.. 
+Joel: (creepy Jack attack tone) Be ready for J (almost saying `Jack attack`).. Sugar Rush. Read the prompt center & turn on & off which correct boxes. Win cash you correct, but lost if wrong. As always, *ReMEMbER THe CLue*. It is none other than this clue.. | (skipped) Oh I'm sorry, Spoke too much, heh. Here's clue..
 
 > Parrot repeats what's owner said
 
 Joel: "Repeat as I say.". Begin, great luck.. (that's the attack) wait, Oh no, (Cookie's Shut it off impression) ZOblatos what is this?
 
-#### 1. pick contains `Windsor Castle`
+#### 1. pick contains within `Windsor Castle`
 
 - Windsor Castle. ON
 - Castle. ON
@@ -400,7 +402,7 @@ Joel: (alone) There you have it.
 
 (theme song begins)
 
-Joel: Well, if you are very good here, that's impossible. I played original episodes before, not yet the OG of the Jack, I'm horrible at it. Point is, you don't get it, coz it's salty! Also, Well, I hope you play this episode pure, did not read this episode's modding sketch here on our Odysee channel beforehand.., or maybe, you played it & memorized the answer last time. Afterall, 
+Joel: Well, if you are very good here, that's impossible. I played original episodes before, not yet the OG of the Jack, I'm horrible at it. Point is, you don't get it, coz it's salty! Also, Well, I hope you play this episode pure, did not read this episode's modding sketch here on our Odysee channel beforehand.., or maybe, you played it & memorized the answer last time. Afterall,
 
 (interupt to logo of silence)
 
@@ -424,7 +426,7 @@ Joel: Ok correct. Glyph buttons. small `beta`, small `gamma`, small `rho`, small
 
 Joel: Well make note that you've used it now.
 
-Joel: 
+Joel: Next time don't lean on the handrailing okay?
 
 ## F888 you (non simultaneous)
 
@@ -526,7 +528,7 @@ Names must be matches within following description exactly.
 
 ### Candy Barre
 
-Joel: Hehey, Candy's here. And joinin' right here today!, Okay, what do you think? I know it's messy here, but uh.. yeah.
+Joel: Hehey, Candy's here. And joinin' right here today! Sup, buddy?, Okay, what do you think? I know it's messy here, but uh.. yeah. Thancc for coming with us here, and enjoy the game.
 
 ### Mile Stone
 
@@ -535,6 +537,66 @@ Joel: Hehey, Mile Stone here. Hey did you know Candy's tryna flirting you? Hah l
 ### Daisy Chain
 
 Joel: Hehey, Daisy Chain here. Hey, if you have another advice regarding sound configurations, let us know after this game, okay. It seems that the 7.1 Surround Sound could not work to what I intend, you know, it only works on `Spatial`. Ah you know that? No? Ask Hailey, I'm talking about `3D Space`, the `red` nodes stuffs! There's alot more details in Godot, I'm still getting more.
+
+### Ozzy Old
+
+Joel: Oh man, if it isn't.. Okay, everyone, this is Uncle Ozzy. I know, it's... Yeah, best behaviour everyone, and watch your language.
+
+Ozzy: What do you..
+
+Joel: Yeah yeah, I know. Oh my God..
+
+### Moh. Fard
+
+Joel: Uh oh, it's Fard (read `Farad`). And here he is. Ahei?
+
+Fard: (fart sfx)
+
+Joel: Yeah yeah I know! Everyone, Fard. If you don't know, he's one of the biggest fan of everything related to Jack, in fact had ever involed in the Facebook version, now you know. And Fard, I know this isn't the Jack you're looking for, I know. I just found this framwork from Australia and here we are. Hope you enjoyed this, and if there is something wrong, we apologize. So, enjoy the game. Once again, thancc for still joining with us despite of all this.
+
+Fard: (faaaaart)
+
+Joel: Right, let's just do it!
+
+### Cookie Masterson
+
+Joel: Hehey, Cookie's here. Sup, buddy? Yep, This is the Down Under's remission I'm talking about. This here. What do you think? I know, it's sloppy or what, but it's enough to get us started. Well if you'd like to give it a try, feel free! Would be there an episode for you to host, idk.
+
+### Juan Linietsky
+
+Joel: Oh my God, no pecking way! it's the Godot creator guy! NO PECKING WAY!! Juan is here!!! not the horse, the Godot guy! Yess!! Ahei, what's up? Didn't expect to see you here, thancc for joinin'. Wow! Okay, This would be fun. Let's go..
+
+(may also does for Ariel Manzur and others related)
+
+### Hatsune Miku
+
+Joel: AHei, Hatsune Miku. Wow! She's here!
+
+## Extras
+
+### Ralsei Missing
+
+Joel: Wait what the hell happened here? GNU! What are you doing here?
+
+GNU: Oh, I just replacing Ralsei for a moment
+
+Joel: No, where is Ralsei? He was supposed to do the job here!
+
+GNU: idk, I suddenly got a call and a portal came. the guy in the portal would gave me some.. wheat. ... And he looks like he is desperate.
+
+Joel: Oh my God. Karesh!!!
+
+Karesh (meme primitive, female voice): Yes, sir?
+
+Joel: What happened with Ralsei?
+
+Karesh: I have received message that he was still having busy school affairs.
+
+Joel: Ah damn it, he's been on there always, I wonder. He's the expert at annoying chit chattering, why not you just use the recording we had?
+
+Karesh: I am sorry, sir. But we have no such recording in this directory.
+
+Joel: Oh yeah, I forgot. We don't have it at all, to this day. Welp, congratulations, people, you win this time. but next time this gonna be serious.
 
 # End
 
