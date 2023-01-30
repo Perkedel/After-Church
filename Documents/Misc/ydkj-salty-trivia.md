@@ -25,7 +25,18 @@ Joel: So these are all gamers that we got | (alone) Oh, only you? that's alright
 
 Joel: (More than 1 player) Since you are so many here, Let's spice the games up with **`Nails`** (old screw)! Yeah, think we would omit those classics? Nope, won't be, it's just kidding, finally figured out, we still have it. In case you didn't know, (appear instruction) you simply use it by holding both bumpers, hold `UP`, & then release the bumpers, Now choose your victim quickly, and once you selected one of them, they'll be forced to answer in 5 second, pretty cool right? they wrong, you got cash. yeah! Remember, 1 out 12.
 
-Joel: (All players uses remote with display) Oh look, All players are using smart remote! Well, I'll give you one more power ups! It's this **`Smoke Bomb`** (Full stream screw)! Like `Nails`, but all players will have various types or random difficulties! You just hold both bumpers, but then this time, hold `RIGHT`. Release bumpers to detonate! All players but your answering display will be bugged out, & some bug will cause physical answering buttons to be disabled, touch screen only. Every players wrong, gives you bonuses each. Crazy right? 1 out of 12, gotta be quick before other players got used it. | (just one player out of all did not use remote with display) Oh looo.. .. wait, that one. Didn't have smart remote. Well unfortunately, I cannot activate this powerup. So you left with 2 powerups now. `Smoke Bomb`s requires all player using a remote that has its own display in it, so the effect applies within the screen. How the effect supposedly apply physically?, considering it's complicated. If we put it on this big screen, yourself will also have this annoyances. So, sorry, we had to be fair. Although if you have suggestion, let us know after the game. Okeh?
+~~Joel: (All players uses remote with display) Oh look, All players are using smart remote! Well, I'll give you one more power ups!~~
+
+Joel: (All Players smart remote) Oh look, all players are using smart remote! This next power up will be usable when players are answering then. What is it you ask? | (Not all or none smart remote) Hmmm, it looks like not all players or nobody here uses smart remote, what a shame. Then to use this, you can only use it after you answered. What is it you ask?
+
+(maybe should be always that answer only then bomb?)
+Joel: (always answer only) Last but not the least is the most fun one, what is it you ask?
+
+Joel: It's this **`Smoke Bomb`** (Full stream screw)! Like `Nails`, but all players will have various types or random difficulties! You just hold both bumpers, but then this time, hold `RIGHT`. Release bumpers to detonate! All players, the server screen, but your answering display will be bugged out, & some bug will cause physical answering buttons to be disabled, touch screen only. Every players wrong, gives you bonuses each. Crazy right? 1 out of 12, gotta be quick before other players got used it.
+
+Joel: (always answer only) There's caveat though for this one, you can only detonate it after you answered, so again be quick before others reached it first than you.
+
+~~Joel: (just one player out of all did not use remote with display) Oh looo.. .. wait, that one. Didn't have smart remote. Well unfortunately, I cannot activate this powerup. So you left with 2 powerups now. `Smoke Bomb`s requires all player using a remote that has its own display in it, so the effect applies within the screen. How the effect supposedly apply physically?, considering it's complicated. If we put it on this big screen, yourself will also have this annoyances. So, sorry, we had to be fair. Although if you have suggestion, let us know after the game. Okeh?~~
 
 Joel: Right, let's get started!!
 
@@ -548,6 +559,7 @@ Joel: Yeah yeah, I know. Oh my God..
 
 ### Moh. Fard
 
+#### 1
 Joel: Uh oh, it's Fard (read `Farad`). And here he is. Ahei?
 
 Fard: (fart sfx)
@@ -557,6 +569,18 @@ Joel: Yeah yeah I know! Everyone, Fard. If you don't know, he's one of the bigge
 Fard: (faaaaart)
 
 Joel: Right, let's just do it!
+
+##### 2
+
+Joel: Uh oh, it's Fard. I can sense him silently jUdging Harshly this game against all other OGs.
+
+Fard: (fart sfx)!!
+
+Joel: Okay look, you're judging someone's game, this is not my game. I just modded it. I you have any questions, feel free to ask Hailey who made it this framework.Although you should not, she must be busy as always. BUT, anyways thancc for coming in though. I know it's not the original, and this is one of them I'm talking about. If you felt something went wrong here, I apologize, I'll retry my best. So, enjoy!
+
+Fard: (faaaaaart)!!!
+
+Joel: Okay, let's go.
 
 ### Cookie Masterson
 
@@ -571,6 +595,10 @@ Joel: Oh my God, no pecking way! it's the Godot creator guy! NO PECKING WAY!! Ju
 ### Hatsune Miku
 
 Joel: AHei, Hatsune Miku. Wow! She's here!
+
+### Tari (SMG4 Glitch Production)
+
+Joel: Ahei Tari, welcome. Okay look, before you ask any question why am I looks like a golden **capsule** with a `Plus` embossing here, it's because, there is no framework that easily lets you to create somekind of stylized Vtuber avatar for Gratis, Open Source, & Full version. At least the stable, nada! So here I am, in my **Blendsona** look. I know it's worse than PNGtuber, but this is all I have, I'm sorry. So, do you satisfied with your Blendsona I've designed for you? I mean, you can change the design later though, if you don't like it, You gotta at least have one or else you'll be invisible, so here what I had for you now. Of course, after the game, just launch Blender and design whatever primitives you'd like and then export it to GLTF and Godot should see it. Anyways, enjoy the game!
 
 ## Extras
 
@@ -597,6 +625,26 @@ Joel: Ah damn it, he's been on there always, I wonder. He's the expert at annoyi
 Karesh: I am sorry, sir. But we have no such recording in this directory.
 
 Joel: Oh yeah, I forgot. We don't have it at all, to this day. Welp, congratulations, people, you win this time. but next time this gonna be serious.
+
+## Ads
+
+#### Interview JOELwindows7 when Tari asked about if this game has AI
+
+Joel: Woo.. Ahei, got triggers here. Recording.. Kay. Tari asked if this game has AI, Okay! Good question!
+
+Joel: Right, it's more than just `YES` or `NO` apparently. Yeah, as you just have had triggered here, This makes you think so.
+
+Joel: Well actually if you mean that **kind of AI**, then there is no AI. Precisely, it's more like the **preprogrammed** AI.
+
+Joel: Yes, all things here are preprogrammed, even audios are preprogrammed, including this one you hear right here just now. It's recorded. Well, I know it's not my game, but I would still make preprogrammed AI games most of the part.
+
+Joel: You know, it's **Finite State Machine**.
+
+(audio oooo sfx)
+
+Joel: See? You people know that? Yep, they know what is this AI type called. Now you know., Basically you are at this state, and when you do something that matches the condition in this state, you go to the matching state you will go to, and so on. Simple as that. Well, can be made complicated, but I'd rather make it simple, because.. I don't have time, and I could create bugs that goes villainous like in the movies, No. But, there you have it.
+
+Joel: So don't worry, you can break this game, nobody here especially robots will wake up, unless if there is an Antivirus if an admin installed it. Infact, so simple if something wrong, you'll just get *thrown out of of the game*. I mean, program terminates, you awake back to real life, and the server goes back to desktop or console, that's it. Idk if you'd feel some pain, supposedly not, I mean, that's not how Linux kernel works. But yeah! It's stupid simple, Seems complex but not as much as that aforementioned concious AI type of softwares.
 
 # End
 
