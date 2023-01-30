@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Path-Effects_sir.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.56063608"
+     inkscape:cx="672.45048"
+     inkscape:cy="559.18627"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid736"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid738"
+       empspacing="256" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1056"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,34.403465,0,1 @ F,0,0,1,0,61.890049,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,147.07822,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1007"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="IF,0,0,1,0,67.882246,0,1 @ IF,0,0,1,0,192.33304,0,1 @ IF,0,0,1,0,4.2333333,0,1 @ IF,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="IF"
+       radius="16"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ff00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 512,256 256,768 h 512 z"
+       id="path845" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.5;paint-order:fill markers stroke"
+       id="path1005"
+       inkscape:flatsided="true"
+       sodipodi:sides="4"
+       sodipodi:cx="512"
+       sodipodi:cy="592"
+       sodipodi:r1="288"
+       sodipodi:r2="203.64674"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.78539816"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 584.32693,376.32692 35.9102,35.91021 c 24.16957,24.16957 22.9141,63.28562 7.68922,93.72374 C 591.89827,577.98955 603.92282,667.92281 664,728 L 514.99341,877.00658 c -1.65322,-1.65322 -4.33362,-1.65322 -5.98684,0 L 328,696 a 147.07822,147.07822 90.000002 0 1 10e-6,-208.00001 L 464.00001,352 c 18.05453,18.05452 43.74889,23.81294 66.67679,17.27523 18.07575,-5.15416 40.21474,-6.3837 53.65013,7.05169 z"
+       inkscape:path-effect="#path-effect1007;#path-effect1056" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:18.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px"
+       x="113.85966"
+       y="165.58134"
+       id="text1123"><tspan
+         sodipodi:role="line"
+         id="tspan1121"
+         x="113.85966"
+         y="165.58134"
+         style="font-size:18.6667px">https://thepixelproducer.com/how-to-add-curves-or-round-corners-in-inkscape/#:~:text=Click%20on%20the%20plus%20button,you%20to%20round%20that%20corner.</tspan></text>
+  </g>
+  <metadata
+     id="metadata740">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
