@@ -87,7 +87,9 @@ Joel: I'm going to give you 7 characters in here. Are these 3D models:
 - Available to Download. OR,
 - Unavailable to Download.
 
-Joel: Think fast, you only have 5 seconds to pick between `exist` or `not found`. Not including reuploads, not including require join chat, and of course, you can't use `Life Saver` here. Begin, Great luck!
+~~Joel: Think fast, you only have 5 seconds to pick between `exist` or `not found`. Not including reuploads, not including require join chat, and of course, you can't use `Life Saver` here. Begin, Great luck!~~
+
+Joel: Think fast, you only have 5 seconds, if it is `exist`, press `LEFT`!, if it is `not found`, press `RIGHT`! Not including reuploads, not including require join chat, and of course, you can't use `Life Saver` here. Begin, Great luck!
 
 (Sorta = Dis; Kinda = Dat)
 
@@ -96,7 +98,7 @@ Joel: Think fast, you only have 5 seconds to pick between `exist` or `not found`
 - Protogen. Dis. Nukude
 - Bullied Blind Girl. Dis. popopoka_
 - Glamrock Freddy. Dat. Lukasz Borges, requires join Discord. https://discord.gg/uGze6H9
-- Ioniq Sky. Dat. JOELwindows7's own Skysona, based on Michael (bfwifesforever) & bbpanzu, haven't modeled yet, including the sull detailed IONIQ 5 gratis itself.
+- Ioniq Sky. Dat. JOELwindows7's own Skysona, based on Michael (bfwifesforever) & bbpanzu, haven't modeled yet, including the full detailed IONIQ 5 gratis itself.
 
 (lift most winning player up) (qualified models will be linked later on the sequel of this)
 
@@ -137,12 +139,14 @@ Joel: Yep, they got me. Speaking about Lizard,
 
 Joel: Is it..
 
-- Protogen. Umm no. This being is basically a cyborg or sometimes a synthetic being.
+- Protogen. Umm no. This being is basically a cyborg or sometimes a synthetic being. ... And it's common either.
 - Python. Mmm, this spam ham is yummy, is that right Lex?
 - Manggarai (Answer). This brand new costume design is based after Komodo dragon. an endemic reptile species only found in Indonesia. Manggarai because the preservation site National Komodo Park, Komodo Island is located at District Manggarai, Nusa Tenggara Timur. This species is of course you guessed it, very rare & vulnerable.
 - Bengkulu. Wait, are we having plant based costume design now? Wonder how does Rafflesia chan would look like.
 
 Joel: Folks, initially I would take a rat design, coz I like rat or mouse back then. No no no! the cute rat, yess! ... But you see, my Shio happens to be rabbit, and.. I'm confused. So, let's pick a rat, idk what further design, should be blue, handsome but cute too, any commision and any enough money at no priority, begin. What do you think? Oh yeah some latex (interupted) too, what the peck? I'm not done yet!
+
+Zoblatos: Pardon me, looks like that further blabber would get us Community Guideline Strike. You know..
 
 ### 6 Six. What's Happening Here?
 
@@ -533,6 +537,10 @@ Joel: The display down, your display. And nope still, physical buttons also don'
 
 Joel: And Whoops, I think your remote went to home screen. reopen the remote app again, pls..
 
+### Analog Low Signal Ants
+
+Joel: Oh no, looks like we have interference here, hope you can see it here.
+
 ## Names
 
 Names must be matches within following description exactly.
@@ -599,6 +607,14 @@ Joel: AHei, Hatsune Miku. Wow! She's here!
 ### Tari (SMG4 Glitch Production)
 
 Joel: Ahei Tari, welcome. Okay look, before you ask any question why am I looks like a golden **capsule** with a `Plus` embossing here, it's because, there is no framework that easily lets you to create somekind of stylized Vtuber avatar for Gratis, Open Source, & Full version. At least the stable, nada! So here I am, in my **Blendsona** look. I know it's worse than PNGtuber, but this is all I have, I'm sorry. So, do you satisfied with your Blendsona I've designed for you? I mean, you can change the design later though, if you don't like it, You gotta at least have one or else you'll be invisible, so here what I had for you now. Of course, after the game, just launch Blender and design whatever primitives you'd like and then export it to GLTF and Godot should see it. Anyways, enjoy the game!
+
+### Uzi (Murder Drones Glitch Production)
+
+Joel: Ahei, Uzi. Hey, I need to tell you something. It's in this message, so open up your Waver app on your head, be ready. ... Okay, so..
+
+(Waver message): Every Thursday, Epic Games give away one or more random games for $0, so check them out every that time before it change again next week! On Christmas, free games changes everyday!
+
+Joel: Kay, got it? Yes? Yeah, for real, so generous right? You're welcome. Don't forget about this.
 
 ## Extras
 
