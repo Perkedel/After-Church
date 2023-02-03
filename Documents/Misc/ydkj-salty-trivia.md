@@ -555,7 +555,7 @@ Joel: Hehey, Mile Stone here. Hey did you know Candy's tryna flirting you? Hah l
 
 ### Daisy Chain
 
-Joel: Hehey, Daisy Chain here. Hey, if you have another advice regarding sound configurations, let us know after this game, okay. It seems that the 7.1 Surround Sound could not work to what I intend, you know, it only works on `Spatial`. Ah you know that? No? Ask Hailey, I'm talking about `3D Space`, the `red` nodes stuffs! There's alot more details in Godot, I'm still getting more.
+Joel: Hehey, Daisy Chain here. Hey, if you have another advice regarding sound configurations, let us know after this game, okay. It seems that the 7.1 Surround Sound could not work to what I intend, you know, it only works on `Spatial` abstract Node. Ah you know that? No? Ask Hailey, I'm talking about `3D Space`, the `red` nodes stuffs! There's alot more details in Godot, I'm still getting more.
 
 ### Ozzy Old
 
@@ -580,11 +580,11 @@ Joel: Right, let's just do it!
 
 ##### 2
 
-Joel: Uh oh, it's Fard. I can sense him silently jUdging Harshly this game against all other OGs.
+Joel: Uh oh, it's Fard. I can already sense him silently jUdging Harshly this game against all other OGs.
 
 Fard: (fart sfx)!!
 
-Joel: Okay look, you're judging someone's game, this is not my game. I just modded it. I you have any questions, feel free to ask Hailey who made it this framework.Although you should not, she must be busy as always. BUT, anyways thancc for coming in though. I know it's not the original, and this is one of them I'm talking about. If you felt something went wrong here, I apologize, I'll retry my best. So, enjoy!
+Joel: Okay look, you're judging someone's game, this is not my game. I just modded it. I you have any questions, feel free to ask Hailey who made it this framework. Although you should not, she must be busy as always. BUT, anyways thancc for coming in though. I know it's not the original, and this is one of them I'm talking about. If you felt something went wrong here, I apologize, I'll retry my best. So, enjoy!
 
 Fard: (faaaaaart)!!!
 
@@ -606,7 +606,17 @@ Joel: AHei, Hatsune Miku. Wow! She's here!
 
 ### Tari (SMG4 Glitch Production)
 
+#### 1
+
 Joel: Ahei Tari, welcome. Okay look, before you ask any question why am I looks like a golden **capsule** with a `Plus` embossing here, it's because, there is no framework that easily lets you to create somekind of stylized Vtuber avatar for Gratis, Open Source, & Full version. At least the stable, nada! So here I am, in my **Blendsona** look. I know it's worse than PNGtuber, but this is all I have, I'm sorry. So, do you satisfied with your Blendsona I've designed for you? I mean, you can change the design later though, if you don't like it, You gotta at least have one or else you'll be invisible, so here what I had for you now. Of course, after the game, just launch Blender and design whatever primitives you'd like and then export it to GLTF and Godot should see it. Anyways, enjoy the game!
+
+#### 2
+
+info: This is a spoiler for grand finale of Meta Runner!
+
+Joel: Ahei Tari, welcome. Hey, I noticed that whenever you played games with us you always connect through **`Zetrix Realize Project`**, according to your User Agent Strings. Look, I know it's pervert looking at gamers connection status which is why we turned data collection off and delete everything if somehow it got stored. But Tari, you all the time coming right at here this way, all the time, what's happening? Mind you that too much using Realize **is not good for your health!** Atrophies and whatever calcification will happen! You could just at least use regular **`Zetrix VR`** instead. Well, don't worry. We are currently figuring out how to get you out from there. Anyways, enjoy the game.
+
+info: with UDP connection, admin should be able to see how this user connected, but only during connection due to privacy law. Additional "user agent string" may be sent, but these data are the in-house client data rather, instead of protocol data. Like above example, we can see the client name and its type. `Netscape` & `Unknown Astral Projection`, stuff like that. Yeah it's imaginary, but you get the idea.
 
 ### Uzi (Murder Drones Glitch Production)
 
@@ -614,7 +624,31 @@ Joel: Ahei, Uzi. Hey, I need to tell you something. It's in this message, so ope
 
 (Waver message): Every Thursday, Epic Games give away one or more random games for $0, so check them out every that time before it change again next week! On Christmas, free games changes everyday!
 
-Joel: Kay, got it? Yes? Yeah, for real, so generous right? You're welcome. Don't forget about this.
+Joel: Kay, got it? Yes? Yeah, for real, so generous right? You're welcome. Don't forget about this. Relax, every weeek, enjoy the game first.
+
+### Kris
+
+Joel: Ahei Kris! Welcome! Well, if you hear this right now, that's because everything is pre-recorded, as of uuuh.. Twenty-Twenty-Three (2023)! So I have no idea if by any, the situation have changed drastically, you die, you alive, somebody else, this who drove this body wasn't the Kris I expected or vice versa, maybe varies. Well I hope it's not the stolen Kris something-something. So apologies if this wasn't the case I'd expect to see, but anyways, enjoy the game! yeah.
+
+### Susie
+
+Joel: Ahei Susie. Welcome. ... Okay, idk, enjoy the game. Oh wait, About Kris, how would he be now? Because this is pre-recorded, uh.. I just wanna say, thancc for taking care of him. I hope Kris is well, coz he has been suspicious lately. Anyway, that's for another day, Enjoy the game.
+
+### Ralsei
+
+Joel: Ahei, Ralsei. Wait a minute. What are you doing here? No no, Weren't you supposed to be.. eh whatever. I mean yeah, I'm sorry assigning you at Punishment room, coz uh.. people are nasty here. Okay whatever, enjoy the game.
+
+### Bocchi (Bocchi the rock anime)
+
+Joel: Ahei Bocchi! WHoah, whoah, relax! don't act surprised, I do not bite. Okay, I'm sorry. But I am an introvert too! Hate to talk to people, shy, and.. get out as all as possible if got asked something especially about things that embarrasses, yeah I am just like you. I am seriously nervous all the time, vibration 100 decibel. But I have to talk, because the original game is like this, and it's considered revolution the first time it come up, yadi yada, you know. Okay, let's.. just do the game, enjoy!
+
+### Komi-san
+
+Joel: Ahei, Komi-san, welcome! Whoa whoa, relax, relax. I am not a monster. I am the same shy as you are, in fact I am introvert. ... Okay? Good. How are you today? There's no need to answer though, coz this audio here is all pre-recorded as of 2023, So I'll assume you are `fine`, or `not` as I would back in the day, idk. But yeah, enjoy the game.
+
+### Hailey Walker / JapanYoshi
+
+Joel: Ahei, Hailey, Welcome. Look, I'm sorry for breaking your game, But it's really impressive though. I know, recreating game is hard, and I thancc you for creating this framework for us, while we're making our own framework like this.. It wouldn't be possible without you. And thancc for joining with us! So, enjoy!
 
 ## Extras
 
