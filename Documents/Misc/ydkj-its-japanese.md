@@ -362,6 +362,13 @@ Joel: Maybe I should be careful or retire now coz it's hard to make pure questio
 (ydkj 2015 end)
 
 (credit)
+
+## Extra
+
+### Intro
+
+Joel: Ahei, if we would like to have Asian name for Dasandim, like in Chinese, Japanese, Korean, whatever, here's the basic. call it `Transparent People Country`, because Dasandimians are like.. glass frog, slime people, something2, their body are clear or transparent like glass, sometimes no color, sometimes has color, see organs, mmmh 😏😏😏😏😏. Now it's up to you people to figure out, it gotta be simple.
+
 ## Removed Questions
 
 Info: These questions are removed & replaced with lesser controversial ones.

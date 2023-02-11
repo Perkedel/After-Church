@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="WarningToxicPeopleDoNotShare.svg"
+   inkscape:export-filename="WarningToxicPeopleDoNotShare.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.56063608"
+     inkscape:cx="932.86897"
+     inkscape:cy="432.54441"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid182" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="140"
+       y="720"
+       width="840"
+       height="240"
+       id="rect98022" />
+    <symbol
+       id="icon-folder-publicshare-symbolic">
+      <title
+         id="title71987">folder-publicshare-symbolic</title>
+      <path
+         d="m 11.938,15.938 c 0,3.279 -2.658,5.938 -5.938,5.938 -3.28,0 -5.938,-2.658 -5.938,-5.938 v 0 C 0.062,12.659 2.72,10 6,10 c 3.28,0 5.938,2.658 5.938,5.938 z"
+         id="path71989" />
+      <path
+         d="m 31.875,25.938 c 0,3.279 -2.658,5.938 -5.938,5.938 -3.28,0 -5.938,-2.658 -5.938,-5.938 v 0 c 0,-3.279 2.658,-5.938 5.938,-5.938 3.28,0 5.938,2.658 5.938,5.938 z"
+         id="path71991" />
+      <path
+         d="m 31.875,5.938 c 0,3.279 -2.658,5.938 -5.938,5.938 -3.28,0 -5.938,-2.658 -5.938,-5.938 v 0 C 19.999,2.659 22.657,0 25.937,0 c 3.28,0 5.938,2.658 5.938,5.938 z"
+         id="path71993" />
+      <path
+         d="m 25.25,4.313 -20.125,9.75 -3.625,1.813 3.625,1.813 20.063,10.125 1.813,-3.625 -16.438,-8.313 16.438,-8 -1.75,-3.563 z"
+         id="path71995" />
+    </symbol>
+    <rect
+       x="140"
+       y="720"
+       width="840"
+       height="240"
+       id="rect98028" />
+  </defs>
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;stroke:#000000;stroke-width:46.7005;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect290"
+       width="1793.2994"
+       height="1008.731"
+       x="63.350254"
+       y="35.634518"
+       ry="186.80203" />
+    <g
+       id="g97832">
+      <circle
+         style="fill:#ffffff;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path97543"
+         cx="469.68478"
+         cy="-110"
+         r="60.315228" />
+      <use
+         xlink:href="#icon-folder-publicshare-symbolic"
+         style="fill:#000000;stroke:none"
+         id="use96881"
+         transform="matrix(2.2300195,0,0,2.2300195,431.80876,-142.98385)" />
+      <rect
+         style="fill:#ff0000;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect97718"
+         width="120"
+         height="15"
+         x="348.35416"
+         y="248.8262"
+         ry="0"
+         transform="rotate(-45)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Warning">
+      <g
+         id="g98079">
+        <rect
+           style="fill:#ff0000;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect97994"
+           width="1720"
+           height="160"
+           x="100"
+           y="540" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:96px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff"
+           x="962.88"
+           y="648.70398"
+           id="text97942"><tspan
+             sodipodi:role="line"
+             id="tspan97940"
+             x="962.88"
+             y="648.70398">WARNING / PERHATIAN</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g6090"
+       transform="matrix(0.43357131,0,0,0.43357131,773.16508,948.1447)"
+       style="display:inline;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff">
+      <g
+         style="stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff"
+         id="g6080"
+         transform="translate(-128,64)">
+        <path
+           id="path6076"
+           transform="translate(0,106.5)"
+           d="m 256,208 a 64,64 0 0 0 -64,64 64,64 0 0 0 64,64 h 64 a 64,64 0 0 0 64,-64 64,64 0 0 0 -64,-64 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path6078"
+           transform="translate(0,106.5)"
+           d="m 288,224 a 4,4 0 0 0 -4,4 v 40 h -40 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 h 40 v 40 a 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 v -40 h 40 a 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 h -40 v -40 a 4,4 0 0 0 -4,-4 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6088"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(-108.256,129.20475)"><flowRegion
+           id="flowRegion6084"
+           style="line-height:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+             id="rect6082"
+             width="1024"
+             height="128"
+             x="384"
+             y="272"
+             style="line-height:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.20995522;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           id="flowPara6086"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Perkedel </flowPara></flowRoot>
+    </g>
+    <g
+       id="g99646"
+       style="display:inline;fill:#000000"
+       transform="matrix(0.17035061,0,0,0.17035061,765.49777,825.96418)">
+      <path
+         id="path99205"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.00002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 266.71875,672.15625 A 202.71904,202.71904 0 0 0 64,874.87695 202.71904,202.71904 0 0 0 266.71875,1077.5957 H 469.4375 A 202.71904,202.71904 0 0 0 672.15625,874.87695 202.71904,202.71904 0 0 0 469.4375,672.15625 Z m 101.35937,50.67969 a 12.66994,12.66994 0 0 1 12.66993,12.66992 v 126.70117 h 126.69922 a 12.66994,12.66994 0 0 1 12.66992,12.66992 12.66994,12.66994 0 0 1 -12.66992,12.66993 H 380.74805 v 126.69922 a 12.66994,12.66994 0 0 1 -12.66993,12.6699 12.66994,12.66994 0 0 1 -12.66992,-12.6699 V 887.54688 H 228.70898 a 12.66994,12.66994 0 0 1 -12.66992,-12.66993 12.66994,12.66994 0 0 1 12.66992,-12.66992 H 355.4082 V 735.50586 a 12.66994,12.66994 0 0 1 12.66992,-12.66992 z" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99217"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(3.167485,0,0,3.167485,-481.6183,-117.48185)"><flowRegion
+           id="flowRegion99213"
+           style="line-height:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+             id="rect99211"
+             width="1024"
+             height="128"
+             x="384"
+             y="272"
+             style="line-height:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:2.20995522;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           id="flowPara99215"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.20996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Perkedel </flowPara></flowRoot>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="NoShare">
+    <g
+       id="g97840"
+       transform="matrix(3.4071217,0,0,3.4071217,-653.92965,676.93015)">
+      <circle
+         style="fill:#ffffff;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="circle97834"
+         cx="469.68478"
+         cy="-110"
+         r="60.315228" />
+      <use
+         xlink:href="#icon-folder-publicshare-symbolic"
+         style="fill:#000000;stroke:none"
+         id="use97836"
+         transform="matrix(2.2300195,0,0,2.2300195,431.80876,-142.98385)" />
+      <rect
+         style="fill:#ff0000;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect97838"
+         width="120"
+         height="15"
+         x="348.35416"
+         y="248.8262"
+         ry="0"
+         transform="rotate(-45)" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text98020"
+       style="font-weight:bold;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect98022);display:inline"><tspan
+         x="170.01622"
+         y="754.81301"
+         id="tspan100207">Due to a sheer amount of toxicity of society </tspan><tspan
+         x="176.81085"
+         y="801.47964"
+         id="tspan100209">currently in this region, please refrain from </tspan><tspan
+         x="187.32028"
+         y="848.14626"
+         id="tspan100211">sharing any documentation related to this </tspan><tspan
+         x="475.04806"
+         y="894.81289"
+         id="tspan100213">premises.</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text98026"
+       style="font-weight:bold;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect98028);display:inline"
+       transform="translate(818.50665)"><tspan
+         x="223.53363"
+         y="754.81301"
+         id="tspan100215">Karena saat ini terdapat banyak kasus </tspan><tspan
+         x="193.14428"
+         y="801.47964"
+         id="tspan100217">toksisitas masyrakat di daerah ini, mohon </tspan><tspan
+         x="206.97625"
+         y="848.14626"
+         id="tspan100219">untuk tidak menyebarkan dokumentasi-</tspan><tspan
+         x="144.29368"
+         y="894.81289"
+         id="tspan100221">dokumentasi terkait hal-hal yang berada disini.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+       x="100"
+       y="1240"
+       id="text99957"><tspan
+         sodipodi:role="line"
+         id="tspan99955"
+         x="100.00002"
+         y="1240">do not share inside progress evolution wardrobe</tspan><tspan
+         sodipodi:role="line"
+         x="100.00002"
+         y="1300"
+         id="tspan99959">callout with acuse you to death!</tspan><tspan
+         sodipodi:role="line"
+         x="99.999985"
+         y="1360"
+         id="tspan99961">but likely they are what they said against.</tspan></text>
+  </g>
+  <metadata
+     id="metadata184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
