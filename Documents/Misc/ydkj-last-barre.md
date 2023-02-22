@@ -2,7 +2,11 @@
 
 Or perhaps just the last with JOELwindows7, idk.
 
-Sponsor = 5 Second Smartphone. The Smartphone that only last 5 second upon activation setup, and then explode.
+~~Sponsor = 5 Second Smartphone. The Smartphone that only last 5 second upon activation setup, and then explode.~~
+
+Sponsor = 5 Second Tool. Tools that last only 5 second and no longer functions. Towel explode in 5 second.
+
+Info. exploding smartphone reminds Galaxy Note 7 that exploded couple years ago, not good!
 
 ## Begin
 
@@ -24,9 +28,11 @@ Joel: (multiplayer) Okay, it's all of you. | (alone) Okay, it's only you.
 
 Joel: (Sponsor) And oh, we got sponsor! This Incorrect Lootbox is brought to you by..
 
-Zoblatos: 5 Second Smartphone. The smartphone that last only 5 second upon activation setup. **And then explode**.
+~~Zoblatos: 5 Second Smartphone. The smartphone that last only 5 second upon activation setup. **And then explode**.~~
 
-Joel: (held giggle enough)... Find the Incorrect answer associated with our sponsor & get big cash. Keep your eyes peeled, this only found in regular questions.
+Zoblatos: 5 Second Tool. Tools that last only 5 second, and then no longer work.
+
+Joel: (held giggle enough as it's more than just that)... Find the Incorrect answer associated with our sponsor & get big cash. Keep your eyes peeled, this only found in regular questions.
 
 Joel: Right, let's begin.
 
@@ -99,7 +105,159 @@ Joel: ANd yess, that's the song. It's Ave Maria.
 
 Joel: Uh oh, (category).
 
+> Which Place Agent 47 need to use Bathroom?
 
+- Italian Restaurant
+- Amercian Restaurant
+- Chinese Restaurant (answer). Yes. Agent 47 need to change hideously, which in this Chinese restaurant happens to requires asking key in order to access the bathroom. And the rest is history.
+- Indonesian Restaurant
+
+Joel: Alan! Please add detail!! where's the detail? What?? No, I said.. WHERE, IS, THE DETAIL!!! ... ... Ugh, okay. well that's all about it. I guess, we lose the detail again. I thought those who don't gave 3D Model download links of their either own persona or commissioned persona are to blame. Again turns out it's Alan's fault too. Where the hell he is?!
+
+### End Round 1
+
+Joel: And here's the score..
+
+(score)
+
+Joel: Okay! not bad at all.
+
+(check score, give 2 lowest player smoke bomb)
+
+Joel: Don't go anywhere, stay tuned on this one.
+
+### Ad
+
+(advertising)
+
+### Round 2
+
+#### 7 Seven. Promise Me
+
+<!-- Unclear Rambling -->
+
+Joel: On your left, we had (category)..
+
+> Jackson had a prom date. the theme is ELECTRIC KOREA. What correct item shall he rent?
+
+- Genesis electrified GV80 from the most expensive rental firm (answer). Yes. Genesis car is a Hyundai's luxury brand. Which means, it's a Korean luxury car.
+- Tesla Model S P100 from a second hand rental(sponsor). No. Tesla is from America. ... 
+- Toyota bZ4X from a mysterious rental. No, Toyota is from Japan. Also honestly who would be impressed with this particular car anyway considering the lead still have such.. eh whatever.
+- Mercedes-Benz EQS from decently priced rental. No, Mercedes is from Germany.
+
+Joel: Well, I get it. this one isn't based on E-GMP like GV60 does. Certainly it's not like you expect to get what you see on the list, idk, just saying.
+
+(sponsor skipped tune)!
+
+Joel: (sponsor) well, speaking of `second hand`, congratulations because you just won this Incorrect lootbox.. (opens) 5 Second Towel!!! the Towel that last only 5 seconds before disolving. ... ... **& then explode** DUAR 💥🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣!!!! Ng gh hhhhh!!! .... ... This incorect lootbox right here grants you 8000 Kivrontz, congrats. 
+
+#### 8 Eight. Piece of Puzzle
+
+Joel: So, we'll be having, (category).
+
+> How do I Prom?
+
+- You & Other (answer). Okay, hear me out, I think the prom is uh simple huh? you pick quite a stranger or whatever I have no good words for it.. oh yeah!! Girlfriend or Boyfriend or IDKfriend whatever, and uh.. have a dance party, and uh.. the rest is up to you, but essentially you should know each other. yeah.
+- You & Sibling. Really? mm Who's Alabama told you that?
+- You & Cousin. No no no, that's still Alabama no.
+- You & Mom. (sigh)!!! Right, there was a guy, who made a boat, just to marry his own mom, mom reject, he angry, and then kicked the boat. The boat fell, that's how Tangkuban Perahu came from, idk what about the rest. And it's screwed up, I think you're messing around with me. And for your information, the sponsor has already passed, you didn't take a look at the Tesla.
+
+#### 9 Nine. Couple ways (Sorta Kinda / Dis or Dat)
+
+Joel: Alright, we gonna do (category). And it's Sorta Kinda!
+
+(segue)
+
+Joel: Now speaking of `Puzzle Pieces` we're going to have 7 couples here. Now, tell me if each either `Old & Young siblings`, or `Husbando & Waifu or whatever loving`. Quickly for 5 seconds, if you think it's `Siblings`, press `LEFT`! If it's `Lover`, press `RIGHT`! Okay, ready? ... GO!
+
+(Sorta = Dis; Kinda = Dat)
+
+- Prohyas & Vambre. Dis. Mighty Magisword. these characters are siblings turns out! magical, many siblings usually fights
+- Strange & Clea. Dat. Spoiler alert Doctor Strange 3!!!
+- Elsa & Anna. Dis. Frozen.
+- WD & SanDisk. Dis. Western Digital also has SandDisk, well, adopted.
+- Kristoph & Anna. Dat. Frozen.
+- Drake & Josh. Dis. These 2 are stepbrothers infact.
+- Latsufir & Sky. Dat. Perkedel Cinematic Universe, Last Funkin Moments
+
+(remarks)
+
+Joel: Okay, so these are all I remember & just found of. I know, it's very hard to find these days, coz I had alot of business here in there. So, have a marriage okay, coz.. it's seems getting fewer everyday, so sad.
+
+#### 10 Ten. Yum tech (All Out Assault / Gibberish Question)
+
+Joel: I'm very hungy. give me (category).
+
+(bell)
+
+Joel: The bell rings (in `lebron james` style), it's time for..
+
+(segue)
+
+(tutorial)
+
+Joel: Okay, here's
+
+> My Croissant
+
+Joel: Don't be deceived by it's pronounciation.
+
+Answer = `Microsoft`
+
+Source = https://twitter.com/namesoun/status/1621939351872577538?t=JXj9DO7BnljkeZf3qCCaEw&s=19
+
+(remarks)
+
+Joel: QQQHhom, nom nom nom, I am satisfied. thanks for food.
+
+#### 11 Eleven. To be Confused with
+
+Joel: Here, we will have (category).
+
+> Linux Operating System. What are we refering this thing with?
+
+- Google.
+- GNU. Yes. When people refer to a `Linux OS`, by default it's `GNU/Linux` because many distros these days are based with GNU. And until it's not such as Google with Android & Chimera which is a BSD ported in with Linux Kernel.
+- Torvald.
+- Richard.
+
+e.g. sauce https://youtu.be/v58rD9sGtrk, https://en.wikipedia.org/wiki/Linux
+
+Joel: There's alot of confusion here, I know. Linux on its core is esssentially a Kernel, Torvalds made from a Unix derivative called Minix. Just so you know. ~~Then it made to a distro, one of them you guessed it or not, GNU/Linux, which you see, comprises of a Components.~~
+
+#### 12 Twelve.
+
+
+
+#### 13 Thirteen. Has this in number on whatever (JACK ATTACK / Sugar Rush)
+
+(tutorial)
+
+> Has this number on whatever
+
+##### One
+
+- Number of dimension. ON. There is 1D
+- Singular. ON. Single means one.
+- Pair. . Pair is two
+- Minus One. . `-1` is technically not `1`.
+- Adam. On. Adam was first time been created, followed by Eve out of his rib.
+- letter `A`. ON. `A` is first letter
+
+##### Two
+
+- Pair. On. Pair is two
+- Cube dimension type. ON. Cube is 2D
+- Bit base in Power. On. Bits integer max is `2^x`, which base is `2`.
+- Triangle sides. .
+- Android standard buttons. . Android has 3 standard buttons.
+- Camel humps. ON. Commonly, camels on Earth can have up to **two humps**.
+
+##### Three
+
+- Triangle side. ON. Triangle has 3 sides & 3 angles
+- Obama Prism sides.
+- 
 
 ### Final Score
 

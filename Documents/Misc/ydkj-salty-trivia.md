@@ -696,6 +696,12 @@ Joel: See? You people know that? Yep, they know what is this AI type called. Now
 
 Joel: So don't worry, you can break this game, nobody here especially robots will wake up, unless if there is an Antivirus if an admin installed it. Infact, so simple if something wrong, you'll just get *thrown out of of the game*. I mean, program terminates, you awake back to real life, and the server goes back to desktop or console, that's it. Idk if you'd feel some pain, supposedly not, I mean, that's not how Linux kernel works. But yeah! It's stupid simple, Seems complex but not as much as that aforementioned concious AI type of softwares.
 
+## Ignored twice
+
+Joel: Ahei, it's been 2 questions and nobody answered. (sigh)!.... Well, here we go again. Either, your thin client (reference to cloud gaming like Xbox Game Pass, Nvidia GeForce Now, Playstation Plus, etc.) subscription has expired, and the system or admin forgot to turn off this VM Container whatever, Or your remote suddenly died, or your parent confiscated the remote rights, oooooor.... cardiac arrest? Okay. Anyhow, class dismissed, go back to lobby.
+
+(game quit)
+
 # End
 
 by JOElwindows7  
