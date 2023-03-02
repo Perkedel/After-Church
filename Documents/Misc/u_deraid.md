@@ -1,0 +1,8 @@
+# deraid
+2 Tamashiens raids a syndicate tower pent house. Natasha (action), & Liz (recon).
+
+Natasha pretend have some some with the Syndicate leader. Syndicate said plan of attack, Natasha decide to notice and understand. Syndicate went sus, person at this age supposedly could not know anything. And smell supppsedly talcum, milk, candies, & not rum. Natasha uses rum soap. Syndicate figured Natasha an impostor, went to shoot her but Natasha got him injected. Syndicate weakens and syncope, and in 10 seconds, Syndicate is neutralized and desire has been destroyed.
+
+Syndicate assistants felt the signal, went on open leader bedroom. Doc Mark orders evacuation. Liz opem top vent on this bedroom, Natasha jump to it and escape. Assistant machine gun the ceiling, watch out, turn right. An opening, drop flash neutralizer. It flashes and blinded all assistants surround, then neutralizer smoke come out. 2 agents reached top floor, doc open teleport portal. As Natasha got in, Liz got caught. Assistant threat to kill her, doc then teleport behind, and inject neutralizer, catch liz and escaped, close portal.
+
+Other assistant reached rooftop but it's too late. They saw neutralized fellow, and found that flash neutralizer. It detonates, everyone go back, but the entire place also has been smoked, they're stuck has to breathe the neutralizer. An assistant decide to fall and parachute but that also has been sabotaged to have the neutralizer.

@@ -225,9 +225,18 @@ e.g. sauce https://youtu.be/v58rD9sGtrk, https://en.wikipedia.org/wiki/Linux
 
 Joel: There's alot of confusion here, I know. Linux on its core is esssentially a Kernel, Torvalds made from a Unix derivative called Minix. Just so you know. ~~Then it made to a distro, one of them you guessed it or not, GNU/Linux, which you see, comprises of a Components.~~
 
-#### 12 Twelve.
+#### 12 Twelve. Pest Control
 
+Joel: Finally, before we go, (category).
 
+> Why JOELwindows7 put watermark on his videos?
+
+- Shoo Sparsdaters. Then I am a virgin just like every silicon companies then?
+- Shoo
+- Shoo Cloutless (answer). Okay, lemme tell you the truth why I put watermark. Yes, sparsdater who reuploads my videos. BUUT, before I think something like that, I thought, hmmm... why not harness those *evil* people so I became known & popular?
+- Shoo
+
+Joel: Look I'm serious, we are all been sparsdated without permission, alright? Our hard work goes to waste by those nasty people, and we unfortunately have to be reannoyed with these.. yeah. But hear me out once again, if we do not attack them but use them as a power, ... they'd instead help us, and fun fact, people who curious visited us & told they're coming from a porn site which where our videos got reuploaded illegally. Pretty cool huh? Follow my example! yeah.
 
 #### 13 Thirteen. Has this in number on whatever (JACK ATTACK / Sugar Rush)
 
