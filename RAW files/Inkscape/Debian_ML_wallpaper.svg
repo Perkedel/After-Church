@@ -30,8 +30,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.56063608"
-     inkscape:cx="981.92039"
-     inkscape:cy="632.31749"
+     inkscape:cx="834.76611"
+     inkscape:cy="535.99833"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -45,14 +45,20 @@
   <defs
      id="defs2">
     <rect
+       x="1260"
+       y="840"
+       width="480"
+       height="120"
+       id="rect6081" />
+    <rect
        x="120"
        y="240"
        width="1680"
-       height="720"
+       height="840"
        id="rect1062" />
   </defs>
   <g
-     inkscape:label="Lapis 1"
+     inkscape:label="Main"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
@@ -76,132 +82,254 @@
     <text
        xml:space="preserve"
        id="text1060"
-       style="font-weight:bold;font-size:48px;line-height:0;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1062);display:inline;stroke:none"
+       style="font-weight:bold;font-size:48px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1062);display:inline;stroke:none"
        x="-18.265377"
        y="0"><tspan
          x="120"
-         y="284.75963"
-         id="tspan2531"><tspan
-           style="line-height:1.25;text-align:start;text-anchor:start;fill:#ffffff"
-           id="tspan2529">This is VM Compile Box for Magic Lantern (&amp; maybe CHDK).
+         y="278.75963"
+         id="tspan6833"><tspan
+           style="text-align:start;fill:#ffffff"
+           id="tspan6831">This is VM Compile Box for Magic Lantern (&amp; maybe CHDK).
 </tspan></tspan><tspan
          x="120"
-         y="344.75963"
-         id="tspan2535"><tspan
-           style="line-height:1.25;text-align:start;text-anchor:start;fill:#ffffff"
-           id="tspan2533">
+         y="326.75963"
+         id="tspan6837"><tspan
+           style="text-align:start;fill:#ffffff"
+           id="tspan6835">
 </tspan></tspan><tspan
          x="120"
-         y="404.75963"
-         id="tspan2539"><tspan
-           style="stroke:#ffff00"
-           id="tspan2537">DO NOT ENTER ANY PASSWORD, PRIVATE KEYS, OR EVEN DUMP ROMS </tspan></tspan><tspan
+         y="374.75963"
+         id="tspan6841"><tspan
+           style="fill:#ff0000;stroke:#ffff00"
+           id="tspan6839">DO NOT ENTER ANY PASSWORD, PRIVATE KEYS, OR EVEN DUMP ROMS </tspan></tspan><tspan
          x="120"
-         y="464.75963"
-         id="tspan2545"><tspan
-           style="stroke:#ffff00"
-           id="tspan2541">IF YOU WANTED TO RESHARE THIS EDITED VHD!!!</tspan><tspan
+         y="422.75963"
+         id="tspan6847"><tspan
+           style="fill:#ff0000;stroke:#ffff00"
+           id="tspan6843">IF YOU WANTED TO RESHARE THE EDITED VHD!!!</tspan><tspan
            style="fill:#ff0000"
-           id="tspan2543">
+           id="tspan6845">
 </tspan></tspan><tspan
          x="120"
-         y="524.75963"
-         id="tspan2549"><tspan
+         y="470.75963"
+         id="tspan6851"><tspan
            style="fill:#ff0000"
-           id="tspan2547">
+           id="tspan6849">
 </tspan></tspan><tspan
          x="120"
-         y="568.23975"
-         id="tspan2553"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2551">Source code clone locations:
+         y="518.75963"
+         id="tspan6855"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6853">Source code clone locations:
 </tspan></tspan><tspan
          x="120"
-         y="605.04614"
-         id="tspan2565"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2555">- </tspan><tspan
-           style="line-height:1.15;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
-           id="tspan2557">~/sauce/simplified</tspan><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2559"> = names_are_hard's simplified ML. use </tspan><tspan
-           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
-           id="tspan2561">git pull</tspan><tspan
-           dx="0 0 0.00012207031 0 0 -0.00012207031 0.00012207031 -0.00012207031"
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2563"> to update.
-</tspan></tspan><tspan
-         x="120"
-         y="641.85254"
-         id="tspan2581"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2567">- </tspan><tspan
-           style="line-height:1.15;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
-           id="tspan2569">~/sauce/og</tspan><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2571"> = Original ML source code (</tspan><tspan
-           style="fill:#ff9955"
-           id="tspan2573">probably hard to compile on this newer system</tspan><tspan
-           dx="0 0 0 0 0 0.00012207031 0.00012207031"
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2575">). use </tspan><tspan
-           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
-           id="tspan2577">hg pull</tspan><tspan
-           dx="0 0 0.00012207031 0 0 -0.00012207031 0.00012207031 -0.00012207031"
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2579"> to update.
-</tspan></tspan><tspan
-         x="120"
-         y="678.65253"
-         id="tspan2585"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2583">
-</tspan></tspan><tspan
-         x="120"
-         y="715.45892"
-         id="tspan2593"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2587">Full README located at </tspan><tspan
+         y="566.76923"
+         id="tspan6871"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6857">- </tspan><tspan
            style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
-           id="tspan2589">~/Desktop/README.txt</tspan><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2591">
+           id="tspan6859">~/sauce/simplified</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6861"> = names_are_hard's simplified ML. use </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
+           id="tspan6863">git pull</tspan><tspan
+           dx="0 0 0.00012207031 0 0 -0.00012207031 0.00012207031 -0.00012207031"
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6865"> to update. </tspan><tspan
+           dx="0 0 0 0 0 0.00012207031 0 -0.00012207031"
+           style="fill:#00ffff;stroke:#0000ff"
+           id="tspan6867">(Tested WORK)</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6869">
 </tspan></tspan><tspan
          x="120"
-         y="752.25891"
-         id="tspan2597"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2595">
+         y="614.77881"
+         id="tspan6881"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6873">- </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
+           id="tspan6875">~/sauce/og</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6877"> = Original ML source code (</tspan><tspan
+           style="fill:#ff9955"
+           id="tspan6879">probably hard to compile on this newer </tspan></tspan><tspan
+         x="120"
+         y="662.7884"
+         id="tspan6891"><tspan
+           style="fill:#ff9955"
+           id="tspan6883">system</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6885">). use </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ff00"
+           id="tspan6887">hg pull</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6889"> to update.
 </tspan></tspan><tspan
          x="120"
-         y="789.0589"
-         id="tspan2601"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2599">Enjoy!
+         y="710.78837"
+         id="tspan6897"><tspan
+           style="font-size:21.3333px"
+           id="tspan6893">- etc. read the README.txt for more info</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6895">
 </tspan></tspan><tspan
          x="120"
-         y="825.85889"
-         id="tspan2605"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2603">
+         y="758.78837"
+         id="tspan6901"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6899">
 </tspan></tspan><tspan
          x="120"
-         y="862.65888"
-         id="tspan2609"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2607">by JOELwindows7
+         y="806.79798"
+         id="tspan6911"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6903">Full README located at </tspan><tspan
+           style="font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#00ffff"
+           id="tspan6905">~/Desktop/README.txt</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6907"> Enjoy.</tspan><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6909">
 </tspan></tspan><tspan
          x="120"
-         y="899.45887"
-         id="tspan2613"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2611">Perkedel Technologies
+         y="854.79796"
+         id="tspan6915"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6913">
 </tspan></tspan><tspan
          x="120"
-         y="936.25885"
-         id="tspan2617"><tspan
-           style="font-size:32px;line-height:1.15;fill:#ffffff"
-           id="tspan2615">CC4.0-BY-SA</tspan></tspan></text>
+         y="902.79796"
+         id="tspan6919"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6917">by JOELwindows7
+</tspan></tspan><tspan
+         x="120"
+         y="950.79796"
+         id="tspan6923"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6921">Perkedel Technologies
+</tspan></tspan><tspan
+         x="120"
+         y="998.79796"
+         id="tspan6927"><tspan
+           style="font-size:32px;fill:#ffffff"
+           id="tspan6925">CC4.0-BY-SA</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Warn">
+    <g
+       id="g5783"
+       transform="translate(0,95)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffff00;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path5670"
+         inkscape:flatsided="true"
+         sodipodi:sides="4"
+         sodipodi:cx="1165"
+         sodipodi:cy="1125"
+         sodipodi:r1="70.178345"
+         sodipodi:r2="49.623585"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.3561945"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 1165,1195.1783 1094.8217,1125 1165,1054.8217 1235.1783,1125 Z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:135.445px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:2.82177"
+         x="1165"
+         y="1175"
+         id="text5778"><tspan
+           sodipodi:role="line"
+           id="tspan5776"
+           x="1165"
+           y="1175"
+           style="stroke-width:2.82177">!</tspan></text>
+    </g>
+    <g
+       id="g6270">
+      <g
+         id="g6251">
+        <rect
+           style="fill:#ff0000;stroke:#ffff00;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect5564"
+           width="680"
+           height="180"
+           x="1080"
+           y="790" />
+        <g
+           id="g5791"
+           transform="translate(5,-245)">
+          <path
+             sodipodi:type="star"
+             style="fill:#ffff00;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="path5785"
+             inkscape:flatsided="true"
+             sodipodi:sides="4"
+             sodipodi:cx="1165"
+             sodipodi:cy="1125"
+             sodipodi:r1="70.178345"
+             sodipodi:r2="49.623585"
+             sodipodi:arg1="1.5707963"
+             sodipodi:arg2="2.3561945"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="M 1165,1195.1783 1094.8217,1125 1165,1054.8217 1235.1783,1125 Z" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:135.445px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:2.82177"
+             x="1165"
+             y="1175"
+             id="text5789"><tspan
+               sodipodi:role="line"
+               id="tspan5787"
+               x="1165"
+               y="1175"
+               style="stroke-width:2.82177">!</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6257">
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:41.0682px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.855587"
+           x="1263.157"
+           y="834.27118"
+           id="text5935"><tspan
+             sodipodi:role="line"
+             id="tspan5933"
+             x="1263.157"
+             y="834.27118"
+             style="stroke-width:0.855587">USE AT YOUR OWN RISK</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text6079"
+           style="font-weight:bold;font-size:24px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6081);display:inline"><tspan
+             x="1260"
+             y="862.37981"
+             id="tspan6931"><tspan
+               style="fill:#ffffff"
+               id="tspan6929">Perkedel nor ML (at official capacity) will </tspan></tspan><tspan
+             x="1260"
+             y="892.37981"
+             id="tspan6935"><tspan
+               style="fill:#ffffff"
+               id="tspan6933">not be responsible for any damage </tspan></tspan><tspan
+             x="1260"
+             y="922.37981"
+             id="tspan6939"><tspan
+               style="fill:#ffffff"
+               id="tspan6937">caused. You have been warned &amp; should </tspan></tspan><tspan
+             x="1260"
+             y="952.37981"
+             id="tspan6943"><tspan
+               style="fill:#ffffff"
+               id="tspan6941">understand any risk modifying your unit. </tspan></tspan></text>
+      </g>
+    </g>
   </g>
   <metadata
      id="metadata134">
