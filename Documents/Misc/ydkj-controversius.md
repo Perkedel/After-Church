@@ -184,6 +184,20 @@ Zoblatos: Due to a safety law, the forced motion has been released. | (force rel
 
 ## Questions
 
+Info: Questions are often biased rather than facts unlike other YDKJ games. Many answers are rather unfair to trap alot of players.
+
+### Phone Brands Bias. Dis or Dat
+
+`Revolutionary` or `Wannabe`?
+
+- Samsung Galaxy (just `Galaxy` in JP). Dis. Samsung Galaxy is the only luxury and highest tech Android smartphone brand, but of course, it's very expensive like Apple.
+- Oppo. Dis. Oppo used to have innovations back then, but now is just wannabe.
+- Apple. Dat. Apple iPhone was the first smartphone brand to become viral & sets standards of the industry. Now they are so late to the innovations these days compared to Samsung and yet still too expensive & proprietary.
+- Xiaomi. Dat. While it's very cheap and decent, Xiaomi does not appear to have significant amount of interesting novelties, although they have other appliances.
+- Fairphone. Dis. Fairphone covers wellbeing not just customers (especially, repairability) but also the workers that made it (from the base ingredients to the manufacturings). However, their serving area so teeny tiny & very hard to get outside Europe & US!!
+- MITO. Dis. Mito was well known with unique quirks in every phone series, even in their marketing they've invited every viral magicians of that time too to advertise it. But now MITO has been died due to loss upon big smartphone brands & now lives as an appliance brand.
+- Nothing. Dat. Nothing Phone (1) only has the light in the back & currently is not customizable. It is not revolutionary either, as there were alot of candybar phones like this too with cool light shows on every ringtones such as Nokia MODEL_PLS.
+
 ## End
 
 by JOELwindows7  
