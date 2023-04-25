@@ -186,7 +186,32 @@ Zoblatos: Due to a safety law, the forced motion has been released. | (force rel
 
 Info: Questions are often biased rather than facts unlike other YDKJ games. Many answers are rather unfair to trap alot of players.
 
-### Phone Brands Bias. Dis or Dat
+### Regular
+
+Sponsors only active if they've been announced from that round. be watchful as the hint is in the brand, and you'll definitely get which question that rhymes with the sponsor.. When it's active, Contro adds `But..` after the answer click for the segue
+
+#### Supermarket for the riches & stupid | Who is our best guy & best traitor
+
+Sponsor = New Toronto Maple Syrups Company
+
+Contro: I had ever went to a supermarket, & it's huge. No, really huge than usual. it's 3 times bigger than a largest EV factory, like an SCP something. When I looked at a price, my heart drop. **My Wife even dropped both**. Really?! a Toilet paper costs 100 Kvz?!? and that's only 1 roll, just so you know. Okay, those who haven't rung, every toilet paper should cost 1 or 2 Kvz a roll. So yeah.
+
+> Which Superstore is the best at selling but also best at overpricing?
+
+- Redmond Superstore. Has Microsoft been our friend lately?
+- Californiastor. Who the hell still wear an Apple watch when everyone already investing on the implant?
+- Brewstore (answer). I thought we are friend, Archive (show any book in [Archive.org](https://archive.org) that is not $0, rent only & no download allowed)
+- Torontomarket (sponsor). What's wrong with Dbrand? I assume you're joking.
+
+Contro: If you didn't know already, Archive organisation has rent book. How's that work is that they limited amount for those who borrowed it, ***ARTIFUCKINGCIALLY***, Like an NFT, but expires to give space for another depsperate to borrow that book. No kidding, a Library borrowing system, but digital. If it's not Temporary NFT, then what is this piece of shit?! Gosh, I thought still-live file sparsdating a wrongdoing at all. Gooosh, how many I've gotta scan here?
+
+Contro: (sponsor) But you've just won This Cosmic Maple Syrup, from New Toronto Maple!! This Maple taste no different but sure is interesting to apply. Better add more fast coz it's prone for scalping across galaxies. This sponsor brought you 8000 Kvz, congrats.
+
+####
+
+### Dis or Dat
+
+#### Phone Brands Bias.
 
 `Revolutionary` or `Wannabe`?
 
