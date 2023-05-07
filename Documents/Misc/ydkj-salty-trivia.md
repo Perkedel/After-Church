@@ -545,6 +545,12 @@ Joel: Oh no, looks like we have interference here, hope you can see it here.
 
 Names must be matches within following description exactly.
 
+### *Just yourself*
+
+info: from now on, single playered session will / may trigger this line
+
+Joel: (name / player 1 / none)!! Just yourself? Well, apparently this game is better played together. But uh, I get it. Friend's hard, you know that. Anyway, enjoy the game. Oh one more, remember you can just bring AI next time, or replay surveys to virtually multiplayers. Yeah you can do that.
+
 ### Candy Barre
 
 Joel: Hehey, Candy's here. And joinin' right here today! Sup, buddy?, Okay, what do you think? I know it's messy here, but uh.. yeah. Thancc for coming with us here, and enjoy the game.
@@ -650,6 +656,34 @@ Joel: Ahei, Komi-san, welcome! Whoa whoa, relax, relax. I am not a monster. I am
 
 Joel: Ahei, Hailey, Welcome. Look, I'm sorry for breaking your game, But it's really impressive though. I know, recreating game is hard, and I thancc you for creating this framework for us, while we're making our own framework like this.. It wouldn't be possible without you. And thancc for joining with us! So, enjoy!
 
+### Vriska Serket (Homestuck)
+
+info: Remember, as of mid 2023, franchises are now reinstanced with few to some properties & current statements copied over. She & future franchises will be like this. Company restructuring, you know.
+
+#### Single Player
+
+Joel: Vriska!! Hi.. Where's the other? Did you kill them? Well, I hope not. Resurrector is very expensive, the power needed. Yeah, just so you know. Anyway enjoy the game, you got nobody here, so relax.
+
+#### Multi Players
+
+info: Adding Vriska into this session will cause the session very hard, because as Vriska, she has the ability to predict answer confidence level. A meter of confidence will appear underneath the answer buttons, that is if you play using smart remote. Not always accurate.
+
+Joel: Oh noes. Vriska is here. I'm sorry, gamers, today's a very hard game. Have your sportmanship everyone, because she is the luckiest player here in the galaxy. I already told her to let herself lose so other player can win, and you know, she refuses. Best behaviour y'all, you can do this. Vriska? Please. okay?!
+
+#### Default
+
+info: Actually, we don't have time to program extra advantages today.
+
+Joel: Oh noes. Vriska is here. Best behaviour folks. I know, I already told her many times not to telepathy & cheat the answer from other players. She refused. So Vriska, Please! For the love of God. And everyone, I expect for your sportmanship. Okay, enjoy the game.
+
+### Terezi Pyrope (Homestuck)
+
+Joel: Ahei, Terezi. Don't worry, the answer board ahead of you already has braille pins and Arduino LCD display, also a headphone jack on your left if you want to hear audio description.
+
+Terezi Pyrope: (pick microphone), I C4N S33, Y0U DUMB455!!! D:<, (put back)!!.
+
+Joel: Wait, you can see (checking Terezi's medical condition right now)? OOWH!, Congratulations! Sorry I didn't know that. Whow!, you people had alot of story to tell. Man, no time for that not to mention Holy Bible entire set. Rather to hear what spoilers says you know what I mean. Yeah, uh.. church with priest sharing Bible stuffs every weekend. Anyways, enjoy the game. (small voice) btw uh, didn't we cured her, or it was already by someone? huh, (Will check Resurrector history..) after the game.
+
 ## Extras
 
 ### Ralsei Missing
@@ -677,6 +711,8 @@ Karesh: I am sorry, sir. But we have no such recording in this directory.
 Joel: Oh yeah, I forgot. We don't have it at all, to this day. Welp, congratulations, people, you win this time. but next time this gonna be serious.
 
 ## Ads
+
+Advertisements audio on the background
 
 #### Interview JOELwindows7 when Tari asked about if this game has AI
 

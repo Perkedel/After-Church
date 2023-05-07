@@ -267,7 +267,7 @@ Joel: Hokey, (category).
 > Which Culture that are exclusive to Japan? To this day and too lazy to be applied on everyone else.
 
 - Smartphoneism. Sorry, it's internation, not mention that it was IBM's idea at first.
-- Behaviourism. In school, Japanese people are taught to do the chores themselves, be responsible, yadi yada. Then applies to everywhere, like make sure you clean your station before you leave, and most of the time clean entire stadiums after the game, even if you lose.
+- Behaviourism (answer). In school, Japanese people are taught to do the chores themselves, be responsible, yadi yada. Then applies to everywhere, like make sure you clean your station before you leave, and most of the time clean entire stadiums after the game, even if you lose.
 - Musicalism. Um sorry, [Yamaha Musicsoft](https://shop.usa.yamaha.com) division is European.
 - Artism. I know Anime originates from Japanese, but it seems everyone now had adopted it.
 
