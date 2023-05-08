@@ -62,7 +62,7 @@ Joel: (sponsor) And right at this time you just won an Incorrect Lootbox from AR
 
 > ♿ Disability
 
-Info: not including NSFW disabilities such as tilted penis. No, don't to Kaorfa like that!
+Info: not including NSFW disabilities such as tilted penis. No, don't to Kaorfa like that! He is tremendously ashamed alot with that just so you know. Also removal of mature teeth is an amputation, an oral amputation. At least it's hidden from view.
 
 #### 1. Blindness / Low Vision
 
