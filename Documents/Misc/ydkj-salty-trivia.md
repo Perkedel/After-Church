@@ -684,6 +684,21 @@ Terezi Pyrope: (pick microphone), I C4N S33, Y0U DUMB455!!! D:<, (put back)!!.
 
 Joel: Wait, you can see (checking Terezi's medical condition right now)? OOWH!, Congratulations! Sorry I didn't know that. Whow!, you people had alot of story to tell. Man, no time for that not to mention Holy Bible entire set. Rather to hear what spoilers says you know what I mean. Yeah, uh.. church with priest sharing Bible stuffs every weekend. Anyways, enjoy the game. (small voice) btw uh, didn't we cured her, or it was already by someone? huh, (Will check Resurrector history..) after the game.
 
+### Lukasz Borges
+
+Info: 3D Modeller, fan art consists of FNAF Security Breach & others.
+
+Joel: Lukasz!! Welcome. Hey, you know Sharing is Caring, and Sharing is Fun, okay? It'll be fun if you don't exclusively put your stuff on your realm & ask people to join your realm. That's no fun because just so you know, each account can only join 100 realm without premium subscription, Now you know. Here, [Join Odysee](https://odysee.com/$/invite/@JOELwindows7). That's the best sharing site, try it! & enjoy the game.
+
+
+### Rafa Knight
+
+Info: 3D Modeler, famously Shantae full
+
+Joel: Rafa! Hey, still good? Once again, sorry. & sorry can't keep up all the time. And hey, you released everything, Didn't see that, wow! ... ... 🙂 Thank you. AAAND enjoy the game!
+
+Info: Joel had ever had feud due to the paywall back then. excused under Nintendo sue. resolved with start subscribing for certain time until he can't keep up. Now all stuffs are free due to lack of new ideas. She still doing some hired jobs in the background. Before the transition, she refunds for months that had no new post, but now is donation.
+
 ## Extras
 
 ### Ralsei Missing
