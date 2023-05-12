@@ -22,7 +22,7 @@ Lucifer: Okay guys here we are.
 
 Info: Yes, it's a girl. Big shout out to Lukas Piskor / vanripper.
 
-Lucifer: (get up to the pile).. ..  .., Joe, watch! 
+Lucifer: (get up to the pile).. ..  .., Joe, watch!
 
 Joe Lubu: huh?
 
@@ -74,7 +74,7 @@ Fook: ... I don't think that dry question a good idea today. Perhaps a good idea
 
 Lucifer: No no, get out. I just need 1. We'll see if just one is enough to rule over the humanity, heheheheee!!!
 
-Fook: Okay. Just so you know, humans are getting aware faster these days. 
+Fook: Okay. Just so you know, humans are getting aware faster these days
 
 Lucifer: But not sexuality desire (look at baby face). Trust me. There will be 1 to rule the all.
 
@@ -102,9 +102,13 @@ Info: Joe is human rejected to go to Heaven because of a behaviour God does not 
 
 Gonock: Okay, not that bad. I mean..
 
-Slith: Yeah, if she made it, that's happened.
+Slith: Yeah, if she (Lucifer) made it, that's happened.
 
-Gonock: Okay.. btw, just asking. Latsufir is half angel isn't he? Sky half demon. Coz mama Bilo is angel, mama Yolaine is that demon.
+Gonock: Okay.. uhhhh..
+
+Slith: Well at least at the end, Yolaine pregnate & born Sky, like normally every humanoid does, horray!
+
+Gonock: Right right. Btw, just asking. Latsufir is half angel isn't he? Sky half demon. Coz mama Bilo is angel, mama Yolaine is that demon.
 
 Slith: Yes.
 
