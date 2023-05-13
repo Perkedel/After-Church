@@ -32,6 +32,38 @@ Isolatip: I just need to warn you, I get it you cannot Harrass, Threats, nor mur
 
 Isolatip: .... Class dismissed.
 
+### Space
+
+Razz Bisan: (left as well).... (noticed a beam)?? Huh, what?
+
+(many but one got beamed)!!!! ! ! ! ! ! ! ! !
+
+Razz Bisan: (try maneuver), (got hit) NO!!
+
+### Galactic Penetiary Centre Sloantim
+
+Razz: OH C'MON!!
+
+Officer John Sastrowing: Razz Bisan. Wanted for 1 murder towards his own grumpy maid who disses often to his own son, 1 battery to his own parent just because refusing to get rid of that grumpy maid, 1 case of Intelectual Property discredit in which that recipe is from that same grumpy maid, gosh you indeed are so vengeful like Kaorfa, and 247 cases of smugling & scalping the supposed EV batteries for the poors.
+
+Razz: John? is that you?! Haha, we meet again eh?
+
+John: Welcome back. Don't you miss me?
+
+Razz: (look John behind & fire missile towards) Oops!!..
+
+(forcefield blocked it)
+
+John: We've already learned newer things from you. You could've repent. We can help you, but instead you chose to scronch. And further doing more bad things. I'm just disappointed.
+
+Razz: Look, you are not so different! I ask you to execute, but all you do is just... *ungrumpy her*, b8888888!
+
+John: Here we go again 😑.. (close cell glass view)! (take deep breath), (exhale) hoof!
+
+Razz: WHAT THE F888 MAN? I WANT YOU TO ACCEPT MY APPEAL!!
+
+Joan: (open intercom to cell) Your appeal is screwed up! don't scronch a person just because she had such behaviour!
+
 ## End
 
 by JOELwindows7  

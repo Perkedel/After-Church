@@ -113,6 +113,8 @@ Vriska: (uncover vent)!, (put grill asside left). (look surround).. Okay, Jade, 
 
 Jade: (walk while look watch).... (put down & keep walk)..
 
+Info: Jade wore the watch inverted, face inside. This is intentional, since watches are shinny and could compromise position. A sniper rule of thumb!
+
 Terezi: (notices every step sounds a familiar vent step sound).. (trying hard to hold giggle).. (giggle leak a bit)!...
 
 Vriska: (telepathy whisper) Yes, Terezi, ikr, hold your laugh!
@@ -159,7 +161,7 @@ Vriska: (internally) 😯 WHAT?!
 
 Exutupus: (press retract graple & benefit the momentum)! **GRRRRRRRRRRRRRR!!!!**
 
-Tavros: ohh!!
+Tavros: (retilt up) ohh!!
 
 (slowmo)
 
@@ -201,7 +203,7 @@ Officer Ken Lockley (dad): (notices)! Hey, got one!
 
 Tavros: (look back to vat scene)..
 
-(Vine boom sfx)
+(Vine boom sfx 🗿)
 
 Feliz Nodi: (very confused what the peck has just happened up there) 😨😨😨😨😨😨??????????!!!!
 
@@ -215,19 +217,21 @@ Terezi: (go towards Vriska) ON 1T! (grab Vriska's right hand with left hand)!!
 
 (Super Xray mode!)
 
-Terezi: (running target locked) There! (send telepathy to Jade)
+Terezi: (searching).., (running target locked) There! (send telepathy to Jade)
 
 Jade: (aiming Aduz to have the trajectory ends to target)... (completed), (fire the Jotos)!!!
+
+(Sniper Fury slowmo)
 
 bullet: (fly towards the trajectory line)!......
 
 Feliz: (running in center hallway towards exit to front door from where vent)...
 
-(slowmo)
-
 Feliz: (got hit, `DIJOTOSIN`)!! UUUOOOOOOOOOOOORRRRRRGHHHHH... (head hit metal oxygen pipe)
 
 (BONK! [In Nomine Patris et Filli et Spriritus Sancti...](https://youtu.be/gDLnAjvcJgA ))
+
+(finish Sniper Fury slowmo)
 
 bullet: (async) (hit ground like pin collision)
 
