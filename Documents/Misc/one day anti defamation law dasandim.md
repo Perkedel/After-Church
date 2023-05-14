@@ -45,4 +45,5 @@ The bill says, reputation either bad or good alignment will survive. Those who s
 - child labor will be more banned than ever before. That doesn't mean mature Tamashien is not allowed to work. We're talking about less than 18 years old biologically. Punishment has been increased significantly, now 20 years prisonment & all money in wallet fined + no UBI. After the punishment finished, UBI will be restored immediately but start from tiny to normal.
 - Companies whose employees are over 90% AI robots will get fund boost. This does not apply to reporting system since living being are prioritized.
 - Prisoned criminals whose origin not Dasandim can still be claimed by their origin planet no fuss. origin planet are encouraged to punish the criminals accordingly, except death sentence.
-- 
+- At this point, Registration age minimum may be increased to 21, assuming these are mature people and would be not toxic.
+- Projects since this point will not support viewers whose ages less than 21, because assuming lesser than it are very toxic

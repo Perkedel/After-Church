@@ -113,11 +113,13 @@ Vriska: (uncover vent)!, (put grill asside left). (look surround).. Okay, Jade, 
 
 Jade: (walk while look watch).... (put down & keep walk)..
 
-Info: Jade wore the watch inverted, face inside. This is intentional, since watches are shinny and could compromise position. A sniper rule of thumb!
+Info: Jade wore the watch inverted, face inside. This is intentional, since watches are shinny and could compromise position. A sniper rule of thumb! John Wick also knew that!
 
-Terezi: (notices every step sounds a familiar vent step sound).. (trying hard to hold giggle).. (giggle leak a bit)!...
+Terezi: (notices every step sounds a familiar vent step sound).. (trying hard to hold giggle) (internally) OH SH88 OH SH88 F888 NO.. (giggle leak a bit)!...
 
 Vriska: (telepathy whisper) Yes, Terezi, ikr, hold your laugh!
+
+Terezi: (internally) H3LP! 🤣🤣🤣
 
 ### Vat Cooking Room
 
@@ -135,15 +137,15 @@ Info: Yep, Detroit Become Human Connor.
 
 Vriska: (look Tavros).. (send message).
 
-Tavros: (look Vriska)? (prepare his role)..
+Tavros: (look Vriska)? (prepare his role),,
 
 Vriska: (prepare her role)..
 
-Tavros: (right feet little bit test silent step on the metal)... (touched and no sound), (jump rest of feet)!!.. (still no sound)?.. 👍!
+Tavros: (right feet little bit test silent step on the metal),,, (touched and no sound), (jump rest of feet)!!.. (still no sound)?,, 👍!
 
 Vriska: (okay, focus to open portal whenever it's time).. (position locked). (look Tavros & tell telepathically with nod)!
 
-Tavros: (silently take breath), (walk normally behind the target)............ (in position, look Vriska)
+Tavros: (silently take breath), (walk normally behind the target),,,,,,,, (in position, look Vriska)
 
 Vriska: (more prepared & while looking at target)!..
 
@@ -153,7 +155,7 @@ Vriska: (async) ... (immediately open portal to prison)!!
 
 Exutupus: (async) .... GYAH!! (immediately turn around & grapple to Tavros' horn)!!!
 
-Tavros: aaaaa!!! (but feet still stick strong, leading him to lean forward like Michael Jackson, with rubber stretch sfx)!!!
+Tavros: aaaaa!!! (but feet still stick strong, leading him to lean forward like Michael Jackson Smooth Criminal, with rubber stretch sfx)!!!
 
 Exutupus: <span style='font-size:large;'>**HOOOOOOOOOOOOOOOOOOOOOW?!?!?!**</span>
 
@@ -161,7 +163,7 @@ Vriska: (internally) 😯 WHAT?!
 
 Exutupus: (press retract graple & benefit the momentum)! **GRRRRRRRRRRRRRR!!!!**
 
-Tavros: (retilt up) ohh!!
+Tavros: (retilt up) ohh!!,,
 
 (slowmo)
 
@@ -177,17 +179,17 @@ Exutupus: (async) (strike Tavros' forehead) **UGH!!!**
 
 (immediately hussnasty Tavros close up angled above head, & hussnasty focus below to what happend)
 
-Tavros: (still keeping holding stand)!!! (hussnasty leg) (slipped stepping back)!!! (hussnasty torso) (with hands on target's torso put down fast on target's both leg stand up but hold, and head down)!!!.
+Tavros: (still keeping holding stand)!!! (hussnasty leg) (slipped stepping back)!!! (hussnasty torso) (with hands on target's torso put down fast on target's both leg stand up but hold, and head down)!!!,
 
 Vriska: (close portal and step back)!
 
-Tavros: (slowly raise head up & see target's head)... (surprised & flabbergasted, the top head has been exploded) 😲?!?!..
+Tavros: (slowly raise head up & see target's head),,, (surprised & flabbergasted, the top head has been exploded) 😲?!?!,,
 
 Exutupus: ... (head relaxes to left front)!.. .
 
 (mechatronic robot arm camera right view, tween from this right view, middle, then left overal take rest left view)
 
-Tavros: ... (quitely) OOPS 😬😬😬😬😬😬, (slowly strave him left), (lean sit him by the wall of the catwalk), (close his left eye, WinCE 6 menu open), (close his right eye, WinCE 6 menu open), (pat pat right shoulder, 2x WinCE keyboard), (step back a bit & raise both hand in guilt) 😐......
+Tavros: ,,, (quitely) OOPS 😬😬😬😬😬😬, (slowly strave him left), (lean sit him by the wall of the catwalk), (close his left eye, WinCE 6 menu open), (close his right eye, WinCE 6 menu open), (pat pat right shoulder, 2x WinCE keyboard), (step back a bit & raise both hand in guilt) 😐,,,,,,,
 
 Aradia: (approach target), (undo head explode)!!...
 
@@ -199,9 +201,11 @@ Exutupus: HOAH!!! (fell to prison) UGH!!
 
 Vriska: (Close portal)!
 
+Exutupus: f888..
+
 Officer Ken Lockley (dad): (notices)! Hey, got one!
 
-Tavros: (look back to vat scene)..
+Tavros: (look back to vat scene),,
 
 (Vine boom sfx 🗿)
 
@@ -210,6 +214,8 @@ Feliz Nodi: (very confused what the peck has just happened up there) 😨😨�
 *personel*: (uh oh)..
 
 Feliz: ... (run to right away from vat & u turn to the hallway)!!!
+
+Tavros: (confused looking at target)??
 
 Vriska: Terezi!
 
