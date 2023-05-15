@@ -4,19 +4,19 @@ Ft. Josh Schmitinstein a.k.a. Schmitty.
 
 Left Family, Laxond:
 
-- Nope
-- Herringbon
-- Danass
-- Huaves
-- Paul
+- Nope (dad)
+- Herringbon (son 1)
+- Danass (mom)
+- Huaves (son 2)
+- Paul (son 3)
 
 Right Family, Cheroz:
 
-- Yess
-- Beauty
-- Jefferson
-- Lala
-- Josey
+- Yess (dad)
+- Beauty (daugher 1)
+- Jefferson (son 2)
+- Lala (mom)
+- Josey (daughter 3)
 
 Win 300 points. when you win, you got your Kvz.
 
@@ -42,7 +42,7 @@ Schmitty: And it's all for lots of Kivrontz, and most importantly,
 
 (camera point to grand prize)
 
-Schmitty: a brand new Ultimatized Hyundai IONIQ 7 (or whatever) SUV variant Signature Long Range!
+Schmitty: a brand new Ultimatized Hyundai IONIQ 5 (or whatever) SUV variant Signature Long Range!
 
 *all*: (excited applause) HOOOOO YEAH!!!
 
@@ -167,7 +167,19 @@ Schmitty: You got 235 now, goal is 300. Alright we'll be right back after this m
 
 ## Ad
 
-(ad)
+Lipstick BLACK by Stuart Semple or whoever not Vantablack. Reference to who's that troll that likes to lipstick her mouth even blacker???
+
+(Home B-roll style)
+
+Kanaya Maryam: (take BLACK lipstick out of purse).. (open cover), (apply)............ (lip roll spread) Mpah Mpah!, (blow camera, add black dust effect) Foooh!!
+
+(transition to white wrap table, stay the camera there)
+
+Kanaya: (close cover), (put lipstick beside reserved tagline text).
+
+Introducing, BLACK, by PLS_COSMETIC_BRAND x Stuart Semple.
+
+(brand logo)
 
 ## After ad
 
@@ -295,9 +307,37 @@ Schmitty: Pretty must! **Nametags?**
 
 Schmitty: Hey, not bad.. You're really good. Alright, we'll be back again after this message.
 
-## Ad again
+## Ad again. Van Elektronische Vriska Serket / OpenCX Conductor
 
-a
+Vriska Serket is an orchestra conductor!
+
+(use Swan Lake Tchaikovsky)
+
+Giss Rambat: (harp)....
+
+Foyus Kound: (clarinet)...
+
+Yuyag Yeyeg: (multi violin)!.!.!.!.!
+
+(straight to charge up)
+
+Goug Skeleton: (telekinetic multi trombone).....
+
+(overal. straight to bridging), (and then Ta tu ta to tu ta ta), (stair down ti tu tu du tu), 
+
+Vriska Serket: (left hand metronome, right hand hint)!!!
+
+(impact)! ... !!!, !!! (end)
+
+*audience*: 👏👏👏👏👏👏👏👏
+
+Vriska: (happy orchestra finish well)..
+
+(sparkle circle transition), (show the unit)
+
+*Narator*: OpenCX Conductor.
+
+(Perkedel logo)
 
 ## After ad again
 
@@ -369,7 +409,7 @@ Schmitty: (really going to burst giggle)!.., (medium volume) maksudlu Gunung Mel
 
 Huaves: Nggak sih, Gunung Meledak. 🤣!
 
-Schmitty: (tired holding laugh).. Okay. (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
+Schmitty: (tired holding laugh).. Okay. (walk while getting weaker).... (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
 
 *audiences*: (even more laughing)🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
@@ -391,7 +431,7 @@ Nope: Good answer!
 
 Schmitty: **Covid laaab.!.**
 
-(Exist on list! `1. Merapi / Krakatoa`, 150 pts)
+(Exist on list! `5. Virus Research Center`, 30 pts)
 
 Schmitty: (able to stand up finally) Okay! Hahh. Hoof, 1 Left. Nope?
 
@@ -480,9 +520,11 @@ Info: Siladex ad Homestuck WWTBAM. Cough is reference to cheat incident. Siladex
 - Ancol
 - Taman Mini Indonesia Indah
 
+(Enter question jingle level 3)
+
 Cookie Masterson: Okay, next question. (question)? is it (answers), , , ?
 
-Nepeta Leijon: `:33` ◀️ Okay, I think that's D..
+Nepeta Leijon: `:33` ◀️ Okay, I think that's `D`..
 
 Karkat Vantas: (cough)!!! !!
 
@@ -494,7 +536,7 @@ Karkat Vantas: (cough)!!! !!
 
 Nepeta: `XOO` ◀️ KARKAT!?!?
 
-*audience*: (start to sus)...
+*audience*: (start to sus) again?...
 
 Nepeta: `TT'OO` ◀️ I DIDN'T DO IT!
 
@@ -506,15 +548,21 @@ Juuse Fulg: (cough)!!!
 
 Fidge Yolk: (cough) !!!
 
-Pulo Sewu: (cough) !!!
+Pulo Sewu (Yess, it's a troll! another Perkedel's Homestuck OC): (cough) !!!
 
-Cookie: (offer Siladex to 4) Calm down. Prevent Ruining the game with Siladex. (camera back stick to Karkat & so on) (give Green to Karkat) Siladex M & E for Phlegm, (give Blue to Fidge) Cough & Cold for Uhuk & Hachih!, (give red to Juuse & yellow to Pulo) & Non Phlegm with Antitusive OR DMP.
+Cookie: (start offer each variants of Siladex to 4) (Y pose) Calm down. Prevent ruining the game with (both hand provide 4 variants) Siladex. 
 
-(illustrate)
+(4 box rotates & flies float toward camera)
 
-(Background Nepeta won 1 Million blur audience yayyy)
+Cookie: (camera back stick to Karkat & so on) (give Green to Karkat) Siladex M & E for Phlegm, (give Blue to Fidge) Cough & Cold for Uhuk & [Hachih](https://youtu.be/MLeqBH3UT5Y )!, (give red (Antitusive) to Juuse & yellow (DMP) to Pulo) & Non Phlegm with Antitusive or DMP.
+
+(illustrate! quadrant each filled with those coughers above. all at same time, hose spray cough stone with respective Siladex & the cough stone destroys)
+
+(Background Nepeta won 1 Million blur audience yayyy with Millionaire win song)
 
 Cookie: Siladex (R). Aktif ~~Tuntaskan~~ Redakan Batuk.
+
+(Transitioning Konimex logo hexagoning)
 
 *heavy voice*: Produksi Konimex.
 
@@ -526,33 +574,282 @@ Cookie: Siladex (R). Aktif ~~Tuntaskan~~ Redakan Batuk.
 
 ## Fast Money
 
-Turn 1:
+Questions:
 
-- a
-- a
-- a
-- a
-- a
+1. Name an item that keeps kids from being social
+2. Name a moment that leaves only an upset ending
+3. Name a technology module that kept getting scalped
+4. Name very rare material that can only found in few planets
+5. Name an object inbetween that you use to kiss your partner with
+
+Turn 1 (Yess):
+
+1. Smartphone / PDA. 87. Number one is `Smartphone / PDA`
+2. Lottery loss. 9. Number one is `Rejected in judgement day`
+3. Graphic Card / Visual Module. 12. Number one is `Power source`.
+4. Gemstones. 0. Number one is `Wood / Tough Celuloids`.
+5. Biscuit. 25. Number one is `null / None`.
 
 TUrn 2:
 
-- b
-- b
-- bb
-- b
-- b
+1. Hikikomori. 0.
+2. Death. 15.
+3. Power Source. 30.
+4. Bedrock / Admantium. 0.
+5. Enchancer Fluids. 2.
+
+Info: Answer, how many in survey agrees. once both turns have answered, the second review shows what answer is number one.
+
+(Yess is on the position, & Beauty behind stage wear muffle headset)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Welcome back again, to Family Feud here. Now Cheroz has won the game, but we're done yet. One last challenge for them!
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Let's get started. You know what it is? It's time for..
+
+*audience*: Fast money!!! 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: We ask 100 gamers all around galaxies for all these 5 questions, each for one answer. Strength of each answer is based on how many gamers agree, so 1 point for each agrees. Now, Yess. (point) Face to audience? Okay. are you ready?, 30 seconds.
+
+Yess: Yess. Bring it on!
+
+Schmitty: (Question 1).
+
+Yess: Samsung.
+
+Schmitty: (Question 2).
+
+Yess: Dud Tickets.
+
+Schmitty: (Question 3).
+
+Yess: VGA!!
+
+Schmitty: (Question 4).
+
+Yess: Diamond.
+
+Schmitty: (Question 5).
+
+Yess: Pocky.
+
+(All finished ding ding ding!)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Okay, let's review. Question 1, you said (answer 1).
+
+...
+
+(worths 87)
+
+Yess: WOO!! Okay.
+
+Schmitty: Okay, we're getting headstart here, Question 2, you said (answer 2). ...
+
+(worths 9)
+
+Schmitty: Okay, good! Good answer also. Question 3, you said (answer 3). ...
+
+(worths 12)
+
+Yess: Ayo, what?! 💀
+
+Schmitty: It's okay, great answer. Remember, we have surveyed galactic people, not just around here. Question 4 you said (answer 4). How's that? ....
+
+(worths 0)
+
+*audience*: awww
+
+Schmitty: Wow, okay. I am surprised to be honest. Considering there's that 1 planet on Solar over there, had diamond at its core, what do you know? Heh. Well, Question 5 the last, you had (answer 5). ...
+
+(worth 25. You are now 133, 67 to go)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+(hide answer from in-stage screen & only show answered to remote audience)
+
+Schmitty: Great job, great job. Okay, Beauty, come out now & take off your muffler.
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏
+
+Beauty: (walk in stage), (take of muffler).
+
+Schmitty: Okay, (point) face to audience,
+
+<!-- Instruct about already exist error buzz buzz -->
+
+Beauty: (stand face audience)..
+
+Schmitty: Okay. You'll be presented with the same question as Yess did. But you gotta answer differently, so if you hear this,
+
+(Already exist buzz buzz)
+
+Schmitty: It means already exist & you must try again with different ones and goes until it's different. You got it?
+
+Beauty: Okay!
+
+Schmitty: Now your family got 133 so you need 67 more. Almost there! Okay?
+
+Beauty: Alright,.. yess.
+
+Schmitty: Ready? 30 second,
+
+Beauty: Go!
+
+Schmitty: (Question 1).
+
+Beauty: Samsung!
+
+(error already exist)
+
+Schmitty: try again..
+
+Beauty: Self lockdown!
+
+Schmitty: (Question 2).
+
+Beauty: Die a world.
+
+Schmitty: (Question 3).
+
+Beauty: Uranium?
+
+Schmitty: (Question 4).
+
+Beauty: Bedrock.
+
+Schmitty: (Question 5).
+
+Beauty: Lubricants.
+
+(All finished ding ding ding!)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: (turn to big display) Okay, look here. 
+
+Beauty: (look big display).
+
+Schmitty: How do we do? Question 1 you said (answer 1). survey said?
+
+...
+
+(worths 0)
+
+*audience*: aww
+
+Schmitty: That's okay, it's a good answer. In fact, I had ever seen one of my friend back when I was in highschool do that, coz you know exam is hard, and fail class is no fun! ... Anyways, ... Okay, Question 2 you said (answer 2). HOw many agrees we got?
+
+...
+
+(worths 15)
+
+Schmitty: Oh wow. It seems that many of the participants back week were okay with it, or something else, No idea! Well after all, we hope for the best.
+
+*audience*: (agrees) 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Question 3 you said (answer 3). Survey said..
+
+(worths 30 & is No. 1)
+
+Beauty: Woooow.. okay..
+
+Schmitty: Oh wow, it's your lucky day! I mean here we don't think it much, but we heard 'em. They got their own struggles, you know. Next, Question 4 you said (answer 4). Survey says..
+
+(worths 0)
+
+Schmitty: No no, Good answer, I know you're struggling. ANd look, Number 1 is `Wood`??
+
+*audience*: (confused & giggle & laugh normal) 🤣🤣🤣👏👏👏👏🤣🤣🤣🤣👏??
+
+Schmitty: Well, I just remembered. I think I heard one scientist said it's wood that the rarest, that what he said, idk and I forgot who's his name was. But true, I think when you guys explored planets, all you see are rocks, minerals, and gasses. You ever see woods there other than on Earth & here in Dasandim? 
+
+audience: noo / one / few / only one / Chaburiz!
+
+Schmitty: No? Oh, one? ... Hu um.. Yeah, it's basically rare, believe it or not.
+
+*audience*: 👏👏👏👏👏
+
+Schmitty: Final question, 5 you said... I don't dare to say it but that's the answer! Surveys?
+
+(worth 2! you total 133 + 45 = 178, miss 22 left!!)
 
 <!-- Cheroz right lost this, but the car has to be given or the studio will be punished by the deealer. so give car to Laxond left -->
-<!-- The car must be given because if not, it will be auctioned. there is one notorious guy named Gostak Lambor. He always wins every single time, yet he leave all his autos in garage field left to rot. If he got to sell it, it will be resold more expensive without refurbishing any of them. Rotten as is, at a price of 16 regular kidneys. The car gotta be given fast, because Gostak is really wanted it, do not let Gostak have it, he's a bad guy! hence why Laxond wins, emotion relieved. -->
 
-... 
+*audience*: aww 👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Ooo, what a bummer. I'm sorry.
+
+Beauty: Argh, maybe we should just buy ourself anyways.
+
+Schmitty: Okay, you looks fine. Hey Cheroz family how many cars you got now?
+
+Danass: alot! (elbow bump Yess, because he likes to buy alot of cars)
+
+*audience*: 🤣🤣🤣🤣,
+
+Schmitty: Alott?? such as?
+
+Yess: Rolls Royce Phantom, CUllinan, Ghost, Mercedez Benz all Maybach,
+
+Schmitty: Okay stop stop stop stop. You're one of the scalper aren't you?
+
+Yess: No that's it, I got couple Teslas in my house too.
+
+Schmitty: (head snug back tilt body back a bit) 🤨🤨🤨🤨🤨.....
+
+*audience*: (increase laugh a bit)
+
+Schmitty: You gotta stop doing that. NO I mean, reduce that. I don't think that's good, what happen with other cars? Sure you wouldn't use another copy of same model don't you?
+
+Yess: No, 1 for each model.
+
+Schmitty: That's better. But still though. perhaps you gave it or sell maybe, so others can own.
+
+Yess: (discomfort a bit) Yeah man, Okay, I know. Alot of my friends says so.
+
+Schmitty: Oh really? haah.. Yeah. You can spend better for like.. entirely more different stuffs, buy games, y.. you know, games don't take space unlike cars, you could've complete Steam collections, and everyone else can still buy same, unlike cars. See?
+
+Yess: Oh okay.
+
+Schmitty: Note it. Don't need to thank me, thank Kaorfa. ... SO!, speaking about collecting about cars, We got something veeery important to tell you all about this. Everyone please stay, we're not done yet. LaxoOOnd??, Come here.
+
+<!-- The car must be given because if not, it will be auctioned. there is one notorious guy named Gostak Lambor. He always wins every single time, yet he leave all his autos in garage field left to rot. If he got to sell it, it will be resold more expensive without refurbishing any of them. Rotten as is, at a price of 16 regular kidneys. The car gotta be given fast, because Gostak is really wanted it, do not let Gostak have it, he's a bad guy! hence why Laxond made wins, emotion relieved. Gostak pronoun is He/Him. Schmitty tried his best to disguise his pronoun to make it even more difficult to track, although he did had mistake because Schmitty is not used to neopronouns. Hey, if you harrass us, you will have no place, I warned you.-->
+
+(Laxond family came back to stage)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏, (Nope is glittered with CRT glass shards around him, stop applause) ohhhh, oh my God what happen?
+
+Schmitty: Whoa, Nope.. You okay? You got shards on you. What's going on?
+
+Lala: Oh, um, he, we just went to Angery Room. We're so lucky you guys have that. Thank you so much
+
+Schmitty: Ah yess, we indeed have Angery Rooms same level with Airsoft battle room underground there. So if you wanna check it out, go ahead, it's only 150 Kivrontz for 2 hours, so you can play as much and as many items you'd like to smash. ... But you gotta clean yourself man, you could hurt yourself and others.
+
+Mosk Kand: (enter stage with strong vacuum cleaner)!!, (vacuum clean Nope while brushing shards off)!...
+
+Schmitty: Nowh, okay. It looks better like that. (assist clean up)! ! !, Okay, now. Look, see, it's clean now. C'mon, let's see the important things here. ... Hey stop crying man?
+
+Nope: (hug cry Lala) 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭!!!
+
+*audience*: (moved too)
+
+Schmitty: (pat) Hey, c'mon. This is not your end, buddy. We're not done yet. Look look, the screen! there. Hey, Udah, jangan nangis. Ini loh, kalian menang. (point) Tuh lihat.
+
+Paul: wait really? (look screen)?!?!
+
+(Laxonds look screen).
 
 > (Header of Dasandim Trasnportation Alliance)
 >
 > Kpd Yth, Istana Seru,
 >
 >     Selamat, kontrak untuk giveaway 
-> `Hyundai IONIQ 6 Long Signature Custom Terlengkapi`
+> `Hyundai IONIQ 5 Long Signature Custom Terlengkapi`
 >
 >     Telah disetujui oleh pemberi kontrak ini,
 > `Josh Blogoruat`.
@@ -574,17 +871,75 @@ TUrn 2:
 > Josh Blogoruat
 > Drive Land, 25 Mei 2023
 
+Schmitty: Okay, so here's our contract for the dealer of this brand new car. let me zoom this (operator zoom), okay. Now let's highlight this.
+
+(highlight)
+
 <!-- Well, we gotta give it. otherwise we punished. Obviously we don't want to be punished. So what do we do? -->
 
-...
+Schmitty: It says here, that *We must give the car no matter what condition this game is.*, *No return allowed, must give*, and it *has to be given 5 days after we signed this deal*. Yeah, we gotta give that, coz (point again the punishments) look, if we violate any above, *we'll be punished & the punishment is as whatever the dealer wants to do like.* Okay, okay, pretty.. I mean of course nobody wants to be punished right, we got to live. So we're stuck. What do we do now?
 
 <!-- GIVE IT TO THE LEFT! GIVE-IT-TO-THE-LEFT! chant -->
 
-...
+Pulo Sewu (Yes, that same medhok troll): Guys! follow me! Give-it-to-the-left,
+
+*audiences*: 👏GIVE-IT-👏TO-THE-👏LEFT 👏,👏,👏(repeat & louder)..
 
 <!-- ANd that's correct, so Laxond congratulations you just won brand new..... -->
 
-...
+Schmitty: EexACTly. So Laxond,
+
+Paul: Ayam! NO WAY!!
+
+Schmitty: (very loud) **CONGRATULATIONS, YOU JUST WON,**
+
+*audience*: WHOOOOOOOO👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: **BRAND NEW, ULTIMATIZED, HYUNDAI, IONIQ 5, SIGNATURE, LONG RAAAAAAAAAANGE!!!!!!!**
+
+*Laxond*: <span style='font-size:xx-large;'>**😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄AWHDFLIAHSDLJBAOIUFGBNAEFDSJKFGBLSBDFVBNSRLETGUBSOUEDNIFL!!!!!**</span> (run towards the show car & hug)
+
+Schmitty: Guys wait no! that's not the car, (point to back right stage entry door) Ah there!
+
+<!-- Cookie drives the storage cart pulling the car sitting on top of the rolly pallet -->
+
+(Cookie carry IONIQ 5. car sit on the rolly palette, palette pulled by forklift, fork folded for safety)
+
+Cookie Masterson: (driving forklift, fork folded) (honk) (hoooonk)!!, Who wants the brand new Electric car? Come pick it up, it's just for you!
+
+*Laxond*: (turn & run towards the real car)!!!
+
+Nope: (stop in front of Cookie) GIVE ME THAT KEY!!
+
+Cookie: (async) (throw fob) Here you go..
+
+Nope: (async) (catching), (got it & metal excitement curving) WOOOOOOO!!! 
+
+Cookie: Have fun & safe (async 2) driving!
+
+Nope: (async 2) (run towards front right door), (press unlock on fob)!! YEEEAAAH!!!! (Open door)!!, (enter & close), WOOOOOOOOO!!!! YEAAAAAH!!!!
+
+*Laxond*: (enter all)!!! (do something)!! (praise the Lord)!!!
+
+Nope: **HALELUYAAAAAAAAAAAAAAAAA!!!**
+
+Cookie: Okay, wear your seatbelt everybody! (run again)... Off we go!!! (leave stage bring everything to outside to release the car)
+
+<!-- Now why do we asked? fortunately, we were give why, but let's not destroy that guy reputation. (explain above notoriety bla2)-->
+
+*audience*: (happy wholesome moved) 👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: Wow. I'm glad I can help. Whow. Now you must be wondering, why this time unlike previous show, we gotta give the car anyways? Well, luckily we had ever questioned. Thankfully, they're nice, so won't always hurt if you question on something. They said there was that one guy. Can't tell you who's name they are, let's not ruin their reputation today. ... Maybe later..
+
+*audience*: 😂😂😂🤣🤣🤣😂😂😂🤣🤣🤣!!!...
+
+Schmitty: So yeah there, this one guy. First though, usually ungiven gifts will be returned, but you just saw we're not allowed to. What would happen you ask? **Of course auction it**, who would've thought, right? **And that's.. where the problem lies**. You see, in.. that auction, that one guy, aaaaaalways wins every item over there, no idea where the heck did they got the money. Nada. They just wwwINS! So what? What did they do? They just abandon it somewhere in his own.. field... thingy, yeah, rot. Hi.., I mean.. Their garage, garage field is full of rotten cars from where they were started, to this day. Sure, I can see why the dealers HAte, this guy. They even, if they have to sell it, **they kept or raise the price, like a GPU Scalper from Earth, GOOOOSH**, that gut right there. Oh.. my God. Folks, I wish you are not like him. Them. Ugh. Look, please do not harrass.. them, Okay you know what? it's He/Him. Just.. don't harrass. We aren't sure if he had trouble or what, just, leave him alone, okay? So yeah. The dealer is afraid if that car ends to his hand because it had to be auctioned when nobody gets this. Also, you know why 5 days limit? **HE HAS BEEN F8888NG WANTING IT RIGHT NOW! ON RESERVED, EVEN!!! JESUS CHRIST!!** Like appointing someone for legally kidnapping eh?!?!?!? .. Any idea to uhh give this guy a lesson?! YOu know? No need to answer, keep it yourself to home.
+
+*audience*: ... 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Schmitty: OH OKay, we already pass the time. So that is all for.. Family, Feud! I'm Josh Schmitty, And Signing out. If there is something that is amiss, amistake, awhatever, we apologize. And thank youuu for your attention. See ya! (leave stage to left door)...
+
+(end credit)
 
 ## End
 
@@ -592,6 +947,8 @@ Sampling Sauces:
 
 - https://youtu.be/-K8pf-jtvZM
 - https://youtu.be/ak1ToVOmvks Nake-**HUH?!?!?!**
+
+Family Feud (c) Fremantle Media
 
 by JOELwindows7  
 Perkedel Technologies  

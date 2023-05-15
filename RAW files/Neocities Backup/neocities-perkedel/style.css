@@ -1,0 +1,743 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+   
+/*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
+
+/**{*/
+/*  font-family: Ubuntu, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
+  /*margin:0;*/
+/*}*/
+
+/*https://css-tricks.com/couple-takes-sticky-footer/*/
+/*html, body {*/
+/*  height: 100%;*/
+/*  margin: 0;*/
+/*}*/
+
+html{
+  /*https://css-tricks.com/couple-takes-sticky-footer/*/
+  /*height: 100%;*/
+  min-height:100%;
+  position:relative;
+}
+
+body {
+  /*
+  https://codepen.io/CarlaVamp/pen/JjRNoVo
+  https://github.com/ryanoasis/nerd-fonts#patched-fonts
+  https://www.w3schools.com/css/css_font_google.asp
+  https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css
+  https://github.com/mshaugh/nerdfont-webfonts
+  https://www.nerdfonts.com/
+  */
+  font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+  margin:0 0 450px;
+  /*height: 100%;*/
+  /*
+  https://www.w3schools.com/css/css_image_gallery.asp
+  https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
+  */
+  box-sizing: border-box;
+  
+  /*https://stackoverflow.com/a/18066619/9079640*/
+  
+  /*
+  https://www.w3schools.com/cssref/pr_class_cursor.asp
+  https://www.w3schools.com/cssref/css_animatable.asp
+  https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
+  https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
+  */
+  cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+  
+  /*
+  https://www.digitalocean.com/community/tutorials/css-scrollbars
+  https://css-tricks.com/almanac/properties/s/scrollbar/
+  */
+  scrollbar-width: thin;          /* "auto" or "thin" */
+  scrollbar-color: navy rgb(0,0,20);   /* scroll thumb and track */ 
+  
+  /*https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14*/
+  /*min-height: 100vh;*/
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  
+  /*https://css-tricks.com/couple-takes-sticky-footer/*/
+  min-height: 100%;
+  /*display: grid;*/
+  /*grid-template-rows: 1fr auto;*/
+}
+
+button{
+  /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
+  font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+}
+
+button:hover{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+}
+
+hr{
+  background: blue;
+}
+
+main{
+  /*https://css-tricks.com/couple-takes-sticky-footer/*/
+  /*min-height: 100%;  */
+  /*min-height: calc(100vh - 50px);*/
+  /*min-height:100vh;*/
+  
+  /*min-height:fit-content;*/
+}
+
+/*https://www.w3schools.com/howto/howto_css_text_selection.asp*/
+::selection {
+  color: cyan;
+  background: blue;
+  border-radius: 1px;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: cyan;
+  background: blue;
+  border-radius: 1px;
+}
+
+.noscript-msg{
+  background-color:red;
+  color:white;
+  margin:0;
+  font-size:2em;
+}
+
+/*scroll bar*/
+/*
+https://www.w3schools.com/HOWTO/howto_css_custom_scrollbar.asp
+https://css-tricks.com/almanac/properties/s/scrollbar/
+https://www.digitalocean.com/community/tutorials/css-scrollbars
+https://codepen.io/devstreak/pen/dMYgeO
+*/
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  opacity: 0.5;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(0,0,20);
+  background: rgba(0,0,20,.25);
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  width: 5px;
+  background: navy;
+  background: rgba(0, 0, 128, .8);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  width: 10px;
+  background: blue;
+  background: rgba(0,0,155,.8);
+}
+
+/* Handle on click (& held) */
+::-webkit-scrollbar-thumb:active {
+  width: 10px;
+  background: cyan;
+  background: rgba(0,255,255,.8);
+}
+
+/* Corner where vertical & horizontal scrollbar met*/
+::-webkit-scrollbar-corner{
+  background: rgb(10,20,0);
+}
+
+/* the draggable resizing handle that appears at the bottom corner of some elements.*/
+::-webkit-resizer{
+  color:orange;  
+}
+/*end scroll bar*/
+
+/*linkre*/
+a{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+  color:orange;
+}
+
+a:hover{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+  background-color:orange;
+  color:navy;
+  border-radius:10px;
+}
+
+a:active{
+  background-color:cyan;
+  color:blue;
+  border-radius:10px;
+}
+
+a:visited{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+  color:darkmagenta;
+}
+
+a:visited:hover{
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+  background-color:orange;
+  color:navy;
+}
+
+a:visited:active{
+  background-color:cyan;
+  color:blue;
+  border-radius:10px;
+}
+
+header {
+  color:white;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  background-color: rgb(0, 35, 100);
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  margin:0;
+  
+}
+
+/*
+header a{
+  margin:0;
+  padding:0;
+  vertical-align:middle;
+}
+*/
+
+
+footer {
+  /*https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14*/
+  /*margin-top: 50px;*/
+  
+  /*https://css-tricks.com/couple-takes-sticky-footer/*/
+  /*height: 50px;*/
+  /*margin-top: -50px;*/
+  /*height: 5px;*/
+  /*grid-row-start: 2;*/
+  /*grid-row-end: 3;*/
+  /*position: relative;*/
+  /*bottom:0;*/
+  /*margin-top:1em;*/
+  
+  /*https://stackoverflow.com/a/18066619/9079640*/
+  position: absolute;
+  bottom:0;
+  left: 0;
+  /*height: 350px;*/
+  width: 100%;
+  /*overflow: hidden;*/
+}
+
+header h1{
+  margin:0;
+}
+
+header a, header a:visited, header a:hover, header a:hover:visited{
+  background:none;
+  color:white;
+  text-decoration:none;
+}
+
+/*
+header a:hover{
+  background-color: rgb(0, 35, 150);
+}
+*/
+
+
+nav{
+  /*display:inline-block;*/
+  overflow: hidden;
+  /*overflow-y:visible;*/
+  font-weight:bold;
+  z-index: 99; /* Make sure it does not overlap */
+  position: sticky;
+  position: -webkit-sticky; /* Safari */
+  /*wtf, Neocities?! the position works! OH, wait, not all browser. but.. eh idk*/
+  top: 0;
+}
+
+nav .NavPutRight{
+  float:right;
+}
+
+nav ul{
+  /*
+  https://www.javatpoint.com/how-to-make-a-navigation-bar-in-html
+  https://www.w3schools.com/Css/css_navbar.asp
+  https://www.w3schools.com/Css/css_navbar_vertical.asp
+  https://www.w3schools.com/Css/css_navbar_horizontal.asp
+  */
+  /*display:inline;  */
+  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+nav li {
+  float: left;
+  }
+
+nav a, nav a:link, nav a:visited{
+  background-color: navy;
+  outline: none;
+  color: white;
+  padding: 1em 1.5em;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/*Remember, the visited statuses are also considered as a subgroup!*/
+nav a:hover, nav a:visited:hover{
+  background-color: blue;
+  color: white;
+}
+
+nav a:active, nav a:visited:active{
+  background-color: orange;
+  color: blue;
+}
+
+/*https://www.w3schools.com/cssref/sel_attribute_value.asp
+https://www.w3schools.com/cssref/sel_after.asp
+https://www.quora.com/Is-the-symbol-for-external-link-available-in-Unicode-If-so-how-do-I-get-in-on-my-Mac
+https://www.fileformat.info/info/unicode/char/29c9/index.htm
+'TWO JOINED SQUARES' (U+29C9)
+https://dafoster.net/articles/2018/11/24/why-isnt-the-external-link-symbol-in-unicode/
+
+*/
+a[target=_blank]::after{
+  content: ' 🔗 ';
+}
+
+input{
+  background-color:black;
+  color:white;
+}
+
+/*https://www.w3schools.com/cssref/sel_focus.asp*/
+input:focus{
+  background-color:darkorange;
+  color:navy;
+}
+
+input:disabled{
+  background-color:darkgray;
+  color:gray;
+}
+
+.error
+{
+  /*
+  https://www.w3schools.com/colors/default.asp
+  */
+  background-color: darkred;
+  color: white;
+}
+
+.error a:link
+{
+  color: yellow;
+}
+
+.error a:active{
+  color: cyan;  
+}
+
+.error a:visited
+{
+  color: black;
+}
+
+.warning
+{
+  background-color: orange;
+  color: black;
+}
+
+.busy
+{
+  background-color: yellow;
+  color: black;
+}
+
+.success
+{
+  background-color: darkgreen;
+  color: black;
+}
+
+.info
+{
+  background-color: darkblue;
+  color: white;
+}
+
+.ListNoStyle{
+  list-style-type: none;
+}
+
+.ListSeparateChildrenABit li{
+  margin:2px;
+}
+
+/*
+https://www.w3schools.com/css/css_image_gallery.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
+*/
+.ListGalleryStyle{
+    list-style-type: none;
+    padding: 0 6px;
+    float: left;
+    /*width: 24.99999%;*/
+}
+
+.ListGalleryStyle li /*Gallery*/{
+  border: 1px solid orange;
+}
+
+.ListGalleryStyle li:hover /*Gallery Hover*/{
+  border: 1px solid cyan;
+}
+
+.ListGalleryStyle li img{
+  width: 100%;
+  height: auto;
+}
+
+.ListGalleryStyle li p /*desc*/{
+  padding: 15px;
+  text-align: center;
+}
+
+
+.ButtonizeListChildrenLinks a{
+  background-color: darkorange;
+  outline: none;
+  color: black;
+  padding: 1em 1.5em;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /*margin:20px;*/
+}
+
+.ButtonizeListChildrenLinks a:hover{
+  background-color:orange;
+  color:navy;
+}
+
+.ButtonizeListChildrenLinks a:visited{
+  background-color:darkmagenta;
+  color:white;
+}
+
+.ButtonizeListChildrenLinks a:visited:hover{
+  background-color:orange;
+  color:navy;
+}
+
+.ButtonizeListChildrenLinks a:visited:active{
+  background-color:cyan;
+  color:blue;
+}
+
+.ButtonizeListChildrenLinks a:active{
+  background-color:cyan;
+  color:blue;
+}
+
+.Buttonnize{
+  background-color: darkorange;
+  outline: none;
+  color: black;
+  padding: 1em 1.5em;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.Buttonnize:hover{
+  border-radius: 30px;
+  background-color:orange;
+  color:navy;
+}
+
+.Buttonnize:visited{
+  background-color:darkmagenta;
+  color:white;
+}
+
+.Buttonnize:active{
+  background-color:cyan;
+  color:blue;
+}
+
+/*DROP DOWN MENU
+https://www.w3schools.com/Css/css_dropdowns.asp
+https://www.w3schools.com/Css/tryit.asp?filename=trycss_dropdown_right
+https://stackoverflow.com/a/64148961/9079640
+*/
+
+/*
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  background-color: navy;
+  outline: none;
+  color: white;
+  padding: 1em 1.5em;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: none;
+  position: absolute;
+  background-color: navy;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}*/
+
+/* Style The Dropdown Button */
+.dropbtn {
+  /*font-size: 16px;*/
+  /*border: none;*/
+  /*cursor: pointer;*/
+  background-color: navy;
+  /*outline: none;*/
+  color: white;
+  /*padding: 1em 1.5em;*/
+  border-radius: 30px;
+  /*text-align: center;*/
+  /*text-decoration: none;*/
+  /*display: inline-block;*/
+}
+
+.dropbtn:active, .dropbtn:visited:active, .dropbtn a:active, dropbtn a:visited:active, .dropbtn a:link{
+  background-color:orange;
+  color:blue;
+}
+
+.dropbtn:hover, .dropbtn:visited:hover, .dropbtn a:hover, dropbtn a:visited:hover, .dropbtn a:link:hover{
+  background-color:blue;
+  color:white;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  /*position: relative;*/
+  /*display: inline-block;*/
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  /*position: absolute;*/
+  /*background-color: #f9f9f9;*/
+  min-width: 160px;
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+  z-index: 100;
+  /*https://stackoverflow.com/a/64148961/9079640*/
+  top:70px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  background-color: navy;
+  border-radius: 30px;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  overflow:visible;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: orange;
+  color:black;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: blue;
+  color:white;
+  border-radius: 30px;
+}
+
+/*end DROP DOWN*/
+
+.code{
+  /*https://www.w3schools.com/css/css_font.asp*/
+  /*https://www.w3schools.com/tags/tag_font.asp*/
+  font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+}
+
+/*WHY THE PECK YOU DON'T SAY?!?!??!
+https://www.w3schools.com/tags/tag_code.asp
+
+*/
+code{
+  /*https://www.w3schools.com/css/css_font.asp*/
+  /*https://www.w3schools.com/tags/tag_font.asp*/
+  font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+}
+
+
+
+#backTopButton
+{
+  /*
+  https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+  */
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: rgb(0, 35, 100); /* Fallback coloreng*/
+  background-color: rgba(0, 35, 100, .5); /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 30px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#backTopButton:hover
+{
+  background-color: blue; /* Add a orange background on hover */
+  background-color: rgba(0, 0, 255, .75); /* & pls be transparent too if you can*/
+}
+
+#backTopButton:active
+{
+  background-color: orange; /* Add a orange background on click */
+  background-color: rgba(255, 165, 0, 1); /* & pls be transparent too if you can*/
+}
+
+/*RSS generator CSS for 
+https://rss.bloople.net/
+*/
+
+.rss{
+  font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.feed-title{
+  font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:white;
+}
+
+.feed-desc{
+  
+}
+
+.feed-title-image{
+  /*size: 100px 50px;  */
+  height:50px;
+}
+
+@media only screen and (max-width: 700px) {
+  .ListGalleryStyle{
+    width: 49.99999%;
+    margin: 6px 0;  
+  }
+}
+
+@media screen and (max-width: 600px) {
+  html{
+  /*https://css-tricks.com/couple-takes-sticky-footer/*/
+  /*height: 100%;*/
+  min-height:0%;
+  position:static;
+  }
+  
+  body{
+    /*https://stackoverflow.com/a/18066619/9079640*/
+    margin:0 0 0px;  
+  }
+  
+  footer{
+    /*https://stackoverflow.com/a/18066619/9079640*/
+    position: static;
+    bottom:0;
+    left: 0;
+    /*height: 350px;*/
+    /*width: 100%;*/
+    /*overflow: hidden;*/  
+  }
+  
+  /*
+  https://www.w3schools.com/Css/tryit.asp?filename=trycss_navbar_horizontal_responsive
+  */
+  nav{
+    position: static;
+  }
+  
+  nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /*width: 60px;*/
+  }
+  
+  nav a, nav a:link, nav a:visited{
+    display:block;
+  }
+  
+  nav li {
+  float: none;
+  }
+  
+  nav .NavPutRight{
+  float:none;
+  }
+  
+  .ListGalleryStyle{
+    width: 100%;  
+  }
+}

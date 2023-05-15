@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Test</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css">
+    <link rel="stylesheet" href="https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Import element definition -->
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+    ></script>
+  </head>
+  <body>
+    <h1>Markdown Test</h1>
+    <p>Underneath, will be deployed a markdown file, parsed with a framework</p>
+    <zero-md src="index.md">
+      <!-- Styles declared within will be appended AFTER the default template -->
+      <!--<template data-merge="prepend">-->
+      <template >
+        <!-- Use `link` tags to load external stylesheets -->
+        <link rel="stylesheet" href="/style.css" />
+        <!-- Use `style` tags to write CSS directly -->
+        <!--
+        <style>
+          h1 {
+            color: red;
+          }
+        </style>
+        -->
+      </template>
+    </zero-md>
+    
+    <h2>Credits</h2>
+      <ul>
+        <li><a href="https://stackoverflow.com/a/60363693/9079640" target="_blank" rel="noopener noreferrer">This Stack Overflow answer</a></li>
+        <li><a href="https://zerodevx.github.io/" target="_blank" rel="noopener noreferrer">The Zero-md</a></li>
+        <li><a href="https://marked.js.org/#usage" target="_blank" rel="noopener noreferrer">It uses Marked framework</a></li>
+      </ul>
+    <script src="/main.js"></script>
+  </body>
+</html>
