@@ -194,7 +194,7 @@ Schmitty: Welcome back to Family Feud here. We got Cheroz & Laxond against each 
 
 (Answer not revealed yet)
 
-1. Riffle. 24 x2 = 48. Standard issue Aduz AD-U5, common in any enforcing aliances here in Dasandim.
+1. Riffle. 24 x2 = 48. Standard issue Aduz AD-U5, common in any enforcing aliances here in Dasandim. lol, *Adus*, *Take shower* in Bahasa Jawa! XD XDXDXD 🤣🤣🤣🤣🤣🤣
 2. Holy Bible Software. 35 x2 = 70. Free to download Bible software, Note that if the soldier has other religion, the military will offer other Bible according to their religion as best as possible.
 3. Safety Underwear. 25 x2 = 50. Standard issue Safety Underwear set, issued to all officials here in Dasandim.
 4. F-311N3 / Cat. 20 x2 = 40. Standard issue pet cat, Optional packages for any alliances and pretty much civilians.
@@ -203,7 +203,7 @@ Herringbon Laxond: (Left Buzz).
 
 Beauty: (Right buzz).
 
-Schmitty: Points here are doubled, Laxond, if you can catch up, you can do this.
+Schmitty: We have 4 answers here & Points here are doubled, Laxond, if you can catch up, you can do this.
 
 Herringbon: Thanks man.
 
@@ -223,7 +223,7 @@ Beauty: KOLOR ALARM!!
 
 Schmitty: Ko.. **WHAT?!**
 
-*audiences: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+*audiences: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣👏👏👏👏👏👏👏👏👏
 
 Schmitty: Pervert! Jesus Christ.. Anyways, **Kolor alarm..**
 
@@ -231,7 +231,7 @@ Schmitty: Pervert! Jesus Christ.. Anyways, **Kolor alarm..**
 
 (Opportunity for opponent, Right family already played)
 
-Schmitty: (contemplating)....... Heringbon.
+Schmitty: (contemplating)....... (it is recommended left family since right is already) Heringbon.
 
 Herinbon: Gunzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.
 
@@ -305,7 +305,19 @@ Schmitty: Pretty must! **Nametags?**
 
 *audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: Hey, not bad.. You're really good. Alright, we'll be back again after this message.
+Schmitty: Hey, not bad.. You're really good. So, what's that it supposed to be, Number 2!
+
+(It's `Holy Bible Software`, 70 pts)
+
+*audience*: Holy Bible Software. 👏👏👏👏👏👏👏👏👏👏
+
+Nope: Oh wow, why didn't I thought it somehow?
+
+Schmitty: That's okay, because apparently less known and not much talked about, but You see, we asked 100 soldiers around galaxies. Okay I lied, just around sloantim but pretty close. Apparently, many militaries out there are Christian or any religion it could ever be. Fun fact, there are even some Muslims too in our survey, so they had `Al-Quran`. Basically it, I'm really impressed, you guys are religious. Keep it up folks.
+
+*audience*: 👏👏👏👏👏👏
+
+Schmitty: Alright, we'll be back again after this message.
 
 ## Ad again. Van Elektronische Vriska Serket / OpenCX Conductor
 
@@ -401,7 +413,7 @@ Huaves: AKU TAHU!, **GUNUNG MELEDAK!!**
 
 Schmitty: Gunung, HAAH?? Exploding (giggle going to burst) 🤣🤣🤣, Volcano?!?!
 
-Info: everyone knows one eternal meme about this animation of Exploding Volcano / Gunung Meledak which was ever thought once upon a time, by an original direct parent Dasandimian long time ago (it was Bjaukt, a comedian & jester for Dasandim kingdom, still alive today and is head advisory for Dasandim Broadcasting Alliance), spread through telepathy, and cause who received this laugh uncontrollably for atleast about 30 minutes. There is this volcano, it vibrates virgorously, then it explodes hilariously, fast, & cartoonishly where its shrapnels flies everywhere in spherical trajectory to the top where shape and form from. Now it leaves only a big stump, that the top contains the volcano underneath like gates of hell.
+Info: everyone knows one eternal meme about this animation of Exploding Volcano / Gunung Meledak which was ever thought once upon a time, by an original Dasandimian born directly from Dasan & Andim long time ago (it was Bjaukt, a comedian & jester for Dasandim kingdom, still alive today and is head advisory for Dasandim Broadcasting Alliance), spread through telepathy, and cause who received this laugh uncontrollably for atleast about 30 minutes. There is this volcano, viewed from perpendicular, align center view. The volcano vibrates virgorously, then it explodes hilariously, fast, & cartoonishly where its shrapnels flies everywhere in spherical trajectory to the top where shape and form from. Now it leaves only a big stump, that the top contains the volcano underneath like gates of hell.
 
 Huaves: (Indian head wobble)↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️..
 
@@ -511,9 +523,9 @@ Sauce:
 
 - https://youtu.be/zH3q4KtIHYM
 
-Info: Siladex ad Homestuck WWTBAM. Cough is reference to cheat incident. Siladex is because this trademark coincides similarly with an inventory system name in original Homestuck, **Sylladex**.
+Info: Siladex ad Homestuck WWTBAM. Cough is reference to [cheat incident](https://youtu.be/Ps__5ERPRVs ) (also [this same topic](https://youtu.be/BBWR0I9LbOQ )). Siladex is because this trademark coincides similarly with an inventory system name in original Homestuck, **Sylladex**.
 
-> Which Place is Located in Eastern Jakarta?
+> Which place is pocated in eastern Jakarta?
 
 - Monumen Nasional
 - Mall Of Indonesia
@@ -528,17 +540,19 @@ Nepeta Leijon: `:33` ◀️ Okay, I think that's `D`..
 
 Karkat Vantas: (cough)!!! !!
 
+(music stop)
+
 (to camera in audience seat, camera zoom out)
 
 *audience*: (silent)?!?!?
 
 (camera point to cough source to the left)
 
-Nepeta: `XOO` ◀️ KARKAT!?!?
+Nepeta: `XOO` ◀️ 😨 KARKAT!?!?
 
 *audience*: (start to sus) again?...
 
-Nepeta: `TT'OO` ◀️ I DIDN'T DO IT!
+Nepeta: `TT'OO` ◀️ 😭😭😭😭 I DIDN'T DO IT!
 
 Karkat: (cough) !!! !!
 
@@ -550,13 +564,15 @@ Fidge Yolk: (cough) !!!
 
 Pulo Sewu (Yess, it's a troll! another Perkedel's Homestuck OC): (cough) !!!
 
-Cookie: (start offer each variants of Siladex to 4) (Y pose) Calm down. Prevent ruining the game with (both hand provide 4 variants) Siladex. 
+Cookie: (start offer each variants of Siladex to 4) (Y pose) Calm down. ☝️ Prevent ruining the game with (both hand provide 4 variants) Siladex.
 
 (4 box rotates & flies float toward camera)
 
 Cookie: (camera back stick to Karkat & so on) (give Green to Karkat) Siladex M & E for Phlegm, (give Blue to Fidge) Cough & Cold for Uhuk & [Hachih](https://youtu.be/MLeqBH3UT5Y )!, (give red (Antitusive) to Juuse & yellow (DMP) to Pulo) & Non Phlegm with Antitusive or DMP.
 
 (illustrate! quadrant each filled with those coughers above. all at same time, hose spray cough stone with respective Siladex & the cough stone destroys)
+
+Cookie (all 4 quadrants): (spray hose Siladex each variants to respective cough stone clogging each throats until the stone dissolves)
 
 (Background Nepeta won 1 Million blur audience yayyy with Millionaire win song)
 
@@ -730,7 +746,7 @@ Beauty: Lubricants.
 
 *audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: (turn to big display) Okay, look here. 
+Schmitty: (turn to big display) Okay, look here.
 
 Beauty: (look big display).
 

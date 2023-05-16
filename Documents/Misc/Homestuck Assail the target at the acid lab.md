@@ -46,7 +46,7 @@ Yusuf: (open tablet to see infiltration path), Now, we have figured out how to i
 
 Terezi Pyrope: SOUNDS L1K3 4N 1MPOSTOR 4MONG US, DO3SN'T 1T? 😆 LOL!
 
-Yusuf: Pretty much. And it's fortunate, they made this mistake. Well, I've handed it off to you, check watch and track him slowly.
+Yusuf: Pretty much. And it's fortunate, they made this mistake. (spread map to every personel watch) Well, I've handed it off to you, check watch and track him slowly.
 
 Vriska Serket: Yes, officer.
 
@@ -123,11 +123,11 @@ Terezi: (internally) H3LP! 🤣🤣🤣
 
 ### Vat Cooking Room
 
-*personels*: (come out quitely 1 by one)...
+*personels*: (come out quitely 1 by one)... (saw target standing like statue)
 
-Vriska: (last to come out).. (Target spotted)
+Vriska: (last to come out).. (Target spotted), (target stands like statue indeed)
 
-Exutupus Bafius: (watching process from inspection catwalk above)...
+Exutupus Bafius: (watching process from inspection catwalk above while doing other things inside his head)...
 
 Info: Feliz still unseen, he is behind the cylinder from personel perspective.
 
@@ -175,17 +175,19 @@ Tavros: 😦?!?! (async) (close eyes tight)!!
 
 Exutupus: (async) (strike Tavros' forehead) **UGH!!!**
 
-(But that is a huge mistake! Xray! Bejeweled Twist Fruit gem triggered from Tavros' head, and Exutupus' brain cell exploding like Bejeweled Twist matched gem exploding)!! !! !! !
+(But that is a huge mistake! Xray! Bejeweled Twist Fruit gem triggered from Tavros' head, and Exutupus' brain cell exploding like Bejeweled Twist matched gem exploding like popcorn popping)!! !! !! !
 
 (immediately hussnasty Tavros close up angled above head, & hussnasty focus below to what happend)
 
 Tavros: (still keeping holding stand)!!! (hussnasty leg) (slipped stepping back)!!! (hussnasty torso) (with hands on target's torso put down fast on target's both leg stand up but hold, and head down)!!!,
 
-Vriska: (close portal and step back)!
+Vriska: (close portal and step back)! 😲😲😲😲😲😲?!?!?!?
 
-Tavros: (slowly raise head up & see target's head),,, (surprised & flabbergasted, the top head has been exploded) 😲?!?!,,
+*personels*: (also surprised) 😲😲😲😲😲😲😲😲😲😲?!?!?!
 
-Exutupus: ... (head relaxes to left front)!.. .
+Tavros: (slowly raise head up & see target's head),,, (surprised, & flabbergasted, the target's top head has been exploded) 😲?!?!,,
+
+Exutupus: ... (head relaxes to left front)!.. (electric sparkle)!.. .
 
 (mechatronic robot arm camera right view, tween from this right view, middle, then left overal take rest left view)
 
@@ -193,7 +195,7 @@ Tavros: ,,, (quitely) OOPS 😬😬😬😬😬😬, (slowly strave him left), (
 
 Aradia: (approach target), (undo head explode)!!...
 
-Exutupus: (alive again) (spasm breath) KYGYAHHH, HHH, hh..
+Exutupus: (alive again) (spasm breath) KYGYAHHH, HHH, hh.. (implant phone restart), h..
 
 Vriska: (portal underneath target)!
 
@@ -293,6 +295,8 @@ Johan: & two down! we still have more to go. Lunch time!
 
 ## End
 
+<!-- Exutupus when operating phone to do his nasty doings, stands like statue! -->
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
@@ -301,7 +305,7 @@ CC4.0-BY-SA
 
 (rain)
 
-Ken: (get out of police car)!, (point gun threatingly) Police! (very scared) On the ground!!
+Ken: (get out of police car)!, (point gun threateningly) Police! (very scared & cry fear daughters will be shot) On the ground!!
 
 Subok Nugroho: (point gun to Jane).,
 
@@ -323,25 +327,25 @@ Subok: If I got shot, they die. I have bomb in their back. choose. I die & they 
 
 Ken: NO!...
 
-Dasan: (Telepathy connected) Ken? you hear me?
+King Dasan: (Telepathy connected) Ken? you hear me?
 
 Ken: HUH?, Who is this?!
 
 Dasan: It's me. Dasan.
 
-Ken: Your Majesty?
+Ken: .... Y..Y..Your Majesty?
 
-Dasan: It's okay, just tell him. Do it.
+Dasan: It's okay, just tell him. Do it. That's an order.
 
 Ken: But..
 
-Dasan: I can handle this. I cannot see them died.
+Dasan: I can handle this. I cannot see them die.
 
 Ken: A.. Are you sure?
 
 Subok: HEY! Who you're talking to?!
 
-Dasan: Sloantim Cluster. Ring 24
+Dasan: Sloantim Cluster. Ring 24.
 
 Ken: Sloantim Cluster, ring 24?
 
