@@ -106,7 +106,7 @@ Terezi: (async) (turn head to Grevor)
 
 Tengsing: You can do this, Terezi!
 
-Terezi: (head turn to Tengsing)?? umm... (look forward).. 
+Terezi: (head turn to Tengsing)?? umm... (look forward)..
 
 (**Hussnasty mode again!!!** camera dutch angle right to Terezi from above)
 

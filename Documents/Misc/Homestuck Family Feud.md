@@ -313,7 +313,7 @@ Schmitty: Hey, not bad.. You're really good. So, what's that it supposed to be, 
 
 Nope: Oh wow, why didn't I thought it somehow?
 
-Schmitty: That's okay, because apparently less known and not much talked about, but You see, we asked 100 soldiers around galaxies. Okay I lied, just around sloantim but pretty close. Apparently, many militaries out there are Christian or any religion it could ever be. Fun fact, there are even some Muslims too in our survey, so they had `Al-Quran`. Basically it, I'm really impressed, you guys are religious. Keep it up folks.
+Schmitty: That's okay, because apparently less known and not much talked about, but you see, we asked 100 soldiers around galaxies. Okay I lied, just around sloantim but pretty close. Apparently, many militaries out there are Christian or any religion it could ever be. Fun fact, there are even some Muslims too in our survey, so they had `Al-Quran`, and few another with their own bible, etc. so on & so forth. Basically it, I'm really impressed, you guys are religious. Keep it up folks.
 
 *audience*: 👏👏👏👏👏👏
 
@@ -335,7 +335,7 @@ Yuyag Yeyeg: (multi violin)!.!.!.!.!
 
 Goug Skeleton: (telekinetic multi trombone).....
 
-(overal. straight to bridging), (and then Ta tu ta to tu ta ta), (stair down ti tu tu du tu), 
+(overal. straight to bridging), (and then Ta tu ta to tu ta ta), (stair down ti tu tu du tu),
 
 Vriska Serket: (left hand metronome, right hand hint)!!!
 
@@ -343,7 +343,7 @@ Vriska Serket: (left hand metronome, right hand hint)!!!
 
 *audience*: 👏👏👏👏👏👏👏👏
 
-Vriska: (happy orchestra finish well)..
+Vriska: (happy orchestra finish well, bow to audiences)..
 
 (sparkle circle transition), (show the unit)
 
@@ -411,7 +411,7 @@ Huaves: AKU TAHU!, **GUNUNG MELEDAK!!**
 
 *audience*: (laugh uncontrolably) 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-Schmitty: Gunung, HAAH?? Exploding (giggle going to burst) 🤣🤣🤣, Volcano?!?!
+Schmitty: Gunung, HAAH?? EXploding (giggle going to burst) 🤣🤣🤣, VOLcano?!?!
 
 Info: everyone knows one eternal meme about this animation of Exploding Volcano / Gunung Meledak which was ever thought once upon a time, by an original Dasandimian born directly from Dasan & Andim long time ago (it was Bjaukt, a comedian & jester for Dasandim kingdom, still alive today and is head advisory for Dasandim Broadcasting Alliance), spread through telepathy, and cause who received this laugh uncontrollably for atleast about 30 minutes. There is this volcano, viewed from perpendicular, align center view. The volcano vibrates virgorously, then it explodes hilariously, fast, & cartoonishly where its shrapnels flies everywhere in spherical trajectory to the top where shape and form from. Now it leaves only a big stump, that the top contains the volcano underneath like gates of hell.
 
@@ -421,7 +421,7 @@ Schmitty: (really going to burst giggle)!.., (medium volume) maksudlu Gunung Mel
 
 Huaves: Nggak sih, Gunung Meledak. 🤣!
 
-Schmitty: (tired holding laugh).. Okay. (walk while getting weaker).... (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
+Schmitty: (tired holding laugh).. Okay. (walk while getting weaker).... (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) Gwahahahaha, hhhhh, (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
 
 *audiences*: (even more laughing)🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
@@ -433,7 +433,7 @@ Schmitty: AHAH AHAH, AHA, HAA, (giggle), ARGH 🤣🤣🤣🤣🤣🤣, STOP!!, 
 
 Huaves: YESS!!! Let's go! we're getting close!
 
-Schmitty: (still takes time to recover, hard to stand up) Paul?
+Schmitty: (still takes time to recover, hard to stand up) Paul!!? 😂😂😂..
 
 Paul: Covid lab!
 
@@ -564,7 +564,9 @@ Fidge Yolk: (cough) !!!
 
 Pulo Sewu (Yess, it's a troll! another Perkedel's Homestuck OC): (cough) !!!
 
-Cookie: (start offer each variants of Siladex to 4) (Y pose) Calm down. ☝️ Prevent ruining the game with (both hand provide 4 variants) Siladex.
+(stained glass 4 inconsistent square shape quadrant each piece filled with each cough types)
+
+Cookie: (start offer each variants of Siladex to 4) (Y pose break glass) Calm down. ☝️ Prevent ruining the game with (both hand provide 4 variants) Siladex.
 
 (4 box rotates & flies float toward camera)
 
@@ -782,7 +784,7 @@ Schmitty: No no, Good answer, I know you're struggling. ANd look, Number 1 is `W
 
 *audience*: (confused & giggle & laugh normal) 🤣🤣🤣👏👏👏👏🤣🤣🤣🤣👏??
 
-Schmitty: Well, I just remembered. I think I heard one scientist said it's wood that the rarest, that what he said, idk and I forgot who's his name was. But true, I think when you guys explored planets, all you see are rocks, minerals, and gasses. You ever see woods there other than on Earth & here in Dasandim? 
+Schmitty: Well, I just remembered. I think I heard one scientist said it's wood that the rarest, that what he said, idk and I forgot who's his name was. But true, I think when you guys explored planets, all you see are rocks, minerals, and gasses. You ever see woods there other than on Earth & here in Dasandim?
 
 audience: noo / one / few / only one / Chaburiz!
 
@@ -824,9 +826,9 @@ Schmitty: You gotta stop doing that. NO I mean, reduce that. I don't think that'
 
 Yess: No, 1 for each model.
 
-Schmitty: That's better. But still though. perhaps you gave it or sell maybe, so others can own.
+Schmitty: That's better. But still though. perhaps you give it or sell it maybe, so others can own.
 
-Yess: (discomfort a bit) Yeah man, Okay, I know. Alot of my friends says so.
+Yess: (discomfort a bit, very often told like this) Yeah man, Okay, I know. Alot of my friends says so.
 
 Schmitty: Oh really? haah.. Yeah. You can spend better for like.. entirely more different stuffs, buy games, y.. you know, games don't take space unlike cars, you could've complete Steam collections, and everyone else can still buy same, unlike cars. See?
 
@@ -864,21 +866,21 @@ Paul: wait really? (look screen)?!?!
 >
 > Kpd Yth, Istana Seru,
 >
->     Selamat, kontrak untuk giveaway 
+> Selamat, kontrak untuk giveaway
 > `Hyundai IONIQ 5 Long Signature Custom Terlengkapi`
 >
->     Telah disetujui oleh pemberi kontrak ini,
+> Telah disetujui oleh pemberi kontrak ini,
 > `Josh Blogoruat`.
 > Semoga dengan tunjangan hadiah diatas dapat digunakan dengan sebaik-baiknya.
 >
->     Namun, dikarenakan situasi dan kondisi, pemegang kontrak ini diharapkan untuk memenuhi syarat & ketentuan sebagai berikut, antara lain:
+> Namun, dikarenakan situasi dan kondisi, pemegang kontrak ini diharapkan untuk memenuhi syarat & ketentuan sebagai berikut, antara lain:
 >
 > - Wajib untuk memberikan hadiah tersebut kepada pemain apapun kondisi akhir dari permainan atau acara.
 > - Hadiah tersebut tidak dapat dikembalikan. Jadi aturan permainan diharapkan untuk diubah agar hadiah tetap diberikan apapun itu walaupun aturan resmi tidak tertulis ataupun melarangnya.
 > - Pemberian hadiah tersebut harus dilakukan sesegera mungkin paling lambat 5 hari setelah persetujuan kontrak ini.
 >
->     Apabila pemegang kontrak ini melanggar satupun syarat diatas, maka pemegang kontrak ini akan dikenakan sanksi sesuai permintaan dari pemberi kontrak ini.
->     Terima kasih.
+> Apabila pemegang kontrak ini melanggar satupun syarat diatas, maka pemegang kontrak ini akan dikenakan sanksi sesuai permintaan dari pemberi kontrak ini.
+> Terima kasih.
 >
 > Hormat Kami,
 >
@@ -905,7 +907,7 @@ Pulo Sewu (Yes, that same medhok troll): Guys! follow me! Give-it-to-the-left,
 
 Schmitty: EexACTly. So Laxond,
 
-Paul: Ayam! NO WAY!!
+Paul: 🐓 Ayam! NO WAY!!
 
 Schmitty: (very loud) **CONGRATULATIONS, YOU JUST WON,**
 
@@ -913,7 +915,7 @@ Schmitty: (very loud) **CONGRATULATIONS, YOU JUST WON,**
 
 Schmitty: **BRAND NEW, ULTIMATIZED, HYUNDAI, IONIQ 5, SIGNATURE, LONG RAAAAAAAAAANGE!!!!!!!**
 
-*Laxond*: <span style='font-size:xx-large;'>**😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄AWHDFLIAHSDLJBAOIUFGBNAEFDSJKFGBLSBDFVBNSRLETGUBSOUEDNIFL!!!!!**</span> (run towards the show car & hug)
+*Laxond*: <span style='font-size:xx-large;'>**😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄AWHDFLIAHSDLJBAOIUFGBNAEFDSJKFGBLSBDFVBNSRLETGUBSOUEDNIFL!!!!!** (Paul is the loudest)</span> (run towards the show car & hug)
 
 Schmitty: Guys wait no! that's not the car, (point to back right stage entry door) Ah there!
 
@@ -929,7 +931,7 @@ Nope: (stop in front of Cookie) GIVE ME THAT KEY!!
 
 Cookie: (async) (throw fob) Here you go..
 
-Nope: (async) (catching), (got it & metal excitement curving) WOOOOOOO!!! 
+Nope: (async) (catching), (got it & metal excitement curving) WOOOOOOO!!!
 
 Cookie: Have fun & safe (async 2) driving!
 
@@ -953,9 +955,22 @@ Schmitty: So yeah there, this one guy. First though, usually ungiven gifts will 
 
 *audience*: ... 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: OH OKay, we already pass the time. So that is all for.. Family, Feud! I'm Josh Schmitty, And Signing out. If there is something that is amiss, amistake, awhatever, we apologize. And thank youuu for your attention. See ya! (leave stage to left door)...
+Schmitty: OH OKay, we already pass the time. So that is all for.. Family, Feud! I'm Josh Schmitty, Aand Signing out. If there is something that is amiss, amistake, awhatever, we apologize. And thank youuu for your attention. See ya! (leave stage to left door)...
 
 (end credit)
+
+## Credit
+
+(credit)
+
+- Produced by JOELwindows7
+- Written by JOELwindows7
+- (casts)
+- Homestuck models by [babyfawnlegs](https://www.tumblr.com/joelwindows7/717471823511601152/babyfawnlegs-homestuck-model?source=share )
+- Realization solution by [Juan Linietsky & friends](https://godotengine.org)
+- Entity modeling by [Blender](https://blender.org )
+
+(special thanks)
 
 ## End
 
