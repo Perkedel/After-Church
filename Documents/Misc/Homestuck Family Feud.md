@@ -413,15 +413,15 @@ Huaves: AKU TAHU!, **GUNUNG MELEDAK!!**
 
 Schmitty: Gunung, HAAH?? EXploding (giggle going to burst) 🤣🤣🤣, VOLcano?!?!
 
-Info: everyone knows one eternal meme about this animation of Exploding Volcano / Gunung Meledak which was ever thought once upon a time, by an original Dasandimian born directly from Dasan & Andim long time ago (it was Bjaukt, a comedian & jester for Dasandim kingdom, still alive today and is head advisory for Dasandim Broadcasting Alliance), spread through telepathy, and cause who received this laugh uncontrollably for atleast about 30 minutes. There is this volcano, viewed from perpendicular, align center view. The volcano vibrates virgorously, then it explodes hilariously, fast, & cartoonishly where its shrapnels flies everywhere in spherical trajectory to the top where shape and form from. Now it leaves only a big stump, that the top contains the volcano underneath like gates of hell.
+Info: everyone knows one eternal meme about this animation of Exploding Volcano / Gunung Meledak which was ever thought once upon a time, by an original Dasandimian born directly from Dasan & Andim long time ago (it was Bjaukt, a comedian & jester for Dasandim kingdom, still alive today and is head advisory for Dasandim Broadcasting Alliance), spread through telepathy, and cause who received this laugh uncontrollably for atleast about 30 minutes. There is this volcano, viewed from perpendicular, align center view. The volcano vibrates virgorously, then it explodes hilariously, fast, & cartoonishly where its shrapnels flies everywhere in spherical trajectory to the top where shape and form from. Now it leaves only a big stump, that the top contains the volcano underneath like gates of hell. Yeah, basically instead of it erupts, it blows like Earth-chan's pimple blows a splat.
 
-Huaves: (Indian head wobble)↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️..
+Huaves: (Indian head wobble, hands arms wide open) 😃↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️↩️↪️..
 
 Schmitty: (really going to burst giggle)!.., (medium volume) maksudlu Gunung Meletus, kah?
 
-Huaves: Nggak sih, Gunung Meledak. 🤣!
+Huaves: Nggak sih, Gunung Meledak. Ngghah 🤣!
 
-Schmitty: (tired holding laugh).. Okay. (walk while getting weaker).... (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) Gwahahahaha, hhhhh, (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
+Schmitty: (tired holding laugh).. Okay. (walk while getting weaker).... (point to the board but failed as he irresistably opened that Gunung Meledak thought file on his brain) Gwahahahaha, (hard to take breath) hhhhh, (laugh finally burst) AAAAAAAAAAAAAHAAAAAH HAAAH (fell & roll on ground) HAAAAH, HHHHHHHHHHHHHHH, 🤣🤣🤣🤣🤣🤣..
 
 *audiences*: (even more laughing)🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
@@ -493,6 +493,8 @@ Schmitty: Wow, so confident! **TWITTER BAD!**
 
 Nope: (Temperament full, tried holding it together) HAAH? Social MEd.. Unfair! We never had social media!
 
+Info: Yeah he did. but then not interested. that's it.
+
 Schmitty: Well.. it's happens. You never had social media at all, do ya?
 
 Nope: NNno. We are not playing talking somebody remotely.
@@ -525,7 +527,7 @@ Sauce:
 
 Info: Siladex ad Homestuck WWTBAM. Cough is reference to [cheat incident](https://youtu.be/Ps__5ERPRVs ) (also [this same topic](https://youtu.be/BBWR0I9LbOQ )). Siladex is because this trademark coincides similarly with an inventory system name in original Homestuck, **Sylladex**.
 
-> Which place is pocated in eastern Jakarta?
+> Which place is located in eastern Jakarta?
 
 - Monumen Nasional
 - Mall Of Indonesia
@@ -552,7 +554,7 @@ Nepeta: `XOO` ◀️ 😨 KARKAT!?!?
 
 *audience*: (start to sus) again?...
 
-Nepeta: `TT'OO` ◀️ 😭😭😭😭 I DIDN'T DO IT!
+Nepeta: `TT'OO` ◀️ NOooo 😭😭😭😭, I DIDN'T DO IT!
 
 Karkat: (cough) !!! !!
 
@@ -858,7 +860,9 @@ Nope: (hug cry Lala) 😭😭😭😭😭😭😭😭😭😭😭😭😭😭�
 
 Schmitty: (pat) Hey, c'mon. This is not your end, buddy. We're not done yet. Look look, the screen! there. Hey, Udah, jangan nangis. Ini loh, kalian menang. (point) Tuh lihat.
 
-Paul: wait really? (look screen)?!?!
+Paul: wait really? (look big screen)?!?!
+
+Nope: (retract mucus)!!, (look big screen)..
 
 (Laxonds look screen).
 
@@ -866,11 +870,10 @@ Paul: wait really? (look screen)?!?!
 >
 > Kpd Yth, Istana Seru,
 >
-> Selamat, kontrak untuk giveaway
-> `Hyundai IONIQ 5 Long Signature Custom Terlengkapi`
->
-> Telah disetujui oleh pemberi kontrak ini,
-> `Josh Blogoruat`.
+> Selamat, kontrak untuk giveaway  
+> `Hyundai IONIQ 5 Long Signature Custom Terlengkapi`  
+> Telah disetujui oleh pemberi kontrak ini,  
+> `Josh Blogoruat`.  
 > Semoga dengan tunjangan hadiah diatas dapat digunakan dengan sebaik-baiknya.
 >
 > Namun, dikarenakan situasi dan kondisi, pemegang kontrak ini diharapkan untuk memenuhi syarat & ketentuan sebagai berikut, antara lain:
@@ -879,14 +882,14 @@ Paul: wait really? (look screen)?!?!
 > - Hadiah tersebut tidak dapat dikembalikan. Jadi aturan permainan diharapkan untuk diubah agar hadiah tetap diberikan apapun itu walaupun aturan resmi tidak tertulis ataupun melarangnya.
 > - Pemberian hadiah tersebut harus dilakukan sesegera mungkin paling lambat 5 hari setelah persetujuan kontrak ini.
 >
-> Apabila pemegang kontrak ini melanggar satupun syarat diatas, maka pemegang kontrak ini akan dikenakan sanksi sesuai permintaan dari pemberi kontrak ini.
+> Apabila pemegang kontrak ini melanggar satupun syarat diatas, maka pemegang kontrak ini akan dikenakan sanksi sesuai permintaan dari pemberi kontrak ini.  
 > Terima kasih.
 >
 > Hormat Kami,
 >
 > (Signature of Josh Blogoruat)
 >
-> Josh Blogoruat
+> Josh Blogoruat  
 > Drive Land, 25 Mei 2023
 
 Schmitty: Okay, so here's our contract for the dealer of this brand new car. let me zoom this (operator zoom), okay. Now let's highlight this.
@@ -899,7 +902,7 @@ Schmitty: It says here, that *We must give the car no matter what condition this
 
 <!-- GIVE IT TO THE LEFT! GIVE-IT-TO-THE-LEFT! chant -->
 
-Pulo Sewu (Yes, that same medhok troll): Guys! follow me! Give-it-to-the-left,
+Pulo Sewu (Yes, that same medhok troll / Alternia Jawa from the Siladex ad): Guys! follow me! Give-it-to-the-left,
 
 *audiences*: 👏GIVE-IT-👏TO-THE-👏LEFT 👏,👏,👏(repeat & louder)..
 
@@ -913,7 +916,7 @@ Schmitty: (very loud) **CONGRATULATIONS, YOU JUST WON,**
 
 *audience*: WHOOOOOOOO👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: **BRAND NEW, ULTIMATIZED, HYUNDAI, IONIQ 5, SIGNATURE, LONG RAAAAAAAAAANGE!!!!!!!**
+Schmitty: **BRAND NEW, ULTIMATIZED, HYUNDAI, IONIQ 5, SIGNATURE, LONG.. RAAAAAAAAAANGE!!!!!!!**
 
 *Laxond*: <span style='font-size:xx-large;'>**😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄AWHDFLIAHSDLJBAOIUFGBNAEFDSJKFGBLSBDFVBNSRLETGUBSOUEDNIFL!!!!!** (Paul is the loudest)</span> (run towards the show car & hug)
 
@@ -931,7 +934,7 @@ Nope: (stop in front of Cookie) GIVE ME THAT KEY!!
 
 Cookie: (async) (throw fob) Here you go..
 
-Nope: (async) (catching), (got it & metal excitement curving) WOOOOOOO!!!
+Nope: (async) (catching), (got it & metal excitement curving while ponder the key fob a sec) WOOOOOOO!!!
 
 Cookie: Have fun & safe (async 2) driving!
 
@@ -941,17 +944,17 @@ Nope: (async 2) (run towards front right door), (press unlock on fob)!! YEEEAAAH
 
 Nope: **HALELUYAAAAAAAAAAAAAAAAA!!!**
 
-Cookie: Okay, wear your seatbelt everybody! (run again)... Off we go!!! (leave stage bring everything to outside to release the car)
+Cookie: Okay, wear your seatbelt everybody! (run forklift again)... Off we go!!! (leave stage bring everything to outside to release the car)
 
 <!-- Now why do we asked? fortunately, we were give why, but let's not destroy that guy reputation. (explain above notoriety bla2)-->
 
 *audience*: (happy wholesome moved) 👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: Wow. I'm glad I can help. Whow. Now you must be wondering, why this time unlike previous show, we gotta give the car anyways? Well, luckily we had ever questioned. Thankfully, they're nice, so won't always hurt if you question on something. They said there was that one guy. Can't tell you who's name they are, let's not ruin their reputation today. ... Maybe later..
+Schmitty: Wow. I'm glad I can help. Whow. Now you must be wondering, why this time unlike previous show wait this is the first anyways, we gotta give the car anyways? Well, luckily we had ever questioned. Thankfully, they're nice, so won't always hurt if you question on something. They said.. there was that one guy. Can't tell you who's name they are, let's not ruin their reputation today. ... Maybe later..
 
 *audience*: 😂😂😂🤣🤣🤣😂😂😂🤣🤣🤣!!!...
 
-Schmitty: So yeah there, this one guy. First though, usually ungiven gifts will be returned, but you just saw we're not allowed to. What would happen you ask? **Of course auction it**, who would've thought, right? **And that's.. where the problem lies**. You see, in.. that auction, that one guy, aaaaaalways wins every item over there, no idea where the heck did they got the money. Nada. They just wwwINS! So what? What did they do? They just abandon it somewhere in his own.. field... thingy, yeah, rot. Hi.., I mean.. Their garage, garage field is full of rotten cars from where they were started, to this day. Sure, I can see why the dealers HAte, this guy. They even, if they have to sell it, **they kept or raise the price, like a GPU Scalper from Earth, GOOOOSH**, that gut right there. Oh.. my God. Folks, I wish you are not like him. Them. Ugh. Look, please do not harrass.. them, Okay you know what? it's He/Him. Just.. don't harrass. We aren't sure if he had trouble or what, just, leave him alone, okay? So yeah. The dealer is afraid if that car ends to his hand because it had to be auctioned when nobody gets this. Also, you know why 5 days limit? **HE HAS BEEN F8888NG WANTING IT RIGHT NOW! ON RESERVED, EVEN!!! JESUS CHRIST!!** Like appointing someone for legally kidnapping eh?!?!?!? .. Any idea to uhh give this guy a lesson?! YOu know? No need to answer, keep it yourself to home.
+Schmitty: So yeah there, this one guy. First though, usually ungiven gifts will be returned, but you just saw we're not allowed to. What would happen you ask? **Of course auction it**, who would've thought, right? **And that's.. where the problem lies**. You see, in.. that auction, that one guy, aaaaaalways wins every item over there, no idea where the heck did they got the money. Nada. No idea either, How in the world he's so lucky like.. Ugh.. They just wwwINS! So what? What did they do? They just abandon it somewhere in his own.. field... thingy, yeah, rot. Hi.., I mean.. Their garage, garage field is full of rotten cars from where they were started, to this day. Sure, I can see why the dealers HAte, this guy. They even, if they have to sell it, **they kept or raise the price, like a GPU Scalper from Earth, GOOOOSH**, that gut right there. Oh.. my God. Folks, I wish you are not like him (tired of using neutral pronouns because he was not used to enough). Them. Ugh. Look, please do not harrass (retry one last time).. them, (give up) Okay you know what? it's He/Him. Just.. don't harrass. We aren't sure if he had trouble or what, just, leave him alone, okay? So yeah. The dealer is afraid if that car ends to his hand because it had to be auctioned when nobody gets this. Also, you know why 5 days limit? **HE HAS BEEN F8888NG WANTING IT RIGHT NOW! ON RESERVED, EVEN!!! JESUS CHRIST!!** Like appointing someone for legally kidnapping eh?!?!?!? .. Any idea to uhh give this guy a lesson?! YOu know? No need to answer, keep it yourself to home.
 
 *audience*: ... 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 
