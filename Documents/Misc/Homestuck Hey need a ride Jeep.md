@@ -26,11 +26,11 @@ Summary, because not all gamer speak Bahasa Indonesia:
 
 Hoxs Shore: Pak, Jeep berapa?
 
-Andy Halim Sutanto (owner of this Suzuki Jimny): 1 paket keliling Rp. 200rb. Beberapun penumpang sama, mau dijoin orang lain bisam
+Andy Halim Sutanto (owner of this Suzuki Jimny): 1 paket keliling Rp. 200rb. Beberapun penumpang sama, mau dijoin orang lain bisa.
 
 Hoxs: Widih! Boleh pak? Nih istri sama 2 anak (2 daughters)
 
-Andy: Ya silahkan, pake QRIS bisa, sebentar..
+Andy: Ya silahkan, pake QRIS bisa, sebentar (go to house to pick up EDC)..
 
 Tavros: (arrive to that spot),,, hOXS!!
 
@@ -42,7 +42,7 @@ Hoxs: Ini nih, mau naik Jeep. Hehe, mumpung dapet..
 
 Vriska Serket: (noticed that's not Jeep, it's Suzuki Jimny!)?!?!, (telepathy tell Tavros to offer ride)..
 
-Info: While Tavros rode actual legit Jeep Rubicon Hybrid, configured open
+Info: While Tavros rode actual legit Jeep Rubicon Hybrid, configured open right now, to blend in with other Jeep rentals & pretty much open Jeep usually.
 
 Tavros: (huh)??, (okay),, eH, MAU NAIK GK?
 
@@ -54,19 +54,25 @@ Hoxs: Eh makasih bang, lah terus gimana gimana yg itu? Mas Mas! Sorry mas gk jad
 
 Andy: (come out with EDC from his house) Ya, gpp.. 😱😱😱😱HAAAAH 💔💔💔💔💔💔💔💔😢😢😢😢😢?!?!?!?!? (but did not drop EDC unlike every Hollywood films)
 
+|left|middle|steer|
+|-|-|-|
+|Vriska|console|Tavros|
+|Hoxs|Rachel|Ambarella|
+|Dauphine|Dauphine's DSLR camera bag|empty|
+
 Hoxs: (already ride with his family too) Lain kali ya mas? Hehe, ini udah ada Jeep.
 
 Dauphine Shore (daughter 1): (photo that poor guy)!!
 
 Rachel Shore (daughter 2): (wave hand) dadaa, dadaa, ...
 
-Tavros: (off we go)....
+Tavros: (off we go),,,,
 
-Steven He: (throw sandal to floor very hard)!!!! EeMOOtional DAamage..
+Steven He: (throw slipper sandal to floor very hard)!!!! (point open complainingly to TV) [EeMOOtional DAamage..](https://youtu.be/5KXJKdGq3VE )
 
 Info: Sakitnya tuh disini
 
-Andy: (emotjonal damage) ... hiks, hiks, ya Allah 😭😭😭😭.. berikanlah aku ketabahan 😭...
+Andy: (emotional damage) ... hiks, hiks, ya Allah 😭😭😭😭.. berikanlah aku ketabahan 😭...
 
 Tavros: (small volume) wHAT THE HELL, VRIS?
 
@@ -74,17 +80,17 @@ Hoxs: (oh that was you, Vriska)..
 
 Vriska: (shrug & smile menacingly, happy she broke that poor guy's heart)...
 
-Tavros: yEAH YOU BROKE HIS HEART, hE HAS BEEN EXCITED TO SHOW OFF HIS CAR EVERYDAY COMPETING AGAINST EACH OTHER. I MEAN, THAT'S NOT REAL JEEP, aND GEEZ, 200 THOUSAND??
+Tavros: yEAH YOU BROKE HIS HEART, hE HAS BEEN EXCITED TO SHOW OFF HIS CAR EVERYDAY COMPETING AGAINST EACH OTHER. I MEAN, THAT'S NOT REAL JEEP THOUGH, aND GEEZ, 200 THOUSAND??
 
 Hoxs: Iya, keliling satu gunung. Murah sih..
 
 Tavros: mURAH?? kY GITU DIBILANG MURAH, TRS GK JEEP LAGI..
 
-Hoxs: Emang itu bukan Jeep??
+Hoxs: ha-Emang itu bukan Jeep??
 
 Tavros: iTU jIMNY, BRO,,
 
-Hoxs: Aaggh.. (left hand pat hold top head) ketipu guwe?
+Hoxs: Aaggh.. (left hand pat hold top head) ketipu guwe? (he shocked since he almost paid that much)
 
 Tavros: ,,
 
@@ -92,31 +98,47 @@ Hoxs: (left hand pat Tavros left shoulder) Haiya.. Makasih bro, (pat Vriska's ri
 
 Info: Indonesia drives left, steer right, just like Dasandim.
 
-Tavros: dON'T MENTION IT,
+Tavros: (reply pat Hoxs' right hand) dON'T MENTION IT,
 
 Vriska: Yeah.
 
 ## Next month
 
-Andy: Halo mau naik Jip? 200 rb sekampung, atau naik Rubicon 2 Juta sekampung, bisa join, ayo semuanya!
+Andy: Halo mau naik Jip? 200 rb keliling sekampung, atau naik Rubicon 2 Juta sekampung, bisa join, ayo semuanya!
 
 Pulo Sewu: yg 2 jt mas!
 
+Info: Tavros did not see how generous Andy is. He only measures cost by every tour, not by customer count. Unlike everyone else who measures by customer counts, like per person pays how much stuff like that. This allows non-same family traktir other strangers!
+
 Andy: (that customer had that similarly candy corn themed horns) eh, kamu bukannya manusia bertanduk itu?
 
-Pulo: Orak mas, beda.
+Pulo: Orak mas, seje.
 
 Andy: Ugh.. Si tanduk itu.
 
-Pulo: Yaudah mas, jangan dimasukin hati. Tuh udah bisa Jeep beneran, bersyukur dong.
+Pulo: Yaudah mas, ojo dimasukin hati. Tuh udah bisa Jeep beneran, bersyukur dong.
 
-Andy: Aku ngutang Citi ini bro, serem banget nih (that would bring threatener if the credit card debt gets stuck). (Show EDC)
+Andy: Aku ngutang Citi iki bro, serem banget nih (that would bring threatener if the credit card debt gets stuck, although he knew that's illegal now thankfully but still). (Show EDC)..
 
-Pulo: Semangat! (Scan QRIS)!
+Pulo: (left hand raise up) Semangat! (right hand with phone scan QRIS)!
 
 Lawang Sewu: AYO SODARA2 NAIK SEMUANYA!
 
-(All Sewu Alternians ride & go)
+(ride yeeey)!
+
+Tumbuh Sewu: (jump to back) Hya!!
+
+Sikil Sequ: (jump to back) Yuss! (step to get seat), (sitt).
+
+|left|middle|steer|
+|-|-|-|
+|Pulo|console|Andy|
+|Lawang|Malam|Konco|
+|Tumbuh|Sikil|empty|
+
+Info: Malam monikers under `Malam Sewu CG`, to complete pun `1001 nights`.
+
+(All Sewu Alternians rode & go)
 
 Info: Andy is the first & only in the entire destination to provide real Jeep Rubicon Hybrid as the tour vehicle. He will be viral by Jeep fans around galaxies.
 
@@ -130,7 +152,7 @@ CC4.0-BY-SA
 
 (Rain, the Jeep emergency tarp closed)
 
-Tavros: ...
+Tavros: (still driving)...
 
 Hoxs: Yah, kayanya Tuhan lagi marah deh.. mungkin sebaiknya jangan lain kali, gimana?
 
@@ -139,7 +161,3 @@ Tavros: aDUH, BINGUNG JUGA SIH,,
 ## bonus finish
 
 Ok
-
-
-
-

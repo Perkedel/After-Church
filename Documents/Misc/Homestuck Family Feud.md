@@ -958,7 +958,7 @@ Schmitty: So yeah there, this one guy. First though, usually ungiven gifts will 
 
 *audience*: ... 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 
-Schmitty: OH OKay, we already pass the time. So that is all for.. Family, Feud! I'm Josh Schmitty, Aand Signing out. If there is something that is amiss, amistake, awhatever, we apologize. And thank youuu for your attention. See ya! (leave stage to left door)...
+Schmitty: OH OKay, we already pass the time. So that is all for.. **Family, Feud!** I'm Josh Schmitty, Aand Signing out. If there is something that is amiss, amistake, awhatever, we apologize. And thank youuu for your attention. See ya! (leave stage to left door)...
 
 (end credit)
 
