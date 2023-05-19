@@ -572,7 +572,11 @@ Cookie: (start offer each variants of Siladex to 4) (Y pose break glass) Calm do
 
 (4 box rotates & flies float toward camera)
 
-Cookie: (camera back stick to Karkat & so on) (give Green to Karkat) Siladex M & E for Phlegm, (give Blue to Fidge) Cough & Cold for Uhuk & [Hachih](https://youtu.be/MLeqBH3UT5Y )!, (give red (Antitusive) to Juuse & yellow (DMP) to Pulo) & Non Phlegm with Antitusive or DMP.
+Cookie: (camera back stick to Karkat & so on) (give Green to Karkat) Siladex M & E for Phlegm, (give Blue to Fidge) Cough & Cold for Uhuk & [Hachih](https://youtu.be/MLeqBH3UT5Y ),
+
+Jerine Fedd: **BLESS YOU!**
+
+Cookie: (give red (Antitusive) to Juuse & yellow (DMP) to Pulo) & Non Phlegm with Antitusive or DMP.
 
 (illustrate! quadrant each filled with those coughers above. all at same time, hose spray cough stone with respective Siladex & the cough stone destroys)
 

@@ -118,7 +118,7 @@ Andy: Ugh.. Si tanduk itu.
 
 Pulo: Yaudah mas, ojo dimasukin hati. Tuh udah bisa Jeep beneran, bersyukur dong.
 
-Andy: Aku ngutang Citi iki bro, serem banget nih (that would bring threatener if the credit card debt gets stuck, although he knew that's illegal now thankfully but still). (Show EDC)..
+Andy: Aku kudu ngutang Citi iki bro, serem banget iki (that would bring threatener if the credit card debt gets stuck, although he knew that's illegal now thankfully but still). (Show EDC)..
 
 Pulo: (left hand raise up) Semangat! (right hand with phone scan QRIS)!
 
