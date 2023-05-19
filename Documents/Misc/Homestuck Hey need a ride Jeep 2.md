@@ -571,6 +571,10 @@ But please though, don't be toxic for this, coz job is tiresome that.. No matter
 
 Hey why not give that wandering trader / pedagang kaki lima something special? that guy is actually one of us! Darrin Atalyon. Just a random overseer though. Dasandim has Overseer Alliance. All they do is just look at some interesting events. that's it. They can disguise to be anything, so to blend in. They can choose to join fight, or just watch, but not hinder us in our battle. They are just like you gamers, who wears VR. sitting in between scenes, all immersive anywhere on the map. What strict rule then? Simple, make sure that your body cams all over your body are standby. these bodycams constantly records & upload all moments from each camera back to Dasandim, & then sent to Viorfa for them to be reprocessed.
 
+Now, Vriska. Next time hit his neck vagus nerve to make him fall asleep & could not think to fight back. That should syncope the target or the best weakening to be for certain amount of time. Don't worry, you can still manipulate the limbs, **without the central head being concious**. Be careful!! **Just hit the neck, not the brain**. Brain is very sensitive, and if you hit brain, he will concussion & he could die & you would get penalty `Target killed`.
+
+Okay it's hard to make him syncope, he's as strong as you, Vriska. But there you have it, could be used for another.
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
