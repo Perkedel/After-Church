@@ -16,7 +16,7 @@ Right. `BLUE`:
 1. Equius Zahhak
 2. Aradia Megido
 3. Nepeta Leijon
-4. Eridan Ampota
+4. Eridan Ampora
 5. Feferi Peixes
 6. Sollux Captor (Extra)
 
@@ -315,6 +315,16 @@ Andrew: Okay, uh.. Let's see...
 ✅❌-❌❌ Left got scored.
 ✅✅-❌❌ Left is about to win fast money, but watch out, if the Right stole at this point, Left immediately lose, & right goes to fast money instantly
 
+Team wins Fast money if they got win button like shown
+🆗🆗-❌❌ Left team win fast money. notice as left wins 3 times, both green checkbox turns into win button.
+🆗❌-✅✅ Left team win fast money through deadly steal. notice that instead of green checkbox, they got win button instead.
+✅❌-🆗🆗 Right team win fast money through usual tiebreaker. notice the all green checkmark turns into win button.
+
+Legacy:
+⏭️⏭️-❌❌ Left team win fast money
+⏭️❌-✅✅ Left team win fast money through deadly steal.
+✅❌-⏮️⏮️ Right team win fast money through usual tiebreaker.
+
 Strikes:
 ✅✅✅ Init
 ❌✅✅ Oh no 1 strike! don't let 3!
@@ -459,25 +469,211 @@ Equius Zahhak: (Right buzzer)..
 
 Andrew: You guys ready? ... Okay, so,
 
-## Round 2.
+## Round 2. Name some terms that are financially related
 
 Info: this should now Right `BLUE` turn recommended now.
 
-- a
-- a
-- a
-- a
-- a
+- Equity. Value of ownership this part of a stonk or object the holder has, simply said how much do you own this stonk, is it 12%, or 90%?. [sauce](https://www.jurnal.id/id/blog/pengertian-equity-adalah/ )
+- Assets. Objects in a company that has worth for certain amount of Monet.
+- Shareholds. Shareholders, Group of people that owns part or most of the Stonk.
+- Blue Chip. Stonk or object that has highest value amongst certain other stonks in a list. Blue chip is a call name inspired from standard way of distinguishing casino chip values, where usually blue is the highest. [sauce](https://www.mncsekuritas.id/pages/mengenal-saham-blue-chips-yang-menguntungkan )
+- Stimulus. Financial aid to recover from certain disaster or to get started quickly.
+- Investment Management. Licensed job that its role to watch & control stake position for clients. Very essential role in Mutual Funds / Reksa Dana.
 
-Andrew: 5 answers, buzz in quick, (round).
+Andrew: 6 answers, buzz in quick, (round).
 
 ...
 
 ...
 
+Terezi: (buzzed)!!!
+
+Andrew: Terezi.
+
+Terezi: Shares?
+
+*audience*: 👏👏👏👏👏👏👏
+
+Andrew: **SHares?**
+
+(Exists! `Shareholds`)
+
+Andrew: (it should be RIGHT team now), Equius?
+
+Equius: 🏹 Uh... `Equiuty`???
+
+Info: `D -->` is `🏹`!
+
+*audience*: 😂😂😂
+
+Andrew: Okay.. **🚑 Equiuiuiuiuiuiuiuty Horse is geting sick!!**
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+...
+
+(Exists! `Equity`)
+
+Andrews: Equius, play?
+
+*BLUE team*: PLAY!!, PLAY!!, PLAY!!, PLAY!!, PLAY!!..
+
+Equius: 🏹 Okay, play.
+
+Info: Sorry, ending punctuation is also required syntax. Once again, in the game you can fully have accurate style with accessibility section subtitle forced disabled.
+
+*BLUE team*: YEEEEEEEY 👏👏👏👏👏👏👏!!!
+
+Equius: (return to table)
+
+Andrew: Okay, Aradia. (round).
+
+Aradia Megido: investment.
+
+Andrew: Easy doesn't it?, **Investment!!**
+
+(Exist! `Investment Management`)
+
+Andrew: huh, `Management`?? what even is that?!
+
+Andrew: uh idk.. never played stock.
+
+*audience*: 🤣🤣🤣🤣👏👏👏👏👏
+
+Andrew: Nepeta! (round).
+
+Nepeta: `>:))` ⬅️ 😏😏😏😏, (cutely says..) **Catnip.**
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣...
+
+Andrew: 🗿🗿🗿🗿🗿🗿... 😠 Catnip, CATnip, CATNip.. (bend Nepeta's table mic towards himself)!!, (speak close & loud semi earrape) **CATNIP!!!**,
+
+*audience*: (even more laugh)!!!!!
+
+Andrew: (put it back)!..
+
+Info: Reference to `TISSUE` answer.
+
+(Exist! `Stimulus`)
+
+Nepeta: `:DD` ⬅️ YOOOOOO NO WAY!!!
+
+Andrew: Okeyh, Eridan. (round).
+
+Eridan Ampora: .. bootiiiie.
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣
+
+Andrew: (wait, that can't be about chest right?) You mean, pirate's treasure!
+
+Eridan: oh yeah also 😏😏😏😏😏.
+
+Andrew: (OH NO HE ALSO THOUGHT THAT & THIS AT THE SAME TIME!!!) WHAT?!?!
+
+*audience*: (add more laugh) AHAHAHAHAHA!!!!
+
+Andrew: (that shameless confidence gut bruh) So faast....... Egh, whatever, **Booty..**
+
+(Exists! `Assets`)
+
+Andrew: Ugh, Not trolls, not man, just the same. Anyways, One more.., Feferi. (round).
+
+Feferi Peixes: uuhhh hmmm.. (found thought about casino coins she ever saw back when she encountered in Sea Vegas) **CHIPSSSS**!!!
+
+Andrew: Chips??? Alright, I hope it works, **CHIPSSSSS**...
+
+(Exist! `Blue Chip`. `BLUE` wins! Now ✅❌-❌✅)
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+*BLUE team*: YEY WE WIN!!!
+
+Andrew: Not yet. You guys are balanced right now. Only 1 shall go to the Fast Money. Either win, that goes. But after this one, We'll be right back!!!
+
+*audience*: 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+## Ad 2. a
+
+a
+
+## end ad 2
+
+Andrew: And welcome back!, to Family Feud once again. Here we have 1 to 1 (✅❌-❌✅), this going to be tight here. If either of these win, that winner will get big cash & go in the opportunity at Fast Money. But nooow, bring in Gamzee, bring in Aradia! Wow!!
+
+*audience*: 👏👏👏👏👏👏👏👏👏
+
+Aradia: (Left Buzzer)...
+
+Gamzee: (Right Buzzer)...
+
+## Round 3. a Will use `BLANK`
 
 
-.....
+- a
+- a
+- a
+- a
+- b
+- b
+- b
+- b
+
+## Ad 3. a
+
+a
+
+## end ad 3
+
+Andrew: ... Welcome back one last time here in Family Feud, We got team `???` wins, and now for the opportunity for MORE Iiiiiin...,
+
+*audience*: FAST MONEY!!! 👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+Andrew: We're going to have `EXTRA PLAYER` first, followed by the 1st player. `EXTRA PLAYER`, you ready?
+
+???: (yes)
+
+## Fast Money
+
+Info: if they lose fast money, give this extra cash to opponent!!!
+
+Questions:
+
+1. a
+2. a
+3. aa
+4. a
+5. a
+
+Turn 1:
+
+1. a
+2. a
+3. a
+4. a
+5. a
+
+Turn 2:
+
+1. a
+2. a
+3. a
+4. a
+5. a
+
+...
+
+## Credit
+
+(credit)
+
+- Produced by JOELwindows7
+- Written by JOELwindows7
+- (casts)
+- Homestuck models by [babyfawnlegs](https://www.tumblr.com/joelwindows7/717471823511601152/babyfawnlegs-homestuck-model?source=share )
+- Realization solution by [Juan Linietsky & friends](https://godotengine.org)
+- Entity modeling by [Blender](https://blender.org )
+
+(special thanks)
 
 ## End
 
@@ -488,6 +684,8 @@ Also ugh.. wow.. [yoooooaaak](https://mspaintadventures.fandom.com/wiki/Quadrant
 who character shift number?!?!?!? hmmmmmm like `! @ # $` while it's actually `one two three four`?
 
 barhugut [612](https://mspaintadventures.fandom.com/wiki/612 ).
+
+Hmm, looks like I just found serveral future descendants after all the originals like [here](https://mspaintadventures.fandom.com/wiki/Harry_Anderson_Egbert ). Yes, another fan collected intels, thancc gamers. Well I didn't say the date when all of my fanfics for this sector happens. Perhaps would be, after Friday Night Funkin' Full Ass released & we closed the Last Funkin Moment project? idk.... Look, Harry, I just showed you, recently born couple years ago in the middle of this war, yes passed indeed, COVID-19 global wars, thanccfully survived. Idk, but yeah. Some elements would be changed to reflect that war, especially mask. Man, gotta hire it up somebody. I haven't even started porting my framework yet! I wish I didn't busy hunting money just to live. Deuoh..
 
 By JOELwindows7  
 Perkedel Technologies  

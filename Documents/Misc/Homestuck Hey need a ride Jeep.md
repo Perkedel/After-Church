@@ -150,7 +150,7 @@ CC4.0-BY-SA
 
 ## Back month
 
-(Rain, the Jeep emergency tarp closed)
+(Rain, the Jeep ~~emergency tarp~~ Power Soft top closed)
 
 Tavros: (still driving)...
 
