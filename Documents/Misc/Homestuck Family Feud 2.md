@@ -102,7 +102,7 @@ Info: Makeup table set, with a Post-it note attached right side tilted 15 deg to
 
 Quinzor: Okay, everyone, if you want to be statue just to be authentic, you can, but feel free to move, coz you know.. `GIF`. Alright 1 minutes left! make sure the posing & the instruments are ready when the shot begins. Expect some alarm. that's where you prepare up. Relax! This is not strict game. I guess..
 
-Kanaya: Hey how do I look?
+Kanaya: Hey, What Do You Think With My Facial Statement Now (How Do I Look)?
 
 Tavros Nitram: lOOK'S LIKE BLACKHOLE TO ME, wOW,,
 
@@ -329,7 +329,7 @@ Strikes:
 ✅✅✅ Init
 ❌✅✅ Oh no 1 strike! don't let 3!
 ❌❌✅ You are almost screwed!! edge of the cliff! 2 of 3!!!
-❌❌❌ You fail! other team steal now! stolen instantly scores the theft, followed by answer reveals.
+❌❌❌ You fail! other team steal now! stolen instantly scores the theft OR failed steal scores the owner, followed by answer reveals.
 
 No point maths, your mission is to open up answers before other team stole it.
 -->
@@ -600,23 +600,285 @@ a
 
 Andrew: And welcome back!, to Family Feud once again. Here we have 1 to 1 (✅❌-❌✅), this going to be tight here. If either of these win, that winner will get big cash & go in the opportunity at Fast Money. But nooow, bring in Gamzee, bring in Aradia! Wow!!
 
+## Round 3. After Awake I Will do `BLANK`
+
+Info: It's recommended Left `RED`.
+
+- Ku Terus Mandi / Take shower.
+- Tidak Lupa Menggosok Gigi / Brush teeth.
+- Habis mandi kutolong ibu / Help parents.
+- Membersihkan tempat tidurku / Retidy bed.
+- Breakfast
+- Prepare go to school / work
+- Check message
+- [Sleep again](https://youtu.be/tdfJbn_NTqQ )
+
+(Lyric Bangun Tidur)
+
+```
+Bangun tidur, ku terus mandi
+Tidak lupa menggosok gigi
+Habis mandi, kutolong Ibu
+Membersihkan tempat tidurku
+```
+
 *audience*: 👏👏👏👏👏👏👏👏👏
 
-Aradia: (Left Buzzer)...
+Aradia: (Left Buzzer), (deadly stare)...
 
-Gamzee: (Right Buzzer)...
+Gamzee: (Right Buzzer), (deadly stare)...
 
-## Round 3. a Will use `BLANK`
+Andrew: Okay.. (noticed they mood too seriously)?...,
 
+*audience*: (giggle)..
 
-- a
-- a
-- a
-- a
-- b
-- b
-- b
-- b
+Andrew: (pat both of them with each hand usually) Hey,
+
+*both*: (awake from serious)!!??
+
+Andrew: relax.
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣
+
+Gamzee: (delay unseriousing).. oH, SoRrY..
+
+Andrew: This is not a Squid Game you know,
+
+*audience*: **(increase laugh) AHAHAHAHAHA!!**
+
+Andrew: Not like you gonna die..
+
+*audience*: (going to be uncontrolable laugh while trying hard to listen Andrew)
+
+Andrew: when you lose you know. Relax, extra cash won't go anywhere.
+
+*audience*: 🤣🤣🤣👏👏👏👏🤣🤣🤣🤣👏👏👏👏🤣🤣
+
+Aradia: 😐😐😐😶😶😶😶😶
+
+Andrew: Okay, story.
+
+> The sun goes up, it's the new day, bird chirping on trees, chickens sings their song, time to do new stuff on this day, I awake.
+
+Andrew: Okay, so, 8 answers, (round).
+
+Gamzee: (buzz)!!
+
+Aradia: (late buzz)!!
+
+Andrew: Gamzee.
+
+Gamzee: *wIsHKeeeee..* eHeU eHeU..
+
+*audience*: (medium laugh) ahahahahaahahaha...
+
+(camera stare close up Andrew face)
+
+Andrew: 😐😐😐😐😐😐😐... (hit the tablet to table medium impact)!, Really?
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣...
+
+Andrew: Whisky, is that your only thinking, `terminallyCapcricious`??
+
+Gamzee: ... (slowly tween to shrug)???
+
+Andrew: Wake up and then droooooonk... in the day again??
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Gamzee: wHat ElSe, ThENnN mOthEr88888??
+
+Andrew: ... (sigh)... Okay. Hear me out, Germany likes beer, you know, not to mention during Oktoberfest, haa, you know. But.. why?? Why would anyone unsober after let's say, been unsober yesterday?? Heuh?? Not healthy dude, you should repent now. There's uh.. if I am not mistaken, Bintang.. or any.. (quote on quote) *drinks*, that has zero alcohol. You hear that?
+
+*audience*: ah yea yeah
+
+Andrew: Yeah. Okay, you said Whisky. 'Kay so, **Whisky..**
+
+(Exist! `Breakfast`)
+
+*audience*: 🤣👏🤣👏🤣👏🤣👏🤣👏🤣👏🤣👏🤣👏👏
+
+Andrew: (brain felt destroying) 😐😐😐😐😐😐 (slow tween both hands on head) 😐😐😐😐.. ~oh God pls help me..~.......... (Gamzee on left `RED` and `RED` is recommended now) Right, Play or pass?
+
+Gamzee: (like funny engine sound impression at [Hooooonda](https://youtu.be/TVcGm381oiY )..) pUuUuUrRrEyYyyEu...
+
+*audience*: (mega laugh) 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Andrew: Wha? Play, Okay. ehehe, (slow tween facepalm laugh breath oscilating lmao)... 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣, ...
+
+*audience*: (keeps mega laughing)!!!!!!
+
+Andrew: Okayhh, heuh.., Tavros. (round).
+
+Tavros: bREAKFAST,
+
+(Answer `Breakfast` already open!!! No penalty.)
+
+Andrew: Okay, Breakfast. Now, What do you eat?
+
+Tavros: sTEAK,
+
+Andrew: Okay, Steak! Nice food, right?
+
+*audience*: (pretend not see it & just laugh) yea yea 🤣🤣🤣🤣🤣🤣
+
+Tavros: (noticed he asked this life slice questions, looks like answer already exist?) wAIT, sOMETHING AMISS,,
+
+Andrew: Oh do ya?
+
+Tavros: (look at board),,,, (yep I knew it) oH 🗿,
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Tavros: oKAY, PREPARE SOMETHING WHATEVER!
+
+Andrew: OKAYYY, **Prepare somethingggggg**.. whateva.
+
+(Exist! `Prepare go to school / work`)
+
+Tavros: (almost there, loudly says..) hoooooowfh!!!
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣👏👏👏👏👏👏👏👏👏👏👏🤣🤣👏👏👏🤣🤣👏👏
+
+Andrew: Vriska.
+
+Vriska: Okay?
+
+Andrew: my beloved.
+
+Vriska: 🤨 (blush)??
+
+*audience*: cie cieeeee... 🤣🤣🤣🤣🤣🤣👏👏👏👏👏🤣🤣🤣🤣👏👏
+
+Andrew: 😏😏😏😏😏😏😏😏😏😏😏😏, Okay, (round).
+
+Vriska: ... (play act fell asleep on school head bang)!!!
+
+Andrew: What is that?
+
+Vriska: Fell asleep.
+
+*audience*: ... (medium laugh)...
+
+Andrew: ... Okehh..
+
+*audience*: (add laugh) 😂😂😂😂😂😂😂😂😂😂😂😂....
+
+Andrew: **Fell asleep!**
+
+(Exist! `Sleep again`)
+
+Vriska: (looked board).. (looked her front)... mmkay, (shrug) lul..
+
+Andrew: No strike so far, very impressive. Kanaya!
+
+Kanaya: Right.
+
+Andrew: (round).
+
+Kanaya: Ahem. *An Internet Media Platform Used By People To Gather, (interupted) Assemble,*..
+
+Andrew: (intertupt) WHoa WHoa WHoa, Whoa, slow down, SLOW DOWN, lady..
+
+*audience*: 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Kanaya: (interupt) 😏😏😏😏😏😏 (satisfied tortured Andrew)?? *And Discuss For Certain Topic Of Interest Remotely Through Certain System*..
+
+Andrew: Oh C'mon, just say the short answer, I know what you mean.
+
+Kayaya: 😂😂😂😂😂AHAHAHAHA, (take breath diaphragm) HHHkk, *Also Known As Social Media*.
+
+Andrew: FINALLY (angry faic), **JESUS CHRIST**!!!
+
+*audience*: (very omegalul) 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣👏🤣👏🤣👏🤣👏🤣
+
+Andrew: Oh my God. Okay, **Social Media.**
+
+(Exist! `Check message`)
+
+Andrew: Man, you like to make things long do ya? heuuuu.. Okay, 4 left, Karkat!, (round).
+
+Karkat: Watch TV!
+
+Andrew: Very common! **Watch TV**!
+
+(404 NOT FOUND! `RED` ❌✅✅. `Watch Videos` omitted)
+
+Terezi: Appearify Amusement!
+
+Andrew: Okay, takes time to figure out, **Appearify Amusement**..
+
+(404 NOT FOUND! `RED` ❌❌✅. `Play Games` omitted)
+
+Andrew: Ohh Play games, but gone 😔.. Hey, guys! You're on the Hawking now. One more and that BLUE will take it. Answer carefully. 
+
+Gamzee: wHaT aM i SuPpOsEd tO SaY, mOThErF88888??!!
+
+Andrew: Hmm, whatever here, maybe what humans do? .... Ready? (round), Gamzee?
+
+Gamzee: (sigh), YoU kNoW wHaT, I'm sOrRy.. StRetCh!!
+
+*audience*: 👏👏👏👏👏👏👏👏👏
+
+Andrew: That's it! Pls be it **Excercise** pls plps pls pls plssss.......
+
+(404 NOT FOUND! `RED` ❌❌❌ Steal Opportunity. `Warm up` omitted)
+
+Andrew: Ugh... Welp, anyone on the BLUE? what's the answer?
+
+Feferi: soak up!!?
+
+Andrew: (remember `Take Shower`) Oh yeah. I... **SOAK UP!!!**
+
+(Exist! `Ku Terus Mandi / Take shower.`. `BLUE` Right Stole! Now ✅❌-🆗🆗)
+
+Pulo: (it could form that famous lullaby song!!) Yo!! NO WAY!!! WOI!!! WAWOI!!! (Stand up above chair) WOI SEMUANYA!!! LAGU!!! YU BERDIRI!!
+
+*audience*: (excitedly standup)!!
+
+Andrew: Okay, what's happening?
+
+Vriska: (pause frustration) It's a song, Pulo!! (request syndicate understand Bahasa Indonesia to entire stage) May I?
+
+Pulo: Ya ya ya, boleh silahkan!! (look back) Operator!!, yu nyanyi sama2!! Ayo semuanya, (begin clap).... Sa👏tu du👏a ti👏ga,
+
+(`Ku Terus Mandi / Take shower` Already opened!)
+
+> Bangun tidur, ku terus mandiii..
+
+(It's `Tidak Lupa Menggosok Gigi / Brush teeth`.)
+
+> Tidak lupa, menggosok.. Giigiiiiiii..
+
+(It's `Habis mandi kutolong ibu / Help parents`.)
+
+> Habis mandi, kutoloong.. iibuuuuuu...
+
+(It's `Membersihkan tempat tidurku / Retidy bed`)
+
+> Membersihkan, tempat tiiduurkuuuu.
+
+*entire stage*: 👏 👏 👏 👏. **YAAAAAAAAAAAAAAAAAAY 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏!!!!!** WOOOOOO!!!
+
+Andrew: OOOh, DAAYUMM!!! BROO!!! WOOOUW!!! 👏👏👏👏👏👏👏...
+
+<!-- Pls make this RED lost, and BLUE go fast money 
+Andrew criticized that they did never take shower, as they never thought about such answer, or any related to the Indonesian kids lullaby above.
+
+Vriska complain why has to be 8 answer. Andrew reply irony with you like number 8 don't ya? so there's your 8.
+-->
+
+Vriska: (frustration decreased a bit) I me8n, .. Why Eight of 'em? J8st... I n8v8r h8d 8ny of th8s8, honestly..
+
+Andrew: Well now you know. You never had done any of these when you're in my world?
+
+Vriska: N8. I m8an, too few or t88 seld8m to rememb8r..
+
+Andrew: Oh well. Now you know.
+
+Vriska: Eeeh.. (frustration dropped) 👏👏👏👏👏👏👏
+
+Andrew: We'll be right back after this!!! BLUE, you're coming with me!
 
 ## Ad 3. a
 
@@ -624,17 +886,15 @@ a
 
 ## end ad 3
 
-Andrew: ... Welcome back one last time here in Family Feud, We got team `???` wins, and now for the opportunity for MORE Iiiiiin...,
+Andrew: ... Welcome back one last time here in Family Feud, We got team **BLUE** wins, and now for the opportunity for MORE Iiiiiin...,
 
 *audience*: FAST MONEY!!! 👏👏👏👏👏👏👏👏👏👏👏👏👏👏
-
-Andrew: We're going to have `EXTRA PLAYER` first, followed by the 1st player. `EXTRA PLAYER`, you ready?
-
-???: (yes)
 
 ## Fast Money
 
 Info: if they lose fast money, give this extra cash to opponent!!!
+
+<!-- Make this one wins pls! -->
 
 Questions:
 
@@ -659,6 +919,18 @@ Turn 2:
 3. a
 4. a
 5. a
+
+Andrew: We're going to have `EXTRA PLAYER` first, followed by the 1st player. there will be 5 for each turn. both of you, must reach total 200, read what it says.
+
+Equius: 🏹 200 Thousand On the Pool!!!
+
+**audience**: 👏👏👏👏👏👏👏👏👏👏👏
+
+Andrew: Equius, you ready?
+
+Equius: 🏹 (yes) Right, unleash the gate!
+
+Andrew: 25 Second, 5 Question, 3, 2, 1... (question 1).
 
 ...
 
@@ -690,3 +962,157 @@ Hmm, looks like I just found serveral future descendants after all the originals
 By JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+## Bonus 1
+
+### Somewhere in another peak
+
+Pulo: Terezi meh nguyoh, iki. cuman toilet disini angel.. susah coy!
+
+Halim Suno: Permisi, pak? mau cari toilet?
+
+Pulo: ya pak?
+
+Halim: (point to far) Toilet disana pak, yang gerbong biru gelap.
+
+Pulo: Heuh jauh amat, oke makasih pak.
+
+Halim: Sama2.
+
+Pulo: Terezi! sini! tu toilet, OH NO,
+
+Terezi: (cancel about to start urinate) HUH?
+
+Pulo: OJO DIUYOHI, sini!
+
+Terezi: D1M4N4?
+
+Pulo: (point) Sana. [Tak gendong](https://youtu.be/KhWvdcLYFrg ).
+
+Terezi: (ride lean Pulo's both arms)..
+
+Pulo: Let's go.. (blaze towards blue toilet shipping container)!!! Tuh, sono nguyoh.
+
+Terezi: (drop off) 4KH1RNY4!!! (go to most corner empty female slot inside)!!
+
+(Tribute to 🪦 Mbah Surip)
+
+## Bonus 2
+
+use sauce here, [Yiffany Longstocking Lalonde Harley](http://mspaintadventures.fandom.com/wiki/Yiffany_Longstocking_Lalonde_Harley )
+
+also snippets of these:
+
+- https://mspaintadventures.fandom.com/wiki/Roxy_Lalonde/Dubiously_Canon
+- Okay.
+- Jade, Dave.
+- John, Roxy.
+- Okay.
+- https://homestuck.com/epilogues/meat/11
+- https://mspaintadventures.fandom.com/wiki/John_Egbert
+- https://mspaintadventures.fandom.com/wiki/John_Egbert/Dubiously_Canon
+- https://mspaintadventures.fandom.com/wiki/Dave_Strider
+- https://mspaintadventures.fandom.com/wiki/Dave_Strider/Dubiously_Canon
+- https://mspaintadventures.fandom.com/wiki/Jade_Harley/Dubiously_Canon
+
+### Dasandim Hospital, Consultation hallway
+
+Dr. Bravo Andre Anderson: (run chair back to reception desk)..... Ok-keyyyyy. So, uh.. We apologize previously, that.. your daughter, Patient Yiffy suffers from.. ... .. Autism. Autism with somekind of animal behaviour, sorry got no scientific names. Think you got so before.
+
+Dave Strider (dad): (flat face sadd)..
+
+Jade Harley (mom): (face down sadd) ☹️☹️☹️☹️☹️☹️☹️..
+
+Roxy Lalonde (caretaker): (sadd)..
+
+Bravo: Well uh.. I also.. apologize, we-apologize.. We don't have any doctors available to treat you currently. All busy. Hehe, yeah umm, we, .. we got surge.. surge of harrassments.
+
+Jade: (hug Dave)...
+
+Bravo: Yeah. Social Media. likes us to make busy & overwork of us. ... So, here. You can wait, for `long-process`, OR.. pay a measly 200 Kvz (is equivallent to IDR 2 Juta, or approx. US$200) for `now-process`. What do you choose?
+
+Jade: how much for the `long-process` ones ☹️?
+
+Bravo: Flexible. minimum 50 Kivrontz a month, rising if there is some difficulty. But uh.. you see, that won't be easy. Not always gonna work. Even we had the best psychologist who got prizes so many alot, nada. Not 100%. Never.
+
+Jade: (sigh) 😑😑😑..., okay. 200 Kivrons something-something.
+
+Bravo: Okay, Oh wait, did I forgot? I think we know you. You're special.
+
+Dave: 🤨🤨??
+
+Bravo: I can partly take it up for you here. Look, there has been a lot of rough days on us. And we saw yours too. ... Just don't thank me, (bring & put EDC to the desk) thank Kaorfa.
+
+*3 of them*: (look at EDC)..
+
+Bravo: (press choose Resurrector & prepare transaction)!....!... (wait for process) I know it's a cheat, but it's definitely work, coz the method is definitely `screw this, pls go okay you b8888`..... (finish) Okay, Scan the QR code. 25 (Kivrontz).
+
+Dave: (take out phone)..
+
+Jade: no no, just let me. (take out phone)..
+
+Bravo: Well, you can split bill you know?
+
+*3 of them*: (oh really?)???
+
+(Paid!)
+
+- Jade Harley. 20 Kvz
+- Dave Strider. 4 Kvz
+- Roxy Lalonde. 2 Kvz (Tip extra 1 Kvz)
+
+Bravo: Okay, excuse me we're gonna portal, (open portal to right of the scene by the reception door)!! Okay. Just show up yourself.
+
+Kilo Rakabuyes (Zeni's dad): (call Bravo)....
+
+Bravo: Okay, just.. (heard ring)?? (pick up) Dasandim Hospital, Consultation Hallway? (silently) ~GO!, just go!!~
+
+*3 of them*: (just proceed)
+
+Kilo: HAH? Ada lagi???!
+
+Bravo: Oh don't worry, just a small ones, for this daughter. represents are man with Harley Davidson glasses, green woman, and pink woman.
+
+Kilo: Siapa anaknya? (saw them 3)
+
+Bravo: Yiffy. You heard this last week didn't ya?
+
+Kilo: Oh.. Okay. (use English because he saw them before) Ahei, gamers. Welcome to the Resurrection Alliance. So, Yiffy? Okay, please wait, we're going to bring her in.
+
+HidSik: (came from previous hospital through portal, push her cage into the pad)....
+
+Kilo: Okay, there she is.
+
+Info: Yiffy being anesthesized, syncope breathing aparratus.
+
+Jade: 🥹🥹🥹🥹🥹 (slide pat Yiffy's head)...
+
+Yiffy: (drop tear while still asleep)..
+
+Kilo: Okay, hmmm she need (adjust parameter)... 200 Watts.., (set profile to stabilize mental) stabilizing... Okay note, we can't take off the autism here. (check variables further to ensure it's stabilizing mental) Only to stabilize, but should make her atleast able to think normally, with **Extraordinary Abilities**, yey!! Okay.. (recheck again).. Okay good. HidSik, the car!
+
+HidSik: Checking.. (check the IONIQ 5)... (check the reverse charging on the charging plug, check LED ON)... (ok) ON!
+
+Kilo: (press ready), We're ready to go! (go behind the remote control panel further back) Everyone stay back.
+
+*3 of them*: (stay back behind Kilo)
+
+Kilo: Alright...
+
+Info: darkening safety glasses is optional because this machine is designed to resurrect and won't do any ironic side effect.
+
+LossFound 2020: (charging capacitor), (assembling fixes), (fire beam 200 Watt)!!
+
+Kilo: Yeah...
+
+*3 of them*: (mesmerizing it)
+
+Jade: 🥹 (moved tear as her daughter will be cured soon)...
+
+(screen blanks)
+
+Yiffy Longstocking ~~Lalonde~~ Harley: (awake)... uh.. Mama?..
+
+## Bonuses finish
+
+ok

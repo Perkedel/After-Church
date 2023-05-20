@@ -72,7 +72,7 @@ Arn: Let us tell you.
 
 > Once upon a time, we were doing usual job, helping Kaorfa adopt more franchises. My job is to explore other universes, morely a franchise to see if I could discover one.
 
-### Vriska makeshift, Blackhole
+### Vriska makeshift house, Blackhole
 
 Vriska (ghost): (sit depressed)....
 
@@ -100,7 +100,7 @@ Tab: her story is very complicated. Much as so with overall franchise. To be blu
 
 Yab: Me too.
 
-Arn: Perhaps we shall just... 
+Arn: Perhaps we shall just...
 
 (Camera look Vriska)
 
@@ -120,7 +120,7 @@ Arn: Well apparently, it has been a vast majority size and complexity, we could 
 
 Yarn: Well. Shall we?
 
-Arn: (draw right hand for the power), Here we go. (Awake Vriska)!! (Relax hand), Awake.
+Arn: (draw right hand for the power), Here we go. (Awake Vriska + Vriska moment glimpse bubble absorbs, try merging)!! (Relax hand), Awake.
 
 Vriska: (waking up slowly)...
 
@@ -176,7 +176,7 @@ Vriska: (feel her both better real arm & better both eyes).. (happy)...
 
 Arn: Now. Is there any favour, once again you'd like to ask? Don't worry, there is no limit. We'll handle this.
 
-Vriska: I think I rememver something..
+Vriska: I think I remem8er something..
 
 Yab: Yess?
 
@@ -196,11 +196,11 @@ Terezi: (felt suddenly her vision getting sharper)???... oh wow, wh4t?.. (hands 
 
 Joel: Terezi's better eyes can also block blinding light (not too much, not too long though), and her better skin can remove pain in an expose to physical traumas. Combine with Vriska's better eyes to have xray and Terezi's sharp smell to match target by looks and scent.
 
-### Back again.
+### Back again
 
 Arn: Anything else?
 
-Vriska: ... (look up slowly)..
+Vriska: ... (look up slowly, implying to fix more people)..
 
 Arn: Got it.
 
@@ -442,3 +442,48 @@ By JOELwindows7
 Perkedel Technologies  
 CC4.0-BY-SA
 
+## Bonus
+
+(Continue next day after resurrecting Vriska)
+
+Arn: We are not finished yet.
+
+Yab: I know right.
+
+Tab: Shall we?
+
+Arn: Commence. (async) (commence pull merging all homestuck elements, from 1, epilogue, 2, and more).....
+
+Yab: (async) (also together)...
+
+Tab: (async) (also together)...
+
+........
+
+...
+
+...
+
+(Stories are all here, surrounding into a sphere)...
+
+Arn: Alright. Let's get to it.., (merge)..
+
+(ERROR CONFLICT duar [deltarune explosion](https://youtu.be/o84vJH19toI ) & [bin cannon](https://youtu.be/Vu-UuWrHCqc ) at the same time & Saorfas thrown back 30 metres) 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥!!!
+
+(then after that, Saorfas try to partially bend look front)
+
+Arn: (hit) OEOUF!!! (leg up)!!!, (leg fell)!.., (look front again)... Huh?
+
+(Red conflict ⚠️ triangles floating)
+
+Yab: (also looked front) It appears, that there are some part of the commit had branches.
+
+Tab: Hence those branch runs differently apart from each other.
+
+Arn: Looks like we have to report this. We have no power nor ideas. Let Kaorfa cherry pick these.
+
+Yab: Good idea.
+
+## Bonus done
+
+OK
