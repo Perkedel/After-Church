@@ -1035,4 +1035,13 @@ Nepeta: `:DD` ⬅️ OwO!??! LUNCH TIME!!! (creature style) YIPPEEE!!!
 
 ## End Bonus
 
+one last bonus!
+
+[See This article & look this section](https://mspaintadventures.fandom.com/wiki/Human#In_The_Homestuck_Epilogues_and_Homestuck%5E2:_Beyond_Canon_(Dubiously_Canon) )
+
+So.. you become racist, just like when US bullies Asians & sometimes darktoners back then? & like this day people bullies & despises whom had different specificatin than they are.
+
+Rememember. That somebody once said: *People that never learn, doomed to repeat history*.  
+I was right moving all of the Homestuck gamers out here. I know, I branches, but we'll see.. no nvm. Just.. I like Homestuck. That thingy though. idk where to go also.
+
 OK
