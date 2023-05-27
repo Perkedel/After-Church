@@ -436,7 +436,7 @@ Geri: Okay.. not bad..?
 
 Nepeta: `:33` ⬅️ Now wear it. there's 2 ball rubber on the metal. put both of them to your ear.
 
-Geri: Hah, wait. uh...
+Geri: Hah, wait. uh... Does it bite?
 
 Nepeta: `:33` ⬅️ No no, it has no t33th too, your ear will be safe 😊!
 
