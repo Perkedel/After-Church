@@ -146,7 +146,7 @@ Watoyo: Sorry, (close door again)..!
 
 Grevor: Great. Terezi?
 
-Terezi: (found the trauma reason) .. Wow.. uh... h3 h4s b33n 1nj3cted by 4n 3v1l doctor, n4m3d `Mervald Sulaiman`, 3v3ry, s1ngl3 d4y. B3c4us3 3v3ry ch1ld is ... sorry, 4ut1sts 🧩🟦.. D4mn, outr4g3ous..
+Terezi: (found the trauma reason) .. Wow.. uh... h3 h4s b33n 1nj3cted by 4n 3v1l doctor, n4m3d `Mervald Sulaiman`, 3v3ry, s1ngl3 d4y. B3c4us3 school s4id *3v3ry ch1ld is* ... sorry, *4ut1sts 🧩🟦*.. D4mn, outr4g3ous..
 
 Grevor: Jesus Christ..
 
