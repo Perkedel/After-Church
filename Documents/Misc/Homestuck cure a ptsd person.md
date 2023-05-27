@@ -700,6 +700,8 @@ Yelouk: Well looks like not anymore. More friends the better.
 
 ## End
 
+Hey, next time if you want to refer to these extra-neuro people (such as [Yiffy Longstocking](https://mspaintadventures.fandom.com/wiki/Yiffany_Longstocking_Lalonde_Harley)), do this instead: `♾️🌈`, Rainbow infinity. The best. Make sure during the special occassion like this, you wear this attribute & avoid something like `🧩🟦` Blue Puzzle piece, worst idea. You should ensure your statement & philosophy to such person is like.. *something special*, *we are all various*, *we are ourselves*, etc., and **avoid like** *something to fix*, *something amiss*, *diseaseful*, *something unecessary worth away* no don't. Got it? great. Cool and good.
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
