@@ -64,15 +64,15 @@ Bravo: Okay just one. He just don't want anyone close to him.
 
 Grevor: Ow man.. this is..... (breath in with nose)..... Hoooookey. Wow, we're stuck.
 
-Bravo: And mind you, he got to be vaccinated. Well already 3 & 1 booster, but now.. he realize if.. look at this.
+Bravo: And mind you, he got to be vaccinated. Well already 2 & 1 booster, but now.. he realize if.. look at this (look at the portable anesthesia machine).
 
-Info: A simple portable anesthesia kit.
+Info: A simple portable anesthesia kit. Previous vaccination, Geri had to be anesthesized. Yeah, that much of the fear. Again, he now know the day, and how would go for him.
 
 Bravo: Well this looks already obvious. Can't design that better.
 
 Grevor: Well, that takes time.
 
-Bravo: He left one last booster. There's new update to COVID right now.
+Bravo: He left one last booster, left him while everyone's done. There's new update to COVID right now.
 
 Grevor: huh.. Wow. What is it? Okay, I shall try one thing. Hey mister, hey miss. What does he like?
 
