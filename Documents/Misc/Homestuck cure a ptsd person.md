@@ -88,13 +88,19 @@ Grevor: Okay, stay there. Bravo, can you see why is he fearful? Did you able to 
 
 Bravo: No I can't. He's so strong.
 
+Info: Dasandimians pure & given power can block telepathy from other Dasandimians, as ones will. Geri appears to be the strongest blocking.
+
 Grevor: Wow. Definitely need to be relaxed. I think Terezi can help.
 
-Bravo: Go ahead, call her! Nepeta too!
+Info: Yes, blocking is not the absolute. minds of even strongest block can still be read through by strongest mind reading power.
+
+Bravo: Go ahead, call her! Nepeta too (because that graffiti on the phone is Nepeta, maybe he wants to meet Nepeta)!
 
 Grevor: Of course (call Nepeta & Terezi)..
 
 Terezi Pyrope: (pickup), Y4. WH4T??
+
+Info: Nepeta & Terezi were in Interpol hanging out & awaiting missions.
 
 Grevor: Hey, Terezi. Sorry for disturbing. Can you please come here for a sec? You busy?
 
@@ -112,7 +118,7 @@ Terezi: OH OK4Y. (hung up)! N3P3T4!!?
 
 Nepeta: `:33` ⬅️ Coming!!! (come to Terezi), (follow)
 
-Terezi: N3W P4T13NT. SORT.. (enter)..
+Terezi: huh, N3W P4T13NT? OK3H.. (enter)..
 
 Nepeta: `:33` ⬅️ (follow)!!!
 
@@ -122,7 +128,7 @@ Bravo: Alright...
 
 Grevor: Terezi, the patient is in that window there. you watch the trigger.
 
-Terezi: S1PP. (capture patient's mind states)
+Terezi: S1PP 👍. (capture patient's mind states)
 
 Grevor: Okay, ready? Go. Bravo.
 
@@ -130,17 +136,17 @@ Bravo: (try enter again).
 
 Watoyo: (follow Bravo hastily) Wwai wai wait. Knock the door first. (knock)! ! ! Geri? Dad's here.
 
-Geri: Is he gone?
+Geri: Is he gone?!
 
 Watoyo: (push door inertially to open it wide) Not yet.
 
-Geri: WHAAAAAAAAA!!! WHAAAAAAAAAAA!!! WHAAAAAAAAAAAAAAA!!
+Geri: (Doc Bravo again) WHAAAAAAAAA!!! WHAAAAAAAAAAA!!! WHAAAAAAAAAAAAAAA!!
 
 Watoyo: Sorry, (close door again)..!
 
-Grevor: Terezi?
+Grevor: Great. Terezi?
 
-Terezi: (found the trauma reason) .. Wow.. uh... h3 h4s b33n 1nj3cted by 4n 3v1l doctor, n4m3d `Mervald Sulaiman`, 3v3ry, s1ngl3 d4y. B3c4us3 3v3ry ch1ld is ... sorry, 4ut1sts 🧩🟦..
+Terezi: (found the trauma reason) .. Wow.. uh... h3 h4s b33n 1nj3cted by 4n 3v1l doctor, n4m3d `Mervald Sulaiman`, 3v3ry, s1ngl3 d4y. B3c4us3 3v3ry ch1ld is ... sorry, 4ut1sts 🧩🟦.. D4mn, outr4g3ous..
 
 Grevor: Jesus Christ..
 
@@ -152,7 +158,7 @@ Grevor: (look parent)?!?
 
 Watoyo: (reveal already dried long time ago wounds on left arm)...
 
-Melinda: (also reveal)...
+Melinda: (also reveal the wound)...
 
 Info: The parents also have been in that school, meaning it was even longer time ago, and no other schools.
 
@@ -160,7 +166,7 @@ Watoyo: We don't know where to go. No place. All schools, have that.
 
 Melinda: The benefit thankfully comes when he was 19, but... it was too late.
 
-Grevor: .. Ow, ouch man.. mch!... Right. He cannot have this. So do you. Nepeta?
+Grevor: .. Ow, ouch man.. mch!... Right. He cannot have this. So do you. (test the parent trauma) Nepeta?
 
 Nepeta: `:33` ⬅️ (little bit take out stethoscope)..
 
@@ -186,7 +192,7 @@ Watoyo: ...
 
 Grevor: Look if there is something wrong, I will pay everything. Promise?
 
-Watoyo: ... Okay, there's no other way.
+Watoyo: ... Okay, there's no other way. (last chance eye to eye gesture) I watch you.
 
 Grevor: Then we shall go. Nepeta?
 
@@ -198,7 +204,7 @@ Nepeta: `:33` ⬅️ (knock)! ! !
 
 Geri: (draw Swiss Army Knife, open the knife, threat) WHO ARE YOU?!?! DOKTOR?!?!
 
-Nepeta: `:33` ⬅️ It's me, Nepeta.
+Nepeta: `:33` ⬅️ It's me, Nepeta. 
 
 Geri: (do not believe, must be a cosplay, little bit draw down knife)... Come in?
 
@@ -206,11 +212,11 @@ Nepeta: `:33` ⬅️ (open door & enter)..
 
 Info: Yes, the door is not locked, infact that door lock module is broken.
 
-Geri: (drop knife), You real Nepeta?! What's your real name? You cosplaying?!
+Geri: (drop knife), You real Nepeta?! What's your real name (real name behind the cosplayer)? You cosplaying?!
 
-Nepeta: `:33` ⬅️ No, I am real Nepeta.
+Nepeta: `:33` ⬅️ No, I am real Nepeta. Nepeta Leijon.
 
-Geri: OAgh.. I must be in Prospit (dreaming) am I? (pinch self)... (pained) ugh.. (disbelieve) No.. You gotta be cosplaying. (take tissue), (try erase permanent marking on whiteboard, not working, OK), (take hand sanitizer & spray to tissue), (test again & it erases, OK), Hold still, hand!.
+Geri: OAgh.. I must be in Prospit (dreaming) am I? (pinch self)... (pained) ugh.. (disbelieve) No.. You gotta be cosplaying. (take tissue), (try erase permanent marking on whiteboard, not working, OK), Okay, (take hand sanitizer & spray to tissue), (test again & it erases, OK), Hold still, hand!.
 
 Nepeta: `:33` ⬅️ Okay. (give right forearm).
 
@@ -218,7 +224,7 @@ Geri: (try wipe)... (hand sanitize & wipe again)!!!!.... (flabbergasted, still g
 
 Nepeta: `:33` ⬅️ See?
 
-Geri: No. No no. (look at her horn)... (feel examine right horn)!..
+Geri: (drop Nepeta's forearm) No. No no. (look at her horn)... (feel examine right horn)!..
 
 Nepeta: `:33` ⬅️ Miahahow, slow down (blush)...
 
@@ -230,17 +236,17 @@ Geri: (move Nepeta's left hand away for safety),
 
 Nepeta: `:33` ⬅️ Okay?
 
-Geri: (hold Nepeta's right hand), (press Nepeta's right forearm firmly)..
+Geri: (hold Nepeta's right hand from her right forearm), (press Nepeta's right forearm firmly)..
 
-Nepeta: `:33` ⬅️ (draw right long claw)!!
+Nepeta: `:33` ⬅️ (fist & draw right long claw)!!
 
 Watoyo: (Saw those blades had just slashes out) What is that?!?! (run) Son?!
 
 Grevor: (interupt stop) Wai wait. He's curious. Hold on.
 
-Watoyo: No, blade, dangerous! (try again)
+Watoyo: No, blade, dangerous! (try again)..
 
-Grevor: (still stop him) (☝️ finger waving say now).., (look Nepeta's monitor POV again)
+Grevor: (still stop him) (☝️ finger waving say not now).., (look Nepeta's monitor POV again)
 
 Geri: (impressed) Oooh.. ho ho ho hoo.. wow, (lie up Nepeta's hand with the long claw still drawn), whoaaaah.. (slide non-sharp top of the blade underneath like chef slide on the knife non-sharp top)....!!
 
@@ -296,7 +302,9 @@ Geri: (Yes, it's *wangy* / soap scent) Oh wow. Do all trolls showers?
 
 Terezi: 1DK Y3T, PROB4BLY L3SS. BUT 4LL OF US OF COURS3, W3 SHOW3RS.
 
-Geri: Cool.. (take Terezi's glasses off to verify latest eye condition)..
+Geri: Cool.. (take Terezi's red clear glasses off to verify latest eye condition)..
+
+Info: Remember, it's clear because we are inside and no ultraviolet. We gave Terezi photochromic sunglasses yess.
 
 Terezi: LOOK AT MY 3Y3S? I C4N LOOK 4T YOUR F4C3 TOO.
 
@@ -348,7 +356,7 @@ Geri: Does he had name?
 
 Terezi: Y3S. H1S N4M3 1S `Joel Robert Justiawan`.
 
-Geri: Joel? wow, is he a descendant of God then?
+Geri: (thought such name is like the meaning, `Son of God`) Joel? wow, is he a descendant of God then?
 
 Terezi: uh.. not d1r3ctly, but w3 4r3 4LL from God.
 
