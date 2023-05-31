@@ -34,10 +34,16 @@ Whew! my brain explodos! **🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯 duar
 
 ## End
 
+Copy first note for AO3:
+
+```html
+Copy from <a href='' target="_blank" rel="noopener noreferrer">This document</a>.
+```
+
 Copy end note for AO3:
 
 ```html
-<p>For any question regarding Homestuck characters we have yoinked, please <a href='' target="_blank" rel="noopener noreferrer">refer to this document</a>. Thancc, cool and good.</p>
+<p>For any question regarding Homestuck characters we have yoinked, please <a href='https://github.com/Perkedel/After-Church/blob/master/Documents/Misc/Homestuck%20Clarifications.md' target="_blank" rel="noopener noreferrer">refer to this document</a>. Thancc, cool and good.</p>
 ```
 
 by JOElwindows7  

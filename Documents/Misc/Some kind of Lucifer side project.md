@@ -46,7 +46,7 @@ Lucifer: (sigh) ugh..., (take extinguisher), (extinguish Joe)!!!!
 
 Joe: Ahhhhh
 
-Lucifer: Now. We are going to wait 30 minutes, no Earth 30 minutes. And the babies should be ready.
+Lucifer: (throw fire extinguisher), Now. We are going to wait 30 minutes, no Earth 30 minutes. And the babies should be ready.
 
 Fook: Okay.
 

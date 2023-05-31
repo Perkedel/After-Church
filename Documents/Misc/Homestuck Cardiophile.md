@@ -27,6 +27,8 @@ Nepeta: `:33` ⬅️ (equip).., (test mode)! ! (pain loud) AAGH!!, (read again),
 
 (Interstellar song)
 
+(Interactive listen to Nepeta's heartbeat ASMR)
+
 ## End
 
 And so it begins.
@@ -58,6 +60,8 @@ Nepeta: (put that another steth head to her own chest)!..
 Karkat: (also Transcends)...😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮😮...
 
 *Disclaimer Bottom Text*: (fade clear)
+
+(Interactive listen select Karkat, Nepeta, or both heartbeat)
 
 ## Done
 

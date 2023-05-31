@@ -2,7 +2,9 @@
 
 Family guy inspired moment
 
-Summary, because not all gamer speak Bahasa Indonesia:
+<details>
+
+<summary>Summary, because not all gamera speak Bahasa Indonesia nor Javanese:</summary>
 
 - Hoxs wanted to rent Jeep tour package.
 - Tavros happen to the there, saw Hoxs, one of the Dasandimian
@@ -19,6 +21,8 @@ Summary, because not all gamer speak Bahasa Indonesia:
 - Andy retold that he was upset because of Tavros incident last month.
 - Pulo relieved Andy and paid that 2 Million through main digital payment interface in Indonesia, QRIS. You scan QR code given by merchant with your digital bank app.
 - Lawang Sewu shout to all sibling to ride now as transaction is complete & ready to start tour. Yes, idk, *Thousand Doors*, Correct, a defunt dutch era train station from Semarang. Now a museum, okay I digress.
+
+</details>
 
 ## Begin
 

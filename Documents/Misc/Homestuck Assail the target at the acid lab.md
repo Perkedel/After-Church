@@ -26,8 +26,8 @@
 
 ## Briefing
 
-> Target: Exutupus Bafius; Feliz Nodi
-> Location: Bafius LLC
+> Target: Exutupus Bafius; Feliz Nodi  
+> Location: Bafius LLC  
 > Crimes: 72 Cancel Culture, 5 Robbery, 1 Intelectual Property Forced Takeover.
 
 ## Begin

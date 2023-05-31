@@ -48,7 +48,7 @@ Vriska (had nothing dirty inside but mindboozled those perverts): (wait door ope
 
 Trec: (awakening)..... (oh shit!)?!?!?!
 
-Yik: haeuahh?? (Undoggy)... 
+Yik: haeuahh?? (Undoggy)...
 
 Trec: (redress & retidy & ptsd)..
 

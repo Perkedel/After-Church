@@ -94,8 +94,8 @@ Johan Carl: Alright, you're all arrived? Great. Okay. This is emergency, we are 
 
 Johan: We had eyes on the target, almost. but he is right here now. (show target info) He will soon depart again.
 
-> Target: Ubush Ngogogob
-> Location: Dieng
+> Target: Ubush Ngogogob  
+> Location: Dieng  
 > Crimes: Stalking a famous artist and his wife for disagreement, that the victim left the company due to the toxicity.
 
 Info: Reference to Eddsworld toxic community. Ubush is one of the mass stalker.
@@ -196,7 +196,7 @@ Andy: Lah tuh bisa.. (almost distracted) Eyahng.. (focus & follow)...
 
 (250 metres later)
 
-## Unknown Made up Valley
+### Unknown Made up Valley
 
 Andy: (the circles turns) Huh, belok sini? (tread turns right)... Okeh, Okeh, (saw the car) Nah itu dia. Wih, mobil alien!
 
