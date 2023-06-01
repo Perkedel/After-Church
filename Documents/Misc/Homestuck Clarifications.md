@@ -32,6 +32,10 @@ So now, when you hear e.g. Roxy Lalonde, by default you are looking at a woman w
 
 Whew! my brain explodos! **🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯 duar!!!**
 
+### Happenings are mirrored to this Universe & after certain times by the end of the sequel has been seamlessly transfered
+
+If you wonder, where's Sewu families e.g., during the Hiveswap, Homestuck, and the Homestuck^2^ and beyond, they were lived in Alternian for a while, until when life sucks, Ambawarawa & Dlavem bought a service around them to Hiveswap into random place, which happens to be in Indonesia. At that point, they've skipped Homestuck & the sequel. All timeline meddling does not affect the rest of the moments around this universe, because we know everything.
+
 ## End
 
 Copy first note for AO3:
