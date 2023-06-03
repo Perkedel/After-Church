@@ -157,7 +157,7 @@ Lissmey: Uh, I don't like this.
 
 Gyouter: I know! I know. We have no choice! the appartment cell owner suddenly came back, and she is being a target my millions of bad guys!
 
-Lissmey: Okey, right away (start taking virtual world portal from the box just underneath the floor mat. (install the portal)! Charging up. ... Okay, it's ready.
+Lissmey: Okey, right away (start taking virtual world portal from the box just underneath the floor mat). (install the portal)! Charging up. ... Okay, it's ready.
 
 Gyouter: Great! keep your eye on her, both your premise & outside the dome. She has blue hair with red checkmark white shirt & blue pants, or skirt idk.
 

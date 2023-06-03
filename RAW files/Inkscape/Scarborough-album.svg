@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="2048"
+   viewBox="0 0 2048 2048.0001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Scarborough-album.svg"
+   inkscape:export-filename="Scarborough-album.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.39642957"
+     inkscape:cx="1513.5097"
+     inkscape:cy="1040.5379"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid743"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid745"
+       empspacing="128" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="736"
+       y="960"
+       width="928"
+       height="64"
+       id="rect4116" />
+    <rect
+       x="1280"
+       y="880"
+       width="352"
+       height="64"
+       id="rect3572" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1803">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.5;"
+         offset="0"
+         id="stop1799" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.75268817;"
+         offset="1"
+         id="stop1801" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1803"
+       id="linearGradient1805"
+       x1="1024"
+       y1="0"
+       x2="1024"
+       y2="2048"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="1280"
+       y="880"
+       width="352"
+       height="64"
+       id="rect3682" />
+    <rect
+       x="1280"
+       y="880"
+       width="352"
+       height="64"
+       id="rect3796" />
+    <rect
+       x="1280"
+       y="880"
+       width="352"
+       height="64"
+       id="rect3859" />
+    <rect
+       x="1280"
+       y="880"
+       width="352"
+       height="64"
+       id="rect3925" />
+  </defs>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient1805);stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect801"
+       width="2048"
+       height="2048"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Objek">
+    <g
+       id="g3170">
+      <g
+         id="g3073"
+         style="fill:#690018;fill-opacity:0.5">
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3058"
+           width="512"
+           height="40"
+           x="-1024"
+           y="896" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3060"
+           width="24"
+           height="416"
+           x="-1000"
+           y="936" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3062"
+           width="24"
+           height="416"
+           x="-560"
+           y="936" />
+      </g>
+      <g
+         id="g3159">
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3147"
+           width="272"
+           height="64"
+           x="-1344"
+           y="992" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3149"
+           width="31.999968"
+           height="320.00003"
+           x="-1344"
+           y="672" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3151"
+           width="32"
+           height="256"
+           x="-1344"
+           y="1056" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3153"
+           width="32"
+           height="256"
+           x="-1104"
+           y="1056" />
+      </g>
+    </g>
+    <g
+       id="g3190"
+       transform="translate(1968,640.00004)">
+      <g
+         id="g3178"
+         style="fill:#690018;fill-opacity:0.5">
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3172"
+           width="512"
+           height="40"
+           x="-1024"
+           y="896" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3174"
+           width="24"
+           height="416"
+           x="-1000"
+           y="936" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3176"
+           width="24"
+           height="416"
+           x="-560"
+           y="936" />
+      </g>
+      <g
+         id="g3188">
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3180"
+           width="272"
+           height="64"
+           x="-1344"
+           y="992" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3182"
+           width="31.999968"
+           height="320.00003"
+           x="-1344"
+           y="672" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3184"
+           width="32"
+           height="256"
+           x="-1344"
+           y="1056" />
+        <rect
+           style="opacity:1;fill:#690018;fill-opacity:0.5;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3186"
+           width="32"
+           height="256"
+           x="-1104"
+           y="1056" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.3"
+       x="-637.41992"
+       y="1644.7981"
+       id="text3282"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan3280"
+         x="-637.41992"
+         y="1644.7981">feferi would sitt here</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="synth karang">
+    <path
+       style="fill:#6900ff;fill-opacity:0.5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 480.00001,2080.0001 672.00002,1760 l 96,64 128,-160 L 1056,1728 c 0,0 64,-224 96,-224 32,0 96,160 128,160 32,0 96,-192 96,-224 0,-32 24.4961,-245.751 96,-256 71.5039,-10.249 64,128 96,128 32,0 160,32 160,0 0,-32 32,-64 32,-128 v -128 c 0,-127.99998 224,-543.99999 288,-543.99999 64.0001,0 128.0001,416.00001 128.0001,416.00001 l 128,1184.00008 -1760.00009,64 z"
+       id="path2688"
+       sodipodi:nodetypes="cccccssszssssscccc" />
+    <path
+       style="fill:#0042ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.5"
+       d="m -128,1664 c 0,0 -96.00001,-256 128,-224 224.00001,32 384.00001,64 416.00001,192 32,128 288.00001,224 288.00001,320 0,96 -32,256.0001 -32,256.0001 0,0 -736.000022,-32 -736.000022,-64 0,-32 -160.000008,-64 -63.999998,-480.0001 z"
+       id="path2971" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Title Text">
+    <g
+       id="g4194">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:196.125px;line-height:1.25;font-family:TimeBurner;-inkscape-font-specification:'TimeBurner Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:4.08593"
+         x="1805.6274"
+         y="847.56323"
+         id="text3325"><tspan
+           sodipodi:role="line"
+           id="tspan3323"
+           x="1805.6274"
+           y="847.56323"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TimeBurner;-inkscape-font-specification:TimeBurner;fill:#ffffff;stroke-width:4.08593">scarborough</tspan></text>
+      <g
+         id="g3522"
+         transform="translate(10.49588)">
+        <text
+           xml:space="preserve"
+           style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff"
+           x="1237.5042"
+           y="928"
+           id="text3420"><tspan
+             sodipodi:role="line"
+             id="tspan3418"
+             x="1237.5042"
+             y="928">Perkedel Technologies</tspan></text>
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="rect3517"
+           width="8"
+           height="64"
+           x="1248"
+           y="880" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Keyboard Models">
+      <text
+         xml:space="preserve"
+         id="text3570"
+         style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3572);display:none;fill:#ffffff"
+         inkscape:label="GENOS"
+         sodipodi:insensitive="true" />
+      <text
+         xml:space="preserve"
+         id="text3680"
+         style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3682);display:none;fill:#ffffff"
+         inkscape:label="SYXG2006LE"
+         sodipodi:insensitive="true" />
+      <text
+         xml:space="preserve"
+         id="text3794"
+         style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3796);display:none;fill:#ffffff"
+         inkscape:label="PSR-SX900"
+         sodipodi:insensitive="true" />
+      <text
+         xml:space="preserve"
+         id="text3857"
+         style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3859);display:none;fill:#ffffff"
+         inkscape:label="PSR-SX700"
+         sodipodi:insensitive="true" />
+      <text
+         xml:space="preserve"
+         id="text3923"
+         style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3925);display:none;fill:#ffffff"
+         inkscape:label="CVP-980"
+         sodipodi:insensitive="true" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text4114"
+       style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4116);display:inline;fill:#ffffff"><tspan
+         x="877.90387"
+         y="1004.7596"
+         id="tspan4762">World's #1 Aquatics Medical Therapy</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Credits">
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:48px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end"
+       x="1280"
+       y="2304"
+       id="text4268"><tspan
+         sodipodi:role="line"
+         id="tspan4266"
+         x="1280"
+         y="2304">by JOELwindows7</tspan><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2364"
+         id="tspan4270">Perkedel Technologies</tspan><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2424"
+         id="tspan4272">CC4.0-BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2484"
+         id="tspan4274" /><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2544"
+         id="tspan4276">TimeBurner font https://www.fontspace.com/timeburner-font-f15111</tspan><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2604"
+         id="tspan4278" /><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2664"
+         id="tspan4280">Cover MIDI by Yamaha</tspan><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2724"
+         id="tspan4282" /><tspan
+         sodipodi:role="line"
+         x="1280"
+         y="2784"
+         id="tspan4284">Homestuck (c) Andrew Hussie, VIZ Media</tspan></text>
+  </g>
+  <metadata
+     id="metadata747">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
