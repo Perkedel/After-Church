@@ -72,6 +72,16 @@ Bogosh: Heuh (look floor upon his desk)....  (he left) Okay... (right hand feel 
 
 ## end
 
+> Wait, why has to be through this? This is Hollywood cliche!
+
+I get it. But hear me out, it still make sense.
+
+He could've gone with ATM, but remember, AI is getting smarter & get skeptical especially when account holder appears wanted to take entire cash out.  
+Now here in manual teller, is easily exploitable, because everything at normal scenario would be seen by the teller manually & the consenting owner. & since the teller had no power, the teller unfortunately had to let robbery happen or he die choked.  
+Okay, just break the machine with Force? Nuh uh. not only it rings, but the machine can also attack! Its theft spray liquid has microchip that constantly broadcast signal 2 galaxies away up to 500 millenium non-stop, and is unerasable by all means.  
+So no. Only manual robbery make the safest. And fun fact, Orykuk is lucky, because when banks are phasing out manual teller, this bank happen to haven't yet joined ATM only wagon.  
+Why still manual teller?! the CEO is stupid and has low IQ, saying that people lacks knowledge of technology without ever popping something about security exploits that banks already thought years ago. And boy, look at 500s of these bank companies, they're all idiots! rest of the banks accross galaxies already removed manuall teller, and even recently started up anew bank company is exclusively App & ATM no cash only.
+
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
