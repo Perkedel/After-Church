@@ -62,7 +62,7 @@ Karkat: (complainingly walk to the portal) 🗿🗿🗿🗿🗿🗿🗿🗿🗿.
 
 Joqc: Boss, we got temporary replacement!
 
-Mozok Behen: (immediately wear temporary pilot the harness) Okay! 
+Mozok Behen (Lead Supervisor): (immediately wear temporary pilot the harness) Okay! 
 
 Karkat: HUH??!
 
@@ -357,3 +357,161 @@ later on, the scale will increase to as big as many water way shipping container
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+Wait wai wait, maybe don't wear Protogen now?
+
+## Post credit
+
+Toros: (stare tablet at the left, realizing that's the real mission)........... 
+
+> DEST: ZOBLATOS  
+> PKG: 47 PKGs (VIEW)  
+>
+> PILOT: Milagos, Toros
+> (OPTIONS)__________________(PROCEED)
+
+Toros: (look front again), (wait, the package, look back), (count) 1 2 ........ (all 47 correct destination) kay. (sit & `PROCEED`)! (attach harness).. Okay, here we go.
+
+### Delivery Center, Blender Surreal Meme
+
+(portal open)!! (saucer entered this dimension).... (portal close)
+
+Toros: .... (turn into his Blendsona)
+
+Info: Toros' Blendsona is capsule
+
+Drep: Oh there it is!!
+
+(saucer extend feet)!, (land). (open dome)! (mechatronic do extraction, put to the farm truck)
+
+Drep: (give clipboard) Oh great goodness! Here it is (worryingly look left & right make sure no enemy around)... So, did you see the package content?
+
+Toros: No
+
+Drep: Nah don't worry. Just make sure no enemy is looking that.
+
+Toros: .. Well I'd rather not, coz enemy could've looked at it.
+
+Drep: Good. ... Truck ready?
+
+Rebtilos: (eager to immediately deliver to Protogen Protest Initiative post) Ready!
+
+Drep: Alright, take break. You did well. I'm sorry causing you brought into this (about Toros being held hostage).
+
+Toros: That's okay. That initiative is also my personal. Damn, ***her***.
+
+Drep: Yeah..
+
+> LOGISTIC VERIFICATION:  
+> DEST: ZOBLATOS  
+> PKG: 47 PKGs (VIEW)
+>  
+> NEXT:  
+> DEST: DASANDIM  
+> PKG: 0 PKGs (VIEW)  
+>
+> PILOT: Milagos, Toros  
+> SIGN:  
+> ________________  
+> ________________
+> (SUBMIT)
+
+Toros: (`SUBMIT` without signature)!
+
+Info: it also work, because you already have binding ID card in the signature also.
+
+### Back to Dasandim
+
+> DEST: ---  
+> PKG: - PKGs (VIEW)  
+>
+> PILOT: Milagos, Toros
+> (OPTIONS)__________________(EMPTY)
+
+(saucer landing).... (portal closed)! ... (landed)!
+
+Mozok: You done?
+
+Toros: Safe and sound.
+
+Mozok: Cool and good. ... Wow. Right, stay safe buddy.
+
+Toros: Thancc, man.
+
+Mozok: I want you safe. You want to reserve other dimension hotel, or uh..
+
+Toros: That's alright. My home is military complex. I'm sure our military can handle this, hopefully.
+
+Mozok: Kay kay. ... Wow, it's time (to go home, already evening).
+
+Toros: (remove harness) Kay, see you later buddy. (open portal to home)!
+
+Mozok: Yeah, I really hope so.
+
+Toros: Wow, this is.. heavy (because he will have long vacation until the initiative is done & had risk being re-kidnapped & could be murdered for this initiative).
+
+Mozok: .... Well don't.. don't worry too much. God help.
+
+Toros: Of course, yess. ... Still..
+
+Mozok: ... yeeeaaaaaa.....
+
+## Post Post Credit flashback
+
+(shown Protogen Patent Partialism presentation)
+
+Mozok: It is with heavy heart, that one of you must volunteer and likely to sacrifice one life to get this mission done. Don't worry, our part here, is to deliver numbers of packages we haven't idea yet, to the place. Who will take it? If nobody take it, unfortunately
+
+Toros: (standup raise hand) Sir!
+
+Mozok: (him?!?! that's insance!)???!!! Wait. You sure?
+
+Toros: That's alright. This is very personal.
+
+Mozok: No, you're the best deliverer in here. You've had alot of experiences. If you die, who will teach the other new crews here? I cannot do multiple task everyday.
+
+Toros: I'm sorry, sir. But uh.. This is out of control. Don't you see how many people have been captured, punished, and possibly... For that?
+
+Mozok: Yes, I know but... Rights to Repair initiative is also everywhere!, don't you think? Why really pick the Protogen one?
+
+Toros: I've been wearing alot of fursonas since I was very young here. My eyes have opened as I looked more, that many of license for every patent out there, is very proprietary. Heck, even those who claim "Open Species", are not so open. There are *DLCs*. This one here, is auction exclusive. This can't go further. We have to bring awareness.
+
+Mozok: (understood)...... Okay. But, maybe choose the worst one here? Wait, we don't have any.
+
+Toros: Then I shall take it. I've seen alot of **lies & traps** from many furry patenters. I'm tired of this. That's why this is personal. If nobody take it, then who shall? (because no awareness, more closed and partial species will manifest)
+
+Mozok: (sad, because he could be murdered for joining this protest).... (whisper) uuuuuuuhgh..... Great luck, .... God bless you 😰...
+
+## return to Post credit
+
+### Toros' House, Dasandim Military Alliance
+
+Toros: (walked in) I'm home!
+
+Jinog Milagos (wife): Oh cool! you're home! Yay!
+
+Toros: Honey, ... this is it.
+
+Jinog: Oh... Okay.
+
+Toros: May God help us.
+
+Jinog: yeah.
+
+Toros: Whenever the initiative calls, we got to be ready.
+
+Jinog: Alright.
+
+Toros: Still have my Protogen mask?
+
+Jinog: safe in vault. mine too
+
+Toros: Great. All we do, wait. Don't go beyond this complex.
+
+Jinog: Yes.
+
+## yea
+
+a
+
+pls intro Homestuck Blender Surreal meme. a group of underground protogen modders. raided by the queen & captured. They must be rescued.
