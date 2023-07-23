@@ -1,0 +1,109 @@
+hi guys, today, I'm gonna show you, how to download OBS, Open Broadcaster software.
+first, open any internet browser.
+type obsproject.com
+click your platform. In this case I already have it.
+also I have already installed it. now, let me show you how does it look's like.
+OBS is comprehensive! but if you understand, it works well like professional!!!! yeahhhh!!!
+
+Most importantly you have to make sure you have the capture, on the source
+Make sure it is display capture. there, choose correct display for which to capture.d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for laptop, you have to make sure that you have run this OBS with integrated graphics.
+that is because the laptop, like this one has 2 GPUs, one is weak and one is render only and strong.
+"to save battery". pathetic!
+
+here is how: to Nvidia setting! loading, takes long time!
+there you are!
+now you go to Manage 3D setting. and click Program Settings.
+select that OBS. both of them. change it to Integrated graphics.
+For this case, I don't want to do that, because the laptop will lag if I do that.
+for full capture purpose, I would have to. but then, I will only rely on specific Window capture instead.
+
+If you insist on doing full capture, you can do it for temporarily. watch me how.
+there. you got it? I hope so. Otherwise, please rewind a little bit.
+
+All laptop in default will use Integrated Graphics. But I changed it in honor for stronger Nvidia 1050 TI prefference.
+
+If you need help, you can use the help here. link in the description, along with involved items.
+
+that is all. I am not affiliated with OBS yet. thank you for watching this joke. lol!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+by JOELwindows7
+(+) Perkedel Technologies
+CC4.0-BY-SA

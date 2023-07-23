@@ -1,0 +1,154 @@
+/*
+	//int a;//deklarasi
+	//int b=1;//inisialisasi
+	int a=0, t=0;
+	float l;
+	
+	
+
+	printf("alas: ");//cetak angka
+	scanf("%d",&a);
+	fflush(stdin);
+
+	printf("tinggi: ");//cetak angka
+	scanf("%d",&t);
+	fflush(stdin);
+
+	//l = (float)a*t/2;//parsing
+	l = a*t/2.0;//parsing
+	printf("luas segitiga %.2f",l);
+	getchar();
+
+	//printf("\nthe far!");
+	*/
+
+	//int nilai;
+
+	//printf("Masukan Nilai Anda: ");//cetak angka
+	//scanf("%d",&nilai);
+	//fflush(stdin);
+
+	/*if (nilai>=90 && nilai<=100){
+		printf("Nilai anda A");
+	}
+	else if(nilai >=0 && nilai<=89){
+		printf("Anda tidak lulus");
+	}
+	else{
+		printf("MASUKIN NILAI YG BENAR DOOOOOOOONK!!!");
+	};
+	*/
+
+	/*switch(nilai){
+	case 1:
+		printf("Anda tidak lulus");
+		break;
+	case 2:
+		printf("Anda lulus");
+		break;
+
+	};*/
+
+	/*int i=0;
+	int j=5;*/
+
+	/*for (i=0;i<=j;i++){
+		printf("*");
+	};*/
+
+	//do{
+	//	printf("*");
+	//	i=i+1;
+	//}while(i<j);
+
+	//getchar();
+
+
+	/*printf("Masukan angka horizontal: ");
+	scanf_s("%d",hort);
+	fflush(stdin);
+
+	printf("Masukan angka vertikal: ");
+	scanf_s("%d",vert);
+	fflush(stdin);
+
+	for(i=0;i<=vert;i++){
+		for (z=0;z<=hort;z++){
+			printf("*");
+		};
+		printf("\n");
+	};*/
+
+
+//ctrl+K then CTRL+C
+//void main(){
+//	printf("AO-Algo2");
+//	printf("\nthe far!");
+//	getchar();
+//}
+
+/*
+dfsahdflkjhalkjshgdfyaeuyrbguytrsbvuydrsggkushfdg
+fhgiuwshertiug
+ahgdsiu
+*/
+
+---------------------------
+	int i=0;
+	int kali=0 ;
+
+	printf("Masukan angka: ");
+	scanf_s("%d",&kali);
+	fflush(stdin);
+
+	for(i=0;i<=10;i++){
+		printf("%d * %d = %d",i,kali,i*kali);
+		printf("\n");
+	};
+
+	getchar();
+
+	int hort=0;
+	int vert=0;
+	int ke=0;
+	int ki=0;
+
+	printf("Masukan angka horizontal: ");
+	scanf_s("%d",&hort);
+	fflush(stdin);
+
+	printf("Masukan angka vertikal: ");
+	scanf_s("%d",&vert);
+	fflush(stdin);
+
+	for(ke=0;ke<=vert;ke++){
+		for (ki=0;ki<=hort;ki++){
+			printf("*");
+		};
+		printf("\n");
+	};
+
+	getchar();
+
+	int jort=0;
+	int jert=0;
+	int xe=0;
+	int xi=0;
+
+	printf("Masukan angka horizontal: ");
+	scanf_s("%d",&jort);
+	fflush(stdin);
+
+	printf("Masukan angka vertikal: ");
+	scanf_s("%d",&jert);
+	fflush(stdin);
+
+	for(xe=0;xe<=jert;xe++){
+		for (xi=0;xi<=jort;xi++){
+			printf("*");
+		};
+		printf("\n");
+		jort++;
+	};
+
+	getchar();

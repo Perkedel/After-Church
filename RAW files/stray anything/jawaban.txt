@@ -1,0 +1,39 @@
+#include<stdio.h>
+
+int main(){
+
+	int jmlh_mhs=0;
+	int nilai[10];
+	int total=0;
+	int avg=0;
+	int min=0,max=0;
+	do{
+		printf("masukan total mahasiswa [1-10] : ");
+		scanf("%d",&jmlh_mhs);fflush(stdin);
+	}while(jmlh_mhs<1 || jmlh_mhs>10);
+
+	for(int i=0;i<jmlh_mhs;i++){
+		printf("masukan nilai anak %d : ",i+1);
+		scanf("%d",&nilai[i]);fflush(stdin);
+		total+=nilai[i];
+		if(i==0){
+			min= nilai[0];max=nilai[0];
+		}
+		else{
+			if(nilai[i]<min)min=nilai[i];
+			if(nilai[i]>max)max=nilai[i];
+		}
+	}
+
+	for(int i=0;i<jmlh_mhs;i++){
+		printf("\nnilai anak %d : %d",i+1,nilai[i]);
+	}
+	printf("\ntotal nilai mahasiswa : %d\n",total);
+	printf("nilai rata - rata : %d",total/jmlh_mhs);
+	printf("\nNilai Minimum : %d",min);
+	printf("\nNilai Maximum : %d",max);
+
+	getchar();
+
+	return 0;
+}

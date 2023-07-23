@@ -1,0 +1,134 @@
+<volume level="50">
+This text should be spoken at volume level fifty.
+
+   <volume level="100">
+      This text should be spoken at volume level one hundred.
+   </volume>
+
+</volume>
+
+<volume level="80"/>
+All text which follows should be spoken at volume level eighty.
+
+dot
+
+<rate absspeed="5">
+   This text should be spoken at rate five.
+   <rate absspeed="-5">
+      This text should be spoken at rate negative five.
+   </rate>
+</rate>
+<rate absspeed="10"/>
+
+dot
+
+<rate speed="5">
+   This text should be spoken at rate five.
+      <rate speed="-5">
+         This text should be spoken at rate zero.
+      </rate>
+</rate>
+
+dot
+
+<pitch absmiddle="5">
+This text should be spoken at pitch five.
+   <pitch absmiddle="-5">
+      This text should be spoken at pitch negative five.
+   </pitch>
+</pitch>
+<pitch absmiddle="10"/>
+
+All text which follows should be spoken at pitch ten.
+
+The Middle attribute controls the relative pitch of the voice. The absolute value is found by adding each Middle to the current absolute value.
+
+<pitch middle="5">
+This text should be spoken at pitch five.
+   <pitch middle="-5">
+      This text should be spoken at pitch zero.
+   </pitch>
+</pitch>
+
+dot
+
+<emph> boo </emph>!
+
+dot
+
+<spell>
+These words should be spelled out.
+</spell>
+These words should not be spelled out.
+
+dot
+
+Five hundred milliseconds of silence <silence msec="500"/> just occurred.
+
+dot
+
+<pron sym="h eh 1 l ow & w er 1 l d "/>
+<pron sym="h eh 1 l ow & w er 1 l d"> hello world </pron>
+
+dot
+
+The application will receive an event here,
+
+<bookmark mark="bookmark_one"/>
+
+and another one here
+
+<bookmark mark="bookmark_two"/>
+
+dot
+
+<partofsp part="noun"> A </partofsp> is the first letter of the alphabet.
+
+Did you <partofsp part="verb"> record </partofsp> that <partofsp part="noun"> record </partofsp>?
+
+dot
+
+<context id="date_mdy"> 03/04/01 </context> should be March fourth, two thousand one.
+<context id="date_dmy"> 03/04/01 </context> should be April third, two thousand one.
+<context id="date_ymd"> 03/04/01 </context> should be April first, two thousand four.
+
+dot
+
+<voice required="Gender=Female;Age!=Child">
+
+A female non-child should speak this sentence, if one exists.
+
+<voice required="Age=Teen">
+   A teen should speak this sentence - if a female, non-child teen is present, she will be selected over a male teen, for example.
+   </voice>
+</voice>
+
+dot
+
+<voice required="Language=409">
+A U.S. English voice should speak this.
+</voice>
+<lang langid="409">
+   A U.S. English voice should speak this.
+</lang>
+
+dot
+
+<P DISP="disp" PRON="pron">word</P>
+
+can be written as
+
+<P>/disp/word/pron;</P>
+
+
+dot
+
+<P DISP="greeting" PRON="ah">hello</P>
+
+Using custom pronunciation, the above would translate to the following.
+
+<P>/greeting/hello/ah;</P>
+
+
+dot dot
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
