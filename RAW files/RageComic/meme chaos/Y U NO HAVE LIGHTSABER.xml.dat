@@ -1,0 +1,82 @@
+<ragemaker>
+  <panels>4</panels>
+  <gridLinesArray>11100</gridLinesArray>
+  <gridAboveAll>true</gridAboveAll>
+  <showGrid>false</showGrid>
+  <redditWatermark>false</redditWatermark>
+  <Face>
+    <itemx>-1</itemx>
+    <itemy>0</itemy>
+    <facename>Angry/yuno-blue.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Text>
+    <itemx>91</itemx>
+    <itemy>5</itemy>
+    <width>489</width>
+    <height>81</height>
+    <color>16777215</color>
+    <style>2</style>
+    <size>44</size>
+    <rotation>0</rotation>
+    <text>FRUIT NINJA!</text>
+    <align>center</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Text>
+    <itemx>212</itemx>
+    <itemy>62</itemy>
+    <width>250</width>
+    <height>50</height>
+    <color>0</color>
+    <style>2</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>BY HALFBRICK</text>
+    <align>center</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Text>
+    <itemx>18</itemx>
+    <itemy>404</itemy>
+    <width>608</width>
+    <height>69</height>
+    <color>16777215</color>
+    <style>2</style>
+    <size>34</size>
+    <rotation>0</rotation>
+    <text>Y U NO HAVE LIGHT SABER?</text>
+    <align>center</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Draw>
+    <itemx>206</itemx>
+    <itemy>112</itemy>
+    <bytes>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</bytes>
+  </Draw>
+  <Text>
+    <itemx>82</itemx>
+    <itemy>105</itemy>
+    <width>203</width>
+    <height>287</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>This protest is brought to you byJOELwindows7Y THERE IS NOLIGHTSABERSWORD?</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+</ragemaker>

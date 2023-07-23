@@ -1,0 +1,134 @@
+<ragemaker>
+  <panels>7</panels>
+  <gridLinesArray>000001010011100</gridLinesArray>
+  <gridAboveAll>true</gridAboveAll>
+  <showGrid>true</showGrid>
+  <redditWatermark>false</redditWatermark>
+  <Draw>
+    <itemx>-1</itemx>
+    <itemy>-1</itemy>
+    <bytes>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</bytes>
+  </Draw>
+  <AnyFont>
+    <itemx>120</itemx>
+    <itemy>396</itemy>
+    <width>370</width>
+    <height>68</height>
+    <font>Ubuntu</font>
+    <color>16777215</color>
+    <size>41</size>
+    <text>SEEMS LEGIT</text>
+    <bold>false</bold>
+    <italic>false</italic>
+    <underline>false</underline>
+    <align>center</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </AnyFont>
+  <Text>
+    <itemx>14</itemx>
+    <itemy>439</itemy>
+    <width>627</width>
+    <height>46</height>
+    <color>16777215</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>Otaku Test: A new Star Wars Story has been available in 2026.With a New characters and their weapon, stay tuned.</text>
+    <align>center</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>-7</itemx>
+    <itemy>480.5</itemy>
+    <facename>Pleasure/rainbow puke.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Draw>
+    <itemx>46</itemx>
+    <itemy>498.5</itemy>
+    <bytes>iVBORw0KGgoAAAANSUhEUgAAAPoAAACWCAYAAAD32pUcAAABA0lEQVR42u3WzQmAMAwGUDdyBEdwVEdwBEfpCFqhgqAg9OdQeQ+CeEhvSb5hAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgFdTrCXWHmtN/6U9OW8CDW1pIK8KFXpy3sQ1oaGQMZRfPcGgU7L5SxeDxfI03wbz/I4VenLexDWpFglFSujgmpRGQpESfhozRUoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAjh2yaF8pQmBjFQAAAABJRU5ErkJggg==</bytes>
+  </Draw>
+  <Text>
+    <itemx>320</itemx>
+    <itemy>484.5</itemy>
+    <width>324</width>
+    <height>212</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>REALLY? IN THIS UNIVERSAL SANDBOXER??????!!!!!!WOW! (Y)ME GUSTAI LIKE IT &lt;3</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>531.5</itemx>
+    <itemy>507</itemy>
+    <facename>Pleasure/me gusta mucho creepy.png</facename>
+    <scalex>0.4</scalex>
+    <scaley>0.4</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Text>
+    <itemx>319</itemx>
+    <itemy>614.5</itemy>
+    <width>325</width>
+    <height>102</height>
+    <color>255</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>JOELwindows7:So, tell me what do you think. many new characters and other. so what the thing comes to your mind in this concept?</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>30</itemx>
+    <itemy>780.5</itemy>
+    <facename>Malicious - Troll/31.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Text>
+    <itemx>214</itemx>
+    <itemy>759.5</itemy>
+    <width>376</width>
+    <height>106</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>but this is not officially.just taking you to the test of your knowledgement.</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>338.5</itemx>
+    <itemy>802.5</itemy>
+    <facename>Malicious - Troll/30.png</facename>
+    <scalex>0.5515151515151515</scalex>
+    <scaley>0.5515151515151515</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+</ragemaker>

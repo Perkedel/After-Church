@@ -1,0 +1,194 @@
+<ragemaker>
+  <panels>9</panels>
+  <gridLinesArray>10100101001010011100</gridLinesArray>
+  <gridAboveAll>true</gridAboveAll>
+  <showGrid>true</showGrid>
+  <redditWatermark>false</redditWatermark>
+  <Face>
+    <itemx>6</itemx>
+    <itemy>41</itemy>
+    <facename>Neutral/02.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Text>
+    <itemx>183</itemx>
+    <itemy>4</itemy>
+    <width>453</width>
+    <height>43</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>while watching YouTubeBattle cats trailer....</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>386</itemx>
+    <itemy>45.5</itemy>
+    <facename>Determined - Focused/fumanchu.jpg</facename>
+    <scalex>0.8117154811715481</scalex>
+    <scaley>0.8117154811715481</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Face>
+    <itemx>487</itemx>
+    <itemy>102</itemy>
+    <facename>Neutral/02.png</facename>
+    <scalex>0.5</scalex>
+    <scaley>0.5</scaley>
+    <mirrored>true</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Draw>
+    <itemx>387</itemx>
+    <itemy>81</itemy>
+    <bytes>iVBORw0KGgoAAAANSUhEUgAAAPoAAACWCAYAAAD32pUcAAABTUlEQVR42u3a0Q2CMBQFUDZhBEZwBEZwBEdhBEdwBEfoCIzgCNgmfJgmfhWllHOSF/lsaG4uae06AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO5xLnEee5PgMNCnGWdV5eB7RpyQYQdOBorlnIZ68E2jNnQZ92XItDQfhDm6fpd1yPQ0H4cbDS3Cs7K9DsUKivrM27tcXzNWl2KHCrrM2T8UvYgY0+24eK1ibocIIwCTqcMOij7YL2gp7f7QfbBe0FffL5Du0HPQg6lKv9/+35FZu7dNigMWsL0ud9evodbBloTEBjAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHBIb1OKiLRdRCduAAAAAElFTkSuQmCC</bytes>
+  </Draw>
+  <Text>
+    <itemx>196</itemx>
+    <itemy>62</itemy>
+    <width>183</width>
+    <height>116</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>sharing my codefw79qp ......to be put on 10 guys and/or girls</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Face>
+    <itemx>8</itemx>
+    <itemy>257</itemy>
+    <facename>Neutral/01.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Face>
+    <itemx>481.5</itemx>
+    <itemy>305.5</itemy>
+    <facename>Malicious - Troll/30.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Face>
+    <itemx>190.5</itemx>
+    <itemy>334.5</itemy>
+    <facename>Malicious - Troll/TrollDadFull.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Face>
+    <itemx>304.5</itemx>
+    <itemy>374</itemy>
+    <facename>Malicious - Troll/deviltroll.png</facename>
+    <scalex>0.4818181818181818</scalex>
+    <scaley>0.4818181818181818</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Face>
+    <itemx>401.5</itemx>
+    <itemy>358</itemy>
+    <facename>Malicious - Troll/I lied.png</facename>
+    <scalex>0.25</scalex>
+    <scaley>0.25</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Draw>
+    <itemx>395</itemx>
+    <itemy>343.1</itemy>
+    <bytes>iVBORw0KGgoAAAANSUhEUgAAAFUAAACICAYAAACWVaerAAAC2klEQVR42u2c0Y3jIBBA6cAlpISU4BJcgkvYElxCSnAJ0VWQElwCJSCtdNL9eTcnIlm7BoMDGMx7En9ZrfMyzAw2RggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgJK469GhIhzzYvToCC91JmLjSJ0sn71+j4ceH6gzM66INQlVi88o1P2i1fVpNVq3hNrk18y09DJbClZnEDrg0JhK/yN/CFM6Oi8GoXQJDlKHFXFzxULbnf37r7Q4GsQuRy0Vf9rRZvamWnMzROdrNJVIlTvazM0CbkoFtTBszNiHThFrXdHoKvVVuGpeFP0cnz5CXfrWI4rGMkJSoDak/vMRutW3Hl00UqWhziL27x5HMqMbLTKTmbNWkLyCbvC80ZK6aBwhVL0j1PdGyxFFIwehY6gv01Uo9RZSqG8TfCapvaXqv120hxWx3QmlNlrWfaON6mP9aipxi9WHnHoeERm9rZSWfxb7SWzoKLW1RnPo/PnOWjim3JBSrw4rpagiXVqsFHJDSbUJVfr7HdLd3Bx/6ZCy35Xa6pmmjozI2JK7AEUjxMj+CYaP3MlyFwqhHnJlYmmnERqqHww9HjqntuKE7ClwbODYoPMU+3qEg9ST3aFCKiAVqUgFpCIVqYBUpCIVkIpUpAJSkVoKLVLDMyE1bISaHltDwAh9jj+o2cdVVPDMPhWNnvKTqGQzxBG50/TcP+Xe2KLlmcZzZ8ko0uwuLG5aT8J/Z8pSzLjj75uzynxGzc1TxmgQ4rtt83GmiO09p/reN7RdJfel503pkCNjzgx1JrHNRtSoRFPxw3IdxR1Vct+RI2NiKmyylKjtxPoLCpeDr8vWMchci5ip95wyusatzuOeW+s1GS4yt7NWLg59bhYLhl6UdxqQi9xD860S5Z4GdHVc4SWP3tf+/ZKPVnJ535ZDeiN0CbkV3qKwLXk5fDew5BpPjgMAAADIgS9QIanctvC+lQAAAABJRU5ErkJggg==</bytes>
+  </Draw>
+  <Face>
+    <itemx>8</itemx>
+    <itemy>485</itemy>
+    <facename>Neutral/15.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+  <Text>
+    <itemx>174</itemx>
+    <itemy>239</itemy>
+    <width>466</width>
+    <height>116</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>after that, I put someone code to Input code.from many person who share their code to the comment bar.once you inserted the codeyou CAN'T put another one forever</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <Text>
+    <itemx>165</itemx>
+    <itemy>476.5</itemy>
+    <width>483</width>
+    <height>65</height>
+    <color>0</color>
+    <style>0</style>
+    <size>16</size>
+    <rotation>0</rotation>
+    <text>but there's somthing wrong...awepicowl @ YouTube say a hack to get that genius cat instantly: for short because uncopyable</text>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </Text>
+  <AnyFont>
+    <itemx>195</itemx>
+    <itemy>536.5</itemy>
+    <width>449</width>
+    <height>170</height>
+    <font>Ubuntu</font>
+    <color>0</color>
+    <size>16</size>
+    <text>Hey guys! :)I Found the hack to get Moneko Instantly! this is developer code:*********put it on input code at invite friend :DGood luck ;)</text>
+    <bold>false</bold>
+    <italic>false</italic>
+    <underline>false</underline>
+    <align>left</align>
+    <bgOn>false</bgOn>
+    <bgColor>16777215</bgColor>
+    <opacity>1</opacity>
+  </AnyFont>
+  <Face>
+    <itemx>0.5</itemx>
+    <itemy>721</itemy>
+    <facename>Surprised - Amazed/Gasp.png</facename>
+    <scalex>1</scalex>
+    <scaley>1</scaley>
+    <mirrored>false</mirrored>
+    <rotation>0</rotation>
+    <opacity>1</opacity>
+  </Face>
+</ragemaker>

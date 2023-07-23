@@ -1,0 +1,70 @@
+program lets_have_fun;
+uses crt;
+var
+        Stringer : string;
+        nomber   : integer;
+begin
+        clrscr;
+        writeln('Hello World');
+        readln();
+        write('No, I"m not finished yet anyway, just asking you...');
+        delay(1000);
+        writeln(' something.');
+        delay(1500);
+        writeln('unexpected,');
+        delay(1575);
+        writeln('Uh, nevermind, you can go now. do you want snack?');
+        writeln('Answer (Y/N): ');
+        readln(Stringer);
+
+        repeat
+              if (Stringer = 'Y') then
+         begin
+         writeln('That"s great!, have a nice day! (ENTER)');
+         readln();
+         writeln('See you, bye-bye!');
+         end
+         else if (Stringer = 'N') then
+         begin
+         writeln('Oh, ok. but I was about to give you Pascal Free snacks...');
+         delay(1000);
+         writeln(':( hiks. but alright, I understand,');
+         delay(1000);
+         writeln('you don"like it.');
+         delay(1000);
+         {dramaticsal}
+         writeln('btw, see ya. (ENTER)');
+         readln();
+         end
+         else
+         begin
+         writeln('I don"t understand you said...');
+         nomber := nomber + 1;
+         delay(2000);
+         writeln('(Please answer with "Y" or "N"!)');
+         readln(Stringer);
+         end;
+         until (Stringer = 'Y') or (Stringer = 'N');
+
+        if (nomber >1) then
+         begin
+               if (Stringer = 'Y') then
+          begin
+          writeln('Phew, I thought you won"t...');
+          delay(2500);
+          writeln('Here"s anyway.');
+          end
+          else if (Stringer = 'N') then
+          begin
+          writeln('I hate you! you disappointed me!');
+          delay(3000);
+          writeln('hiks hiks hiks, HUAAA!');
+          end;
+         nomber := 0;
+         end;
+
+
+
+        writeln('[End, Press enter to close]');
+        readln();
+end.
