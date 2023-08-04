@@ -11,6 +11,8 @@
 RAW files/arka/GDFirebase/Firebase.gd 
 # do not! un ignore! firebase! there is secret API keys !!!
 *.blend1
+*.kra~
+*.mscz~
 # RAW files/Blender/Compilateur.blend
 # RAW files/Blender/stealNow/soulkraker-open-with-real-7zip.7z
 # RAW files/Blender/stealNow/soulkraker.blend

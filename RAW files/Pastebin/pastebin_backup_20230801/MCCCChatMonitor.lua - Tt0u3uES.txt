@@ -1,0 +1,12 @@
+ServerName = "Perkedel"
+JoinName = "MonitorMe"
+monitorName = "monitor_0"
+
+print("This is Chat Monitor Manager")
+
+print("Joinning "..ServerName.." as "..JoinName.." at "..monitorName.."...")
+sleep(5)
+shell.openTab("monitor", monitorName.." chat join "..ServerName.." "..JoinName)
+print("Enjoy Chat Broadcast! thancc. cool and good")
+
+print("\nBy JOELwindows7\nPerkedel Technologies\nGNU GPL v3")

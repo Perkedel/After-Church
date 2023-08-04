@@ -1,0 +1,17 @@
+print("Welcome to chat Server!")
+ServerName = "Perkedel"
+SelfJoinName = "DiriSayaSendiri"
+
+print("Initiating Repeater...")
+shell.openTab("repeat")
+
+print("Hostname = "..ServerName.."\n")
+shell.openTab("chat", "host "..ServerName)
+
+print("\nNow also joining myself as = "..SelfJoinName.."\n")
+sleep(5)
+shell.openTab("chat", "join "..ServerName.." "..SelfJoinName)
+
+print("\nEnjoy your chat day, on the next tab. thancc\n")
+print("\nBy JOELwindows7\nPerkedel Technologies\nGNU GPL v3")
+-- Yeah.
