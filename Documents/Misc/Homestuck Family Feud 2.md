@@ -898,29 +898,37 @@ Info: if they lose fast money, give this extra cash to opponent!!!
 
 Questions:
 
-1. a
-2. a
-3. aa
-4. a
-5. a
+1. Name a feature you'd like to have in a mobile phone
+2. Name type of person you do not want be with
+3. Name type of place you'd want to bring in a date
+4. Name awkward moment during eat time
+5. Name a name you would stay away from
 
-Turn 1:
+Turn 1 (Equius):
 
-1. a
-2. a
+1. Touchscreen.
+2. Those who controls
+3. Sporting
+4. Burnt food
+5. Kayla
+
+Turn 2 (Aradia):
+
+1. Air conditioner
+2. Annoying person
 3. a
 4. a
-5. a
+5. Long Name
 
-Turn 2:
+Survey says:
 
-1. a
-2. a
-3. a
-4. a
-5. a
+1. Touchscreen
+2. Those who controls
+3. calm table
+4. farts
+5. person named with illegal keywords
 
-Andrew: We're going to have `EXTRA PLAYER` first, followed by the 1st player. there will be 5 for each turn. both of you, must reach total 200, read what it says.
+Andrew: We're going to have first player first, followed by the second player. there will be 5 for each turn. both of you, must reach total 200, read what it says.
 
 Equius: 🏹 200 Thousand On the Pool!!!
 
