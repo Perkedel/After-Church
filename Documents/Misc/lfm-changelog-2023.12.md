@@ -33,6 +33,10 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - Tidy up *civil war rubbles*
 - Began handover to X0p1r4t3 Eenvreensment. that's right, we are selling this entire project to Admiral Zumi, for good. This is to early archive it, not further developing. We apologize for your inconvenience.
 - How do we supposed to pull the latest change on the vanilla????
+- [Psych Engine found ways to auto install Libraries with hmm](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/hmm.json) yey! [last Commit about this here!](https://github.com/ShadowMario/FNF-PsychEngine/commit/f039d6e417231670b476a09618c2e7ec33f9fb2f )
+- Kaorfa orders Admiral Zumi to keep that Legacy version. **DO NOT DELETE LAST VERSION!!!** ADD NEW VERSION INSTEAD! Or whatever re-sorting. Idk why.
+- Edit: Kaorfa fear that the association with sparsdaters like Zumi sparks unwanted controvercies due to nature of FNF modders, especially in huge troubles, likes to delete stuffs. Ah peck neck! they might as well saw the beans on the floor already looking at this changelog! The onus yours, Joel!!
+- 
 
 ## Info
 
