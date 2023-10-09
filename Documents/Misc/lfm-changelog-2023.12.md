@@ -1,4 +1,4 @@
-![](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png )
+![LFM Update Banner](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png )
 
 pls change image & fill new infos!
 
@@ -15,6 +15,7 @@ You may see nothing in where you stand right now, but you should see the rubbles
 Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently requesting position and still haven't got news to this day.
 
 ## Download Updated
+
 - [Linux](https://odysee.com/@JOELwindows7/last-funkin-moments )
 - ~~[Linux 32 bit](https://odysee.com/@JOELwindows7/last-funkin-moments-32bit )~~
 - [Windows](https://odysee.com/@JOELwindows7/last-funkin-moments-windows )
@@ -36,7 +37,8 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - [Psych Engine found ways to auto install Libraries with hmm](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/hmm.json) yey! [last Commit about this here!](https://github.com/ShadowMario/FNF-PsychEngine/commit/f039d6e417231670b476a09618c2e7ec33f9fb2f )
 - Kaorfa orders Admiral Zumi to keep that Legacy version. **DO NOT DELETE LAST VERSION!!!** ADD NEW VERSION INSTEAD! Or whatever re-sorting. Idk why.
 - Edit: Kaorfa fear that the association with sparsdaters like Zumi sparks unwanted controvercies due to nature of FNF modders, especially in huge troubles, likes to delete stuffs. Ah peck neck! they might as well saw the beans on the floor already looking at this changelog! The onus yours, Joel!!
-- 
+- Attempt improve pause music
+- Subtitle Week 7 improvement inspired from Mortal Kombat 1's accessible subtitle styles.
 
 ## Info
 
@@ -128,14 +130,14 @@ Latsufir: I mean, who's going to give idea then?
 
 Gyouter: I'm sorry but... No no, you can stay if you want, but I can't bare to see you being risked to a deadly hallows whereever missions go. No, you're like my *only child*. Not to mention, (see Sky)..
 
-Sky: Huh? ... 
+Sky: Huh? ...
 
 Gyouter: We're not going to have idea anymore. The shift of this entire alliance is now moved
  towards... **replications**. We are now only going to reinstance whatever we saw outside, across the multiverse. And I believe that, it only takes... redrawing. less of an idea and strategies. We are not going to depend on the company that hold every multiverse. it's going to be fully our own story.
 
 Latsufir: Okay..
 
-Gyouter: No, I do not want to say that you're useless now, who said that?, I just.. can't bare if I have to lose *my children* one by one, and other innocents one by one. You remember when you almost got murdered by Obul there? He's the most dangerous person ever. 
+Gyouter: No, I do not want to say that you're useless now, who said that?, I just.. can't bare if I have to lose *my children* one by one, and other innocents one by one. You remember when you almost got murdered by Obul there? He's the most dangerous person ever.
 
 Latsufir: ... ... Well, I have life. (stand up)
 
@@ -278,7 +280,7 @@ Gyouter: Tell Zumi. Take care of this well. He can do anything with it to add st
 
 Roig: Yes sir. I'll hand these over. You sure about this? What if they know about this? Weren't you supposed to handle this?
 
-Gyouter: Don't worry. I hope it's fine. And.. Kaorfa had trouble, he couldn't handle this anymore now. Now it's your turn to ***preserve*** this, while I gotta help Kaorfa fight other stuffs.
+Gyouter: Don't worry. I hope it's fine. And.. Kaorfa had trouble, he couldn't handle this anymore now. Now it's your turn to ***preserve*** this, while I gotta help Kaorfa fight for other stuffs.
 
 Roig: Yeah yeah. And next, do you still know, Conservationist hates sparsdators like us? The mod creators in your sector you've been working on are nototorious being Conversationist. If one of them knew, they'll take down your mod.
 
