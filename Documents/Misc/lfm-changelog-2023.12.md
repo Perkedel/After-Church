@@ -39,6 +39,9 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - Edit: Kaorfa fear that the association with sparsdaters like Zumi sparks unwanted controvercies due to nature of FNF modders, especially in huge troubles, likes to delete stuffs. Ah peck neck! they might as well saw the beans on the floor already looking at this changelog! The onus yours, Joel!!
 - Attempt improve pause music
 - Subtitle Week 7 improvement inspired from Mortal Kombat 1's accessible subtitle styles.
+- FireTongue has been prepared with same help from Larsius Prime ([this](https://github.com/HaxeFlixel/flixel-demos/blob/dev/UserInterface/RPGInterface/source/Main.hx) & [this](https://github.com/HaxeFlixel/flixel-demos/blob/dev/UserInterface/RPGInterface/source/State_Title.hx)). But then we have to convert every string occurences to refer to language locale tables. Oh my God, there are thousands of text in the codes I got to convert to `getText` built in `FlxUIState` & Substate.. **KLASDJFIO;AHEJRJKGNSDKJLFNGSRTLIHGNSDJFNGSILEBTRGJKSDNFLVJKLSNTGRNBTYJSBNRTGRONTGSERGIOERJGFDFSLKJ;LDSJ;FAJOIPERJIAPWEIO**
+- Week JSON has been prepared, yoink the Altronix Engine ways. But it's not complete. Sh88 it's long overdue and Psych had taken everything to this day at this point! Or still it?
+- etc.
 
 ## Info
 
@@ -457,3 +460,167 @@ Gyouter: You're welcome. ... (close)!!....... Yeah.
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+### Post Credit
+
+#### in Mission Command Center of Wakturia again
+
+Info: 2 Waturia employees watches [this video](https://youtu.be/SN_7gUbWc-I?si=n7o87KQoqvWsRokw) and began to have their opinion and ideas to do.
+
+Fern: You see this buddy?
+
+...
+
+ob: Yeah, but no, wait. It's been only 3 years
+
+Fern: Dude, that is way too
+
+Yuob: No no no. We have to be patient. Please, One last more. I have faith, that it won't be [7 years](https://youtube.com/channel/UC83Vxn_OocpztpDIQvvlk_w?si=w-VNxiitKaNgFEMD) above like. And these 3, despite speaks fouls occasionally, they are not... you got the idea.
+
+(delay)......
+
+Fern: Whatever it is. `Promise`, is (inherits from class) `Surprise`. We get the `Thing` or `Null`. The `Null`, is what you should've been skeptical for. Not to mention they gonna paywall this project!
+
+Yuob: (sigh) ugh.......... (confused & contemplate).................................. H--alright. What do we propose to do?
+
+Fern: I say we record one of the final rehearsal this year. Next Monday, they'll have one last rehearsal before moving on temporarily. I want you..., no we..., to record. **Spatially**. We got Holocorder here?
+
+Brent: We have! Right?
+
+Jonathan: (show big briefcase containing the 3D hologram video recording equipments)..
+
+Fern: (look bottom right of taskbar) Day's... Saturday. We're going to prepare up for the next week this monday. Don't forget.
+
+Info: This computer has KDE Plasma Desktop.
+
+Yuob: Okay. Then we shall.
+
+#### Studio City, Dasandim. Monday
+
+Info: Wakturia Last Funkin crews are doing final clean rehearsal as it is live. This time they are on Green Screen house 45. It is wide enough for the actual scene one day in the Edge of the Universe. Props has been prepared replicating the ship that carries the crew, alongside small props representing the items for the Full Ass bye bye ceremony. Yuon, Fern, & Brent have prepared the Holocorder to record Gyouter & friends doing rehearsal. Since it is recorded for too long didn't release just in case backup, they crews have been instructed to play the role as it is the real ceremony. crews are sitting on their electric wheelchair to symbolize paralyzations after all the wars they encounter against the community in FNF modding scenes.
+
+Rara Eriald (Directorm, female): Okay, gamers. We have final rehearsal once and for all. This time, you have to do it real because we are recording it for Hologram. Think it's like pre-recording for iPhone launch WWDC something. I'm sorry, but blame Fern. He suggested me this because he's skeptical uh.. Friday Night Funkin' Full Ass gone scam once again, I don't know.
+
+Gyouter: Fern?
+
+Fern: No.. but... you got the idea. Damn, Rara. you're too harsh. But eh.. Hear me up. We all have been exposed to delays in our life here in Wakturia. But it has been my attention, and that should you, these days, when people promises stuff, the frequency of us getting `null` has gone up significantly. You should've been skeptical, because `Promise` is either `Thing` or `null`. `Promise` is `Surprise`. ...
+
+Gyouter: Thank you. Is there anything I have to note for, for this?
+
+Fern: Nothing else. Do it like you're going to launch an iPhone. ... or maybe Fairphone in Dasandim.
+
+Gyouter: Heu eum...
+
+Fern: I know, you should come, but uhhh you're not going to live forever just to wait whether or not it's going real or not. Heck gonna coffin it?
+
+*everyone*: XD🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+Fern: See? That's dark. So that's it. just Holo it. Put it there and forget. Real or not, noone should care anymore, let that machine do it. Now be real!, you're launching Full Ass in Fairphone Framework Sustainability Conference Odysee live something2 who know.
+
+Gyouter: Okay, do it real. Folks?
+
+*everyone*: yeah?
+
+Gyouter: You ready?.
+
+Fern: Okay.... (right index in red record button) I'm going to start......., (press) Action!..
+
+### Simulated goodbye
+
+#### Edge of the Universe
+
+Info: some details are intentionally ommited to point out this pre-recording.
+
+(Ship landing).................. (landed)
+
+(open butt hatch)!!......................(hatch touchdown).
+
+Gyouter: (slowly walk wheelchair out of the ship).........
+
+*everyone*: (follow)......
+
+Info: Everyone run their wheelchair to the spot.
+
+Gyouter: (stop at the spot before the Boyfriend and friends)!!.
+
+*everyone*: (stop too right behind Gyouter)!!
+
+(zoom out overall scene)............ (back again)
+
+Gyouter: (turn left back straight again to the lake)..
+
+*everyone*: (follow)
+
+Info: No crew is allowed to stand off from chair.
+
+Gyouter: (open gift box)
+
+Info: The wall then collapse outward gracefully.
+
+*everyone*: (go to the lake next by Gyouter & open up their gift box)!
+
+Gyouter: (take lilypadded flower out of its giftbox floor)......, (put above the lake water but keep holding it).
+
+*everyone*: (follow).....
+
+Info: As the are crouching down, the crew must keep their legs remain on contact with the chair footrests
+
+Gyouter: ........... (release)..
+
+*everyone*: (also release)....
+
+Info: The Lantern Flower flows away from the crews beautifully, sail over towards the wall of the Universe.
+
+Gyouter: (sit back to the chair)..
+
+*everyone*: (also return to chair)!
+
+Gyouter: (turn around & return fast back to ship)....
+
+*everyone*: (follow)....
+
+Info: Everyone has returned to ship
+
+(close butt hatch)........... (closed)
+
+(turn on & take off)!!.......!!...................
+
+....
+
+...
+
+...
+
+Fern: Aaaand cut, (press record to stop), thank you!
+
+### End of Simulation
+
+*everyone*: YEAAAAAYYYY!!!
+
+Fern: Okay, Just need a little editing, and we're going.
+
+#### Actual Edge of the Universe
+
+Info: The system has been permanently installed. There are 2 Hologram projectors. one on left is the crew, and on the center is your final week gameplay. As well as the ceremonial Lilypadded flower releasing contraption on the lake, where its event triggers at certain timestamp accordingly. The scene has been oxygenated for this preparation and will be again if there is live available, so no suit needed.
+
+Fern: (finishing up lilypad release).... Okay, (test)!
+
+Info: The flower flows away.
+
+Fern: Good! (take another lilypadded flower), (put on the catch & reset the catch release). Right, .. (heard electrocution)?? (it's the center hologram) Heoh!! (hastily runs towards) NO no no no no no!!!
+
+Info: Too late, the Lamp blew due to overheat.
+
+Fern: Argh!!..., (unscrew & open lamp compartment), (take off burnt lamp but too hot) AARRGH!!, (equip glove), (try again lamp), (collect the burnt lamp), (take off cooling fan), (take battery & test the fan)...
+
+Info: The cooling fan has been failed
+
+Fern: (collect the failed fan), (open up new fan), (reinstall), (open up new lamp), (reinstall), (spray with perma-cool)!!!!!!, (close compartment & screw back in), (spray again with perma-cool)!!!. (test again)!
+
+Info: It's on again.
+
+Fern: (turn off & re-run receiving mode). Okayh.. Well. I hope it works. Right.. Wooh.. ... ... .. ... .. Who cares? ... Idk anymore. I wouldn't see these on either, idk. ... Welp. (tidy up self) Time to go.
+
+### Post Credit Finished
+
+yey
