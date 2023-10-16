@@ -41,6 +41,14 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - Subtitle Week 7 improvement inspired from Mortal Kombat 1's accessible subtitle styles.
 - FireTongue has been prepared with same help from Larsius Prime ([this](https://github.com/HaxeFlixel/flixel-demos/blob/dev/UserInterface/RPGInterface/source/Main.hx) & [this](https://github.com/HaxeFlixel/flixel-demos/blob/dev/UserInterface/RPGInterface/source/State_Title.hx)). But then we have to convert every string occurences to refer to language locale tables. Oh my God, there are thousands of text in the codes I got to convert to `getText` built in `FlxUIState` & Substate.. **KLASDJFIO;AHEJRJKGNSDKJLFNGSRTLIHGNSDJFNGSILEBTRGJKSDNFLVJKLSNTGRNBTYJSBNRTGRONTGSERGIOERJGFDFSLKJ;LDSJ;FAJOIPERJIAPWEIO**
 - Week JSON has been prepared, yoink the Altronix Engine ways. But it's not complete. Sh88 it's long overdue and Psych had taken everything to this day at this point! Or still it?
+- Komsel Stage. Perspectived the floor & aleviated potential `69` in the back mural. Sorry, but this stage is supposed to be a sacred room. Ruang Maha Kudus.
+- Replaced Volume Up & Down sound in the sound tray, with Girlfriend bloop & beep. Have fun poking at it lmao. ref [here](https://api.haxeflixel.com/flixel/system/ui/FlxSoundTray.html), you can replace the sound for respective volume up & down to play with your own sound in the asset folder. Check `Game.hx`, `function create(_)` I overrode. One day if you want, I'll create an interface where you can pick your own... 😏 you know..
+- add Aseprite Atlas JSON support for character. But still f8888 you Aseprite & your closest benefactors for betraying us all.
+- Just kidding, only f888 you just Mr. Aseprite that's all. And other particular traitor masterminds, and nothing else.
+- add XML Atlas if anybody would like to, idk who.
+- about completed the CPR fetish heart organ idk not tested yet.
+- DialogueBox typo fixes
+- other bugfix
 - etc.
 
 ## Info
