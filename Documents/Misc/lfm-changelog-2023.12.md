@@ -34,6 +34,7 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - Tidy up *civil war rubbles*
 - Began handover to X0p1r4t3 Eenvreensment. that's right, we are selling this entire project to Admiral Zumi, for good. This is to early archive it, not further developing. We apologize for your inconvenience.
 - How do we supposed to pull the latest change on the vanilla????
+- **PLEASE NOTE: GAMEBANANA RELEASE WILL STAY**, for now. If we stopped, we won't delete due to No Delete policy reason, just stop, no update. **GAMEBANANA WILL STILL RELEASED**
 - [Psych Engine found ways to auto install Libraries with hmm](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/hmm.json) yey! [last Commit about this here!](https://github.com/ShadowMario/FNF-PsychEngine/commit/f039d6e417231670b476a09618c2e7ec33f9fb2f )
 - Kaorfa orders Admiral Zumi to keep that Legacy version. **DO NOT DELETE LAST VERSION!!!** ADD NEW VERSION INSTEAD! Or whatever re-sorting. Idk why.
 - Edit: Kaorfa fear that the association with sparsdaters like Zumi sparks unwanted controvercies due to nature of FNF modders, especially in huge troubles, likes to delete stuffs. Ah peck neck! they might as well saw the beans on the floor already looking at this changelog! The onus yours, Joel!!
@@ -48,6 +49,14 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - add XML Atlas if anybody would like to, idk who.
 - about completed the CPR fetish heart organ idk not tested yet.
 - DialogueBox typo fixes
+- Proceduralized **FINALLY AT LAST**, Qmoveph space background for title screen.
+- Fixed crashdump faile to save
+- Prepared a new operational procedure according to Last Funkin Moment contract.
+- New Modchart auto called function: `gameOver` for when Blueballed, `gameOverAnimationFinished` for when blueball animation finished, & `endGameOver` for when you press enter to retry. All has argument `blueballs` which hands over how many you blueballed / failed in this level. Not working yet, we have to remove scronch order in `PlayState` when game over and move it to when you either *press enter to retry*, or *quit* first!
+- attempted to fix keep asking restart song even did not touch any option that need restart song. I placed that triggerer on `new()` of one of the option item lmao. now got rid of it. let us know if it still ask you restart in option whatever no reason.
+- Add Change Main menu music. Hardcoded for now, mod support to be added.
+- **NEW & VERY NEW** Lyric on bottom left corner of the screen!!! You can now enjoy Funkin' like it's a KPop TV show cool and good yey! Best also, **You can reference from `subtitle.tsv` from your Polymod Core locale folders too!!** So you can have the lyric refers to whatever language gamer picked, simply by prefixing with `$` and flag ID such as `$YOUR_SUBTITLE_WORD_HERE_NO_1234` WOW!! If you don't want have translatable lyric, you can just say the words directly like usual without `$` sign. Subtitle that refers to not exist will return the flag ID itself.
+- **This also goes for Dialogue too** 
 - other bugfix
 - etc.
 

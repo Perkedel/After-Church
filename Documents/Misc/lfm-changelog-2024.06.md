@@ -33,6 +33,7 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 
 - what is it?
 - did I do the WeekJSON?!
+- Engaged this new operational procedure according to the Last Funkin Moments contract.
 - etc.
 
 ## Info
@@ -67,11 +68,159 @@ Position:
 
 ### Pre
 
+#### Admiral Zumi's city (now X0p1r4t3 Eenvreensment), Serveral years ago
+
+Info: The giant wall is still under construction
+
+#### Zumi's mall inside of the ground
+
+Info: The mall has been used and people have been trading here and there. However majority of the environment are still under construction & empty.
+
+#### Basement under
+
+Info: The facility is as well being constructed
+
+Pocingklik Normaz: We're making progress, buddy. here is.. 40%
+
+Zumi Lexicorn: Well progress is progress, soon, it will be. ..
+
+Info: a Messenger come to the basement in light shine in the basement
+
+Pocingklik: Ha yeah. Btw, you tried Derek's Sushi, our new food tenants yesterday just open?
+
+Info: the Messenger walk to talking source around.
+
+Zumi: Wait, it's open now?
+
+Pocingklik: (show interface) It's now! We gotta do it, if we could endorse that.
+
+Zumi: Ah yess, I cannot be patient. Seriously, I've been waiting for this since Derek announced his moving to here. Did you place him on the correct spot
+
+Pocingklik: Absolutely, like you ordered. On the top, and in the lobe. He's cooking.
+
+Zumi: Good. Is there anything else?, And if that's all here, We should go out now coz **Eetz** lunch time!
+
+Pocingklik: I'm excited!!
+
+Goflim: (stop before Zumi & Pocingklik).
+
+Zumi: Woo yeah, (noticed a non-employee come here).., Yes? Is there anything I can help?
+
+Goflim: Admiral Zumi.
+
+Zumi: Sure. Just say anything. I'll gladly help.
+
+Goflim: Do you have the file?
+
+Zumi: File? (async) (look Pocingklik & back)..
+
+Pocingklik: (async) (look Zumi)...
+
+Zumi: Uhh, my apologies. We do not sparsdat game anymore.
+
+Goflim: (internally confused with word `sparsdat`)????
+
+Zumi: We do not..., *Pirate* games anymore.
+
+Goflim: But you have to help me. I beg you.
+
+Zumi: Sir, if you'd like to buy games, it's very easy to get it on [Steam](https://steampowered.com). I did it, and I do this everyday. Go ahead try it.
+
+Goflim: Thank you. (stays in frown).....
+
+Zumi: What seems to be the problem?
+
+Goflim: **It's not game.**
+
+Zumi: You're talking?
+
+Goflim: I have looked everywhere. It's gone. Nobody has it.
+
+Zumi: And then have you
+
+Goflim: [Archive](https://archive.org) even obeyed the DMCA curse spelled by the author of said file.
+
+Zumi: Oh.. ... If don't mind, may I see what File you are refering to?
+
+Goflim: (show & give tablet PC opening the website and it's 404 not found)...
+
+Zumi: What is this? This appears to be.. a car site.
+
+Goflim: Tab.
+
+Zumi: tab?
+
+Pocingklik: next tab.
+
+Zumi: Oh (switch to the next tab)... (Archive removed the archived website under request) (no scream) Oh God!!..
+
+Pocingklik: (shocked too)!....
+
+Goflim: I believe you have the file.
+
+Zumi: .... Sir.. We have to apologize, the software might be copyrighted
+
+Goflim: You should now care with the removers. You cannot do this alone. You need friends. If you keep it to yourself, you will lose it, I guarantee. This is not a threat. This is reality. I can feel the aura of struggle (could not find place to backup for $0), and that's why you need a lot of friends. Please, for the good of people.
+
+Zumi: (partial realize)....
+
+Goflim: You don't have to... *sparsdat* actively on sale games anymore. You only have to... help others, who can no longer obtain stuffs, even by the legal ways.
+
+Zumi: (realize)...., (look tablet & contemplate)..........., (decided to give the softwares) Uh.. give me a sec, (back to his desk)..., (open up the folder)....., (found the software), (take an unused USB Flashdisk & copy this folder with the sofware here) (plug in), (right click copy), (paste to the Flashdisk)...., (safe eject), (unplug)! (give) Is this what you're looking for? Wait, can you feel it or (point to Laptop) do you wanna see?
+
+Goflim: (feeling the Flashdisk).... (that's the file)!!!, (happily shines to teleport back home)!!!!!
+
+Zumi: That's all I had. All 2.
+
+(angelic charging up)
+
+Goflim: Thank you, .... very much. .... may you be Blessed not only prosperities, everything good, ... but also..
+
+(silent)
+
+Goflim: protections. (async) **(copy the file to his mind & angelic explosively teleports off the scene duar)!!!!!!!!!!!!!!**
+
+Info: The angelic particle emits a lot of amounts of particle once explosively and it is very bright, 2000 nit above in HDR. If you saw it's very few, it's because your PC or smartphone is potato. You were supposed to see alot of them than that.
+
+Zumi: (async) (little flinch)!!
+
+Pocingklik: (async) (flinch)!!!
+
+.....
+
+....
+
+...
+
+..
+
+..
+
+.
+
+Zumi: ....
+
+(USB Flashdisk fell on the floor very hot but did not broke)
+
+Pocingklik: (look at USB)..., (look front)... I think he's happy now. Did you feel it? He can sleep at peace now
+
+Zumi: Yess.... I can feel that too..., (look tablet again)
+
+Info: Still shows those 2 tabs, still tab Archive removed archive. Tablet then angelicly disintegrates, back to Goflim.
+
+Zumi: (look front & realize).... I think there's people still need our help.
+
+Info: And that's how X0p1r4t3 Eenvreenment's **Reupload if Gone** initiative was born. Don't worry, they got sushi after that.
+
+### Intro
+
 Gyouter Embinosa: Hey again. Uh.. may I come in to your palace? Something very important. Thanks.
 
 ### Begin
 
 #### X0p1r4t3 Eenvreensment Trade Center
+
+<!-- Zumi was taking care for his female cousin. -->
 
 Info: Roig Hermalansa come down from stair from Automotive topmost floor. Gyouter, followed by friends come out from that stair.
 
@@ -736,3 +885,21 @@ Roig: .... (sigh) Haaah..... well... It's now. (go to office & submit request to
 by JOELwindows7  
 Perkedel Technologies  
 CC4.0-BY-SA
+
+### Extra Info
+
+https://odysee.com/@lbry:3f/theendoflbryinc:d 
+
+Hi, this is Joel. Yes, Kaorfa is speaking. We should for a while return back to 2023 last October.
+
+Last time, it was a devastating news, that the company LBRY inc. closed their age after been harrassed by their own nation's legislative called SEC, for reasons of such coin LBRY has considered security and by not reporting with such constitutes a violation. They have lost the trial and as the result causes everything turns to debt, so much it suffocated the company as a whole (including the subsidiary, Odysee, if not mistaken). With outcome like this, raises concern with the LBRY network & the protocol nodes instance itself. Despite that LBRY in fact is not owned, nor hosted, it requires effort in order to keep the network survive by ensuring all gamers to join in the seeding.
+
+Speaking of the seeding, LBRY states that they cleared out of what content will be spread. Disappointingly, it works just like regular Torrent, by having more gamers to use the seeder of LBRY Desktop & other LBRY walletings, in order to keep contents available, as it turns out, **the content themselves is not blockchained**. Lesser to seed, lesser chance the content to be available. It is then up to gamers & Odysee whose the large seeders, to keep everything seeded. We have been clouded of how LBRY works, since we have greater focusing on producing great contents for all of you gamer, avoiding any unecessary policing and mafia encounters in the process. At once we have believed LBRY was the solution, and indeed they seems proven to be, in our case. We understand, a privilege of being free from such immense policing gives us great responsiblity to have us promise to use it for the good, and we are continuing to do so. However, we also expected & hoped, that Files / Content itself, to be included in the mirrored spreading, like does with Coin. One down, shall others in thousands to grow and spread more.
+
+Worry not, until things changes, as we, Perkedel Technologies (and affiliates) will continue our endeavors to bring great contents for all of you gamers at LBRY Odysee, at best we could, despite would veer away sometimes for smaller files. Our publish target to this day and forth will not change, and gamers don't have to do anything. In event of emergency changes requires to be acted upon, shall we notify all gamers promptly, and provide important instruction if there is.
+
+As Perkedel Technologies a company of opportunity, opens to opportunity, we are always on the hunt of new system. We will not hesitate to try and evaluate whether or not such system is worthy to rely on. If you have anything we could try, let us know down the comment below. We all know, that we should also have skepticism upon opportunities, in regards many filled with traps and pulls these days. Rest assured, once we have evaluated those opportunities, all gamers shall be given the result, along with the recommendations in it.
+
+### doned cred
+
+Thancc for your attention.
