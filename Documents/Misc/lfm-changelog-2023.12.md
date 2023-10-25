@@ -56,7 +56,10 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - attempted to fix keep asking restart song even did not touch any option that need restart song. I placed that triggerer on `new()` of one of the option item lmao. now got rid of it. let us know if it still ask you restart in option whatever no reason.
 - Add Change Main menu music. Hardcoded for now, mod support to be added.
 - **NEW & VERY NEW** Lyric on bottom left corner of the screen!!! You can now enjoy Funkin' like it's a KPop TV show cool and good yey! Best also, **You can reference from `subtitle.tsv` from your Polymod Core locale folders too!!** So you can have the lyric refers to whatever language gamer picked, simply by prefixing with `$` and flag ID such as `$YOUR_SUBTITLE_WORD_HERE_NO_1234` WOW!! If you don't want have translatable lyric, you can just say the words directly like usual without `$` sign. Subtitle that refers to not exist will return the flag ID itself.
-- **This also goes for Dialogue too** 
+- **This also goes for Dialogue too**
+- **as well as intro text**. Again, these spoken dialog in game, `subtitle.tsv` in each language.
+- Update list of Noteskin selection option. No longer requires filesystemer (except maybe the XML Atlas pre-caching, we're still figuring out how to get it as raw text through OpenFl asset)! All platforms is possible to render to can have it!
+- **FINALLY**, got this Hurt note forget where this from, but let's say.... https://github.com/Kade-github/trickster here, that full believe this hurt note originate all from here. Left the `never` notes. https://github.com/Kade-github/trickster/blob/master/assets/clown/images/NOTE_fire.png wait no, that's not correct?! argh peck!!!
 - other bugfix
 - etc.
 
