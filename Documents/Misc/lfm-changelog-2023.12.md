@@ -60,8 +60,27 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - **as well as intro text**. Again, these spoken dialog in game, `subtitle.tsv` in each language.
 - Update list of Noteskin selection option. No longer requires filesystemer (except maybe the XML Atlas pre-caching, we're still figuring out how to get it as raw text through OpenFl asset)! All platforms is possible to render to can have it!
 - **FINALLY**, got this Hurt note forget where this from, but let's say.... https://github.com/Kade-github/trickster here, that full believe this hurt note originate all from here. Left the `never` notes. https://github.com/Kade-github/trickster/blob/master/assets/clown/images/NOTE_fire.png wait no, that's not correct?! argh peck!!!
+- Stepmania songs now loads through BulbyVR's way of FNF assetings ala Modding+ I yoinked couple years back. [here source code about it](https://github.com/FunkinModdingPlus/ModdingPlus)
+- Refocusing during VideoCustcener no longer auto-resumes the video. **Press P to unpause** OR **hold Enter to skip**!
+- Attempted to Just save in Charting state
+- Installed another Qmoveph background to the Story Mode menu
+- Flash now should use MP3 file instead. wait we cannot render swf anyway..
+- After loading, the music fades out
+- Napoleon on crash screen. [There's nothing we can do](https://knowyourmeme.com/memes/napoleon-there-is-nothing-we-can-do).
+- **Default resolution is now ~~4K UHD~~ 1080p**. But not the actual game resolution. That is still to be worked on later.
 - other bugfix
 - etc.
+- pls come back to Tebenge after all this & reshoot. [This thing](https://play.google.com/store/apps/details?id=com.Perkedel.tebenge). Be aware, this is not working intentionally by Google in latest Android version. we are working on updates! [Pls commission](https://ko-fi.com/joelwindows7/goal?g=0)! Little things! Donate message `PLS_CONVERT_TO_BLENDER` followed with image Sauce URL or text prompt, we'll make Blender scene for it with just anything we had. **Hand crafted like Royce, no AI**, therefore has soul even it's trash. You can then use it for your own FNF mods, just credit pls. **any amount welcome**
+- Pls lah, the [Checkpoint.cc](https://checkpoint.cc) is platform for mod commission. I originally don't want to commission to big, so this jank should suffice! And it can't be here just yet, coz it's too small!
+- C'mon, $1 all things uncensored for all gamers! You pay me, I make it. I publish it, all uncensored. And it's way too cheaper than neighbours!
+- Look, I cannot make quality commission, I am not keen at this! But not only it got souls, your friends can have it to. In fact you're not allowed to exclusive privately!
+- Okay fine, $0 commission! just send me DM with above prefix `PLS_CONVERT_TO_BLENDER` if you really insist. at JOELwindows7, Discord. But catch is even I do it $0, I'll procrastinate. Can't go lower than that! Want me to unprocrastinate, send me the same donate message. Good deal?
+- What?! no! DO you not understand how much I envy those people that got 3D model while we're not having it? That's all the business I could do. All public!
+- You know what, pick other commissioner. Want it private allowed, and/or no soul but AI, you call. I am poor man! My parent's gonna retire soon and I'll have no money at all. This is so embarrassing that my sister had made so much more with her commissionings.
+- Oh, you're into MIDI? you got your FNF MIDI? use `PLS_IMPROVE_MIDI` in donation message, and I'll improve it to play well on S-YXG2006LE. See how poor I am? **Yamaha Genos costs $6000!!!** I can't go to PSR-SX, that's still way too inferior! Hey, at least I attempted to untrash the sound of the MIDI file!
+- **DO NOT & NEVER LOSE YOUR WORKED WITH HEART FNF MODS & OTHER PRECIOUS FILES!** Go BackBlaze now https://secure.backblaze.com/r/03hzy9 iyey. Unlimited Backup! Starts from $9/month, or **straight ahead 2 years at once!**
+
+#
 
 ## Info
 

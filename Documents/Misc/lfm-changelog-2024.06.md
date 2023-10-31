@@ -35,6 +35,7 @@ Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently r
 - did I do the WeekJSON?!
 - Engaged this new operational procedure according to the Last Funkin Moments contract.
 - etc.
+- Shang Tsung has infiltrated, influenced, & contaminated Pinball Agung! This can't be good. He convinced the CEO, Iobal to add remove ad IAP but it's subcription. here, apply `FUST` for limited time & use! If you pay multiple times without it, **then your soul belongs to Shang Tsung everyday!!!** Sorry, This is the only thing I can do, there's nothing we can do. [If only I wasn't born poor & instead with everlasting inheritable revenues](https://ko-fi.com/joelwindows7).
 
 ## Info
 
