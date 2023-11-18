@@ -1,0 +1,39 @@
+﻿6bdfb961-f8fd-4a62-9ab9-1857d62d6319␟ Hino's Magical Lens␟ yuyake_hino␟ nudity, suggestive,␟ True␟ 2.58␟ 2023-10-31␟ ␟ 2023-11-02
+03a0efba-d36d-4224-b415-656e0b3c1c67␟ Dice␟ Mariossentry␟ ␟ True␟ 0.32␟ 2023-01-28␟ It's just a Dice, what else?␟ 2023-11-02
+190ef197-ea2a-4ff2-82c9-f7316aecd42b␟ Drinking Dice Alt␟ kavex␟ ␟ True␟ 0.13␟ 2022-12-13␟ Drinking Dice Alt␟ 2023-11-02
+9d30e522-8aa1-4fa2-91c0-9c5f140d9bce␟ Drinking Dice␟ kavex␟ ␟ True␟ 0.16␟ 2022-08-25␟ Dice for Drinking␟ 2023-11-02
+b60f10ef-7cbf-485e-9c20-494017526729␟ Small RTD Device␟ Chen␟ loudaudio, longrangeaudio,␟ True␟ 8.03␟ 2023-10-01␟ A device with a menu for Roll the Dice/Roll the Number. Setup by Chen. Tags: RTD Random␟ 2023-11-02
+8190abde-08a3-47f0-b9c0-6a545e749c92␟ D12 die␟ Kat Senpai␟ ␟ True␟ 0.61␟ 2023-08-08␟ ␟ 2023-11-02
+236f8a06-6132-46a2-8675-a008bcb99b3f␟ BD Diego␟ DarkPowers␟ nudity, suggestive,␟ True␟ 0.88␟ 2023-03-24␟ BD Diego, Bad Dragon'dick' at tip'shaft' in the middle'base' at the base'knot' at the knot␟ 2023-11-02
+e93b46ac-a385-43bc-8458-1ba48f1341db␟ Wahaha Dice␟ JOELwindows7␟ extremelybright,␟ False␟ 0.11␟ 2023-11-02␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice␟ 2023-11-02
+acfed254-b590-4c9b-96c3-28c8e22f51ec␟ Wahaha Dice Scale 25␟ JOELwindows7␟ extremelybright,␟ False␟ 0.11␟ 2023-11-02␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice␟ 2023-11-02
+fa51c676-05bb-41c3-aa41-68941f9fb2a7␟ Wahaha Dice Scale 5 Very Small␟ JOELwindows7␟ extremelybright, extremelysmall,␟ False␟ 0.11␟ 2023-11-02␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice ; Very Small ; Palm Sized␟ 2023-11-02
+e33ca9f8-0785-416a-b635-73a999bcb756␟ Wahaha Dice Scale 50␟ JOELwindows7␟ extremelybright,␟ False␟ 0.11␟ 2023-11-02␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice␟ 2023-11-02
+fcabf6a4-1fda-4a48-88f4-b0ef356029ab␟ "MILK"␟ bluethefox␟ containsmusic, loudaudio, spawnaudio, longrangeaudio,␟ True␟ 0.63␟ 2023-06-29␟ """MILK"""␟ 2023-11-02
+e8fc6166-172c-4c1a-b510-0c699cc979ea␟ ASL Alphabet & VR ASL by by Millan␟ Danyy59␟ ␟ True␟ 0.25␟ 2023-05-31␟ ASL Alphabet image by unknowVR ASL Alphabet image by Millan␟ 2023-11-02
+c2042ea7-9d9a-4959-b769-af1ca1eb5ed2␟ Basketball␟ Maebbie␟ ␟ True␟ 0.2␟ 2021-02-14␟ A familiar Basketball from the world Eventide␟ 2023-11-02
+2796a410-02e1-4fcc-b7d8-d58f31b354c1␟ Wahaha Dice GIANT 1000␟ JOELwindows7␟ extremelybright, extremelyhuge,␟ False␟ 0.11␟ 2023-11-02␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice ; rEALLY bIG␟ 2023-11-02
+f75ce845-88cd-474d-a412-1d08e39d1670␟ Basic Video Player␟ VoyVivika␟ loudaudio,␟ True␟ 0.06␟ 2023-10-23␟ Basic Video Player VoyVivika Stream Twitch YouTube Simple Music␟ 2023-11-02
+d75180ba-623d-4eda-afa3-c67489534991␟ Bumper Car␟ Muttson␟ particlesystems,␟ True␟ 0.63␟ 2021-11-06␟ bonk␟ 2023-11-03
+69f3270c-81df-4236-bf69-a65c8ddb60d9␟ Cart␟ R e l i c␟ ␟ True␟ 0.09␟ 2022-08-16␟ ␟ 2023-11-03
+c7a0bd47-3ece-485f-a994-d3eddbc2b4c1␟ Anjay Button␟ JOELwindows7␟ loudaudio,␟ False␟ 0.24␟ 2023-11-03␟ Press to ANJAY; Original module by Dippy https://dippythefoxderg.gumroad.com/ ; Funny Meme SFX Indonesian Sound Effect; Yoink BIMO12K clip https://youtu.be/XMfqNyvXMfo␟ 2023-11-03
+ed1fe55e-c63a-4119-9fc2-caa9933cf6aa␟ Ehehe Dice␟ JOELwindows7␟ extremelybright,␟ False␟ 0.1␟ 2023-11-03␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice␟ 2023-11-03
+fc89a8ba-e426-41e8-81fa-268e79b80175␟ VR Push Button␟ Dippy␟ ␟ True␟ 0.17␟ 2023-07-26␟ It's a VR Push Button, you push it with your finger!␟ 2023-11-03
+9e13b14c-d70b-4266-ae7b-aa687b75faae␟ Nut Button␟ Dippy␟ loudaudio,␟ True␟ 0.21␟ 2023-07-26␟ Button for nutting␟ 2023-11-03
+04ea5304-11c2-4244-98f1-7676a656da9e␟ Ehehe Dice scale 5␟ JOELwindows7␟ extremelybright, extremelysmall,␟ False␟ 0.1␟ 2023-11-03␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice ; Palm sized␟ 2023-11-04
+ca2e8dfb-3d35-42ad-8f22-bf839f732308␟ Ehehe Dice micro 1␟ JOELwindows7␟ extremelybright, extremelysmall,␟ False␟ 0.1␟ 2023-11-04␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice ; very small␟ 2023-11-04
+e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7␟ Wahaha Dice micro 1␟ JOELwindows7␟ extremelybright, extremelysmall,␟ True␟ 0.11␟ 2023-11-03␟ Transparent dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA Clear dice ; really tiny␟ 2023-11-04
+5a5a3265-a1e7-469b-83f3-d83e8800cb02␟ Ehehe Dice scale 25␟ JOELwindows7␟ extremelybright,␟ False␟ 0.1␟ 2023-11-03␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice␟ 2023-11-04
+b06c91e7-989f-4685-8819-875b666093cf␟ Ehehe Dice GIANT 1000␟ JOELwindows7␟ extremelybright, extremelyhuge,␟ False␟ 0.1␟ 2023-11-03␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice ; rEALLY bIG␟ 2023-11-04
+76046026-7483-408d-bc63-752e8be889dc␟ RC PvP Toy Tank Sniper.␟ RaidShadowLily␟ particlesystems,␟ True␟ 5.11␟ 2023-10-16␟ A smol tank, capable of PVP with other smol tanks.Credit to Chen for providing sounds and assisting in creating the movement system.Original Model created by Maksim Batyrev on Sketchfab.Tags: Tank Lily PvP Gun Vehicle Shoot Fun␟ 2023-11-04
+b1ee7ffe-8686-4cbb-b438-5db7f13c539c␟ Mirror 3.0␟ MilchZocker␟ ␟ True␟ 0.79␟ 2022-09-11␟ Mirror 3.0, the only mirror you'll ever need!␟ 2023-11-04
+c5482fb7-620f-42b0-ab84-afc8210a7a5a␟ Ehehe Dice Scale 50␟ JOELwindows7␟ extremelybright,␟ False␟ 0.1␟ 2023-11-03␟ White dice / die / dadu ; Original model by JOELwindows7 (Perkedel Technologies) https://skfb.ly/oMXVU ; CC4.0-BY-SA cream dice␟ 2023-11-04
+incompatible-content␟ Error prop␟ CVR␟ ␟ False␟ ␟ ␟ Internal Error Prop for CVR
+ID:incompatible-content␟ 2023-11-05
+8f094998-b863-4bc6-b3c9-726eb82f1e24␟ Fart Reverb Button␟ JOELwindows7␟ ␟ False␟ 0.82␟ 2023-11-04␟ Fart Extra Reverbed by DailyOrange https://youtu.be/hr7GyFM7pX4 ; Original module by Dippy https://dippythefoxderg.gumroad.com ; Funny SFX Sound Effect 21st century humor; kentut gaung ngakak bengek lucu wkwkwk␟ 2023-11-05
+95f8d977-f545-4991-a139-e0f88659b813␟ Magnifying Glass␟ SDraw␟ ␟ True␟ 0.08␟ 2023-07-28␟ ␟ 2023-11-05
+b8d92867-c1d1-4401-beda-c61b4143038f␟ Wireframe Glass (No Gravity)␟ Hunterakagman␟ ␟ True␟ 0.07␟ 2023-10-09␟ A basic prop used to see the topology of stuff. This version isn't affected by gravity␟ 2023-11-05
+49bf300b-557f-42c7-94f3-91258e3c63d7␟ Chocolate Milk␟ Fierybattlehawk␟ ␟ True␟ 0.28␟ 2023-03-06␟ a glass of choccy milk␟ 2023-11-05
+59e9ffb0-696e-4c7d-9087-c2fda5f56c16␟ Nerd Emoji␟ Dippy␟ longrangeaudio, ␟ True␟ 2.83␟ 2023-07-26␟ What does The Nerd Face Emoji mean? Nerd alert! The nerd face emoji caricatures a nerd with thick black glasses and buck teeth. It's used to signify learning, reading, being smart, acting dorky, or geeking out to your guilty pleasures. The emoji usually ␟ 2023-11-05
+f26fe2fa-20ba-4705-bc03-7d16e9cb02d1␟ Nut Button␟ Shaun␟ ␟ True␟ 0.16␟ 2022-08-26␟ N U T␟ 2023-11-05
+cdd02991-c8d2-42ee-a121-c76aaa46ac76␟ DanceButton Nadenade␟ yuyake_hino␟ ␟ True␟ 0.57␟ 2023-10-17␟ avatar animation prop␟ 2023-11-05
