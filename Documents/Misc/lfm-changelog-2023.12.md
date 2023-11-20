@@ -1,8 +1,9 @@
-![LFM Update Banner](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png )
+<!-- ![LFM Update Banner](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png ) -->
+![LFM Update Banner](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Week%20Strong/week-2023.12-thumb.png )
 
 pls change image & fill new infos!
 
-image thumb idea: We sold this mod to X0p1r4t3 Eenvreensment, here's explanation
+~~image thumb idea: We sold this mod to X0p1r4t3 Eenvreensment, here's explanation~~ Done. but nvm. let's not, I guess.. coz.. sparsdats.. idk..
 
 # Last Funkin Moments: Incondusive
 
@@ -13,6 +14,8 @@ And Spoiler alert, I decided to graduate 90% of Wakturia workforce here, because
 You may see nothing in where you stand right now, but you should see the rubbles I have collected in where the Cause stands. Mind you that these rubbles as always will not be shipped with the main binary to ensure that it is legal for everyone.
 
 Edit: Kaorfa has been laid off. the manager for Kaorfa's side job is currently requesting position and still haven't got news to this day.
+
+Edit 2: Kaorfa re-laid on, but at the different division with a much smaller wage, paid also slowly.
 
 ## Download Updated
 
