@@ -1,5 +1,6 @@
 <!-- ![LFM Update Banner](https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png ) -->
-![LFM Update Banner](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Week%20Strong/week-2023.12-thumb.png )
+<!-- ![LFM Update Banner](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Week%20Strong/week-2023.12-thumb.png ) -->
+![LFM Update Banner](https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/Inkscape/Week%20Strong/week-2023.12-thumb.png )
 
 pls change image & fill new infos!
 
