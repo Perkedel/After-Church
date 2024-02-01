@@ -1,0 +1,2 @@
+Telnet: starwar asciimation
+telnet towel.blinkenlights.nl
