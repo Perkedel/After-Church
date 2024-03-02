@@ -55,9 +55,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="1030.3556"
-     inkscape:cy="1071.7719"
+     inkscape:cy="1071.7718"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer10"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -569,11 +569,11 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Just Logo"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(3.167485,0,0,3.167485,-138.71904,-1134.8931)"
        id="g1536-6"
@@ -855,7 +855,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Cutout"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g99646">
@@ -883,7 +883,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="Isekai">
+     inkscape:label="Isekai"
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        style="display:inline;fill:url(#linearGradient2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.96887;stroke-opacity:1"
