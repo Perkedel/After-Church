@@ -855,7 +855,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Cutout"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g99646">
@@ -910,7 +910,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer12"
-     inkscape:label="PNGTuber">
+     inkscape:label="PNGTuber"
+     sodipodi:insensitive="true"
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer13"
