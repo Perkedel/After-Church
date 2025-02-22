@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VBAudioVoicemeeterVBANConfig>
+<VBANConfiguration>
+	<VBAN status="1" username="" color="00AA9678" />
+	<VBANStreamIn index='1' in='5' status='0' name='Stream1' ip='192.168.1.9' port='6980' NQ='1' />
+	<VBANStreamIn index='2' in='6' status='0' name='Stream2' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='3' in='7' status='0' name='Stream3' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='4' in='0' status='0' name='Stream4' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='5' in='0' status='0' name='Stream5' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='6' in='0' status='0' name='Stream6' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='7' in='0' status='0' name='Stream7' ip='' port='6980' NQ='1' />
+	<VBANStreamIn index='8' in='0' status='0' name='Stream8' ip='' port='6980' NQ='1' />
+	<VBANDataIn index='1' status='0' name='MIDI1' ip='' port='6980' />
+	<VBANCommandIn index='1' status='0' name='Command1' ip='' port='6980' />
+	<VBANStreamOut index='1' bus='0' status='0' name='Stream1' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='2' bus='0' status='0' name='Stream2' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='3' bus='0' status='0' name='Stream3' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='4' bus='0' status='0' name='Stream4' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='5' bus='0' status='0' name='Stream5' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='6' bus='0' status='0' name='Stream6' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='7' bus='0' status='0' name='Stream7' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANStreamOut index='8' bus='0' status='0' name='Stream8' ip='' port='6980' SR='48000' ch='2' NQ='0' format='1' />
+	<VBANDataOut index='1' source='0' status='0' name='MIDI1' ip='' port='6980' />
+</VBANConfiguration>
+</VBAudioVoicemeeterVBANConfig>
