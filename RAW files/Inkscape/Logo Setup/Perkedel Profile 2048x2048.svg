@@ -7,9 +7,9 @@
    id="svg8"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="Perkedel Profile 2048x2048.svg"
-   inkscape:export-filename="Perkedel Profile PNGTuber Active_soft 512x512.png"
-   inkscape:export-xdpi="24"
-   inkscape:export-ydpi="24"
+   inkscape:export-filename="Perkedel Profile Isekai Tunnel 128x128.png"
+   inkscape:export-xdpi="6"
+   inkscape:export-ydpi="6"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="938"
-     inkscape:cy="899"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="900.85404"
+     inkscape:cy="1036.6185"
      inkscape:document-units="px"
      inkscape:current-layer="layer15"
      showgrid="true"
@@ -83,7 +83,8 @@
        spacingy="1"
        spacingx="1"
        units="px"
-       visible="true" />
+       visible="true"
+       enabled="true" />
     <inkscape:grid
        type="xygrid"
        id="grid4749"
@@ -97,7 +98,8 @@
        spacingy="1"
        spacingx="1"
        units="px"
-       visible="true" />
+       visible="true"
+       enabled="true" />
     <inkscape:grid
        id="grid9"
        units="px"
@@ -110,7 +112,7 @@
        color="#0099e5"
        opacity="0.14901961"
        empspacing="32"
-       enabled="true"
+       enabled="false"
        visible="true" />
     <inkscape:grid
        id="grid18"
@@ -124,7 +126,7 @@
        color="#0099e5"
        opacity="0.14901961"
        empspacing="16"
-       enabled="true"
+       enabled="false"
        visible="true" />
   </sodipodi:namedview>
   <metadata
@@ -1276,7 +1278,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="DNBRescratch">
+     inkscape:label="DNBRescratch"
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="opacity:0.998844;fill:#ffffff;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
        d="m 64,-512 c 0,0 -32,0 -32,32 v 64 c 0,0 0,32 32,32 h 128 c 0,0 32,0 32,-32 0,-32 0,-64 0,-64 0,0 0,-32 -32,-32 -32,0 -128,0 -128,0 z"
@@ -1386,7 +1390,7 @@
       <path
          id="path9"
          style="opacity:0.998844;fill:#ffffff;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-         d="M 64 -320 C 64 -320 32 -320 32 -288 L 32 -224 C 32 -224 32 -192 64 -192 L 160 -320 L 64 -320 z M 192 -320 L 96 -192 L 192 -192 C 192 -192 224 -192 224 -224 L 224 -288 C 224 -288 224 -320 192 -320 z " />
+         d="m 64,-320 c 0,0 -32,0 -32,32 v 64 c 0,0 0,32 32,32 l 96,-128 z m 128,0 -96,128 h 96 c 0,0 32,0 32,-32 v -64 c 0,0 0,-32 -32,-32 z" />
       <g
          id="g53">
         <path
@@ -1396,11 +1400,11 @@
         <path
            id="path21"
            style="opacity:0.998844;fill:#ffffff;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-           d="M 400 -320 L 400 -304 C 400 -304 416 -304 416 -288 L 416 -224 C 416 -224 416 -208 400 -208 L 400 -192 L 416 -192 L 440 -192 L 440 -288 L 512 -192 L 536 -192 L 552 -192 L 552 -208 C 536 -208 536 -224 536 -224 L 536 -288 C 536 -304 552 -304 552 -304 L 552 -320 L 536 -320 L 512 -320 L 512 -224 L 440 -320 L 416 -320 L 400 -320 z " />
+           d="m 400,-320 v 16 c 0,0 16,0 16,16 v 64 c 0,0 0,16 -16,16 v 16 h 16 24 v -96 l 72,96 h 24 16 v -16 c -16,0 -16,-16 -16,-16 v -64 c 0,-16 16,-16 16,-16 v -16 h -16 -24 v 96 l -72,-96 h -24 z" />
         <path
            id="path46"
            style="opacity:0.998844;fill:#ffffff;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-           d="M 568 -320 L 568 -304 C 568 -304 584 -304 584 -288 L 584 -224 C 584 -224 584 -208 568 -208 L 568 -192 L 584 -192 L 600 -192 L 632 -192 C 632 -192 664 -192 664 -224 C 664 -256 632 -256 632 -256 C 632 -256 664 -256 664 -288 C 664 -320 632 -320 632 -320 L 600 -320 L 584 -320 L 568 -320 z M 600 -304 L 632 -304 C 632 -304 648 -304 648 -288 C 648 -272 632 -272 632 -272 L 608 -272 L 600 -272 L 600 -304 z M 600 -240 L 632 -240 C 632 -240 648 -240 648 -224 C 648 -208 632 -208 632 -208 L 608 -208 L 600 -208 L 600 -240 z " />
+           d="m 568,-320 v 16 c 0,0 16,0 16,16 v 64 c 0,0 0,16 -16,16 v 16 h 16 16 32 c 0,0 32,0 32,-32 0,-32 -32,-32 -32,-32 0,0 32,0 32,-32 0,-32 -32,-32 -32,-32 h -32 -16 z m 32,16 h 32 c 0,0 16,0 16,16 0,16 -16,16 -16,16 h -24 -8 z m 0,64 h 32 c 0,0 16,0 16,16 0,16 -16,16 -16,16 h -24 -8 z" />
       </g>
     </g>
     <path
